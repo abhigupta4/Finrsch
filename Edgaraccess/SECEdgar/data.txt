@@ -1,0 +1,2 @@
+Quote   CIK        priorto(YYYYMMDD) Count
+EBAY 0001065088    20010101         2
