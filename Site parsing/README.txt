@@ -1,0 +1,1 @@
+The input of the code is a site's url. The code will download all the financial documents it finds on the site.

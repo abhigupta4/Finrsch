@@ -1,0 +1,1 @@
+The file question_analysis.py contains different questions. We analyse the question and accordingly find the relevant sentences in the text Caterpillar.txt . The output for the three different questions are present in the files, ques1, ques2 and ques3.
