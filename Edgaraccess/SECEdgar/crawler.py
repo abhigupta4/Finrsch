@@ -8,6 +8,10 @@ import errno
 from bs4 import BeautifulSoup
 from config import DEFAULT_DATA_PATH
 
+def remove_non_ascii_1(text):
+
+    return ''.join(i for i in text if ord(i)<128)
+
 
 class SecCrawler():
 
@@ -32,11 +36,15 @@ class SecCrawler():
         for j in range(len(doc_list)):
             base_url = doc_list[j]
             r = requests.get(base_url)
-            data = r.text
+            data = r.content
+            
+            
+            soup = BeautifulSoup(data,"lxml")
+            # cleaned = remove_non_ascii_1(soup)
             path = os.path.join(DEFAULT_DATA_PATH, company_code, doc_name_list[j])
 
             with open(path, "a+") as f:
-                f.write(data.encode('ascii', 'ignore'))
+                f.write(soup.getText())
 
     def filing_10Q(self, company_code, cik, priorto, count):
 

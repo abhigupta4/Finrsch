@@ -15,11 +15,11 @@ def test():
 
 
 
-    print "Enter the company name?"
-    comp11 = raw_input()
+    print("Enter the company name?")
+    comp11 = str(input())
     cik11 = get_cik(comp11)
-    print "Enter the date in format YYYYMMDD?"
-    date11 = raw_input()
+    print("Enter the date in format YYYYMMDD?")
+    date11 = str(input())
     company_code_list.append(comp11)
     cik_list.append(cik11)
     date_list.append(date11)
@@ -39,5 +39,5 @@ def test():
     print (t2 - t1)
 
 if __name__ == '__main__':
-    print "Path of the directory where data will be saved: " + DEFAULT_DATA_PATH
+    print ("Path of the directory where data will be saved: " + DEFAULT_DATA_PATH)
     test()
