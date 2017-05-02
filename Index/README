@@ -1,0 +1,1 @@
+index.py creates takes all the folders present with it. It goes inside each folder and creates a file named index.txt and creates an index for all the files present in it.

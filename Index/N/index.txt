@@ -1,0 +1,28 @@
+Name of file 0000950134-08-005718.txt
+Company name is DELL INC
+Type is 10-K
+Filed date is 20080331
+
+Name of file 0000826083-13-000020.txt
+Company name is DELL INC
+Type is 10-Q
+Filed date is 20130612
+Quarter number 2
+
+Name of file 0000826083-13-000005.txt
+Company name is DELL INC
+Type is 10-K
+Filed date is 20130312
+
+Name of file index.txt
+
+Name of file 0000950134-09-006106.txt
+Company name is DELL INC
+Type is 10-K
+Filed date is 20090326
+
+Name of file 0000826083-13-000014.txt
+Company name is DELL INC
+Type is 10-K/A
+Filed date is 20130603
+
