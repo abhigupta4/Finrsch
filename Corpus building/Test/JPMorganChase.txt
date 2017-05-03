@@ -1,0 +1,877 @@
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 10-K
+Annual report pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+For the fiscal year ended
+ 
+Commission file
+December 31, 2016
+ 
+number 1-5805
+JPMorgan Chase & Co.
+(Exact name of registrant as specified in its charter)
+Delaware
+ 
+13-2624428
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(I.R.S. employer
+identification no.)
+ 
+ 
+ 
+270 Park Avenue, New York, New York
+ 
+10017
+(Address of principal executive offices)
+ 
+(Zip code)
+ 
+ 
+ 
+Registrant’s telephone number, including area code: (212) 270-6000
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+ 
+Name of each exchange on which registered
+Common stock
+ 
+The New York Stock Exchange
+ 
+ 
+The London Stock Exchange
+Warrants to purchase shares of Common Stock
+ 
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 5.50% Non-Cumulative Preferred Stock, Series O
+ 
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 5.45% Non-Cumulative Preferred Stock, Series P
+ 
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.70% Non-Cumulative Preferred Stock, Series T
+ 
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.30% Non-Cumulative Preferred Stock, Series W
+ 
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.125% Non-Cumulative Preferred Stock, Series Y
+ 
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.10% Non-Cumulative Preferred Stock, Series AA
+ 
+The New York Stock Exchange
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.15% Non-Cumulative Preferred Stock, Series BB
+ 
+The New York Stock Exchange
+Alerian MLP Index ETNs due May 24, 2024
+ 
+NYSE Arca, Inc.
+Guarantee of Callable Step-Up Fixed Rate Notes due April 26, 2028 of JPMorgan Chase Financial Company LLC
+ 
+The New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. o Yes x No
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. o Yes x No
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x Yes o No
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). x Yes o No
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. x
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of “large accelerated filer,” “accelerated filer,” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+x Large accelerated filer
+o Accelerated filer
+o Non-accelerated filer
+(Do not check if a smaller reporting company)
+o Smaller reporting company
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). o Yes x No
+The aggregate market value of JPMorgan Chase & Co. common stock held by non-affiliates as of June 30, 2016: $223,144,102,133
+Number of shares of common stock outstanding as of January 31, 2017: 3,571,963,160
+Documents incorporated by reference: Portions of the registrant’s Proxy Statement for the annual meeting of stockholders to be held on May 16, 2017, are incorporated by reference in this Form 10-K in response to Items 10, 11, 12, 13 and 14 of Part III.
+
+
+
+
+Form 10-K Index
+Part I
+ 
+Page
+Item 1.
+Business.
+1
+ 
+Overview
+1
+ 
+Business segments
+1
+ 
+Competition
+1
+ 
+Supervision and regulation
+1
+ 
+Distribution of assets, liabilities and stockholders’ equity; interest rates and interest differentials
+274
+ 
+Return on equity and assets
+34, 272, 274
+ 
+Securities portfolio
+286
+ 
+Loan portfolio
+86–104, 208–226, 
+287–292
+ 
+Summary of loan and lending-related commitments loss experience
+105–107, 227–231, 
+293–294
+ 
+Deposits
+244,295
+ 
+Short-term and other borrowed funds
+296
+Item 1A.
+Risk Factors.
+8–21
+Item 1B.
+Unresolved Staff Comments.
+21
+Item 2.
+Properties.
+21
+Item 3.
+Legal Proceedings.
+21
+Item 4.
+Mine Safety Disclosures.
+21
+ 
+ 
+ 
+Part II
+ 
+ 
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+22
+Item 6.
+Selected Financial Data.
+22
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+22
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk.
+22
+Item 8.
+Financial Statements and Supplementary Data.
+23
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+23
+Item 9A.
+Controls and Procedures.
+23
+Item 9B.
+Other Information.
+23
+ 
+ 
+ 
+Part III
+ 
+ 
+Item 10.
+Directors, Executive Officers and Corporate Governance.
+24
+Item 11.
+Executive Compensation.
+25
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+25
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence.
+25
+Item 14.
+Principal Accounting Fees and Services.
+25
+ 
+ 
+ 
+Part IV
+ 
+ 
+Item 15.
+Exhibits, Financial Statement Schedules.
+26-29
+
+
+
+Part I
+
+
+Item 1. Business.
+Overview
+JPMorgan Chase & Co., (“JPMorgan Chase” or the “Firm”) a financial holding company incorporated under Delaware law in 1968, is a leading global financial services firm and one of the largest banking institutions in the United States of America (“U.S.”), with operations worldwide; the Firm had $2.5 trillion in assets and $254.2 billion in stockholders’ equity as of December 31, 2016. The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management. Under the J.P. Morgan and Chase brands, the Firm serves millions of customers in the U.S. and many of the world’s most prominent corporate, institutional and government clients.
+JPMorgan Chase’s principal bank subsidiaries are JPMorgan Chase Bank, National Association (“JPMorgan Chase Bank, N.A.”), a national banking association with U.S. branches in 23 states, and Chase Bank USA, National Association (“Chase Bank USA, N.A.”), a national banking association that is the Firm’s credit card-issuing bank. JPMorgan Chase’s principal nonbank subsidiary is J.P. Morgan Securities LLC (“JPMorgan Securities”), the Firm’s U.S. investment banking firm. The bank and nonbank subsidiaries of JPMorgan Chase operate nationally as well as through overseas branches and subsidiaries, representative offices and subsidiary foreign banks. One of the Firm’s principal operating subsidiaries in the U.K. is J.P. Morgan Securities plc, a subsidiary of JPMorgan Chase Bank, N.A.
+The Firm’s website is www.jpmorganchase.com. JPMorgan Chase makes available free of charge, through its website, annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K pursuant to Section 13(a) or Section 15(d) of the Securities Exchange Act of 1934, as soon as reasonably practicable after it electronically files such material with, or furnishes such material to, the U.S. Securities and Exchange Commission (the “SEC”). The Firm has adopted, and posted on its website, a Code of Conduct for all employees of the Firm and a Code of Ethics for its Chairman and Chief Executive Officer, Chief Financial Officer, Principal Accounting Officer and all other professionals of the Firm worldwide serving in a finance, accounting, tax or investor relations role.
+Business segments
+JPMorgan Chase’s activities are organized, for management reporting purposes, into four major reportable business segments, as well as a Corporate segment. The Firm’s consumer business is the Consumer & Community Banking (“CCB”) segment. The Firm’s wholesale business segments are Corporate & Investment Bank (“CIB”), Commercial Banking (“CB”), and Asset & Wealth Management (“AWM”) (formerly Asset Management or “AM”).
+A description of the Firm’s business segments and the products and services they provide to their respective client bases is provided in the “Business segment results” section
+ 
+of Management’s discussion and analysis of financial condition and results of operations (“MD&A”), beginning on page 36 and in Note 33.
+Competition
+JPMorgan Chase and its subsidiaries and affiliates operate in a highly competitive environment. Competitors include other banks, brokerage firms, investment banking companies, merchant banks, hedge funds, commodity trading companies, private equity firms, insurance companies, mutual fund companies, investment managers, credit card companies, mortgage banking companies, trust companies, securities processing companies, automobile financing companies, leasing companies, e-commerce and other Internet-based companies, financial technology companies, and other companies engaged in providing similar products and services. The Firm’s businesses generally compete on the basis of the quality and variety of the Firm’s products and services, transaction execution, innovation, reputation and price. Competition also varies based on the types of clients, customers, industries and geographies served. With respect to some of its geographies and products, JPMorgan Chase competes globally; with respect to others, the Firm competes on a national or regional basis. The Firm’s ability to compete also depends on its ability to attract and retain professional and other personnel, and on its reputation.
+It is likely that competition in the financial services industry will become even more intense as the Firm’s businesses continue to compete with other financial institutions that may have a stronger local presence in certain geographies or that operate under different rules and regulatory regimes than the Firm, or with companies that provide new or innovative products or services that the Firm does not provide.
+Supervision and regulation
+The Firm is subject to regulation under state and federal laws in the U.S., as well as the applicable laws of each of the various jurisdictions outside the U.S. in which the Firm does business.
+As a result of regulatory reforms enacted and proposed in the U.S. and abroad, the Firm has been experiencing a period of significant change in regulation which has had and could continue to have significant consequences for how the Firm conducts business. The Firm continues to work diligently in assessing the regulatory changes it is facing, and is devoting substantial resources to comply with all the new regulations, while, at the same time, endeavoring to best meet the needs and expectations of its customers, clients and shareholders. These efforts include the implementation of new policies, procedures and controls, and appropriate adjustments to the Firm’s business and operations, legal entity structure, and capital and liquidity management. The combined effect of numerous rule-makings by multiple governmental agencies and regulators, and the potential conflicts or inconsistencies among such
+
+ 
+ 
+1
+Part I
+
+rules, present challenges and risks to the Firm’s business and operations. Given the current status of the regulatory developments, the Firm cannot currently quantify all of the possible effects on its business and operations of the significant changes that are underway. For more information, see Risk Factors on pages 8–21.
+Financial holding company:
+Consolidated supervision by the Board of Governors of the Federal Reserve System (the “Federal Reserve”). As a bank holding company (“BHC”) and a financial holding company, JPMorgan Chase is subject to comprehensive consolidated supervision, regulation and examination by the Federal Reserve. The Federal Reserve acts as an “umbrella regulator” and certain of JPMorgan Chase’s subsidiaries are regulated directly by additional authorities based on the particular activities of those subsidiaries. For example, JPMorgan Chase’s national bank subsidiaries, including JPMorgan Chase Bank, N.A., and Chase Bank USA, N.A., are subject to supervision and regulation by the Office of the Comptroller of the Currency (“OCC”) and, with respect to certain matters, by the Federal Reserve and the Federal Deposit Insurance Corporation (the “FDIC”). Certain non-bank subsidiaries, such as the Firm’s U.S. broker-dealers, are subject to supervision and regulation by the SEC, and subsidiaries of the Firm that engage in certain futures-related and swaps-related activities are subject to supervision and regulation by the Commodity Futures Trading Commission (“CFTC”). J.P. Morgan Securities plc, is a U.K. bank licensed within the European Economic Area (the “EEA”) to undertake all banking activity and is regulated by the U.K. Prudential Regulation Authority (the “PRA”), a subsidiary of the Bank of England which has responsibility for prudential regulation of banks and other systemically important institutions, and by the Financial Conduct Authority (“FCA”), which regulates prudential matters for firms that are not so regulated by the PRA and conduct matters for all market participants. The Firm’s other non-U.S. subsidiaries are regulated by the banking and securities regulatory authorities in the countries in which they operate. See Securities and broker-dealer regulation, Investment management regulation and Derivatives regulation below. In addition, the Firm’s consumer activities are subject to supervision and regulation by the Consumer Financial Protection Bureau (“CFPB”) and to regulation under various state statutes which are enforced by the respective state’s Attorney General.
+Scope of permissible business activities. The Bank Holding Company Act generally restricts BHCs from engaging in business activities other than the business of banking and certain closely related activities. Financial holding companies generally can engage in a broader range of financial activities than are otherwise permissible for BHCs, including underwriting, dealing and making markets in securities, and making merchant banking investments in non-financial companies. The Federal Reserve has the authority to limit a financial holding company’s ability to conduct otherwise permissible activities if the financial
+ 
+holding company or any of its depositary institution subsidiaries ceases to meet the applicable eligibility requirements (including requirements that the financial holding company and each of its U.S. depository institution subsidiaries maintain their status as “well-capitalized” and “well-managed”). The Federal Reserve may also impose corrective capital and/or managerial requirements on the financial holding company and may, for example, require divestiture of the holding company’s depository institutions if the deficiencies persist. Federal regulations also provide that if any depository institution controlled by a financial holding company fails to maintain a satisfactory rating under the Community Reinvestment Act, the Federal Reserve must prohibit the financial holding company and its subsidiaries from engaging in any activities other than those permissible for bank holding companies. In addition, a financial holding company must obtain Federal Reserve approval before engaging in certain banking and other financial activities both in the U.S. and internationally, as further described under Regulation of acquisitions below.
+Activities restrictions under the Volcker Rule. Section 619 of the Wall Street Reform and Consumer Protection Act (the “Dodd-Frank Act”) (the “Volcker Rule”) prohibits banking entities, including the Firm, from engaging in certain “proprietary trading” activities, subject to exceptions for underwriting, market-making, risk-mitigating hedging and certain other activities. In addition, the Volcker Rule limits the sponsorship of, and investment in, “covered funds” (as defined by the Volcker Rule) and imposes limits on certain transactions between the Firm and its sponsored funds (see JPMorgan Chase’s subsidiary banks — Restrictions on transactions with affiliates below). The Volcker Rule requires banking entities to establish comprehensive compliance programs reasonably designed to help ensure and monitor compliance with the restrictions under the Volcker Rule, including, in order to distinguish permissible from impermissible risk-taking activities, the measurement, monitoring and reporting of certain key metrics.
+Capital and liquidity requirements. The Federal Reserve establishes capital and leverage requirements for the Firm and evaluates its compliance with such requirements. The OCC establishes similar capital and leverage requirements for the Firm’s national banking subsidiaries. For more information about the applicable requirements relating to risk-based capital and leverage in the U.S. under the most recent capital framework established by the Basel Committee on Banking Supervision (the “Basel Committee”)(“Basel III”), see Capital Risk Management on pages 76–85 and Note 28. Under Basel III, bank holding companies and banks are required to measure their liquidity against two specific liquidity tests: the liquidity coverage ratio (“LCR”) and the net stable funding ratio (“NSFR”). The U.S. banking regulators have approved the final LCR rule (“U.S. LCR”), which became effective on January 1, 2015. In April 2016, the U.S. banking regulators issued a proposed rule for NSFR. For additional information on these ratios, see Liquidity Risk Management on pages 110–115. On December 19, 2016 the Federal Reserve published final
+
+2
+ 
+ 
+
+U.S. LCR public disclosure requirements. Starting with the second quarter of 2017, the Firm will be required to disclose quarterly its consolidated LCR pursuant to the U.S. LCR rule, including the Firm’s average LCR for the quarter and the key quantitative components of the average LCR in a standardized template, along with a qualitative discussion of material drivers of the ratio, changes over time, and causes of such changes. On September 8, 2016 the Federal Reserve published the framework that will apply to the setting of the countercyclical capital buffer. As of October 24, 2016 the Federal Reserve reaffirmed setting the U.S. countercyclical capital buffer at 0%, and stated that it will review the amount at least annually. Banking supervisors continue to consider refinements and enhancements to the Basel III capital framework for financial institutions. The Basel Committee finalized revisions to market risk capital for trading books and the treatment of interest rate risk in the banking book; other proposals being contemplated by the Basel Committee include revisions to, among others, standardized credit and operational risk capital frameworks, a recalibration of the leverage ratio, revisions to the securitization framework, and changes to the definition of defaulted assets. In January 2017, the Basel Committee announced that the review of the proposals to finalize the post-crisis regulatory reforms has been postponed. After a proposal is finalized by the Basel Committee, U.S. banking regulators would then need to propose requirements applicable to U.S. financial institutions. In March 2016, the Federal Reserve Board released a revised proposal to establish single-counterparty credit limits for large U.S. bank holding companies and foreign banking organizations.
+Stress tests. The Federal Reserve has adopted supervisory stress tests for large bank holding companies, including JPMorgan Chase, which form part of the Federal Reserve’s annual Comprehensive Capital Analysis and Review (“CCAR”) framework. Under the framework, the Firm must conduct semi-annual company-run stress tests and, in addition, must submit an annual capital plan to the Federal Reserve, taking into account the results of separate stress tests designed by the Firm and the Federal Reserve. In reviewing the Firm’s capital plan, the Federal Reserve considers both quantitative and qualitative factors. Qualitative assessments include, among other things, the comprehensiveness of the plan, the assumptions and analysis underlying the plan, and the extent to which the Firm has satisfied certain supervisory matters related to the Firm’s processes and analyses, including the design and operational effectiveness of the controls governing such processes. Moreover, the Firm is required to receive a notice of non-objection from the Federal Reserve before taking capital actions, such as paying dividends, implementing common equity repurchase programs or redeeming or repurchasing capital instruments. The OCC requires JPMorgan Chase Bank, N.A. to perform separate, similar annual stress tests. The Firm publishes each year the results of its mid-cycle stress tests under the Firm’s internally-developed “severely adverse” scenario and the results of its
+ 
+(and its two primary subsidiary banks’) annual stress tests under the supervisory “severely adverse” scenarios provided by the Federal Reserve and the OCC. The Firm will file its 2017 annual CCAR submission on April 5. Results will be published by the Federal Reserve by June 30, with disclosures of results by BHCs, including the Firm, to follow within 15 days. The mid-cycle capital stress test submissions are due on October 5 and BHCs, including the Firm, will publish results by November 4. For additional information on the Firm’s CCAR, see Capital Risk Management on pages 76–85.
+Enhanced prudential standards. The Financial Stability Oversight Council (“FSOC”), among other things, recommends prudential standards and reporting and disclosure requirements to the Federal Reserve for systemically important financial institutions (“SIFIs”), such as JPMorgan Chase. The Federal Reserve has adopted several rules to implement the heightened prudential standards, including final rules relating to risk management and corporate governance of subject BHCs. BHCs with $50 billion or more in total consolidated assets are required to comply with enhanced liquidity and overall risk management standards, and their boards of directors are required to conduct appropriate oversight of their risk management activities. For information on liquidity measures, see Liquidity Risk Management on pages 110–115. Several additional proposed rules are still being considered, including an “early remediation” framework to address financial distress or material management weaknesses.
+Orderly liquidation authority and resolution and recovery. As a BHC with assets of $50 billion or more, the Firm is required to submit annually to the Federal Reserve and the FDIC a plan for resolution under the Bankruptcy Code in the event of material distress or failure (a “resolution plan”). The FDIC also requires each insured depository institution with $50 billion or more in assets, such as JPMorgan Chase Bank, N.A. and Chase Bank USA, N.A., to provide a resolution plan. For more information about the Firm’s resolution plan, see Risk Factors on pages 8–21 as well as Business Overview on pages 37–38 for information regarding the Firm’s 2016 Resolution Submission. In addition, certain financial companies, including JPMorgan Chase and certain of its subsidiaries, can be subjected to resolution under an “orderly liquidation authority.” The U.S. Treasury Secretary, in consultation with the President of the United States, must first make certain extraordinary financial distress and systemic risk determinations, and action must be recommended by the FDIC and the Federal Reserve. Absent such actions, the Firm, as a BHC, would remain subject to resolution under the Bankruptcy Code. In December 2013, the FDIC issued a draft policy statement describing its “single point of entry” strategy for resolution of systemically important financial institutions under the orderly liquidation authority. This strategy seeks to keep operating subsidiaries of the BHC open and impose losses on shareholders and creditors of the holding company in
+
+ 
+ 
+3
+Part I
+
+receivership according to their statutory order of priority. For further information see Risk Factors on pages 8–21.
+The Firm has a comprehensive recovery plan detailing the actions it would take to avoid failure by remaining well-capitalized and well-funded in the case of an adverse event. JPMorgan Chase has provided the Federal Reserve with comprehensive confidential supervisory information and analyses about the Firm’s businesses, legal entities and corporate governance and about its crisis management governance, capabilities and available alternatives to raise liquidity and capital in severe market circumstances. The OCC has published guidelines establishing standards for recovery planning by insured national banks, and JPMorgan Chase Bank, N.A. and Chase Bank USA, N.A. have submitted their recovery plans to the OCC. For further information see Risk Factors on pages 8–21. In addition, certain of the Firm’s non-U.S. subsidiaries are subject to resolution and recovery planning requirements in the jurisdictions in which they operate.
+Regulators in the U.S. and abroad continue to be focused on developing measures designed to address the possibility or perception that large financial institutions, including the Firm, may be “too big to fail,” and to provide safeguards so that, if a large financial institution does fail, it can be resolved without the use of public funds. Higher capital surcharges on global systemically important banks (“GSIBs”), requirements for certain large bank holding companies to maintain a minimum amount of long-term debt to facilitate orderly resolution of those firms, and the International Swaps and Derivatives Association (“ISDA”) protocol relating to the “close-out” of derivatives transactions during the resolution of a large cross-border financial institution, are examples of initiatives to address “too big to fail.” For further information on the GSIB framework and Total Loss Absorbing Capacity (“TLAC”), see Capital Risk Management on pages 76–85 and Risk Factors on pages 8–21, and on the ISDA close-out protocol, see Derivatives regulation below.
+Holding company as source of strength for bank subsidiaries. JPMorgan Chase & Co. is required to serve as a source of financial strength for its depository institution subsidiaries and to commit resources to support those subsidiaries. This support may be required by the Federal Reserve at times when the Firm might otherwise determine not to provide it.
+Regulation of acquisitions. Acquisitions by bank holding companies and their banks are subject to multiple requirements by the Federal Reserve and the OCC. For example, financial holding companies and bank holding companies are required to obtain the approval of the Federal Reserve before they may acquire more than 5% of the voting shares of an unaffiliated bank. In addition, acquisitions by financial companies are prohibited if, as a result of the acquisition, the total liabilities of the financial company would exceed 10% of the total liabilities of all financial companies. In addition, for certain acquisitions, the Firm must provide written notice to the Federal Reserve prior to acquiring direct or indirect ownership or control of
+ 
+any voting shares of any company with over $10 billion in assets that is engaged in activities that are “financial in nature.”
+JPMorgan Chase’s subsidiary banks:
+The Firm’s two primary subsidiary banks, JPMorgan Chase Bank, N.A. and Chase Bank USA, N.A., are FDIC-insured national banks regulated by the OCC. As national banks, the activities of JPMorgan Chase Bank, N.A. and Chase Bank USA, N.A. are limited to those specifically authorized under the National Bank Act and related interpretations by the OCC.
+FDIC deposit insurance. The FDIC deposit insurance fund provides insurance coverage for certain deposits and is funded through assessments on banks, such as JPMorgan Chase Bank, N.A. and Chase Bank USA, N.A. Changes in the methodology used to calculate such assessments, resulting from the enactment of the Dodd-Frank Act, significantly increased the assessments that the Firm’s bank subsidiaries pay annually to the FDIC. The FDIC instituted a new assessment surcharge on insured depository institutions with total consolidated assets greater than $10 billion in order to raise the reserve ratio for the FDIC deposit insurance fund. Future FDIC rule-making could further increase such assessments.
+FDIC powers upon a bank insolvency. Upon the insolvency of an insured depository institution, such as JPMorgan Chase Bank, N.A., the FDIC could be appointed as the conservator or receiver under the Federal Deposit Insurance Act (“FDIA”). The FDIC has broad powers to transfer any assets and liabilities without the approval of the institution’s creditors. For further information on the impact to creditors, see Risk Factors on pages 8–21.
+Cross-guarantee. An FDIC-insured depository institution can be held liable for any loss incurred or expected to be incurred by the FDIC if another FDIC-insured institution that is under common control with such institution is in default or is deemed to be “in danger of default” (commonly referred to as “cross-guarantee” liability). An FDIC cross-guarantee claim against a depository institution is generally superior in right of payment to claims of the holding company and its affiliates against such depository institution.
+Prompt corrective action and early remediation. The Federal Deposit Insurance Corporation Improvement Act of 1991 requires the relevant federal banking regulator to take “prompt corrective action” with respect to a depository institution if that institution does not meet certain capital adequacy standards. While these regulations apply only to banks, such as JPMorgan Chase Bank, N.A. and Chase Bank USA, N.A., the Federal Reserve is authorized to take appropriate action against the parent BHC, such as JPMorgan Chase & Co., based on the undercapitalized status of any bank subsidiary. In certain instances, the BHC would be required to guarantee the performance of the capital restoration plan for its undercapitalized subsidiary.
+
+4
+ 
+ 
+
+OCC Heightened Standards. The OCC has established guidelines setting forth heightened standards for large banks. The guidelines establish minimum standards for the design and implementation of a risk governance framework for banks. While the bank can use certain components of the parent company’s risk governance framework, the framework must ensure that the bank’s risk profile is easily distinguished and separate from the parent for risk management purposes. The bank’s board or risk committee is responsible for approving the bank’s risk governance framework, providing active oversight of the bank’s risk-taking activities, and holding management accountable for adhering to the risk governance framework.
+Restrictions on transactions with affiliates. The bank subsidiaries of JPMorgan Chase (including subsidiaries of those banks) are subject to certain restrictions imposed by federal law on extensions of credit to, investments in stock or securities of, and derivatives, securities lending and certain other transactions with, JPMorgan Chase & Co. and certain other affiliates. These restrictions prevent JPMorgan Chase & Co. and other affiliates from borrowing from such subsidiaries unless the loans are secured in specified amounts and comply with certain other requirements. For more information, see Note 27. In addition, the Volcker Rule imposes a prohibition on such transactions between any JPMorgan Chase entity and covered funds for which a JPMorgan Chase entity serves as the investment manager, investment advisor, commodity trading advisor or sponsor, as well as, subject to a limited exception, any covered fund controlled by such funds.
+Dividend restrictions. Federal law imposes limitations on the payment of dividends by national banks, such as JPMorgan Chase Bank, N.A. and Chase Bank USA, N.A. See Note 27 for the amount of dividends that the Firm’s principal bank subsidiaries could pay, at January 1, 2017, to their respective bank holding companies without the approval of their banking regulators.
+In addition to the dividend restrictions described above, the OCC and the Federal Reserve have authority to prohibit or limit the payment of dividends of the bank subsidiaries they supervise, if, in the banking regulator’s opinion, payment of a dividend would constitute an unsafe or unsound practice in light of the financial condition of the bank.
+Depositor preference. Under federal law, the claims of a receiver of an insured depository institution for administrative expense and the claims of holders of U.S. deposit liabilities (including the FDIC and foreign deposits that are payable in the U.S. as well as in a foreign branch) have priority over the claims of other unsecured creditors of the institution, including public noteholders and depositors in non-U.S. offices. As a result, such persons could receive substantially less than the depositors in U.S. offices of the depository institution.
+CFPB regulation and supervision, and other consumer regulations. JPMorgan Chase and its national bank subsidiaries, including JPMorgan Chase Bank, N.A. and Chase Bank USA, N.A., are subject to supervision and
+ 
+regulation by the CFPB with respect to federal consumer protection laws, including laws relating to fair lending and the prohibition of unfair, deceptive or abusive acts or practices in connection with the offer, sale or provision of consumer financial products and services. These laws include the Truth-in-Lending, Equal Credit Opportunity Act (“ECOA”), Fair Credit Reporting, Fair Debt Collection Practice, Electronic Funds Transfer, Credit Card Accountability, Responsibility and Disclosure (“CARD”) and Home Mortgage Disclosure Acts. The CFPB has authority to impose new disclosure requirements for any consumer financial product or service. The CFPB’s rule-making efforts have addressed mortgage-related topics, including ability to repay and qualified mortgage standards, mortgage servicing standards, loan originator compensation standards, high-cost mortgage requirements, Home Mortgage Disclosure Act requirements, appraisal and escrow standards and requirements for higher-priced mortgages. The CFPB continues to issue informal guidance on a variety of topics (such as the collection of consumer debts and credit card marketing practices). Other areas of focus include sales incentives, pre-authorized electronic funds transfers, “add-on” products, matters involving consumer populations considered vulnerable by the CFPB (such as students), credit reporting, and the furnishing of credit scores to individuals. As part of its regulatory oversight, the CFPB has taken enforcement actions against certain financial institutions, including the Firm.
+Securities and broker-dealer regulation:
+The Firm conducts securities underwriting, dealing and brokerage activities in the U.S. through J.P. Morgan Securities LLC and other broker-dealer subsidiaries, all of which are subject to regulations of the SEC, the Financial Industry Regulatory Authority and the New York Stock Exchange, among others. The Firm conducts similar securities activities outside the U.S. subject to local regulatory requirements. In the U.K., those activities are conducted by J.P. Morgan Securities plc and are regulated PRA and the FCA. Broker-dealers are subject to laws and regulations covering all aspects of the securities business, including sales and trading practices, securities offerings, publication of research reports, use of customers’ funds, the financing of clients’ purchases, capital structure, record-keeping and retention, and the conduct of their directors, officers and employees. For information on the net capital of J.P. Morgan Securities LLC, and the applicable requirements relating to risk-based capital for J.P. Morgan Securities plc, see Broker-dealer regulatory capital on page 85. In addition, rules adopted by the Department of Labor would impose (among other things) a new standard of care applicable to broker-dealers when dealing with customers. For more information see - Investment management regulation below.
+
+ 
+ 
+5
+Part I
+
+Investment management regulation:
+The Firm’s asset management businesses are subject to significant investment management regulation in numerous jurisdictions around the world relating to, among other things, the safeguarding of client assets, offerings of funds, marketing activities, transactions among affiliates and management of client funds. Certain of the Firm’s subsidiaries are registered with, and subject to oversight by, the SEC as investment advisers. As such, the Firm’s registered investment advisers are subject to the fiduciary and other obligations imposed under the Investment Advisers Act of 1940 and the rules and regulations promulgated thereunder, as well as various state securities laws. For information regarding investigations and litigation in connection with disclosures to clients related to proprietary products, see Note 31.
+The Firm’s asset management businesses continue to be affected by ongoing rule-making and implementation of new regulations. The SEC amendments to rules that govern money-market funds, requiring a floating net asset value for institutional prime money-market funds became effective October 14, 2016. In addition, the SEC adopted amendments regarding enhanced liquidity risk management for open-end mutual funds and exchange-traded funds (“ETFs”) and enhanced reporting for funds and advisors. The Department of Labor (“DOL”) “fiduciary” rule would significantly expand the universe of persons viewed as investment advice fiduciaries to retirement plans and individual retirement accounts (“IRAs”) under the Employee Retirement Income Security Act of 1974, as amended (“ERISA”). Among the most significant impacts of the rule and related prohibited transaction exemptions would be the impact on the fee and compensation practices at financial institutions that offer investment advice to retail retirement clients. The related exemptions would require new client contracts, adherence to “impartial conduct” standards (including a requirement to act in the “best interest” of retirement clients), implementation of policies and procedures, websites and other disclosures to both investors and the DOL. The rule was due to become applicable from April 10, 2017; however following a recent memorandum from the White House directing review of the rule, the DOL announced that it is considering legal options for delaying the rule’s applicability.
+Derivatives regulation:
+The Firm is subject to comprehensive regulation of its derivatives businesses. The regulations impose capital and margin requirements (including the collecting and posting of variation margin and initial margin in respect of non-centrally cleared derivatives), require central clearing of standardized over-the-counter (“OTC”) derivatives, require that certain standardized over-the-counter swaps be traded on regulated trading venues, and provide for reporting of certain mandated information. In addition, the Dodd-Frank Act requires the registration of “swap dealers” and “major swap participants” with the CFTC and of “security-based swap dealers” and “major security-based swap participants” with the SEC. JPMorgan Chase Bank, N.A., J.P. Morgan
+ 
+Securities LLC, J.P. Morgan Securities plc and J.P. Morgan Ventures Energy Corporation have registered with the CFTC as swap dealers, and JPMorgan Chase Bank, N.A., J.P. Morgan Securities LLC and J.P. Morgan Securities plc may be required to register with the SEC as security-based swap dealers. As a result of their registration as swap dealers or security-based swap dealers, these entities will be subject to a comprehensive regulatory framework applicable to their swap or security-based swap activities, which includes capital requirements, rules regulating their swap activities, rules requiring the collateralization of uncleared swaps, rules regarding segregation of counterparty collateral, business conduct and documentation standards, record-keeping and reporting obligations, and anti-fraud and anti-manipulation requirements. Further, some of the rules for derivatives apply extraterritorially to U.S. firms doing business with clients outside of the U.S., as well as to the overseas activities of non-U.S. subsidiaries of the Firm that either deal with U.S. persons or that are guaranteed by U.S. subsidiaries of the Firm; however, the full scope of the extra-territorial impact of the U.S. swaps regulation has not been finalized and therefore remains unclear. The effect of these rules may require banking entities, such as the Firm, to modify the structure of their derivatives businesses and face increased operational and regulatory costs. In the European Union (the “EU”), the implementation of the European Market Infrastructure Regulation (“EMIR”) and the revision of the Markets in Financial Instruments Directive (“MiFID II”) will result in comparable, but not identical, changes to the European regulatory regime for derivatives. The combined effect of the U.S. and EU requirements, and the potential conflicts and inconsistencies between them, present challenges and risks to the structure and operating model of the Firm’s derivatives businesses.
+The Firm and other financial institutions have agreed to adhere to an updated Resolution Stay Protocol developed by ISDA in response to regulator concerns that the close-out of derivatives and other financial transactions during the resolution of a large cross-border financial institution could impede resolution efforts and potentially destabilize markets. The Resolution Stay Protocol provides for the contractual recognition of cross-border stays under various statutory resolution regimes and a contractual stay on certain cross-default rights.
+In the U.S., one subsidiary of the Firm is registered as a futures commission merchant, and other subsidiaries are either registered with the CFTC as commodity pool operators and commodity trading advisors or are exempt from such registration. These CFTC-registered subsidiaries are also members of the National Futures Association.
+Data regulation:
+The Firm and its subsidiaries are subject to federal, state and international laws and regulations concerning the use and protection of certain customer, employee and other personal and confidential information, including those imposed by the Gramm-Leach-Bliley Act and the Fair Credit
+
+6
+ 
+ 
+
+Reporting Act, as well as the EU Data Protection Directive. In addition, various U.S. regulators, including the Federal Reserve, the OCC and the SEC, have increased their focus on cybersecurity through guidance, examinations and regulations.
+In May 2018, the General Data Protection Regulation (“GDPR”) will replace the EU Data Protection Directive, and it will have a significant impact on how businesses can collect and process the personal data of EU individuals. In addition, numerous proposals regarding privacy and data protection are pending before U.S. and non-U.S. legislative and regulatory bodies.
+The Bank Secrecy Act and Economic Sanctions:
+The Bank Secrecy Act (“BSA”) requires all financial institutions, including banks and securities broker-dealers, to, among other things, establish a risk-based system of internal controls reasonably designed to prevent money laundering and the financing of terrorism. The BSA includes a variety of record-keeping and reporting requirements (such as cash transaction and suspicious activity reporting), as well as due diligence/know your customer documentation requirements. In January 2013, the Firm entered into Consent Orders with its banking regulators relating to the Firm’s Bank Secrecy Act/Anti-Money Laundering policies, procedures and controls; the Firm has taken significant steps to modify and enhance its processes and controls with respect to its Anti-Money Laundering procedures and to remediate the issues identified in the Consent Order. The Firm is also subject to the regulations and economic sanctions programs administered by the U.S. Treasury’s Office of Foreign Assets Control (“OFAC”).
+Anti-Corruption:
+The Firm is subject to laws and regulations relating to corrupt and illegal payments to government officials and others in the jurisdictions in which it operates, including the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act. For more information on the Firm’s consent judgment and non-prosecution agreement relating to referral hiring practices, see Note 31.
+Compensation practices:
+The Firm’s compensation practices are subject to oversight by the Federal Reserve, as well as other agencies. The Federal Reserve has issued guidance jointly with the FDIC and the OCC that is designed to ensure that incentive compensation paid by banking organizations does not encourage imprudent risk-taking that threatens the organizations’ safety and soundness. In addition, under the Dodd-Frank Act, federal regulators, including the Federal Reserve, must issue regulations or guidelines requiring covered financial institutions, including the Firm, to report the structure of all incentive-based compensation arrangements and prohibit incentive-based payment arrangements that encourage inappropriate risks by providing compensation that is excessive or that could lead to material financial loss to the institution. Proposed regulations were issued in 2016, and the public comment period has closed. Final regulations have not yet been
+ 
+published. The Federal Reserve has conducted a review of the incentive compensation policies and practices of a number of large banking institutions, including the Firm. In addition to the Federal Reserve, the Financial Stability Board has established standards covering compensation principles for banks. In Europe, the Fourth Capital Requirements Directive (“CRD IV”) includes compensation provisions and the European Banking Authority has instituted guidelines on compensation policies under CRD IV. In the U.K., compensation standards are governed by the Remuneration Code of the PRA and the FCA. The implementation of the Federal Reserve’s and other banking regulators’ guidelines regarding compensation are expected to evolve over the next several years, and may affect the manner in which the Firm structures its compensation programs and practices.
+Significant international regulatory initiatives:
+In the EU, there is an extensive and complex program of final and proposed regulatory enhancement that reflects, in part, the EU’s commitments to policies of the Group of Twenty Finance Ministers and Central Bank Governors (“G-20”) together with other plans specific to the EU. The EU operates a European Systemic Risk Board that monitors financial stability, together with European Supervisory Agencies that set detailed regulatory rules and encourage supervisory convergence across the 28 Member States. The EU has also created a Single Supervisory Mechanism for the euro-zone, under which the regulation of all banks in that zone will be under the auspices of the European Central Bank, together with a Single Resolution Mechanism and Single Resolution Board, having jurisdiction over bank resolution in the zone. At both the G-20 and EU levels, various proposals are under consideration to address risks associated with global financial institutions. Some of the initiatives adopted include increased capital requirements for certain trading instruments or exposures and compensation limits on certain employees located in affected countries.
+Guided by the G20 policy framework, the EU and national financial regulators have proposed or adopted several market reforms, including EMIR, which requires, among other things, the central clearing of standardized derivatives; and MiFID II, which gives effect to the G-20 commitment to trading of derivatives through central clearing houses and exchanges and also includes significantly enhanced requirements for pre- and post-trade transparency and a significant reconfiguration of the regulatory supervision of execution venues. Key aspects of EMIR and MiFID II have been finalized, although the implementation date of MiFID II has been delayed to 2018.
+The EU is also currently considering or implementing significant revisions to laws covering depositary activities; credit-rating activities; resolution of banks, investment firms and market infrastructures; anti-money laundering controls; data security and privacy; corporate governance in financial firms; and implementation in the EU of the Basel III capital and liquidity standards, including the introduction of
+
+ 
+ 
+7
+Part I
+
+an intermediate holding company requirement for foreign banks and the implementation of the standard for TLAC.
+The EU is also considering proposed legislation providing for a proprietary trading ban and mandatory separation of other trading activities within certain banks; various EU Member States have separately enacted similar measures. In the U.K., legislation was adopted that mandates the separation (or “ring-fencing”) of deposit-taking activities from securities trading and other analogous activities within banks, subject to certain exemptions. The legislation includes the supplemental recommendation of the Parliamentary Commission on Banking Standards (the “Tyrie Commission”) that such ring-fences should be “electrified” by the imposition of mandatory forced separation on banking institutions that are deemed to test the limits of the safeguards. Parallel but distinct provisions have been enacted by the French and German governments. These measures may separately or taken together have significant implications for the Firm’s organizational structure in Europe, as well as its permitted activities and capital deployment in the EU.
+Much of the G20 policy framework has been finalized; however, the Basel Committee is currently reviewing the framework, and proposing recalibrations of certain requirements. As such, the EU is considering or implementing significant revisions to laws covering: bank and investment firm recovery and resolution; bank structure; securities settlement; transparency and disclosure of securities financing transactions; benchmarks; resolution of market infrastructures (central counterparties (“CCPs”)); anti-money laundering controls; data security and privacy; and corporate governance in financial firms; together with new amendments to capital and liquidity standards.
+Consistent with the G20 and EU policy frameworks, U.K. regulators have adopted a range of policy measures that have significantly changed the markets and prudential regulatory environment in the U.K. In addition to broad recommendations made by the Fair and Effective Markets Review which focused on fixed income currencies and commodities markets, U.K. regulators are considering measures to raise standards and accountability of individuals, and promote forward-looking conduct risk identification and mitigation, including by introducing the new Senior Managers and Certification Regimes.
+On June 23, 2016, the U.K. voted by referendum to leave the European Union (“Brexit”). The U.K. Government has since announced that it will invoke Article 50 of the Lisbon Treaty and will start the formal exit negotiations by the end of March 2017, giving an expected exit date of the end of March 2019. More recently, the British Prime Minister laid out twelve “negotiation objectives” for Brexit, which confirmed the U.K. will not remain a member of the Single Market, but will pursue a Free Trade Agreement that provides the greatest possible access to the Single Market. Further, the U.K. Government will seek a phased arrangement to ensure the orderly transition of the legal
+ 
+and regulatory framework for financial services, and promote stability and market confidence. Following a recent ruling by the U.K. Supreme Court, the House of Commons approved legislation on February 8, 2017 that allows the British Prime Minister to invoke Article 50. The legislation must now be approved by the House of Lords before it is signed into law.
+Many international banks, including the Firm, operate substantial parts of their European Union businesses from entities based in the U.K. Upon the U.K. leaving the European Union, the regulatory and legal environment that would then exist, and to which the Firm’s U.K. operations would then be subject, will depend on, in certain respects, the nature of the arrangements the U.K. agreed with the European Union and other trading partners. These arrangements cannot be predicted, but currently the Firm does not believe any of the likely identified scenarios would threaten the viability of the Firm’s business units or the Firm’s ability to serve clients across the European Union and in the U.K. However, it is possible that under some scenarios, changes to the Firm’s legal entity structure and operations would be required, which might result in a less efficient operating model across the Firm’s European legal entities.
+The Firm is in the process of evaluating plans to ensure its continued ability to operate in the U.K. and the EU beyond the expected exit date.
+Item 1A. Risk Factors.
+The following discussion sets forth the material risk factors that could affect JPMorgan Chase’s financial condition and operations. Readers should not consider any descriptions of such factors to be a complete set of all potential risks that could affect the Firm.
+Regulatory Risk
+JPMorgan Chase operates within a highly regulated industry, and the Firm’s businesses and results are significantly affected by the laws and regulations to which the Firm is subject.
+As a global financial services firm, JPMorgan Chase is subject to extensive and comprehensive regulation under federal and state laws in the U.S. and the laws of the various jurisdictions outside the U.S. in which the Firm does business. The financial services industry has in recent years experienced an unprecedented increase in regulations and supervision, both in the U.S. and globally. The cumulative effect of the new and currently proposed legislation and regulations could require the Firm to make further changes to its businesses or operations, which could result in a significant loss of revenue for the Firm and impose additional compliance and other costs on the Firm or otherwise reduce the Firm’s profitability. These changes could also: limit the products and services that the Firm offers; reduce the liquidity that the Firm is able to offer its clients or counterparties through its market-making activities; impede the Firm’s ability to pursue business opportunities in which it might otherwise consider engaging; require the Firm to dispose of or curtail certain
+
+8
+ 
+ 
+
+businesses; affect the value of assets that the Firm holds; require the Firm to increase its prices and therefore reduce demand for its products; or otherwise adversely affect the Firm’s businesses. To the extent that these initiatives have been, or continue to be, imposed on a limited subset of financial institutions (based on size, activities, geography or other criteria), the requirements to which the Firm may be subject under such laws and regulations could require the Firm to restructure further its businesses, or further re-price or curtail the products or services that it offers to customers, which could result in the Firm not being able to compete effectively with other institutions that are not impacted in the same way.
+Authorities in some non-U.S. jurisdictions in which the Firm has operations have enacted legislation or regulations requiring that certain subsidiaries of the Firm operating in those countries maintain independent capital and liquidity. In addition, some non-U.S. regulators have proposed that large banks which conduct certain businesses in their jurisdictions operate through separate subsidiaries located in those countries. These requirements, and any future laws or regulations that seek to impose restrictions on the way the Firm organizes its business units or increase the capital or liquidity requirements on non-U.S. subsidiaries of the Firm, could hinder the Firm’s ability to efficiently manage its operations, increase its funding and liquidity costs and thereby decrease the Firm’s net income. In addition, there can be significant differences in the ways that similar regulatory initiatives affecting the financial services industry are implemented in the U.S. and in different countries and regions in which JPMorgan Chase does business. For example, recent legislative and regulatory initiatives within the EU, including those relating to the resolution of financial institutions, the establishment by non-EU financial institutions of intermediate holding companies in the EU, the separation of trading activities from core banking services, mandatory on-exchange trading, position limits and reporting rules for derivatives, governance and accountability regimes, conduct of business requirements and restrictions on compensation, could require the Firm to make significant modifications to its non-U.S. business, operations and legal entity structure in order to comply with these requirements. These differences in implemented or proposed non-U.S. regulations and initiatives may be inconsistent or may conflict with current or proposed regulations in the U.S., which could subject the Firm to increased compliance and legal costs, as well as higher operational, capital and liquidity costs, all of which could have an adverse effect on the Firm’s business, results of operations and profitability.
+Recent political developments in the U.S. and abroad have increased the uncertainty regarding the regulatory environment in which the Firm will operate. Although certain of the proposals being mentioned in the U.S. include the possibility of regulatory reform related to the financial services industry, it is too early to determine the full extent to which these measures will ultimately modify or reduce the regulatory requirements currently imposed on the Firm, and the resulting possible effect on the Firm and its business and operations. In addition, the U.K.’s planned
+ 
+departure from the EU has engendered significant uncertainty concerning the regulatory framework under which global financial services institutions, including JPMorgan Chase, will need to conduct their business and operations in the EU after the U.K.’s departure.
+Expanded regulatory and governmental oversight of JPMorgan Chase’s businesses may continue to increase the Firm’s costs and risks.
+The Firm’s businesses and operations are subject to heightened governmental and regulatory oversight and scrutiny. The Firm has paid significant fines (or has provided significant monetary and other relief) to resolve a number of investigations or enforcement actions by governmental agencies. The Firm continues to devote substantial resources to satisfying the requirements of regulatory consent orders and other settlements to which it is subject, which increases the Firm’s operational and compliance costs.
+Certain regulators have taken measures in connection with specific enforcement actions against financial institutions (including the Firm) that require admissions of wrongdoing and compliance with other conditions in connection with settling such matters. Such admissions and conditions can lead to, among other things, greater exposure in civil litigation, harm to reputation, disqualification from providing business to certain clients and in certain jurisdictions, and other direct and indirect adverse effects.
+In addition, U.S. government officials have indicated and demonstrated a willingness to bring criminal actions against financial institutions, including the Firm, and have increasingly sought, and obtained, resolutions that include criminal pleas or other admissions of wrongdoing from those institutions, such as the Firm’s agreement in May 2015 to plead guilty to a single violation of federal antitrust law in connection with its settlements with certain government authorities relating to its foreign exchange sales and trading activities and controls related to those activities, and the non-prosecution agreement entered into by a subsidiary of the Firm with the U.S. Department of Justice in November 2016 in connection with settlements to resolve various governmental investigations relating to a former hiring program for candidates referred by clients, potential clients and government officials in the Asia Pacific region. Such resolutions, whether with U.S. or non-U.S. authorities, could have significant collateral consequences for a subject financial institution, including loss of customers and business, or the inability to offer certain products or services, or losing permission to operate certain businesses, for a period of time (absent the forbearance of, or the granting of waivers by, applicable regulators).
+The Firm expects that it and the financial services industry as a whole will continue to be subject to regulatory scrutiny and governmental investigations and enforcement actions and that violations of law will more frequently be met with formal and punitive enforcement action, including the imposition of significant monetary and other sanctions, rather than with informal supervisory action. In addition, if the Firm fails to meet the requirements of the various governmental settlements to which it is subject, or more
+
+ 
+ 
+9
+Part I
+
+generally, to maintain risk and control procedures and processes that meet the heightened standards established by its regulators and other government agencies, it could be required to enter into further orders and settlements, pay additional fines, penalties or judgments, or accept material regulatory restrictions on its businesses. The extent of the Firm’s exposure to legal and regulatory matters may be unpredictable and could, in some cases, substantially exceed the amount of reserves that the Firm has established for such matters.
+Requirements for the orderly resolution of the Firm could require JPMorgan Chase to restructure or reorganize its businesses.
+Under Title I of the Dodd-Frank Act (“Title I”) and Federal Reserve and FDIC rules, the Firm is required to prepare and submit periodically to the Federal Reserve and the FDIC a detailed plan (the “Resolution Plan”) for the rapid and orderly resolution, without extraordinary government support, of JPMorgan Chase & Co. and certain of its subsidiaries under the U.S. Bankruptcy Code and other applicable insolvency laws in the event of future material financial distress of the Firm. 
+In April 2016, the Federal Reserve and the FDIC jointly provided firm-specific feedback on the 2015 Resolution Plans of eight systemically important domestic banking institutions, and determined that five of these 2015 Resolution Plans, including that of the Firm, were not credible or would not facilitate an orderly resolution under the U.S. Bankruptcy Code. In addition to the identified deficiencies, the Federal Reserve and the FDIC also identified certain shortcomings which were required to be satisfactorily addressed in the Firm’s Resolution Plan due on July 1, 2017. On October 1, 2016, the Firm filed with the Federal Reserve and the FDIC its submission (the “2016 Resolution Submission”) describing how the Firm remediated the identified deficiencies and providing a status report of its actions to address the identified shortcomings. 
+On December 13, 2016, the Federal Reserve and the FDIC advised the Firm of their determinations that the Firm’s 2016 Resolution Submission adequately remediated the deficiencies in the Firm’s 2015 Resolution Plan identified by the agencies. On July 1, 2017, the Firm will file with the Federal Reserve and the FDIC its 2017 Resolution Plan which will, among other things, describe how the Firm has remediated the remaining shortcomings identified by the agencies in April 2016. If the Federal Reserve and the FDIC were to jointly determine that the Firm did not remediate the identified shortcomings, or that the Firm’s 2017 Resolution Plan, or any future update of that plan, is not credible, and the Firm is unable to remedy the identified deficiencies in a timely manner, the regulators may jointly impose more stringent capital, leverage or liquidity requirements on the Firm or restrictions on growth, activities or operations of the Firm, and could, if such deficiencies are not remedied within two years after such a determination, require the Firm to restructure, reorganize or divest businesses, legal entities, operational systems and/or intercompany transactions in ways that could
+ 
+materially and adversely affect the Firm’s operations and strategy. In addition, in order to continue to maintain a Title I Resolution Plan that the Federal Reserve and FDIC determine is credible, the Firm may need to make additional changes to its legal entity structure and to certain intercompany and external activities, which could result in increased funding or operational costs.
+Holders of JPMorgan Chase’s debt and equity securities will absorb losses if JPMorgan Chase were to enter into a resolution.
+The Federal Reserve has issued final rules (the “TLAC rules”) regarding the minimum levels of unsecured external long-term debt and other loss-absorbing capacity that bank holding companies are required to have issued and outstanding, as well as guidelines defining the terms of qualifying debt instruments, to ensure that adequate levels of debt are maintained at the holding company level for purposes of recapitalizing the Firm’s operating subsidiaries (“eligible LTD”). If JPMorgan Chase & Co. were to enter into a resolution, either in a proceeding under Chapter 11 of the U.S. Bankruptcy Code or in a receivership administered by the FDIC under Title II of the Dodd-Frank Act, holders of eligible LTD and other debt and equity securities of the Firm will absorb the losses of JPMorgan Chase & Co. and its affiliates.
+Under the Firm’s Resolution Plan, the Firm’s preferred resolution strategy contemplates that only JPMorgan Chase & Co. would enter bankruptcy proceedings under Chapter 11 of the U.S. Bankruptcy Code pursuant to a “single point of entry” recapitalization strategy. JPMorgan Chase & Co.’s subsidiaries would be recapitalized as needed so that they could continue normal operations or subsequently be wound down in an orderly manner. As a result, JPMorgan Chase & Co.’s losses and any losses incurred by its subsidiaries would be imposed first on holders of JPMorgan Chase & Co.’s equity securities and thereafter on unsecured creditors, including holders of JPMorgan Chase & Co.’s eligible LTD and other debt securities. Claims of holders of those debt securities would have a junior position to the claims of creditors of JPMorgan Chase & Co.’s subsidiaries and to the claims of priority (as determined by statute) and secured creditors of JPMorgan Chase & Co. Accordingly, in a resolution of JPMorgan Chase & Co. under Chapter 11 of the U.S. Bankruptcy Code, holders of eligible LTD and other debt securities of JPMorgan Chase & Co. would realize value only to the extent available to JPMorgan Chase & Co. as a shareholder of JPMorgan Chase Bank, N.A. and its other subsidiaries, and only after any claims of priority and secured creditors of JPMorgan Chase & Co. have been fully repaid. If JPMorgan Chase & Co. were to enter into a resolution, none of JPMorgan Chase & Co., the Federal Reserve or the FDIC is obligated to follow the Firm’s preferred resolution strategy under its Resolution Plan.
+The FDIC has similarly indicated that a single point of entry recapitalization model could be a desirable strategy to resolve a systemically important financial institution, such as JPMorgan Chase & Co., under Title II of the Dodd-Frank Act. Pursuant to that strategy, the FDIC would use its power to create a “bridge entity” for JPMorgan Chase & Co.;
+
+10
+ 
+ 
+
+transfer the systemically important and viable parts of its business, principally the stock of JPMorgan Chase & Co.’s main operating subsidiaries and any intercompany claims against such subsidiaries, to the bridge entity; recapitalize those subsidiaries using assets of JPMorgan Chase & Co. that have been transferred to the bridge entity; and exchange external debt claims against JPMorgan Chase & Co. for equity in the bridge entity. Under this Title II resolution strategy, the value of the stock of the bridge entity that would be redistributed to holders of eligible LTD and other debt securities of JPMorgan Chase & Co. may not be sufficient to repay all or part of the principal amount and interest on such securities. To date, the FDIC has not formally adopted a single point of entry resolution strategy and it is not obligated to follow such a strategy in a Title II resolution of JPMorgan Chase & Co.
+Market Risk
+JPMorgan Chase’s results of operations have been, and may continue to be, adversely affected by U.S. and global financial market and economic conditions and political developments.
+JPMorgan Chase’s businesses are materially affected by economic and market conditions, including the liquidity of the global financial markets; the level and volatility of debt and equity prices, interest rates, currency and commodities prices (including oil prices) and other market indices; investor, consumer and business sentiment; events that reduce confidence in the financial markets; inflation and unemployment; the availability and cost of capital and credit; the economic effects of natural disasters, health emergencies or pandemics, severe weather conditions, outbreaks of hostilities, terrorism or other geopolitical instabilities; monetary policies and actions taken by the Federal Reserve and other central banks; and the health of the U.S. and global economies.
+Recent political developments in the U.S. and abroad have increased the uncertainty regarding the economic environment in which the Firm will operate. Although certain of the proposals being considered in the U.S., such as tax reform or increased expenditure on infrastructure projects, could lead to higher levels of U.S. economic activity and more expansive U.S. domestic economic growth, others, such as protectionist trade policies or isolationist foreign policies, could contract economic growth. The uncertainty around the manner and extent to which these economic policies are ultimately enacted could impact market volatility and affect the Firm’s businesses, both directly and through their impact on the businesses and activities of the Firm’s clients and customers. In addition, the effects of various referenda in Europe, including the vote by the U.K. electorate to leave the EU, as well as the uncertainties regarding the outcome of Eurozone presidential elections in 2017, have triggered political and economic uncertainty in the Eurozone. There is no assurance that such uncertainty, and any resultant market volatility, will not adversely affect the Firm’s results of operations.
+In the Firm’s wholesale businesses, market and economic factors can affect the volume of transactions that the Firm
+ 
+executes for its clients and, therefore, the revenue that the Firm receives, as well as the willingness of other financial institutions and investors to participate in loan syndications or underwritings managed by the Firm.
+The Firm generally maintains market-making positions in the fixed income, currency, commodities, credit and equity markets to facilitate client demand and provide liquidity to clients. The revenue derived from these positions is affected by many factors, including the Firm’s success in effectively hedging its market and other risks; volatility in interest rates and equity, debt and commodities markets; interest rate and credit spreads; and the availability of liquidity in the capital markets, all of which are affected by global economic and market conditions, political events and regulatory restrictions on market-making activities. In addition, the Firm’s market-making businesses can expose the Firm to unexpected market, credit and operational risks that could cause the Firm to suffer unexpected losses. Severe declines in asset values, unanticipated credit events, or unforeseen circumstances that may cause previously uncorrelated factors to become correlated (and vice versa) may create losses resulting from risks not having been appropriately taken into account in the development, structuring or pricing of a financial instrument.
+The Firm may be adversely affected by declining asset values. This is particularly true for businesses that earn fees for managing third-party assets or receive or post collateral. For example, a higher level of U.S. or non-U.S. interest rates or a downturn in financial markets could affect the valuations of the client assets that the Firm manages or holds in custody, which, in turn, could affect the Firm’s revenue from fees that are based on the amount of assets under management or custody. Macroeconomic or market concerns, as well as legislative and regulatory developments (such as, for example, the recently-adopted SEC rules relating to money-market funds), may also prompt outflows from the Firm’s funds or accounts or cause clients to invest funds in products that generate lower revenue.
+Changes in interest rates will affect the level of assets and liabilities held on the Firm’s balance sheet and the revenue that the Firm earns from net interest income. An increasing or high interest rate environment, while generally increasing the net interest income earned by the Firm, may under certain circumstances also result in lower levels of commercial and residential loan originations and diminished returns on the investment securities portfolio (to the extent that the Firm is unable to reinvest contemporaneously in higher-yielding assets), thereby adversely affecting the Firm’s revenues and capital levels. Conversely, a low interest rate environment may compress net interest margins, reducing the amounts that the Firm earns on its investment securities portfolio, or reducing the value of its mortgage servicing rights (“MSRs”) asset, thereby reducing the Firm’s net interest income and other revenues.
+The Firm’s consumer businesses are particularly affected by U.S. domestic economic conditions, including U.S. interest
+
+ 
+ 
+11
+Part I
+
+rates, the rate of unemployment, housing prices, the level of consumer confidence, changes in consumer spending and the number of personal bankruptcies. Sustained low growth in the U.S. economy could diminish demand for the products and services offered by the Firm’s consumer businesses, or increase the cost to provide such products and services. In addition, adverse economic conditions, such as economic dislocations in certain geographies due to high levels of unemployment resulting from declining industrial or manufacturing activity, or other market or economic factors, could lead to an increase in mortgage, credit card, auto, student and other loan delinquencies and higher net charge-offs, which can reduce the Firm’s earnings. The Firm’s earnings from its consumer businesses could also be adversely affected by changes in government policies that affect consumers, including those relating to medical insurance, immigration, employment status and taxation, as well as governmental policies aimed at the economy more broadly, such as infrastructure spending and global trade, which could result in, among other things, higher inflation or reductions in consumer disposable income.
+Widening of credit spreads makes it more expensive for the Firm to borrow on both a secured and unsecured basis, and may adversely affect the credit markets and the Firm’s businesses. Credit spreads widen or narrow not only in response to Firm-specific events and circumstances, but also as a result of general economic and geopolitical events and conditions. Changes in the Firm’s credit spreads will impact, positively or negatively, the Firm’s earnings on certain liabilities that are recorded at fair value.
+Sudden and significant volatility in the prices of securities and other assets (including loans and derivatives) may curtail the trading markets for such securities and assets, make it difficult to sell or hedge such securities and assets, adversely affect the Firm’s profitability, capital or liquidity, or increase the Firm’s funding costs. The Federal Reserve has recently observed that market volatility may be exacerbated by regulatory restrictions, as market participants that are subject to the Volcker Rule are likely to decrease their market-making activities, and thereby constrain market liquidity, during periods of market stress. In addition, in a difficult or less liquid market environment, the Firm’s risk management strategies may not be effective because other market participants may be attempting to use the same or similar strategies to deal with the challenging market conditions. In such circumstances, it may be difficult for the Firm to reduce its risk positions due to the activity of such other market participants or widespread market dislocations. Sustained volatility in the financial markets may also negatively affect consumer or investor confidence, which could lead to lower client activity and decreased revenue for the Firm.
+ 
+Credit Risk
+The financial condition of JPMorgan Chase’s clients and counterparties, particularly other financial institutions, could adversely affect the Firm.
+The Firm routinely executes transactions with clients and counterparties in the financial services industry, including brokers and dealers, commercial banks, investment banks, mutual and hedge funds, investment managers and other types of financial institutions. Many of these transactions expose the Firm to the credit risk of its counterparties and, in some cases, disputes and litigation in the event of a default by the counterparty or client. Disputes with counterparties may also arise regarding the terms or the settlement procedures of derivative contracts, including with respect to the value of underlying collateral, which could cause the Firm to incur unexpected costs, including transaction, operational, legal and litigation costs, or result in credit losses, all of which may impair the Firm’s ability to manage effectively its credit risk exposure from these products.
+The failure of a significant market participant, or concerns about a default by such an institution, could also lead to significant liquidity problems for, or losses or defaults by, other institutions, which in turn could adversely affect the Firm. In addition, in recent years the perceived interrelationship among financial institutions has also led to claims by other market participants and regulators that the Firm and other financial institutions have allegedly violated anti-trust or anti-competition laws by colluding to manipulate markets, prices or indices, and there is no assurance that such allegations will not arise in the same or similar contexts in the future.
+As part of providing clearing services, the Firm is a member of a number of CCPs, and may be required to pay a portion of the losses incurred by such organizations as a result of the default of other members. As a clearing member, the Firm is also exposed to the risk of non-performance by its clients, which it seeks to mitigate through the maintenance of adequate collateral. In addition, the Firm can be exposed to intra-day credit risk of its clients in connection with providing cash management, clearing, custodial and other transaction services to such clients. If a client for which the Firm provides such services becomes bankrupt or insolvent, the Firm may suffer losses, become involved in disputes and litigation with various parties, including one or more CCPs, or the client’s bankruptcy estate and other creditors, or involved in regulatory investigations. All of such events can increase the Firm’s operational and litigation costs and may result in losses if any collateral received by the Firm is insufficient to cover such losses.
+During periods of market stress or illiquidity, the Firm’s credit risk also may be further increased when the Firm cannot realize the fair value of the collateral held by it or when collateral is liquidated at prices that are not sufficient to recover the full amount of the loan, derivative or other exposure due to the Firm. Further, disputes with obligors concerning the valuation of collateral could increase in
+
+12
+ 
+ 
+
+times of significant market stress, volatility or illiquidity, and the Firm could suffer losses during such periods if it is unable to realize the fair value of collateral or manage declines in the value of collateral.
+Concentration of credit and market risk could increase the potential for significant losses.
+JPMorgan Chase has exposure to increased levels of risk when clients or counterparties are engaged in similar business activities or activities in the same geographic region, or when they have similar economic features that would cause their ability to meet contractual obligations to be similarly affected by changes in economic conditions. For example, a significant deterioration in the credit quality of one of the Firm’s borrowers or counterparties could lead to concerns about the credit quality of other borrowers or counterparties in similar, related or dependent industries and thereby could exacerbate the Firm’s credit risk exposure and potentially increase its losses, including mark-to-market losses in its trading businesses. Similarly, challenging economic conditions affecting a particular industry or geographic area could lead to concerns about the credit quality of the Firm’s borrowers or counterparties, not only in that particular industry or geography but in related or dependent industries, wherever located, or about the ability of customers of the Firm’s consumer businesses living in such areas or working in such affected industries or related or dependent industries to meet their obligations to the Firm. Although the Firm regularly monitors various segments of its exposures to assess potential concentration or contagion risks, the Firm’s efforts to diversify or hedge its exposures against concentration risks may not be successful.
+In addition, disruptions in the liquidity or transparency of the financial markets may result in the Firm’s inability to sell, syndicate or realize the value of its positions, thereby leading to increased concentrations. The inability to reduce the Firm’s positions may not only increase the market and credit risks associated with such positions, but may also increase the level of risk-weighted assets (“RWA”) on the Firm’s balance sheet, thereby increasing its capital requirements and funding costs, all of which could adversely affect the operations and profitability of the Firm’s businesses.
+Liquidity Risk
+If JPMorgan Chase does not effectively manage its liquidity, its business could suffer.
+JPMorgan Chase’s liquidity is critical to its ability to operate its businesses. Some potential conditions that could impair the Firm’s liquidity include markets that become illiquid or are otherwise experiencing disruption, unforeseen cash or capital requirements (including, among others, commitments that may be triggered to special purpose entities (“SPEs”) or other entities), difficulty in selling or inability to sell assets, default by a CCP or other counterparty, unforeseen outflows of cash or collateral, and lack of market or customer confidence in the Firm or financial markets in general. These conditions may be caused by events over which the Firm has little or no control. The widespread crisis in investor confidence and
+ 
+resulting liquidity crisis experienced in 2008 and into early 2009 increased the Firm’s cost of funding and limited its access to some of its traditional sources of liquidity (such as securitized debt offerings backed by mortgages, credit card receivables and other assets) during that time, and there is no assurance that these severe conditions could not occur in the future.
+If the Firm’s access to stable and low cost sources of funding, such as bank deposits, is reduced, the Firm may need to raise alternative funding which may be more expensive or of limited availability. In addition, the Firm’s cost of funding could be affected by actions that the Firm may take in order to satisfy applicable liquidity coverage ratio and net stable funding ratio requirements, to lower its GSIB systemic risk score, to satisfy the amount of eligible LTD that the Firm must have outstanding under the TLAC rules, to address obligations under the Firm’s Resolution Plan or to satisfy regulatory requirements in non-U.S. jurisdictions relating to the pre-positioning of liquidity in subsidiaries that are material legal entities.
+JPMorgan Chase is a holding company and depends on the cash flows of its subsidiaries to fund payments of dividends on its equity securities, principal and interest payments on its debt securities and redemptions and repurchases of its outstanding securities.
+As a holding company, JPMorgan Chase & Co. is dependent on the earnings of its subsidiaries to meet its payment obligations. Under the arrangements contemplated by the Firm’s Resolution Plan, JPMorgan Chase & Co. has established a new intermediate holding company, JPMorgan Chase Holdings LLC (the “IHC”), and has contributed to the IHC the stock of substantially all of its direct subsidiaries (other than JPMorgan Chase Bank, N.A.) as well as other assets and intercompany indebtedness owing to it. Under these arrangements, JPMorgan Chase & Co. is obligated to contribute to the IHC substantially all the net proceeds received by it from securities issuances (including, without limitation, issuances of senior and subordinated debt securities and of preferred and common stock). As a result of these arrangements, JPMorgan Chase & Co.’s ability to pay interest on its debt securities and dividends on its equity securities, to redeem or repurchase its outstanding securities and to fulfill its other payment obligations is dependent on it receiving dividends from JPMorgan Chase Bank, N.A. and dividends and extensions of credit from the IHC. JPMorgan Chase Bank, N.A. is subject to restrictions on its dividend distributions, capital adequacy and liquidity coverage requirements, and other regulatory restrictions on its ability to make payments to JPMorgan Chase & Co., and the IHC is prohibited from paying dividends or extending credit to JPMorgan Chase & Co. if certain capital or liquidity “thresholds” are breached or if limits are otherwise imposed by the Firm’s management or Board of Directors. These regulatory restrictions and limitations on the payments that JPMorgan Chase & Co. is permitted to receive from JPMorgan Chase Bank, N.A. and the IHC could reduce or hinder its ability to pay dividends and satisfy its debt and other obligations, or result in JPMorgan Chase & Co. seeking protection under bankruptcy laws at a time earlier than
+
+ 
+ 
+13
+Part I
+
+would have been the case absent the existence of such thresholds.
+Reductions in JPMorgan Chase’s credit ratings may adversely affect its liquidity and cost of funding, as well as the value of debt obligations issued by the Firm.
+JPMorgan Chase & Co. and certain of its principal subsidiaries are currently rated by credit rating agencies. Rating agencies evaluate both general and firm- and industry-specific factors when determining their credit ratings for a particular financial institution, including economic and geopolitical trends, regulatory developments, future profitability, risk management practices, legal expenses, assumptions surrounding government support, and ratings differentials between bank holding companies and their bank and non-bank subsidiaries. Although the Firm closely monitors and manages, to the extent it is able, factors that could influence its credit ratings, there is no assurance that the Firm’s credit ratings will not be lowered in the future, or that any such downgrade would not occur at times of broader market instability when the Firm’s options for responding to events may be more limited and general investor confidence is low.
+Furthermore, a reduction in the Firm’s credit ratings could reduce the Firm’s access to capital markets, materially increase the cost of issuing securities, trigger additional collateral or funding requirements, and decrease the number of investors and counterparties willing or permitted, contractually or otherwise, to do business with or lend to the Firm, thereby curtailing the Firm’s business operations and reducing its profitability. In addition, any such reduction in credit ratings may increase the credit spreads charged by the market for taking credit risk on JPMorgan Chase & Co. and its subsidiaries and, as a result, could adversely affect the value of debt and other obligations that JPMorgan Chase & Co. and its subsidiaries have issued or may issue in the future.
+Legal Risk
+JPMorgan Chase faces significant legal risks, both from regulatory investigations and proceedings and from private actions brought against the Firm.
+JPMorgan Chase is named as a defendant or is otherwise involved in various legal proceedings, including class actions and other litigation or disputes with third parties. Actions currently pending against the Firm may result in judgments, settlements, fines, penalties or other results adverse to the Firm, which could materially and adversely affect the Firm’s business, financial condition or results of operations, or cause serious harm to the Firm’s reputation. As a participant in the financial services industry, it is likely that the Firm will continue to experience a high level of litigation related to its businesses and operations.
+In addition, and as noted above, the Firm’s businesses and operations are also subject to heightened regulatory oversight and scrutiny, which may lead to additional regulatory investigations or enforcement actions. Regulators and other government agencies examine the operations of the Firm and its subsidiaries on both a routine- and targeted-exam basis, and there is no assurance
+ 
+that they will not pursue additional regulatory settlements or other enforcement actions against the Firm in the future. A violation of law or regulation by another financial institution is likely to give rise to an investigation by regulators and other governmental agencies of the same or similar practices by the Firm. For example, various regulatory and governmental agencies have made inquiries to the Firm about its sales practices with retail customers, including, among other matters, the Firm’s incentive compensation structures related to such practices. In addition, a single event may give rise to numerous and overlapping investigations and proceedings, either by multiple federal and state agencies and officials in the U.S. or, in some instances, regulators and other governmental officials in non-U.S. jurisdictions. These and other initiatives from U.S. and non-U.S. governmental authorities and officials may subject the Firm to further judgments, settlements, fines or penalties, or cause the Firm to be required to restructure its operations and activities or to cease offering certain products or services, all of which could harm the Firm’s reputation or lead to higher operational costs, thereby reducing the Firm’s profitability, or result in collateral consequences as discussed above.
+Other Business Risks
+Any significant failure by the Firm’s management to anticipate and respond quickly and appropriately to changes in the Firm’s operating environment or trends affecting the financial services industry, to make prudent decisions regarding the Firm’s strategy or to execute on that strategy could adversely affect the Firm’s competitive standing and its earnings and future results of operations.
+The Firm operates in many jurisdictions and offers a wide variety of products and services to its clients and customers. The Firm’s strategies concerning the products and services that it will offer, the geographies in which it will operate, the types of clients and customers that it will serve and the counterparties with which it will do business, and the methods and distribution channels by which it will offer its products and services, will all affect the Firm’s competitive standing and its results of operations. If the Firm’s management makes choices about the Firm’s business strategies and goals that later prove to have been incorrect, does not accurately assess the competitive landscape and the industry trends affecting the Firm or does not formulate effective business plans to address the Firm’s near- and longer-term strategic priorities, as well as the changing regulatory and market environments in which the Firm operates both in the U.S. and abroad, the franchise values and growth prospects of the Firm’s businesses will suffer and revenues will decline. The prospects of the Firm will also depend on management’s ability to execute effectively against the Firm’s strategic plans and to manage the Firm’s resources to grow revenues, control expenses and return capital to the Firm’s shareholders. Any significant failure by the Firm’s Board of Directors to exercise appropriate oversight of management’s strategic decisions, or any significant failure by the Firm’s management to develop and execute on the Firm’s strategic plans and business initiatives, or the ineffectual
+
+14
+ 
+ 
+
+implementation of business decisions, the failure of the Firm’s products or services or dealings with customers to meet customer expectations, inadequate responses to regulatory requirements, the failure to react quickly to changes in market conditions or structure, or the failure to develop the necessary operational, technology, risk, financial, and managerial resources necessary to grow and manage the Firm and its various businesses could adversely affect the Firm’s competitive standing and negatively affect the Firm’s earnings and future results of operations.
+JPMorgan Chase’s operations are subject to risk of loss from unfavorable economic, monetary and political developments in the U.S. and around the world.
+JPMorgan Chase’s businesses and earnings are affected by the fiscal and other policies that are adopted by various U.S. and non-U.S. regulatory authorities and agencies. The Federal Reserve regulates the supply of money and credit in the U.S. and its policies determine in large part the cost of funds for lending and investing in the U.S. and the return earned on those loans and investments. Changes in Federal Reserve policies (as well as the fiscal and monetary policies of non-U.S. central banks or regulatory authorities and agencies, such as “pegging” the exchange rate of their currency to the currencies of others) are beyond the Firm’s control and may be difficult to predict, and consequently, unanticipated changes in these policies could have a negative impact on the Firm’s activities and results of operations.
+The Firm’s businesses and revenue are also subject to risks inherent in investing and market-making in securities, loans and other obligations of companies worldwide. These risks include, among others, negative effects from slowing growth rates or recessionary economic conditions, or the risk of loss from unfavorable political, legal or other developments, including social or political instability, in the countries or regions in which such companies operate, as well as the other risks and considerations as described further below.
+Several of the Firm’s businesses engage in transactions with, or trade in obligations of, U.S. and non-U.S. governmental entities, including national, state, provincial, municipal and local authorities. These activities can expose the Firm to enhanced sovereign, credit-related, operational and reputation risks, including the risks that a governmental entity may default on or restructure its obligations, claim that actions taken by government officials were beyond the legal authority of those officials or repudiate transactions authorized by a previous incumbent government, any or all of which could adversely affect the Firm’s financial condition and results of operations.
+Further, various countries or regions in which the Firm operates or invests, or in which the Firm may do so in the future, have in the past experienced severe economic disruptions particular to those countries or regions. In some cases, concerns regarding the fiscal condition of one or more countries can cause a contraction of available credit and reduced activity among trading partners or create market volatility that could lead to “market contagion” affecting other countries in the same region or beyond the
+ 
+region. In addition, governments in particular countries or regions in which the Firm or its client do business may choose to adopt protectionist economic or trade policies in response to concerns about domestic economic conditions which could lead to diminished cross-border trade and financing activity within that country or region, all of which could negatively affect the Firm’s business and earnings in those jurisdictions.
+Political and economic uncertainty can also undermine consumer, business and investor confidence, and thereby contribute to market volatility. For example, uncertainties concerning the timing and terms of the U.K.’s planned departure from the EU could have an adverse effect on global financial markets and may adversely impact global economic conditions more generally. Furthermore, depending on the nature of the arrangements agreed between the U.K. and the EU, including with respect to the ability of financial services companies to engage in business in the EU from legal entities organized in or operating from the U.K., it is possible that under some scenarios, the Firm may need to make changes to its legal entity structure and operations and the locations in which it operates, which might result in a less efficient operating model across the Firm’s European legal entities. Accordingly, it is possible that political or economic developments in certain countries, even in countries in which the Firm does not conduct business or have operations or engages in only limited activities, may adversely affect the Firm.
+The Firm must comply with economic sanctions and embargo programs administered by OFAC and similar multi-national bodies and governmental agencies outside U.S., including, most recently, sanctions targeted at individuals and companies in Russia. A violation of a sanction or embargo program could subject the Firm, and individual employees, to regulatory enforcement actions as well as significant civil and criminal penalties.
+JPMorgan Chase’s operations in emerging markets may be hindered by local political, social and economic factors, and may be subject to additional compliance costs and risks.
+Some of the countries in which JPMorgan Chase conducts its businesses have economies or markets that are less developed and more volatile, and may have legal and regulatory regimes that are less established or predictable, than the U.S. and other developed markets in which the Firm currently operates. Some of these countries have in the past experienced severe economic disruptions, including extreme currency fluctuations, high inflation, low or negative growth, or defaults or potential defaults on sovereign debt, among other negative conditions, or have imposed restrictive monetary policies such as currency exchange controls and other laws and restrictions that adversely affect the local and regional business environment. In addition, these countries, as well as certain more developed countries, have recently been more susceptible to unfavorable political, social or economic developments; these developments have in the past resulted in, and may in the future lead to, social unrest,
+
+ 
+ 
+15
+Part I
+
+general strikes and demonstrations, crime and corruption, security and personal safety issues, outbreaks of hostilities, overthrow of incumbent governments, terrorist attacks or other forms of internal discord, all of which can adversely affect the Firm’s operations or investments in such countries. Political, social or economic disruption or dislocation in certain countries or regions in which the Firm conducts its businesses can hinder the growth and profitability of those operations.
+Less developed legal and regulatory systems in certain countries can also have adverse consequences on the Firm’s operations in those countries, including, among others, the absence of a statutory or regulatory basis or guidance for engaging in specific types of business or transactions; the promulgation of conflicting or ambiguous laws and regulations or the inconsistent application or interpretation of existing laws and regulations; uncertainty as to the enforceability of contractual obligations; difficulty in competing in economies in which the government controls or protects all or a portion of the local economy or specific businesses, or where graft or corruption may be pervasive; and the threat of arbitrary regulatory investigations, civil litigations or criminal prosecutions, the termination of licenses required to operate in the local market or the suspension of business relationships with governmental bodies.
+Revenue from international operations and trading in non-U.S. securities and other obligations may be subject to negative fluctuations as a result of the above considerations, as well as due to governmental actions including monetary policies, expropriation, nationalization, confiscation of assets, price controls, capital controls, exchange controls, and changes in laws and regulations. The impact of these fluctuations could be accentuated as some trading markets are smaller, less liquid and more volatile than larger markets. Also, any of the above-mentioned events or circumstances in one country can affect, and in the past conditions of these types have affected, the Firm’s operations and investments in another country or countries, including the Firm’s operations in the U.S. As a result, any such unfavorable conditions or developments could have an adverse impact on the Firm’s business and results of operations.
+Conducting business in countries with less developed legal and regulatory regimes often requires the Firm to devote significant additional resources to understanding, and monitoring changes in, local laws and regulations, as well as structuring its operations to comply with local laws and regulations and implementing and administering related internal policies and procedures. There can be no assurance that the Firm will always be successful in its efforts to conduct its business in compliance with laws and regulations in countries with less predictable legal and regulatory systems or that the Firm will be able to develop effective working relationships with local regulators. In addition, the Firm can also incur higher costs, and face greater compliance risks, in structuring and operating its businesses outside the U.S. to comply with U.S. anti-corruption and anti-money laundering laws and regulations.
+ 
+JPMorgan Chase relies on the effectiveness and integrity of its processes, operational systems and employees, and those of third parties, and certain failures of such processes or systems, or errors or misconduct by such employees, could materially and adversely affect the Firm’s operations.
+JPMorgan Chase’s businesses are dependent on the Firm’s ability to process, record and monitor an increasingly large number of complex transactions and to do so on a faster and more frequent basis. The Firm’s front- and back-office trading systems similarly rely on their access to, and on the functionality of, the operational systems maintained by third parties such as clearing and payment systems, central counterparties, securities exchanges and data processing and technology companies. If the Firm’s financial, accounting, trading or other data processing systems, or the operational systems of third parties on which the Firm’s businesses are dependent, are unable to meet these increasingly demanding standards, or if they fail or have other significant shortcomings, the Firm could be materially and adversely affected. Moreover, as the speed, frequency, volume and complexity of transactions (and the requirements to report such transactions on a real-time basis to clients, regulators and financial intermediaries) increases, the risk of human and/or systems error in connection with such transactions increases, and it becomes more challenging to maintain the Firm’s operational systems and infrastructure. The effective functioning of the Firm’s operational systems is also dependent on the competence and reliability of its employees, as well as the employees of third parties on whom the Firm relies for technological support, and the Firm could be materially and adversely affected by a significant operational breakdown or failure caused by human error or misconduct by an employee of the Firm or a third party. In addition, when the Firm changes processes or introduces new products and services or new connectivity solutions, the Firm may not fully appreciate or identify new operational risks that may arise from such changes. Any of these occurrences could diminish the Firm’s ability to operate one or more of its businesses, or result in potential liability to clients and customers, increased operating expenses, higher litigation costs (including fines and sanctions), damage to reputation, impairment of liquidity, regulatory intervention or weaker competitive standing, any of which could materially and adversely affect the Firm.
+Third parties with which the Firm does business, including retailers, data aggregators and other third parties with which the Firm’s customers do business, can also be sources of operational risk to the Firm, particularly where activities of customers or such third parties are beyond the Firm’s security and control systems, such as through the use of the internet, personal smart phones and other mobile devices or services. As the Firm’s interconnectivity with customers and other third parties increases, the Firm increasingly faces the risk of operational failure with respect to their systems. Security breaches affecting the Firm’s customers, or systems breakdowns or failures, security breaches or human error or misconduct affecting such other third
+
+16
+ 
+ 
+
+parties, may require the Firm to take steps to protect the integrity of its own operational systems or to safeguard confidential information of the Firm or its customers, thereby increasing the Firm’s operational costs and potentially diminishing customer satisfaction. Furthermore, the interconnectivity of multiple financial institutions with central agents, exchanges and clearing houses, and the increased importance of these entities, increases the risk that an operational failure at one institution or entity may cause an industry-wide operational failure that could materially impact the Firm’s ability to conduct business.
+The Firm’s businesses are subject to complex and evolving U.S. and non-U.S. laws and regulations governing the privacy and protection of personal information of individuals (including clients, client’s clients, employees of the Firm and its suppliers and other third parties). Ensuring that the Firm’s collection, use, transfer and storage of personal information complies with all applicable laws and regulations, including where the laws of different jurisdictions are in conflict, can increase the Firm’s operating costs, impact the development of new products or services and require significant oversight by management, and may require the Firm to structure its businesses, operations and systems in less efficient ways. Furthermore, the Firm may not be able to ensure that all of its clients, suppliers, counterparties and other third parties have appropriate controls in place to protect the confidentiality of the information exchanged between them and the Firm, particularly where such information is transmitted by electronic means. If personal, confidential or proprietary information of clients, customers, employees or others were to be mishandled or misused (in situations where, for example, such information was erroneously provided to parties who are not permitted to have the information, or where such information was intercepted or otherwise compromised by third parties), the Firm could be exposed to litigation or regulatory sanctions. Concerns regarding the effectiveness of the Firm’s measures to safeguard personal information, or even the perception that such measures are inadequate, could cause the Firm to lose customers or potential customers for its products and services and thereby reduce the Firm’s revenues. Accordingly, any failure or perceived failure by the Firm to comply with applicable privacy or data protection laws and regulations may subject it to inquiries, examinations and investigations that could result in requirements to modify or cease certain operations or practices or significant liabilities, fines or penalties, and could damage the Firm’s reputation and otherwise adversely affect its businesses.
+The Firm may be subject to disruptions of its operational systems arising from events that are wholly or partially beyond the Firm’s control, which may include, for example, security breaches (as discussed further below); electrical or telecommunications outages; failures of computer servers or other damage to the Firm’s property or assets; natural disasters or severe weather conditions; health emergencies or pandemics; or events arising from local or larger-scale political events, including outbreaks of hostilities or terrorist acts. JPMorgan Chase maintains a global resiliency and crisis management program that is intended to ensure
+ 
+that the Firm has the ability to recover its critical business functions and supporting assets, including staff, technology and facilities, in the event of a business interruption. While the Firm believes that its current resiliency plans are both sufficient and adequate, there can be no assurance that such plans will fully mitigate all potential business continuity risks to the Firm or its customers and clients. Any failures or disruptions of the Firm’s systems or operations could give rise to losses in service to customers and clients, adversely affect the Firm’s business and results of operations by subjecting the Firm to losses or liability, or require the Firm to expend significant resources to correct the failure or disruption, as well as by exposing the Firm to litigation, regulatory fines or penalties or losses not covered by insurance.
+A breach in the security of JPMorgan Chase’s systems, or those of other market participants, could disrupt the Firm’s businesses, result in the disclosure of confidential information, damage the Firm’s reputation and create significant financial and legal exposure for the Firm.
+Although JPMorgan Chase devotes significant resources to maintain and regularly upgrade its systems and processes that are designed to protect the security of the Firm’s computer systems, software, networks and other technology assets, as well as the confidentiality, integrity and availability of information belonging to the Firm and its customers and clients, there is no assurance that all of the Firm’s security measures will provide absolute security. JPMorgan Chase and other companies, as well as governmental and political organizations, have reported significant breaches in the security of their websites, networks or other systems, some of which have involved sophisticated and targeted attacks intended to obtain unauthorized access to confidential information, destroy data, disrupt or degrade service, sabotage systems or cause other damage, including through the introduction of computer viruses or malware, cyberattacks and other means. The Firm is regularly targeted by unauthorized parties using malicious code and viruses, and has experienced several significant distributed denial-of-service attacks from technically sophisticated and well-resourced third parties which were intended to disrupt online banking services.
+Despite the Firm’s efforts to ensure the security and integrity of its systems, it is possible that the Firm may not be able to anticipate, detect or recognize threats to its systems or to implement effective preventive measures against all security breaches of these types inside or outside the Firm, especially because the techniques used change frequently or are not recognized until launched, and because cyberattacks can originate from a wide variety of sources, including third parties who are or may be involved in organized crime or linked to terrorist organizations or hostile foreign governments, and such third parties may seek to gain access to the Firm’s systems either directly or using equipment or security passwords belonging to employees, customers, third-party service providers or other users of the Firm’s systems. These risks may increase in the future as the Firm continues to increase its mobile-payment and other internet-based product offerings and
+
+ 
+ 
+17
+Part I
+
+expands its internal usage of web-based products and applications.
+Given the breadth of the Firm’s operations, the high volume of transactions that it processes, the large number of customers, counterparties and third-party service providers with which the Firm does business, and the proliferation and increasing sophistication of cyberattacks, a particular cyberattack could occur and persist for an extended period of time before being detected. The extent of a particular cyberattack and the steps that the Firm may need to take to investigate the attack may not be immediately clear, and it may take a significant amount of time before such an investigation could be completed and full and reliable information about the attack is known. During such time the Firm may not necessarily know the extent of the harm or how best to remediate it, and certain errors or actions could be repeated or compounded before they are discovered and remediated, any or all of which could further increase the costs and consequences of a cyberattack.
+A successful penetration or circumvention of the security of the Firm’s systems or the systems of another market participant could cause serious negative consequences for the Firm, including significant disruption of the Firm’s operations and those of its clients, customers and counterparties, misappropriation of confidential information of the Firm or that of its clients, customers, counterparties or employees, or damage to computers or systems of the Firm and those of its clients, customers and counterparties, and could result in violations of applicable privacy and other laws, financial loss to the Firm or to its customers, loss of confidence in the Firm’s security measures, customer dissatisfaction, significant litigation exposure and harm to the Firm’s reputation, all of which could have a material adverse effect on the Firm.
+Risk Management
+JPMorgan Chase’s framework for managing risks and its risk management procedures and practices may not be effective in identifying and mitigating every risk to the Firm, thereby resulting in losses.
+JPMorgan Chase’s risk management framework seeks to mitigate risk and loss to the Firm. The Firm has established processes and procedures intended to identify, measure, monitor, report and analyze the types of risk to which the Firm is subject. However, as with any risk management framework, there are inherent limitations to the Firm’s risk management strategies because there may exist, or develop in the future, risks that the Firm has not appropriately anticipated or identified. In addition, the Firm relies on data to aggregate and assess its various risk exposures, and any deficiencies in the quality or effectiveness of the Firm’s data aggregation and validation procedures could result in ineffective risk management practices or inaccurate risk reporting. Any lapse in the Firm’s risk management framework and governance structure or other inadequacies in the design or implementation of the Firm’s risk management framework, governance, procedures, practices, models or risk reporting systems could, individually or in the aggregate, cause unexpected losses for the Firm, materially and adversely affect the Firm’s
+ 
+financial condition and results of operations, require significant resources to remediate any risk management deficiency, attract heightened regulatory scrutiny, expose the Firm to regulatory investigations or legal proceedings, subject the Firm to fines, penalties or judgments, harm the Firm’s reputation, or otherwise cause a decline in investor confidence.
+The Firm establishes allowances for probable credit losses inherent in its credit exposures, and also employs stress testing and other techniques to determine the capital and liquidity necessary to protect the Firm in the event of adverse economic or market events. These processes are critical to the Firm’s financial results and condition, and require difficult, subjective and complex judgments, including forecasts of how economic conditions might impair the ability of the Firm’s borrowers and counterparties to repay their loans or other obligations. As is the case with any such assessments, there is always the possibility that the Firm will fail to identify the proper factors or that the Firm will fail to accurately estimate the impact of factors that it identifies.
+Certain of the Firm’s trading transactions require the physical settlement by delivery of securities or other obligations that the Firm does not own; if the Firm is unable to obtain such securities or obligations within the required timeframe for delivery, this could cause the Firm to forfeit payments otherwise due to it and could result in settlement delays, which could damage the Firm’s reputation and ability to transact future business. In addition, in situations where trades are not settled or confirmed on a timely basis, the Firm may be subject to heightened credit and operational risk, and in the event of a default, the Firm may be exposed to market and operational losses.
+Many of the Firm’s risk management strategies or techniques have a basis in historical market behavior, and all such strategies and techniques are based to some degree on management’s subjective judgment. For example, many models used by the Firm are based on assumptions regarding correlations among prices of various asset classes or other market indicators. In times of market stress, including difficult or less liquid market environments, or in the event of other unforeseen circumstances, previously uncorrelated indicators may become correlated, or conversely, previously correlated indicators may make unrelated movements. These sudden market movements or unanticipated or unidentified market or economic movements have in some circumstances limited and could again limit the effectiveness of the Firm’s risk management strategies, causing the Firm to incur losses.
+Many of the models used by the Firm are subject to review not only by the Firm’s Model Risk function but also by the Firm’s regulators in order that the Firm may utilize such models in connection with the Firm’s calculations of market risk RWA, credit risk RWA and operational risk RWA under Basel III. The Firm may be subject to higher capital charges, which could adversely affect its financial results or limit its ability to expand its businesses, if such models do not receive approval by its regulators.
+
+18
+ 
+ 
+
+In addition, the Firm must comply with enhanced standards for the assessment and management of risks associated with vendors and other third parties that provide services to the Firm. These requirements apply to the Firm both under general guidance issued by its banking regulators and, more specifically, under certain of the consent orders to which the Firm has been subject. The Firm has incurred and expects to incur additional costs and expenses in connection with its initiatives to address the risks associated with oversight of its third party relationships. Failure by the Firm to appropriately assess and manage third party relationships, especially those involving significant banking functions, shared services or other critical activities, could result in potential liability to clients and customers, fines, penalties or judgments imposed by the Firm’s regulators, increased operating expenses and harm to the Firm’s reputation, any of which could materially and adversely affect the Firm.
+Other Risks
+Actions or inaction by employees of the Firm may cause harm to the Firm’s clients and customers, damage the Firm’s reputation, negatively impact the Firm’s culture and lead to liability and regulatory and other governmental actions against the Firm.
+JPMorgan Chase’s employees interact with clients, customers and counterparties every day, and they are expected through their conduct to demonstrate the Firm’s values and exhibit the culture and behaviors that are an integral part of the Firm’s How We Do Business Principles, including the Firm’s commitment to “do first class business in a first class way”. If an employee takes an action (including a failure to act) that does not comply with the Firm’s Code of Conduct, is inconsistent with the Firm’s How We Do Business Principles or that otherwise harms clients, consumers or the market, such as improperly selling and marketing the Firm’s product or services, acting illegally with others to establish market prices, improperly hiring individuals related to “politically exposed persons” or misappropriating Firm property or confidential or proprietary information or technology belonging to the Firm, its customers or third parties, such activities could give rise to litigation, regulatory or other governmental investigations or enforcement actions, and judgments, settlements, fines or penalties, and lead to requirements that the Firm restructure certain of its operations and activities, all of which could harm the Firm’s reputation or result in collateral consequences. Although the Firm endeavors to embed culture and conduct risk management throughout an employee’s life cycle, including recruiting, onboarding, training and development, and performance management, as well as through the Firm’s promotion and compensation processes, employees of the Firm have, from time to time in the past, engaged in improper or illegal conduct resulting in litigation as well as settlements involving consent orders, deferred prosecution agreements and non-prosecution agreements, as well as other civil and criminal settlements with regulators and other governmental entities, and there is no assurance that further inappropriate actions by employees will not occur or
+ 
+that any such actions will always be deterred or quickly prevented.
+The financial services industry is highly competitive, and JPMorgan Chase’s inability to compete successfully may adversely affect its results of operations.
+JPMorgan Chase operates in a highly competitive environment, and the Firm expects that competition in the U.S. and global financial services industry will continue to be intense. Competitors of the Firm include other banks and financial institutions, trading, advisory and investment management firms, finance companies and technology companies and other firms that are engaged in providing similar products and services. Technological advances and the growth of e-commerce have made it possible for non-depository institutions to offer products and services that traditionally were banking products, and for financial institutions and other companies to provide electronic and internet-based financial solutions, including electronic securities trading, payment processing and online automated algorithmic-based investment advice. New technologies have required and could require the Firm to spend more to modify or adapt its products to attract and retain customers or to match products and services offered by its competitors, including technology companies.
+Ongoing or increased competition, on the basis of the quality and variety of products and services offered, transaction execution, innovation, reputation, price or other factors, may put downward pressure on prices and fees for the Firm’s products and services or may cause the Firm to lose market share. In addition, the failure of any of the Firm’s businesses to meet the expectations of clients and customers, whether due to general market conditions or underperformance (relative to competitors or to benchmarks), could impact the Firm’s ability to retain clients and customers or attract new clients and customers, thereby reducing the Firm’s revenues. Increased competition also may require the Firm to make additional capital investments in its businesses, or to extend more of its capital on behalf of its clients in order to remain competitive. The Firm cannot provide assurance that the significant competition in the financial services industry will not materially and adversely affect its future results of operations.
+Non-U.S. competitors of the Firm’s wholesale businesses outside the U.S. are typically subject to different, and in some cases, less stringent, legislative and regulatory regimes. The more restrictive laws and regulations applicable to U.S. financial services institutions, such as JPMorgan Chase, can put the Firm at a competitive disadvantage to its non-U.S. competitors, including prohibiting the Firm from engaging in certain transactions, imposing higher capital and liquidity requirements on the Firm, making the Firm’s pricing of certain transactions more expensive for clients or adversely affecting the Firm’s cost structure for providing certain products, all of which can reduce the revenue and profitability of the Firm’s wholesale businesses.
+
+ 
+ 
+19
+Part I
+
+JPMorgan Chase’s ability to attract and retain qualified employees is critical to its success.
+JPMorgan Chase’s employees are the Firm’s most important resource, and in many areas of the financial services industry, competition for qualified personnel is intense. The Firm endeavors to attract talented and diverse new employees and retain and motivate its existing employees. There is the potential for changes in immigration policies in multiple jurisdictions around the world, including the U.S., and to the extent that immigration policies were to unduly restrict or otherwise make it more difficult for qualified employees to work in, or transfer among, jurisdictions in which the Firm has operations or conducts its business, the Firm could be adversely affected. The Firm also seeks to retain a pipeline of senior employees with superior talent, augmented from time to time by external hires, to provide continuity of succession for the Firm’s Operating Committee, including the Chief Executive Officer position, and senior positions below the Operating Committee. The Firm regularly reviews candidates for senior management positions to assess whether they currently are ready for a next-level role. In addition, the Firm’s Board of Directors is deeply involved in succession planning, including review of the succession plans for the Chief Executive Officer and the members of the Operating Committee. If the Firm were unable to continue to attract or retain qualified employees, including successors to the Chief Executive Officer or members of the Operating Committee, the Firm’s performance, including its competitive position, could be materially and adversely affected.
+JPMorgan Chase’s financial statements are based in part on estimates and judgments which, if incorrect, could result in unexpected losses in the future.
+Under accounting principles generally accepted in the U.S. (“U.S. GAAP”), JPMorgan Chase is required to use estimates and apply judgments in preparing its financial statements, including in determining allowances for credit losses and reserves related to litigation, among other items. Certain of the Firm’s financial instruments, including trading assets and liabilities, instruments in the investment securities portfolio, certain loans, MSRs, structured notes and certain repurchase and resale agreements, among other items, require a determination of their fair value in order to prepare the Firm’s financial statements. Where quoted market prices are not available, the Firm may make fair value determinations based on internally developed models or other means which ultimately rely to some degree on management estimates and judgment. In addition, sudden illiquidity in markets or declines in prices of certain loans and securities may make it more difficult to value certain balance sheet items, which may lead to the possibility that such valuations will be subject to further change or adjustment. If estimates or judgments underlying the Firm’s financial statements are incorrect, the Firm may experience material losses.
+ 
+Lapses in disclosure controls and procedures or internal control over financial reporting could materially and adversely affect the Firm’s operations, profitability or reputation.
+There can be no assurance that the Firm’s disclosure controls and procedures will be effective in every circumstance or that a material weakness or significant deficiency in internal control over financial reporting will not occur. Any such lapses or deficiencies may materially and adversely affect the Firm’s business and results of operations or financial condition, restrict its ability to access the capital markets, require the Firm to expend significant resources to correct the lapses or deficiencies, expose the Firm to regulatory or legal proceedings, subject it to fines, penalties or judgments, harm the Firm’s reputation, or otherwise cause a decline in investor confidence.
+Damage to JPMorgan Chase’s reputation could damage its businesses.
+Maintaining trust in JPMorgan Chase is critical to the Firm’s ability to attract and maintain customers, investors and employees. Damage to the Firm’s reputation can therefore cause significant harm to the Firm’s business and prospects. Harm to the Firm’s reputation can arise from numerous sources, including, among others, employee misconduct, security breaches, compliance failures, litigation or regulatory outcomes or governmental investigations. The Firm’s reputation could also be harmed by the failure or perceived failure of an affiliate, joint-venturer or merchant banking portfolio company, or a vendor or other third party with which the Firm does business, to comply with laws or regulations. In addition, the Firm’s reputation or prospects may be significantly damaged by adverse publicity or negative information regarding the Firm, whether or not true, that may be posted on social media, non-mainstream news services or other parts of the internet, and this risk can be magnified by the speed and pervasiveness with which information is disseminated through those channels.
+ 
+Management of potential conflicts of interest has become increasingly complex as the Firm continues to expand its business activities through more numerous transactions, obligations and interests with and among the Firm’s clients. The failure or perceived failure to adequately address or appropriately disclose conflicts of interest has given rise to litigation and enforcement actions. Likewise, the failure or perceived failure to deliver appropriate standards of service and quality, to treat customers and clients fairly, to provide fiduciary products or services in accordance with the applicable legal and regulatory standards, or to handle or use confidential information of customers or clients appropriately or in compliance with applicable data protection and privacy laws and regulations has given rise to litigation and enforcement actions. In the future, a failure or perceived failure to appropriately address conflicts or fiduciary obligations could result in customer dissatisfaction, litigation and heightened regulatory scrutiny and enforcement actions, all of which can lead to lost
+
+20
+ 
+ 
+
+revenue and higher operating costs and cause serious harm to the Firm’s reputation.
+
+Actions by the financial services industry generally or by certain members of or individuals in the industry can also affect the Firm’s reputation. For example, the role played by financial services firms during and after the financial crisis, including concerns that consumers have been treated unfairly by financial institutions or that a financial institution had acted inappropriately with respect to the methods employed in offering products to customers, have damaged the reputation of the industry as a whole. Should any of these or other events or factors that can undermine the Firm’s reputation occur, there is no assurance that the additional costs and expenses that the Firm may need to incur to address the issues giving rise to the damage to its reputation could not adversely affect the Firm’s earnings and results of operations, or that damage to the Firm’s reputation will not impair the Firm’s ability to retain its existing or attract new customers, investors and employees.
+Item 1B. Unresolved Staff Comments.
+None.
+Item 2. Properties.
+JPMorgan Chase’s headquarters is located in New York City at 270 Park Avenue, a 50-story office building it owns.
+The Firm owned or leased facilities in the following locations at December 31, 2016.
+ 
+December 31, 2016
+(in millions)
+Approximate square footage
+ 
+ 
+United States(a)
+ 
+New York City, New York
+ 
+270 Park Ave, New York, New York
+1.3
+
+All other New York City locations
+8.9
+
+Total New York City, New York
+10.2
+
+ 
+ 
+Other U.S. locations
+ 
+Columbus/Westerville, Ohio
+3.7
+
+Chicago, Illinois
+2.9
+
+Wilmington/Newark, Delaware
+2.2
+
+Houston, Texas
+2.1
+
+Dallas/Fort Worth, Texas
+2.0
+
+Phoenix/Tempe, Arizona
+1.8
+
+Jersey City, New Jersey
+1.5
+
+All other U.S. locations
+35.5
+
+Total United States
+61.9
+
+ 
+ 
+Europe, the Middle East and Africa (“EMEA”)
+ 
+25 Bank Street, London, U.K.
+1.4
+
+All other U.K. locations
+3.2
+
+All other EMEA locations
+0.7
+
+Total EMEA
+5.3
+
+ 
+ 
+Asia Pacific, Latin America and Canada
+ 
+India
+2.9
+
+All other locations
+3.8
+
+Total Asia Pacific, Latin America and Canada
+6.7
+
+Total
+73.9
+
+(a)
+At December 31, 2016, the Firm owned or leased 5,258 retail branches in 23 states.
+The premises and facilities occupied by JPMorgan Chase are used across all of the Firm’s business segments and for corporate purposes. JPMorgan Chase continues to evaluate its current and projected space requirements and may determine from time to time that certain of its properties (including the premises and facilities noted above) are no longer necessary for its operations. There is no assurance that the Firm will be able to dispose of any such excess properties, premises, and facilities or that it will not incur charges in connection with such dispositions. Such disposition costs may be material to the Firm’s results of operations in a given period. For information on occupancy expense, see the Consolidated Results of Operations on pages 40–42.
+Item 3. Legal Proceedings.
+For a description of the Firm’s material legal proceedings, see Note 31.
+Item 4. Mine Safety Disclosures.
+Not applicable.
+
+
+ 
+ 
+21
+Part II
+
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+Market for registrant’s common equity
+The outstanding shares of JPMorgan Chase common stock are listed and traded on the New York Stock Exchange and the London Stock Exchange. For the quarterly high and low prices of and cash dividends declared on JPMorgan Chase’s common stock for the last two years, see the section entitled “Supplementary information – Selected quarterly financial data (unaudited)” on pages 272–273. For a comparison of the cumulative total return for JPMorgan Chase common stock with the comparable total return of the S&P 500 Index, the KBW Bank Index and the S&P Financial Index over the five-year period ended December 31, 2016, see “Five-year stock performance,”
+on page 35.
+ 
+For information on the common dividend payout ratio, see Capital actions in the Capital Risk Management section of Management’s discussion and analysis on page 84. For a discussion of restrictions on dividend payments, see Note 22 and Note 27. On January 31, 2017, there were 196,792 holders of record of JPMorgan Chase common stock. For information regarding securities authorized for issuance under the Firm’s employee stock-based compensation plans, see Part III, Item 12 on page 25.
+Repurchases under the common equity repurchase program
+For information regarding repurchases under the Firm’s common equity repurchase program, see Capital actions in the Capital Risk Management section of Management’s discussion and analysis on page 84.
+
+Shares repurchased, on a settlement-date basis, pursuant to the common equity repurchase program during 2016 were as follows.
+Year ended December 31, 2016
+ 
+Total shares of common stock repurchased
+ 
+Average price paid per share of common stock(a)
+ 
+Aggregate repurchases of common equity (in millions)(a)
+ 
+Dollar value
+of remaining
+authorized
+repurchase
+(in millions)(a)
+ 
+First quarter
+ 
+29,153,888
+
+ 
+$
+58.17
+
+ 
+$
+1,696
+
+ 
+$
+2,898
+
+ 
+Second quarter
+ 
+45,855,464
+
+ 
+61.93
+
+ 
+2,840
+
+ 
+58
+
+(b) 
+Third quarter
+ 
+35,606,864
+
+ 
+64.46
+
+ 
+2,295
+
+ 
+8,305
+
+ 
+October
+ 
+8,801,283
+
+ 
+67.73
+
+ 
+596
+
+ 
+7,709
+
+ 
+November
+ 
+10,475,045
+
+ 
+73.81
+
+ 
+773
+
+ 
+6,936
+
+ 
+December
+ 
+10,518,754
+
+ 
+83.86
+
+ 
+882
+
+ 
+6,054
+
+ 
+Fourth quarter
+ 
+29,795,082
+
+ 
+75.56
+
+ 
+2,251
+
+ 
+6,054
+
+ 
+Year-to-date
+ 
+140,411,298
+
+ 
+$
+64.68
+
+ 
+$
+9,082
+
+ 
+$
+6,054
+
+(c) 
+(a)
+Excludes commissions cost.
+(b)
+The $58 million unused portion under the prior Board authorization was canceled when the $10.6 billion repurchase program was authorized by the Board of Directors on June 29, 2016.
+(c)
+Represents the amount remaining under the $10.6 billion repurchase program.
+
+Item 6. Selected Financial Data.
+For five-year selected financial data, see “Five-year summary of consolidated financial highlights (unaudited)” on page 34.
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+Management’s discussion and analysis of financial condition and results of operations, entitled “Management’s discussion and analysis,” appears on pages 36–138. Such information should be read in conjunction with the Consolidated Financial Statements and Notes thereto, which appear on pages 141–271.
+
+ 
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+For a discussion of the quantitative and qualitative disclosures about market risk, see the Market Risk Management section of Management’s discussion and analysis on pages 116–123.
+
+22
+ 
+ 
+
+Item 8. Financial Statements and Supplementary Data.
+The Consolidated Financial Statements, together with the Notes thereto and the report thereon dated February 28, 2017, of PricewaterhouseCoopers LLP, the Firm’s independent registered public accounting firm, appear on pages 140–271.
+Supplementary financial data for each full quarter within the two years ended December 31, 2016, are included on pages 272–273 in the table entitled “Selected quarterly financial data (unaudited).” Also included is a “Glossary of terms and Acronyms’’ on pages 279-285.
+Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.
+None.
+
+Item 9A. Controls and Procedures.
+The internal control framework promulgated by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”), “Internal Control — Integrated Framework” (“COSO 2013”) provides guidance for designing, implementing and conducting internal control and assessing its effectiveness. The Firm used the COSO 2013 framework to assess the effectiveness of the Firm’s internal control over financial reporting as of December 31, 2016. See “Management’s report on internal control over financial reporting” on page 139.
+As of the end of the period covered by this report, an evaluation was carried out under the supervision and with the participation of the Firm’s management, including its Chairman and Chief Executive Officer and its Chief Financial Officer, of the effectiveness of its disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934). Based on that evaluation, the Chairman and Chief Executive Officer and the Chief Financial Officer concluded that these disclosure controls and procedures were effective. See Exhibits 31.1 and 31.2 for the Certification statements issued by the Chairman and Chief Executive Officer and Chief Financial Officer.
+ 
+The Firm is committed to maintaining high standards of internal control over financial reporting. Nevertheless, because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. In addition, in a firm as large and complex as JPMorgan Chase, lapses or deficiencies in internal controls may occur from time to time, and there can be no assurance that any such deficiencies will not result in significant deficiencies or material weaknesses in internal control in the future. For further information, see “Management’s report on internal control over financial reporting” on page 139. There was no change in the Firm’s internal control over financial reporting (as defined in Rule 13a-15(f) under the Securities Exchange Act of 1934) that occurred during the three months ended December 31, 2016, that has materially affected, or is reasonably likely to materially affect, the Firm’s internal control over financial reporting.
+Item 9B. Other Information.
+None.
+
+ 
+ 
+23
+Part III
+
+
+
+Item 10. Directors, Executive Officers and Corporate Governance.
+Executive officers of the registrant
+ 
+Age
+ 
+Name
+(at December 31, 2016)
+Positions and offices
+James Dimon
+60
+Chairman of the Board, Chief Executive Officer and President.
+Ashley Bacon
+47
+Chief Risk Officer since June 2013. He had been Deputy Chief Risk Officer since June 2012, prior to which he had been Global Head of Market Risk for the Investment Bank (now part of Corporate & Investment Bank).
+John L. Donnelly
+60
+Head of Human Resources.
+Mary Callahan Erdoes
+49
+Chief Executive Officer of Asset & Wealth Management.
+Stacey Friedman
+48
+General Counsel since January 1, 2016, prior to which she was Deputy General Counsel since July 2015 and General Counsel for the Corporate & Investment Bank since August 2012. Prior to joining JPMorgan Chase in 2012, she was a partner at the law firm of Sullivan & Cromwell LLP.
+Marianne Lake
+47
+Chief Financial Officer since January 1, 2013, prior to which she had been Chief Financial Officer of Consumer & Community Banking since 2009.
+Douglas B. Petno
+51
+Chief Executive Officer of Commercial Banking since January 2012. He had been Chief Operating Officer of Commercial Banking since October 2010, prior to which he had been Global Head of Natural Resources in the Investment Bank (now part of Corporate & Investment Bank).
+Daniel E. Pinto
+54
+Chief Executive Officer of the Corporate & Investment Bank since March 2014 and Chief Executive Officer of Europe, the Middle East and Africa since June 2011. He had been Co-Chief Executive Officer of the Corporate & Investment Bank from July 2012 until March 2014, prior to which he had been head or co-head of the Global Fixed Income business from November 2009 until July 2012.
+Gordon A. Smith
+58
+Chief Executive Officer of Consumer & Community Banking since December 2012, prior to which he had been Co-Chief Executive Officer since July 2012. He had been Chief Executive Officer of Card Services since 2007 and of the Auto Finance and Student Lending businesses since 2011.
+Matthew E. Zames
+46
+Chief Operating Officer since April 2013 and head of Mortgage Banking Capital Markets since January 2012. He had been Co-Chief Operating Officer from July 2012 until April 2013. He had been Chief Investment Officer from May until September 2012, co-head of the Global Fixed Income business from November 2009 until May 2012 and co-head of Mortgage Banking Capital Markets from July 2011 until January 2012, prior to which he had served in a number of senior Investment Banking Fixed Income management roles.
+
+Unless otherwise noted, during the five fiscal years ended December 31, 2016, all of JPMorgan Chase’s above-named executive officers have continuously held senior-level positions with JPMorgan Chase. There are no family relationships among the foregoing executive officers. Information to be provided in Items 10, 11, 12, 13 and 14 of the Form 10-K and not otherwise included herein is incorporated by reference to the Firm’s Definitive Proxy Statement for its 2017 Annual Meeting of Stockholders to be held on May 16, 2017, which will be filed with the SEC within 120 days of the end of the Firm’s fiscal year ended December 31, 2016.

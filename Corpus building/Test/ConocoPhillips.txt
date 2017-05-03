@@ -1,0 +1,995 @@
+PART I
+Unless otherwise indicated, “the company,” “we,” “our,” “us” and “ConocoPhillips” are used in this report to refer to the businesses of ConocoPhillips and its consolidated subsidiaries. Items 1 and 2—Business and Properties, contain forward-looking statements including, without limitation, statements relating to our plans, strategies, objectives, expectations and intentions that are made pursuant to the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. The words “anticipate,” “estimate,” “believe,” “budget,” “continue,” “could,” “intend,” “may,” “plan,” “potential,” “predict,” “seek,” “should,” “will,” “would,” “expect,” “objective,” “projection,” “forecast,” “goal,” “guidance,” “outlook,” “effort,” “target” and similar expressions identify forward-looking statements. The company does not undertake to update, revise or correct any forward-looking information unless required to do so under the federal securities laws. Readers are cautioned that such forward-looking statements should be read in conjunction with the company’s disclosures under the heading “CAUTIONARY STATEMENT FOR THE PURPOSES OF THE ‘SAFE HARBOR’ PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995,” beginning on page 72.
+Items 1 and 2. BUSINESS AND PROPERTIES
+CORPORATE STRUCTURE
+ConocoPhillips is the world’s largest independent exploration and production (E&P) company, based on proved reserves and production of liquids and natural gas. ConocoPhillips was incorporated in the state of Delaware on November 16, 2001, in connection with, and in anticipation of, the merger between Conoco Inc. and Phillips Petroleum Company. The merger between Conoco and Phillips was consummated on August 30, 2002.
+In April 2012, the ConocoPhillips Board of Directors approved the separation of our downstream business into an independent, publicly traded energy company, Phillips 66. Each ConocoPhillips stockholder received one share of Phillips 66 stock for every two shares of ConocoPhillips stock held at the close of business on the record date of April 16, 2012. The separation was completed on April 30, 2012, and activities related to Phillips 66 have been treated as discontinued operations for all periods prior to the separation.
+In 2012, we agreed to sell our interest in the North Caspian Sea Production Sharing Agreement (Kashagan) and our Nigeria and Algeria businesses (collectively, the “Disposition Group”). We sold our Nigeria business in the third quarter of 2014, and we sold Kashagan and our Algeria business in the fourth quarter of 2013. Results for the Disposition Group have been reported as discontinued operations in the applicable periods presented. For additional information on the sale of our Nigeria business, see Note 3—Discontinued Operations, in the Notes to Consolidated Financial Statements.
+Headquartered in Houston, Texas, we have operations and activities in 17 countries. Our key focus areas include safely operating producing assets, executing major developments and exploring for new resources in promising areas. Our portfolio includes resource-rich North American tight oil and oil sands assets; lower-risk conventional assets in North America, Europe, Asia and Australia; several liquefied natural gas (LNG) developments; and an inventory of global conventional and unconventional exploration prospects.
+At December 31, 2016, ConocoPhillips employed approximately 13,300 people worldwide.
+In November 2016, we announced our planned $5 billion to $8 billion asset disposition program, primarily associated with North American natural gas assets, over the next two years. For additional information on asset sales, see the “Outlook” section of Management’s Discussion and Analysis of Financial Condition and Results of Operations, and Note 6—Assets Held for Sale or Sold, in the Notes to Consolidated Financial Statements.
+ 
+1
+Table of Contents
+
+SEGMENT AND GEOGRAPHIC INFORMATION
+For operating segment and geographic information, see Note 24—Segment Disclosures and Related Information, in the Notes to Consolidated Financial Statements, which is incorporated herein by reference.
+We explore for, produce, transport and market crude oil, bitumen, natural gas, LNG and natural gas liquids on a worldwide basis. At December 31, 2016, our operations were producing in the United States, Norway, the United Kingdom, Canada, Australia, Timor-Leste, Indonesia, China, Malaysia, Qatar and Libya.
+The information listed below appears in the “Oil and Gas Operations” disclosures following the Notes to Consolidated Financial Statements and is incorporated herein by reference:
+ 
+ 	•	 	Proved worldwide crude oil, natural gas liquids, natural gas and bitumen reserves.
+ 	•	 	Net production of crude oil, natural gas liquids, natural gas and bitumen.
+ 	•	 	Average sales prices of crude oil, natural gas liquids, natural gas and bitumen.
+ 	•	 	Average production costs per barrel of oil equivalent (BOE).
+ 	•	 	Net wells completed, wells in progress and productive wells.
+ 	•	 	Developed and undeveloped acreage.
+ 
+2
+Table of Contents
+
+The following table is a summary of the proved reserves information included in the “Oil and Gas Operations” disclosures following the Notes to Consolidated Financial Statements. Approximately 81 percent of our proved reserves are located in politically stable countries that belong to the Organization for Economic Cooperation and Development. Natural gas reserves are converted to BOE based on a 6:1 ratio: six thousand cubic feet (MCF) of natural gas converts to one BOE. See Management’s Discussion and Analysis of Financial Condition and Results of Operations for a discussion of factors that will enhance the understanding of the following summary reserves table.
+ 
+ 	  	Millions of Barrels of Oil Equivalent	 
+Net Proved Reserves at December 31
+  	 	                2016	 	  	 	                2015	 	  	 	                2014	 
+  	
+ 
+ 
+ 
+Crude oil
+  				  				  			
+Consolidated operations
+  	 	2,047	 	  	 	2,270	 	  	 	2,605 	 
+Equity affiliates
+  	 	88	 	  	 	93	 	  	 	103 	 
+ 
+ 
+Total Crude Oil
+  	 	2,135	 	  	 	2,363	 	  	 	2,708 	 
+ 
+ 
+Natural gas liquids
+  				  				  			
+Consolidated operations
+  	 	457	 	  	 	508	 	  	 	662 	 
+Equity affiliates
+  	 	47	 	  	 	50	 	  	 	53 	 
+ 
+ 
+Total Natural Gas Liquids
+  	 	504	 	  	 	558	 	  	 	715 	 
+ 
+ 
+Natural gas
+  				  				  			
+Consolidated operations
+  	 	1,807	 	  	 	1,988	 	  	 	2,543 	 
+Equity affiliates
+  	 	730	 	  	 	878	 	  	 	874 	 
+ 
+ 
+Total Natural Gas
+  	 	2,537	 	  	 	2,866	 	  	 	3,417 	 
+ 
+ 
+Bitumen
+  				  				  			
+Consolidated operations
+  	 	159	 	  	 	687	 	  	 	598 	 
+Equity affiliates
+  	 	1,089	 	  	 	1,706	 	  	 	1,468 	 
+ 
+ 
+Total Bitumen
+  	 	1,248	 	  	 	2,393	 	  	 	2,066 	 
+ 
+ 
+Total consolidated operations
+  	 	4,470	 	  	 	5,453	 	  	 	6,408 	 
+Total equity affiliates
+  	 	1,954	 	  	 	2,727	 	  	 	2,498 	 
+ 
+ 
+Total company
+  	 	6,424	 	  	 	8,180	 	  	 	8,906 	 
+ 
+ 
+Total production, including Libya, of 1,569 thousand barrels of oil equivalent per day (MBOED) decreased 1 percent in 2016 compared with 2015. The decrease in total average production primarily resulted from normal field decline and the loss of 72 MBOED mainly attributable to the 2015 dispositions of several non-core assets in the Lower 48, western Canada and the sale of our interest in the Polar Lights Company in Russia. The decrease in production was partly offset by additional production from major developments, including tight oil plays in the Lower 48; APLNG in Australia; the Western North Slope in Alaska; the Kebabangan gas field in Malaysia; and the Greater Ekofisk Area in Norway. Improved drilling and well performance in Canada, Norway, the Lower 48, and China, as well as lower unplanned downtime in the Lower 48 also partly offset the decrease in production. Assets sold in 2016 produced 27 MBOED and 36 MBOED in 2016 and 2015, respectively.
+Our worldwide annual average realized price was $28.35 per BOE in 2016, a decrease of 17 percent compared with $34.34 per BOE in 2015, which reflected lower average realized prices across all commodities. Our worldwide annual average crude oil price decreased 15 percent in 2016, from $48.26 per barrel in 2015 to $40.86 per barrel in 2016. Additionally, our worldwide annual average natural gas liquids prices decreased 6 percent, from $17.79 per barrel in 2015 to $16.68 per barrel in 2016. Our worldwide annual average natural gas price decreased 24 percent, from $3.96 per MCF in 2015 to $3.00 per MCF in 2016. Average annual bitumen prices also decreased 18 percent, from $18.72 per barrel in 2015 to $15.27 per barrel in 2016.
+ 
+3
+Table of Contents
+
+ALASKA
+The Alaska segment primarily explores for, produces, transports and markets crude oil, natural gas liquids, natural gas and LNG. We are the largest crude oil producer in Alaska and have major ownership interests in two of North America’s largest oil fields located on Alaska’s North Slope: Prudhoe Bay and Kuparuk. We also have a significant operating interest in the Alpine Field, located on the Western North Slope. Additionally, we are one of Alaska’s largest owners of state, federal and fee exploration leases, with approximately 0.5 million net undeveloped acres at year-end 2016. Following the impairment of our Chukchi Sea leases in the fourth quarter of 2015, we surrendered 0.3 million acres in the Chukchi Sea in May 2016. In 2016, Alaska operations contributed 19 percent of our worldwide liquids production and less than 1 percent of our natural gas production.
+ 
+ 	 	  	2016	 
+  	 	Interest	 	 	 	Operator	 	  	 
+Liquids
+MBD	 
+* 	 	 
+Natural Gas
+MMCFD	 
+** 	 	 
+Total
+MBOED	 
+ 
+  	
+ 
+ 
+ 	 	
+ 
+ 
+ 	  	
+ 
+ 
+ 
+Average Daily Net Production
+  				 				  				 				 			
+Greater Prudhoe Area
+  	 	36.1	% 	 	 	BP	 	  	 	88	 	 	 	9	 	 	 	90	 
+Greater Kuparuk Area
+  	 	52.2–55.5	 	 	 	ConocoPhillips	 	  	 	50	 	 	 	-	 	 	 	50	 
+Western North Slope
+  	 	78.0	 	 	 	ConocoPhillips	 	  	 	37	 	 	 	1	 	 	 	37	 
+Cook Inlet Area
+  	 	33.3-100.0	 	 	 	ConocoPhillips	 	  	 	-	 	 	 	15	 	 	 	2	 
+ 
+ 
+Total Alaska
+  				 				  	 	175	 	 	 	25	 	 	 	179	 
+ 
+ 
+*Thousands of barrels per day.
+**Millions of cubic feet per day.
+Greater Prudhoe Area
+The Greater Prudhoe Area includes the Prudhoe Bay Field and five satellite fields, as well as the Greater Point McIntyre Area fields. Prudhoe Bay, the largest oil field on Alaska’s North Slope, is the site of a large waterflood and enhanced oil recovery operation, as well as a gas plant which processes natural gas to recover natural gas liquids before reinjection into the reservoir. Prudhoe Bay’s satellites are Aurora, Borealis, Polaris, Midnight Sun and Orion, while the Point McIntyre, Niakuk, Raven, Lisburne and North Prudhoe Bay State fields are part of the Greater Point McIntyre Area.
+Greater Kuparuk Area
+We operate the Greater Kuparuk Area, which consists of the Kuparuk Field and four satellite fields: Tarn, Tabasco, Meltwater and West Sak. Kuparuk is located 40 miles west of Prudhoe Bay. Field installations include three central production facilities which separate oil, natural gas and water, as well as a separate seawater treatment plant. Development drilling at Kuparuk consists of rotary-drilled wells and horizontal multi-laterals from existing well bores utilizing coiled-tubing drilling.
+Drill Site 2S, in the southwestern area of the Kuparuk Field, was sanctioned in October 2014. First oil was achieved in October 2015, and completion of the first phase of the project was achieved in 2016.
+The 1H Northeast West Sak (NEWS) oil development targeting the West Sak reservoir in the Kuparuk River Unit, was sanctioned in March 2015. First production is anticipated in 2018.
+Western North Slope
+On the Western North Slope, we operate the Colville River Unit, which includes the Alpine Field and three satellite fields: Nanuq, Fiord and Qannik. Alpine is located 34 miles west of Kuparuk. In October 2015, first oil was achieved at Alpine West CD5, a new drill site which extends the Alpine reservoir west into the National Petroleum Reserve-Alaska (NPR-A). During the year, we approved drilling an additional 18 wells, bringing CD5 up to its full permit capacity.
+ 
+4
+Table of Contents
+
+The Greater Mooses Tooth Unit, the first unit established entirely within the NPR-A, was formed in 2008. In 2017, we began construction in the unit, which is currently planned to have two drill sites; Greater Mooses Tooth #1 and #2, with expected first oil in 2018 and 2020, respectively.
+Cook Inlet Area
+We have a 100 percent interest and are the operator of the Kenai LNG Facility in the Cook Inlet Area. The Kenai LNG Facility includes a 1.6 million-tons-per-year capacity plant, as well as docking and loading facilities for LNG tankers. LNG from the plant has historically been transported and sold to utility companies in Japan. In February 2016, our export license was renewed for an additional two years. However, there was no LNG export program in 2016 due to market conditions. We are currently marketing this facility.
+In April and October 2016, we sold our interests in the Beluga River Unit natural gas field and the North Cook Inlet Unit, respectively, both in the Cook Inlet Area. The full-year 2016 production from the assets sold was 2 MBOED.
+Point Thomson
+We own a 4.9 percent interest in the Point Thomson Unit, which is located approximately 60 miles east of Prudhoe Bay. An Initial Production System (IPS) was brought online in April 2016, and achieved full production of 400 BOED net of condensate in December.
+Alaska North Slope Gas
+In 2016, we, along with affiliates of Exxon Mobil Corporation, BP p.l.c. and Alaska Gasline Development Corporation (AGDC), a state-owned corporation (collectively, the “AKLNG co-venturers”), completed preliminary front-end engineering and design (pre-FEED) technical work for a potential LNG project which would liquefy and export natural gas from Alaska’s North Slope and deliver it to market. In September 2016, we, along with the affiliates of ExxonMobil and BP, indicated our intention not to progress into the next phase of the project due to changes in the economic environment. Given AGDC’s intention to continue efforts to advance a North Slope Gas project, the AKLNG co-venturers executed certain agreements to enhance AGDC’s ability to do so. We remain supportive of AGDC’s efforts to progress a project.
+Exploration
+In 2016, we drilled three exploration wells in the NPR-A. Two of these wells, Tinmiaq 2 and 6, form the Willow discovery, which is located in the northeast portion of the NPR-A. The third exploration well was recorded to dry hole expense in the fourth quarter of 2016. Appraisal of the Willow discovery commenced in January 2017 with the acquisition of 3-D seismic. In a follow-up to the Willow discovery, we were successful in December’s state and federal lease sales on the Western North Slope, where we were the high bidder on 139 tracts for a total of 737,252 gross acres.
+Transportation
+We transport the petroleum liquids produced on the North Slope to south central Alaska through an 800-mile pipeline that is part of Trans-Alaska Pipeline System (TAPS). We have a 29.1 percent ownership interest in TAPS, and we also have ownership interests in the Alpine, Kuparuk and Oliktok pipelines on the North Slope.
+Our wholly-owned subsidiary, Polar Tankers, Inc., manages the marine transportation of our North Slope production, using five company-owned, double-hulled tankers, and charters third-party vessels as necessary. The tankers deliver oil from Valdez, Alaska, primarily to refineries on the west coast of the United States.
+ 
+5
+Table of Contents
+
+LOWER 48
+The Lower 48 segment consists of operations located in the U.S. Lower 48 states and the Gulf of Mexico. The Lower 48 business is organized within three regions covering the Gulf Coast, Mid-Continent and Rockies. As a result of tight oil opportunities, we have directed our investments toward certain shorter cycle time, low cost-of-supply plays. In July 2015, we announced our plan to reduce future deepwater exploration spending. We have subsequently terminated our Gulf of Mexico deepwater drillship contracts. We hold 12.4 million net onshore and offshore acres in the Lower 48. In 2016, the Lower 48 contributed 30 percent of our worldwide liquids production and 32 percent of our natural gas production.
+ 
+ 	 	  	2016	 
+  	 	        Interest	 	 	 	        Operator	 	  	 
+        Liquids
+MBD	 
+ 	  	 
+        Natural Gas
+MMCFD	 
+ 	  	 
+Total 
+        MBOED 	 
+ 
+  	
+ 
+ 
+ 	 	
+ 
+ 
+ 	  	
+ 
+ 
+ 
+Average Daily Net Production
+  				 				  				  				  			
+Eagle Ford
+  	 	Various	% 	 	 	Various	 	  	 	129	 	  	 	193	 	  	 	161 	 
+Gulf of Mexico
+  	 	Various	 	 	 	Various	 	  	 	15	 	  	 	13	 	  	 	17 	 
+Gulf Coast—Other
+  	 	Various	 	 	 	Various	 	  	 	5	 	  	 	18	 	  	 	8 	 
+ 
+ 
+Total Gulf Coast
+  				 				  	 	149	 	  	 	224	 	  	 	186 	 
+ 
+ 
+Permian
+  	 	Various	 	 	 	Various	 	  	 	42	 	  	 	130	 	  	 	64 	 
+Barnett
+  	 	Various	 	 	 	Various	 	  	 	5	 	  	 	36	 	  	 	11 	 
+Anadarko Basin
+  	 	Various	 	 	 	Various	 	  	 	5	 	  	 	102	 	  	 	22 	 
+ 
+ 
+Total Mid-Continent
+  				 				  	 	52	 	  	 	268	 	  	 	97 	 
+ 
+ 
+Bakken
+  	 	Various	 	 	 	Various	 	  	 	53	 	  	 	50	 	  	 	61 	 
+Wyoming/Uinta
+  	 	Various	 	 	 	Various	 	  	 	-	 	  	 	89	 	  	 	15 	 
+Niobrara
+  	 	Various	 	 	 	Various	 	  	 	2	 	  	 	4	 	  	 	3 	 
+San Juan
+  	 	Various	 	 	 	Various	 	  	 	27	 	  	 	584	 	  	 	124 	 
+ 
+ 
+Total Rockies
+  				 				  	 	82	 	  	 	727	 	  	 	203 	 
+ 
+ 
+Total U.S. Lower 48
+  				 				  	 	283	 	  	 	1,219	 	  	 	486 	 
+ 
+ 
+Onshore
+We hold 12.3 million net acres of onshore conventional and unconventional acreage in the Lower 48, the majority of which is either held by production or owned by the company. Our unconventional holdings total approximately 2.6 million net acres in the following areas:
+ 
+ 	•	 	900,000 net acres in the San Juan Basin, located in northwestern New Mexico and southwestern Colorado.
+ 	•	 	620,000 net acres in the Bakken, located in North Dakota and eastern Montana.
+ 	•	 	213,000 net acres in the Eagle Ford, located in South Texas.
+ 	•	 	104,000 net acres in the Niobrara, located in northeastern Colorado.
+ 	•	 	123,500 net acres in the Permian, located in West Texas and southeastern New Mexico.
+ 	•	 	68,000 net acres in the Barnett, located in north central Texas.
+ 	•	 	591,000 net acres in other unconventional exploration plays.
+ 
+6
+Table of Contents
+
+The majority of our 2016 onshore production originated from the Eagle Ford, San Juan, Permian and Bakken. Onshore activities in 2016 were centered mostly on continued development of emerging and existing assets, with an emphasis on areas with low cost of supply, particularly in growing unconventional plays. The 2016 drilling activity levels declined relative to 2015 due to reduced capital spending in the low commodity price environment. Our major focus areas in 2016 included the following:
+ 
+ 	•	 	Eagle Ford—The Eagle Ford scaled down full-field development in 2016. We operated three rigs on average in 2016, resulting in 69 operated wells drilled and 80 operated wells brought online. Production decreased 7 percent in 2016 compared with 2015, and reached a net peak of 176 MBOED, compared with 190 MBOED in 2015.
+ 	•	 	Bakken—We operated two rigs on average throughout the year in the Bakken. We continued our pad drilling efficiency, drilling 34 operated wells during the year and bringing 37 operated wells online. We achieved net peak production of 72 MBOED in 2016, compared with 80 MBOED in 2015.
+ 	•	 	San Juan Basin—The San Juan Basin includes significant conventional gas production, which yields approximately 20 percent natural gas liquids, as well as the majority of our U.S. coalbed methane (CBM) production. We hold approximately 1.3 million net acres of oil and gas leases by production in San Juan, including approximately 900,000 net unconventional acres of lease rights.
+ 	•	 	Permian Basin—The Permian Basin is an area where we are leveraging our conventional legacy position by utilizing new technology to improve the ultimate recovery and value from these fields. This technology should also identify new, unconventional plays across the region. We hold approximately 1.0 million net acres in the Permian, which includes 123,500 net unconventional acres. The Permian Basin produced 64 MBOED in 2016, which includes 15 MBOED of unconventional production.
+In 2015, we completed the sale of certain non-core assets in East Texas and North Louisiana and South Texas. Production from the assets sold was 33 MBOED, approximately 6 percent of the total Lower 48 segment production in 2015. In the second quarter of 2016, we completed the sale of certain non-core assets in the Delaware basin. The full-year 2016 production from the assets sold was 1 MBOED.
+Gulf of Mexico
+At year-end 2016, our portfolio of producing properties in the Gulf of Mexico primarily consisted of one operated field and three fields operated by co-venturers, including:
+ 
+ 	•	 	75 percent operated working interest in the Magnolia Field in Garden Banks Blocks 783 and 784.
+ 	•	 	15.9 percent nonoperated working interest in the unitized Ursa Field located in the Mississippi Canyon Area.
+ 	•	 	15.9 percent nonoperated working interest in the Princess Field, a northern subsalt extension of the Ursa Field.
+ 	•	 	12.4 percent nonoperated working interest in the unitized K2 Field, comprised of seven blocks in the Green Canyon Area.
+Exploration
+ 
+ 	•	 	Conventional Exploration
+At December 31, 2016, we held approximately 73,000 net acres in the deepwater Gulf of Mexico.
+We own a 30 percent nonoperated working interest in the Shenandoah discovery, which was announced in 2009, and had a net book value of $286 million at December 31, 2016. Appraisal drilling continued in 2016 with the fifth Shenandoah well reaching total depth in the third quarter. In February 2017, the sixth Shenandoah well, Shenandoah WR52-3, reached total depth. Drilling of a sidetrack well from Shenandoah WR52-3 also commenced in February.
+ 
+7
+Table of Contents
+
+As part of our continued phased exit from deepwater exploration, in 2016, we decided not to pursue further development of the nonoperated Gibson and Tiber wells, collectively known as the Tigris project. Accordingly, we recorded dry hole expenses for previously suspended Gibson and Tiber wells, and impairment charges for the applicable leaseholds.
+We recorded dry hole and associated leasehold impairment expense in the first quarter of 2016 for the Melmar exploration well.
+ 
+ 	•	 	Unconventional Exploration
+In 2016, we drilled a total of five operated unconventional wells, primarily in the Eagle Ford. Our onshore focus areas include the Permian in the Delaware Basin and the Niobrara in the Denver-Julesburg Basin, as well as several emerging plays. We continue to assess and appraise these and other unconventional opportunities.
+Facilities
+Freeport LNG Terminal
+In July 2013, we agreed with Freeport LNG Development, L.P. to terminate our long-term agreement to use 0.9 billion cubic feet per day of regasification capacity at Freeport’s 1.5 billion cubic-feet-per-day LNG receiving terminal in Quintana, Texas. The termination agreement conditions were satisfied in 2014. Our terminal regasification capacity was reduced to zero on July 1, 2016. For additional information, see Note 7—Investments, Loans and Long-Term Receivables, in the Notes to Consolidated Financial Statements.
+Golden Pass LNG Terminal
+We have a 12.4 percent ownership interest in the Golden Pass LNG Terminal and affiliated Golden Pass Pipeline, with a combined net book value of approximately $260 million at December 31, 2016. It is located adjacent to the Sabine-Neches Industrial Ship Channel northwest of Sabine Pass, Texas. The terminal became commercially operational in May 2011. We hold terminal and pipeline capacity for the receipt, storage and regasification of the LNG purchased from Qatar Liquefied Gas Company Limited (3) (QG3) and the transportation of regasified LNG to interconnect with major interstate natural gas pipelines. Utilization of the terminal has been and is expected to be limited, as market conditions currently favor the flow of LNG to European and Asian markets. As a result, we are evaluating opportunities to optimize the value of the terminal facilities.
+Greater Northern Iron Ore Properties Trust
+We held the reversionary interest in the Greater Northern Iron Ore Properties trust (the Trust), a grantor trust that owns mineral and surface interests in the Mesabi Iron Range in northeastern Minnesota and certain other personal property. Pursuant to the terms of the Trust Agreement, the Trust terminated on April 6, 2015. On November 3, 2016, the end of the wind-down period, documents memorializing our ownership of certain Trust property, including all the Trust’s mineral properties and active leases, were delivered to us. The $144 million fair value of the Trust’s net assets transferred to us and a gain of $88 million were both recorded in the fourth quarter of 2016. On December 8, 2016, we closed on a sale of the Trust’s and certain other assets for net proceeds of $148 million. For additional information, see Note 6—Assets Held for Sale or Sold, in the Notes to Consolidated Financial Statements.
+Other
+ 
+ 	•	 	San Juan Gas Plant—We operate and own a 50 percent interest in the San Juan Gas Plant, a 550 million cubic-feet-per-day capacity natural gas processing plant in Bloomfield, New Mexico.
+ 	•	 	Lost Cabin Gas Plant—We operate and own a 46 percent interest in the Lost Cabin Gas Plant, a 312 million cubic-feet-per-day capacity natural gas processing facility in Lysite, Wyoming.
+ 	•	 	Helena Condensate Processing Facility—We operate and own the Helena Condensate Processing Facility, a 90,000 barrel-per-day condensate processing plant located in Kenedy, Texas.
+ 
+8
+Table of Contents
+
+ 	•	 	Sugarloaf Condensate Processing Facility—We operate and own an 87.5 percent interest in the Sugarloaf Condensate Processing Facility, a 30,000 barrel-per-day condensate processing plant located near Pawnee, Texas.
+ 	•	 	Bordovsky Condensate Processing Facility—We operate and own the Bordovsky Condensate Processing Facility, a 15,000 barrel-per-day condensate processing plant located in Kenedy, Texas.
+CANADA
+Our Canadian operations mainly consist of natural gas fields in western Canada and oil sands developments in the Athabasca Region of northeastern Alberta. In 2016, operations in Canada contributed 23 percent of our worldwide liquids production and 14 percent of our natural gas production.
+ 
+ 	 	  	2016	 
+  	 	    Interest	 	 	 	Operator	 	  	 
+    Liquids
+MBD	 
+ 	  	 
+
+    Natural
+Gas
+MMCFD	 
+ 
+ 	  	 
+    Bitumen
+MBD	 
+ 	  	 
+Total 
+    MBOED 	 
+ 
+  	
+ 
+ 
+ 	 	
+ 
+ 
+ 	  	
+ 
+ 
+ 
+Average Daily Net Production
+  				 				  				  				  				  			
+Western Canada
+  	 	Various	% 	 	 	Various	 	  	 	30	 	  	 	524	 	  	 	-	 	  	 	117 	 
+Surmont
+  	 	50.0	 	 	 	ConocoPhillips	 	  	 	-	 	  	 	-	 	  	 	35	 	  	 	35 	 
+Foster Creek
+  	 	50.0	 	 	 	Cenovus	 	  	 	-	 	  	 	-	 	  	 	70	 	  	 	70 	 
+Christina Lake
+  	 	50.0	 	 	 	Cenovus	 	  	 	-	 	  	 	-	 	  	 	78	 	  	 	78 	 
+ 
+ 
+Total Canada
+  				 				  	 	30	 	  	 	524	 	  	 	183	 	  	 	300 	 
+ 
+ 
+Western Canada
+Our operations in western Canada extend across Alberta and British Columbia. We operate or have ownership interests in approximately 30 natural gas processing plants in the region, and, as of December 31, 2016, held leasehold rights in 3.1 million net acres in western Canada. Our investments in 2016 were focused mainly on opportunities in the following three core development areas:
+ 
+ 	•	 	Deep Basin—We hold leasehold rights in 1.3 million net acres in the Deep Basin, located in northwest Alberta and northeast British Columbia. In 2016, Deep Basin achieved average net production of 46 MBOED, and we drilled eight horizontal wells.
+ 	•	 	Kaybob-Edson—We hold leasehold rights in 0.7 million net acres in the Kaybob-Edson Area, located south of the Deep Basin in west central Alberta. Net production for Kaybob-Edson averaged 37 MBOED in 2016, and we drilled 15 horizontal wells.
+ 	•	 	Clearwater—We hold leasehold rights in 0.8 million net acres in the Clearwater area, located in west central Alberta, south of Kaybob-Edson. In 2016, average net production for Clearwater was 34 MBOED.
+Oil Sands
+Our bitumen resources in Canada are produced via an enhanced thermal oil recovery method called steam-assisted gravity drainage (SAGD), whereby steam is injected into the reservoir, effectively liquefying the heavy bitumen, which is recovered and pumped to the surface for further processing. We hold approximately 0.9 million net acres of land in the Athabasca Region of northeastern Alberta.
+ 
+ 	•	 	Surmont—The Surmont oil sands leases are located approximately 35 miles south of Fort McMurray, Alberta. Surmont is a 50/50 joint venture with Total S.A. The Surmont 2 project achieved first production in 2015, and production continued to ramp up in 2016. Net production at Surmont increased 21 MBOED in 2016.
+ 
+9
+Table of Contents
+
+ 	•	 	FCCL—FCCL Partnership, a Canadian upstream general partnership, is a 50/50 business venture with Cenovus Energy Inc. FCCL’s assets are operated by Cenovus and include the Foster Creek, Christina Lake and Narrows Lake SAGD bitumen developments. FCCL continues to progress development plans for each of these assets.
+ 
+ 	¡ 	 	Foster Creek
+Foster Creek is located approximately 200 miles northeast of Edmonton, Alberta. With the achievement of first production at Phase G in 2016, there are seven producing phases at Foster Creek, Phases A through G. Net production at Foster Creek increased approximately 5 MBOED in 2016.
+ 
+ 	¡ 	 	Christina Lake
+Christina Lake is located approximately 75 miles south of Fort McMurray, Alberta. Christina Lake Phase F achieved first production in 2016. There are now six producing phases at Christina Lake. Construction on Phase G, which has a design capacity of 50 MBOED gross, will resume in 2017 after being deferred since 2014. First production from Phase G is expected in the second half of 2019. Net production at Christina Lake increased approximately 6 MBOED in 2016.
+ 
+ 	¡ 	 	Narrows Lake
+Narrows Lake Phase A, was sanctioned in late 2012 and is expected to have 45 MBOED of gross design production capacity. Construction has been deferred, however, we expect to progress engineering activity in 2017.
+Exploration
+We hold exploration acreage in four areas of Canada: onshore western Canada, offshore eastern Canada, the Mackenzie Delta/Beaufort Sea Region and the Arctic Islands. Our primary exploration focus is on unconventional plays in western Canada.
+ 
+ 	•	 	Conventional Exploration
+During 2014, we entered into a farm-in agreement to acquire a 30 percent nonoperated interest in six exploration licenses covering approximately five million gross acres in the deepwater Shelburne Basin, offshore Nova Scotia. In 2016, we recorded dry hole expenses associated with two wells in the Shelburne Basin, and an impairment charge for the undeveloped leasehold costs. Other related costs have been accrued.
+In August 2016, we sold our Newfoundland Partnership, which held a 30 percent nonoperated interest in the exploration license in the Flemish Pass Basin, offshore Newfoundland.
+ 
+ 	•	 	Unconventional Exploration
+We hold approximately 0.7 million net acres in the emerging Montney, Muskwa, Duvernay and Canol unconventional plays in Alberta, northeastern British Columbia and the Northwest Territories. During 2016, we completed a lease swap for unproved lands in the Blueberry area and continued to drill exploration and appraisal wells in the Montney play, which extends from British Columbia into Alberta. Full-year 2016 production from the assets swapped was 5 MBOED. For additional information, see Note 6—Assets Held for Sale or Sold, in the Notes to Consolidated Financial Statements.
+ 
+10
+Table of Contents
+
+EUROPE AND NORTH AFRICA
+The Europe and North Africa segment consists of operations and exploration activities in Norway, the United Kingdom and Libya. In 2016, operations in Europe and North Africa contributed 14 percent of our worldwide liquids production and 12 percent of natural gas production.
+Norway
+  	2016
+  				 		  	
+ 
+  	 	        Interest	  	 	        Operator	  	        Liquids MBD	  	Natural Gas MMCFD	  	Total  MBOED 
+  	
+ 
+ 
+ 	 	
+ 
+  	
+ 
+Average Daily Net Production
+  				 		  		  		  	
+Greater Ekofisk Area
+  	 	35.1	% 	 	ConocoPhillips	  	54	  	48	  	62 
+Alvheim
+  	 	20.0	  	 	Aker BP	  	11	  	10	  	13 
+Heidrun
+  	 	24.0	  	 	Statoil	  	15	  	15	  	17 
+Other
+  	 	Various	  	 	Statoil	  	16	  	81	  	29 
+ 
+Total Norway
+  				 		  	96	  	154	  	121 
+ 
+The Greater Ekofisk Area is located approximately 200 miles offshore Stavanger, Norway, in the North Sea, and comprises three producing fields: Ekofisk, Eldfisk and Embla. Crude oil is exported to Teesside, England, and the natural gas is exported to Emden, Germany. Ekofisk South achieved first production in 2013, while Eldfisk II achieved startup in January 2015. Continued development drilling in the Greater Ekofisk Area will contribute additional production over the coming years, as additional wells come online.
+The Alvheim development is located in the northern part of the North Sea and consists of a floating production, storage and offloading (FPSO) vessel and subsea installations. Produced crude oil is exported via shuttle tankers, and natural gas is transported to the Scottish Area Gas Evacuation (SAGE) terminal at St. Fergus, Scotland, through the SAGE pipeline.
+The Heidrun Field is located in the Norwegian Sea. Produced crude oil is stored in a floating storage unit and exported via shuttle tankers. Part of the natural gas is currently injected into the reservoir for optimization of crude oil production, some gas is exported to the Continent via gas processing terminals in Norway, while the remainder is exported for use as feedstock in a methanol plant in Norway, in which we own an 18 percent interest.
+We also have varying ownership interests in five other producing fields in the Norway sector of the North Sea and in the Norwegian Sea, as well as the Aasta Hansteen development. The operator is targeting first gas for Aasta Hansteen by late 2018.
+Exploration
+We participated in two nonoperated exploration wells in the Oseberg and Alvheim areas. Both wells were discoveries and are currently undergoing evaluation. We were awarded three licenses in 2016, including the PL845 and PL782SB, both with interests of 40 percent, and PL859, which has a 15 percent interest.
+Transportation
+We own a 35.1 percent interest in the Norpipe Oil Pipeline System, a 220-mile pipeline which carries crude oil from Ekofisk to a crude oil stabilization and natural gas liquids processing facility in Teesside, England.
+ 
+11
+Table of Contents
+
+United Kingdom
+ 
+  	 	2016	  
+  				 				  	
+ 
+ 
+ 
+  	 	Interest	  	 	 	    Operator	  	  	 
+ 	Liquids
+MBD	  
+  	  	 
+ 
+ 
+Natural
+Gas
+MMCFD
+  
+  
+  
+  	 
+ 	Total
+MBOED	  
+  
+  	
+ 
+ 
+ 	 	
+ 
+ 
+ 	  	
+ 
+ 
+ 
+Average Daily Net Production
+  				 				  				  				  			
+Britannia
+  	 	58.7	% 	 	 	ConocoPhillips	  	  	 	4	  	  	 	77	  	  	 	17	  
+Britannia Satellites
+  	 	26.3–83.5	* 	 	 	ConocoPhillips	  	  	 	12	  	  	 	72	  	  	 	24	  
+J-Area
+  	 	32.5–36.5	  	 	 	ConocoPhillips	  	  	 	10	  	  	 	60	  	  	 	20	  
+Southern North Sea
+  	 	Various	  	 	 	ConocoPhillips	  	  	 	-	  	  	 	49	  	  	 	8	  
+East Irish Sea
+  	 	100.0	  	 	 	HRL	  	  	 	-	  	  	 	42	  	  	 	7	  
+Other
+  	 	Various	  	 	 	Various	  	  	 	5	  	  	 	5	  	  	 	6	  
+ 
+ 
+Total United Kingdom
+  				 				  	 	31	  	  	 	305	  	  	 	82	  
+ 
+ 
+* Includes the Chevron-operated Alder field, ConocoPhillips equity 26.3%.
+  				 				  				  				  			
+Britannia is one of the largest natural gas and condensate fields in the North Sea. We assumed operatorship of Britannia in August 2015, following the acquisition of third party equity in Britannia Operator Limited, which is now wholly owned by ConocoPhillips. Condensate is delivered through the Forties Pipeline to an oil stabilization and processing plant near the Grangemouth Refinery in Scotland, while natural gas is transported through Britannia’s line to St. Fergus, Scotland. The Britannia satellite fields, Callanish, Brodgar, Enochdhu and Alder, produce via subsea manifolds and pipelines linked to the Britannia platform. Project startups for the Brodgar H3 susbsea well, and Enochdhu, a single well tie back to Callanish, were achieved in 2015. First gas was achieved from Alder, a single well tie back to Britannia, in the fourth quarter of 2016.
+The J-Area consists of the Judy/Joanne, Jade and Jasmine fields, located in the U.K. Central North Sea. The Jasmine Field is a high-pressure, high-temperature gas condensate reservoir located approximately six miles west of the Judy Platform. The development includes a 24-slot wellhead platform with a bridge-linked accommodation and utilities platform, a six-mile, 16-inch multi-phase pipeline bundle, and a riser and processing platform bridge-linked to the existing Judy Platform.
+We have various ownership interests in several producing gas fields in the Rotliegendes and Carboniferous areas of the Southern North Sea. Decommissioning activity in the Southern North Sea is ongoing, with final production from the Viking transportation system and associated satellites achieved in early 2016. Our interests in the East Irish Sea include the Millom, Dalton and Calder fields, which are operated on our behalf by a third party.
+We own a 24 percent interest in the Clair Field, located in the Atlantic Margin. Clair Ridge is the second phase of development for the Clair Field and is comprised of a 36-slot drilling and production facility with a bridge-linked accommodation and utilities platform. The new facilities will tie into existing oil and gas export pipelines to the Shetland Islands. Initial production for Clair Ridge is targeted for 2018.
+Exploration
+In 2016, we recorded dry hole expense for the fully-owned Temple Wood well in the Greater Britannia Area, which was permanently plugged and abandoned.
+Transportation
+We operate the Teesside oil and Theddlethorpe gas terminals in which we have 29.3 percent and 50 percent ownership interests, respectively. We also have a 100 percent ownership interest in the Rivers Gas Terminal, operated by a third party.
+ 
+12
+Table of Contents
+
+Greenland
+Exploration
+In the first quarter of 2016, we completed the process to assign our participating interest in the nonoperated Avinngaq license. Additionally, our operated Qamut license expired on December 31, 2016. Our work program in Greenland is complete, pending certain approvals.
+Libya
+ 
+  	 	2016	 
+  	
+ 
+ 
+ 
+  	 	Interest	 	 	 	                Operator	 	  	 
+Liquids
+MBD	 
+ 	  	 
+
+Natural
+Gas
+MMCFD	 
+ 
+ 	  	 
+Total
+MBOED	 
+ 
+  	
+ 
+ 
+ 	 	
+ 
+ 
+ 	  	
+ 
+ 
+ 
+Average Daily Net Production
+  				 				  				  				  			
+Waha Concession
+  	 	16.3	% 	 	 	Waha Oil Co.	 	  	 	2	 	  	 	1	 	  	 	2	 
+ 
+ 
+Total Libya
+  				 				  	 	2	 	  	 	1	 	  	 	2	 
+ 
+ 
+The Waha Concession consists of multiple concessions and encompasses nearly 13 million gross acres in the Sirte Basin. Our production operations in Libya and related oil exports were interrupted in mid-2013, as a result of the shutdown of the Es Sider crude oil export terminal at the end of July 2013. The Es Sider Terminal briefly reopened in the third quarter of 2014 and production and liftings resumed temporarily; however, further disruptions occurred in December 2014, and production was shut in again. Production resumed in Libya in October 2016, with three crude liftings from Es Sider in January 2017. We expect a gradual ramp-up in activity.
+ASIA PACIFIC AND MIDDLE EAST
+The Asia Pacific and Middle East segment has exploration and production operations in China, Indonesia, Malaysia and Australia; producing operations in Qatar and Timor-Leste; and exploration activities in Brunei. In 2016, operations in the Asia Pacific and Middle East segment contributed 14 percent of our worldwide liquids production and 42 percent of natural gas production.
+Australia and Timor Sea
+ 
+  	 	2016	 
+  	
+ 
+ 
+ 
+  	 	Interest	 	 	 	Operator	 	  	 
+Liquids
+MBD	 
+ 	  	 
+Natural
+Gas
+MMCFD
+ 
+ 
+ 
+  	 
+Total
+MBOED	 
+ 
+  	
+ 
+ 
+ 	 	
+ 
+ 
+ 	  	
+ 
+ 
+ 
+Average Daily Net Production
+  				 				  				  				  			
+Australia Pacific LNG
+  	 	37.5	% 	 	 
+ConocoPhillips/
+Origin Energy	 
+ 	  	 	-	 	  	 	531	 	  	 	89	 
+Bayu-Undan
+  	 	56.9	 	 	 	ConocoPhillips	 	  	 	13	 	  	 	254	 	  	 	55	 
+Athena/Perseus
+  	 	50.0	 	 	 	ExxonMobil	 	  	 	-	 	  	 	35	 	  	 	6	 
+ 
+ 
+Total Australia and Timor Sea
+  				 				  	 	13	 	  	 	820	 	  	 	150	 
+ 
+ 
+Australia Pacific LNG
+Australia Pacific LNG Pty Ltd (APLNG), our joint venture with Origin Energy Limited and China Petrochemical Corporation (Sinopec), is focused on producing CBM from the Bowen and Surat basins in Queensland, Australia, and converting the coalbed methane into LNG. Natural gas is sold to domestic customers, while LNG is exported. Origin operates APLNG’s upstream production and pipeline system, and we operate the downstream LNG facility, located on Curtis Island near Gladstone, Queensland, as well as the LNG export sales business.
+ 
+13
+Table of Contents
+
+Two fully subscribed 4.5 million tonnes-per-year LNG trains have been completed. Approximately 3,900 net wells are ultimately envisioned to supply both the domestic gas market and the LNG sales contracts. The wells are supported by gathering systems, central gas processing and compression stations, water treatment facilities, and an export pipeline connecting the gas fields to the LNG facilities. The first APLNG Train 1 cargo sailed in January 2016, and LNG sales continued throughout the year. Train 1 LNG is being sold to Sinopec under a 20-year sales agreement for up to 4.3 million metric tonnes of LNG per year. APLNG Train 2 achieved first production in the third quarter of 2016. The LNG from Train 2 is being sold to Sinopec under a 20-year sales agreement for an additional 3.3 million metric tonnes of LNG per year through 2035, and Japan-based Kansai Electric Power Co., Inc. under a 20-year sales agreement for approximately 1 million metric tonnes of LNG per year.
+APLNG has an $8.5 billion project finance facility, of which $8.5 billion had been drawn from the facility at December 31, 2016. In connection with the execution of the project financing, we provided a completion guarantee for our pro-rata share of the project finance facility until the project achieves financial completion. In October 2016, we reached financial completion for Train 1, which reduced our associated guarantee by 60 percent. For additional information, see Note 4—Variable Interest Entities (VIEs), Note 7—Investments, Loans and Long-Term Receivables, and Note 12—Guarantees, in the Notes to Consolidated Financial Statements.
+Bayu-Undan
+The Bayu-Undan gas condensate field is located in the Timor Sea Joint Petroleum Development Area between Timor-Leste and Australia. We also operate and own a 56.9 percent interest in the associated Darwin LNG Facility, located at Wickham Point, Darwin.
+The Bayu-Undan natural gas recycle facility processes wet gas; separates, stores and offloads condensate, propane and butane; and re-injects dry gas back into the reservoir. In addition, a 310-mile natural gas pipeline connects the facility to the 3.5 million tonnes-per-year capacity Darwin LNG Facility. Produced natural gas is piped to the Darwin LNG Plant, where it is converted into LNG before being transported to international markets. In 2016, we sold 168 billion gross cubic feet of LNG primarily to utility customers in Japan.
+The Bayu-Undan Phase Three Development consists of two standalone, subsea horizontal wells tied back to the existing drilling, production and processing platform. The first subsea horizontal well was tied back to the existing drilling, production and processing platform, and commenced production in 2015, while the second well was suspended due to insufficient deliverability to the platform. A continuation of the Bayu-Undan Phase Three Development is being evaluated with the front-end engineering and design phase approaching completion. The current premise is that drilling of one subsea and two platform wells will commence in 2018, pending internal, joint venture and regulatory approval.
+ConocoPhillips served a Notice of Arbitration on the Timor-Leste Minister of Finance in October 2012 for outstanding disputes related to a series of tax assessments. The arbitration hearing was conducted in Singapore in June 2014 under the United Nations Commission on International Trade Laws (UNCITRAL) arbitration rules, pursuant to the terms of the Tax Stability Agreement with the Timor-Leste government. We reached a settlement with the Timor-Leste government on these disputes in 2016.
+Athena/Perseus
+The Athena production license (WA-17-L) is located offshore Western Australia and contains part of the Perseus Field, which straddles the boundary with WA-1-L, an adjoining license area. Natural gas is produced from these licenses.
+Greater Sunrise
+We have a 30 percent interest in the Greater Sunrise gas and condensate field located in the Timor Sea. In April 2016, the Timor-Leste Government initiated conciliation under the United Nations Convention of the Law of the Sea (UNCLOS) in an attempt to negotiate permanent maritime boundaries. The conciliation is on-going between the governments of Timor-Leste and Australia.
+ 
+14
+Table of Contents
+
+The UNCLOS conciliation does not directly impact our underlying interests in Sunrise; however, we and the Sunrise co-venturers are unable to commit to further commercial and technical work activities due to the uncertainty created by the lack of government alignment. Accordingly, current activities are restricted to compliance and social investment, as well as maintaining relationships and development options for Sunrise.
+Exploration
+ 
+ 	•	 	Conventional Exploration
+We operate three exploration permits in the Browse Basin, offshore northwest Australia, in which we own a 40 percent interest in permits WA-315-P, WA-398-P and TP 28, of the Greater Poseidon Area. The TP 28 Western Australia State exploration permit was granted for five years from January 2017, with a 40 percent working interest and was excised from the existing permits as agreed between state and federal regulators. Phase I of the Browse Basin drilling campaign in 2009/2010 resulted in three discoveries in the Greater Poseidon Area: Poseidon-1, Poseidon-2 and Kronos-1. Phase II of the drilling campaign resulted in five additional discoveries: Boreas-1, Zephyros-1, Proteus-1 SD2, Poseidon-North-1 and Pharos-1. All wells have been completed, plugged and abandoned.
+We operate two retention leases in the Bonaparte Basin, offshore northern Australia, where we own a 37.5 percent interest in leases NT/RL5 and NT/RL6, containing the Barossa and Caldita discoveries. A new 3-D seismic survey was completed over the Barossa and Caldita Field area between August and October 2016. Drilling of the next appraisal well, Barossa-5, commenced in January 2017. Drilling of a subsequent well, Barossa-6, may follow dependent on the results of Barossa-5.
+Indonesia
+ 
+  	 	2016	 
+  	
+ 
+ 
+ 
+  	 	Interest	 	 	 	Operator	 	  	 
+Liquids
+MBD
+ 
+ 
+  	 
+Natural
+Gas
+MMCFD
+ 
+ 
+ 
+  	 
+Total
+MBOED
+ 
+ 
+  	
+ 
+ 
+ 	 	
+ 
+ 
+ 	  	
+ 
+ 
+ 
+Average Daily Net Production
+  				 				  				  				  			
+South Natuna Sea Block B
+  	 	40.0	% 	 	 	ConocoPhillips	 	  	 	8	 	  	 	65	 	  	 	19	 
+South Sumatra
+  	 	45.0–54.0	 	 	 	ConocoPhillips	 	  	 	2	 	  	 	328	 	  	 	57	 
+ 
+ 
+Total Indonesia
+  				 				  	 	10	 	  	 	393	 	  	 	76	 
+ 
+ 
+We operate three production sharing contracts (PSCs) in Indonesia: The Corridor Block and South Jambi “B,” both located in South Sumatra, and Kualakurun in Central Kalimantan. Currently there is production from the Corridor Block. In 2016, we sold our 40 percent working interest in the offshore South Natuna Sea Block B PSC, which had 3 producing oil fields, and 16 natural gas fields in various stages of development. Full-year 2016 production from South Natuna Sea Block B was 19 MBOED.
+South Sumatra
+The Corridor PSC consists of five oil fields and seven natural gas fields in various stages of development. Natural gas is supplied from the Grissik and Suban gas processing plants to the Duri steamflood in central Sumatra and to markets in Singapore, Batam and West Java. Production from the South Jambi “B” PSC has reached depletion and field development has been suspended.
+Exploration
+During 2016, we relinquished our 80 percent interest in the Warim Block PSC. We have a 60 percent working interest in the Kualakurun PSC, located in Central Kalimantan, which was signed in May 2015. This block has an area of approximately 2 million gross acres.
+Transportation
+We are a 35 percent owner of a consortium company that has a 40 percent ownership in PT Transportasi Gas Indonesia, which owns and operates the Grissik to Duri and Grissik to Singapore natural gas pipelines.
+ 
+15
+Table of Contents
+
+China
+ 
+  	 	2016	  
+  	
+ 
+ 
+ 
+  	 	        Interest	  	 	 	        Operator	  	  	 
+ 	Liquids
+MBD	  
+  	  	 
+ 
+ 	Natural
+Gas
+MMCFD	  
+  
+  	  	 
+ 	Total
+MBOED	  
+  
+  	
+ 
+ 
+ 	 	
+ 
+ 
+ 	  	
+ 
+ 
+ 
+Average Daily Net Production
+  				 				  				  				  			
+Penglai
+  	 	49.0	% 	 	 	CNOOC	  	  	 	32	  	  	 	1	  	  	 	32	  
+Panyu
+  	 	24.5	  	 	 	CNOOC	  	  	 	9	  	  	 	-	  	  	 	9	  
+ 
+ 
+Total China
+  				 				  	 	41	  	  	 	1	  	  	 	41	  
+ 
+ 
+The Penglai 19-3, 19-9 and 25-6 fields are located in Bohai Bay Block 11/05. Production from the Phase 1 development of the Penglai 19-3 Field began in 2002. Phase 2 included six additional wellhead platforms and an FPSO vessel, and was fully operational by 2009.
+As part of further development of the Penglai 19-9 Field, a new wellhead platform, which adds up to 62 wells, is progressing according to schedule, with two wells completed and brought online in December 2016.
+We sanctioned the Penglai 19-3/19-9 Phase 3 Project in December 2015. This project will consist of three new wellhead platforms and a central processing platform. First oil from Phase 3 is expected in 2018.
+The Panyu development, located in Block 15/34 in the South China Sea, is comprised of three oil fields: Panyu 4-2, Panyu 5-1 and Panyu 11-6. The production period for Panyu 4-2 and 5-1 will expire in 2018, and the production period for Panyu 11-6 will expire in 2022.
+Exploration
+In 2016, we participated in a successful appraisal well in the Penglai fields, which will support future development plans.
+Malaysia
+ 
+  	 	2016	  
+  	
+ 
+ 
+ 
+  	 	Interest	  	 	 	Operator	  	  	 
+ 	Liquids
+MBD	  
+  	  	 
+ 
+ 	Natural
+Gas
+MMCFD	  
+  
+  	  	 
+ 	Total
+MBOED	  
+  
+  	
+ 
+ 
+ 	 	
+ 
+ 
+ 	  	
+ 
+ 
+ 
+Average Daily Net Production
+  				 				  				  				  			
+Siakap North-Petai
+  	 	21.0	% 	 	 	Murphy	  	  	 	3	  	  	 	2	  	  	 	3	  
+Gumusut
+  	 	29.0	  	 	 	Shell	  	  	 	36	  	  	 	-	  	  	 	36	  
+KBB
+  	 	30.0	  	 	 	KPOC	  	  	 	1	  	  	 	45	  	  	 	9	  
+ 
+ 
+Total Malaysia
+  				 				  	 	40	  	  	 	47	  	  	 	48	  
+ 
+ 
+We own interests in six PSCs in Malaysia. Three are located off the eastern Malaysian state of Sabah: Block G, Block J and the Kebabangan Cluster (KBBC). Three other blocks, deepwater Block 3E, Block SK313 and Block WL4-00 are located off the eastern Malaysian state of Sarawak.
+ 
+16
+Table of Contents
+
+Block G
+We have a 21 percent interest in the unitized Siakap North-Petai oil field, which began producing in the first quarter of 2014 and reached its estimated net annual peak production of 5 MBOED in 2015.
+First production from Malikai was achieved in December 2016, with estimated net annual peak production of 18 MBOED expected in 2019. The Limbayong-1 well was drilled in 2002 and resulted in a gas discovery. The Limbayong-2 appraisal well was drilled in 2013 and resulted in an oil discovery. Development options are being evaluated. We own a 35 percent interest in the Malikai, Limbayong and Pisagan discoveries.
+Block J
+First production for Gumusut occurred from an early production system in 2012. Production from a permanent, semi-submersible floating production vessel was achieved in October 2014, with net annual peak production of 36 MBOED reached in 2016. Unitization of the Gumusut Field with Brunei was recorded in 2014 and reduced our ownership interest from 33 percent to an initial 29 percent. A final ownership split is expected to be agreed in 2017. Gumusut Phase 2 infill drilling is planned to start in 2018.
+KBBC
+We own a 30 percent interest in the KBBC PSC. Development of the KBB gas field commenced in 2011, and first production was achieved in November 2014. Estimated net annual peak production of 26 MBOED is expected in 2018. Development options for the Kamunsu East gas field are being evaluated.
+Exploration
+We own a 50 percent operated interest in deepwater Block 3E, which encompasses approximately 480,000 gross acres offshore Sarawak. Seismic processing was completed in 2015. The Langsat-1 exploration well was spud in February 2017.
+In the fourth quarter of 2016, we entered into a farm-in agreement to acquire a 50 percent interest in Block SK 313, a 1.4 million gross-acre exploration block, effective January 2017. Following completion of the Sadok-1 exploration well in January 2017, we assumed operatorship of the block from PETRONAS.
+We were awarded Block WL4-00, which encompasses approximately 629,000 gross acres, in January 2017. We have a 50 percent operated interest in this block which includes the Salam-1 oil discovery. A new 3-D seismic survey is planned for 2017 with drilling of an appraisal well expected in 2018.
+Brunei
+Exploration
+We have a 6.25 percent working interest in the deepwater Block CA-2 PSC, which has an exploration period through December 2018. Exploration has been ongoing since September 2011, with natural gas discovered at the Kelidang NE-1 and Keratau-1 wells in 2013 and at the Keratau SW-1 well in 2015. Evaluation of the results is ongoing.
+Myanmar
+Exploration
+In 2014, we were awarded deepwater Block AD-10 in the 2013 Myanmar offshore oil and gas bidding round. We signed the PSC in the second quarter of 2015. In 2016, we assigned our participating interest to the operator.
+ 
+17
+Table of Contents
+
+Qatar
+ 
+  	 	2016	 
+  				 				  	
+ 
+ 
+ 
+  	 	        Interest	 	 	 	Operator	 	  	 
+Liquids
+MBD	 
+ 	  	 
+
+Natural
+Gas
+MMCFD	 
+ 
+ 	  	 
+Total
+MBOED	 
+ 
+  	
+ 
+ 
+ 	 	
+ 
+ 
+ 	  	
+ 
+ 
+ 
+Average Daily Net Production
+  				 				  				  				  			
+  				 	 	Qatargas Operating	 	  				  				  			
+QG3
+  	 	30.0	% 	 	 	Company Limited	 	  	 	22	 	  	 	368	 	  	 	84	 
+ 
+ 
+Total Qatar
+  				 				  	 	22	 	  	 	368	 	  	 	84	 
+ 
+ 
+QG3 is an integrated development jointly owned by Qatar Petroleum (68.5 percent), ConocoPhillips (30 percent) and Mitsui & Co., Ltd. (1.5 percent). QG3 consists of upstream natural gas production facilities, which produce approximately 1.4 billion gross cubic feet per day of natural gas from Qatar’s North Field over a 25 year life, in addition to a 7.8 million gross tonnes-per-year LNG facility. LNG is shipped in leased LNG carriers destined for sale globally.
+QG3 executed the development of the onshore and offshore assets as a single integrated development with Qatargas 4 (QG4), a joint venture between Qatar Petroleum and Royal Dutch Shell plc. This included the joint development of offshore facilities situated in a common offshore block in the North Field, as well as the construction of two identical LNG process trains and associated gas treating facilities for both the QG3 and QG4 joint ventures. Production from the LNG trains and associated facilities is combined and shared.
+OTHER INTERNATIONAL
+The Other International segment includes exploration activities in Colombia and Chile. In 2016, we sold ConocoPhillips Senegal B.V., the entity that held our 35 percent interest in three exploration blocks offshore Senegal.
+Angola
+Exploration
+Our 50 percent operated interest in Block 36 and our 30 percent operated interest in Block 37, both of which are located in Angola’s subsalt play trend, expired on December 31, 2016. In February 2017, we reached a settlement agreement on our contract for the Athena drilling rig, initially secured for our four-well commitment program in Angola. As a result of the cancellation, we will recognize a before-tax charge of $43 million net in the first quarter of 2017.
+Senegal
+Exploration
+On October 28, 2016, we sold ConocoPhillips Senegal B.V., the entity that held our 35 percent interest in three exploration blocks offshore Senegal. See Note 6—Assets Held for Sale or Sold, in the Notes to Consolidated Financial Statements, for information regarding our asset dispositions.
+Colombia
+Unconventional Exploration
+We have an 80 percent operated interest in the Middle Magdalena Basin Block VMM-3. The block extends over approximately 67,000 net acres and contains the Picoplata-1 well, which completed drilling in 2015. Production tests and appraisal of the area are ongoing.
+We hold 70 percent nonoperated interests in the deep rights in the Santa Isabel Block in the Middle Magdalena Basin, which covers approximately 71,000 net acres. The relinquishment of the Santa Isabel Block was accepted and the parties are in the process of documenting such relinquishment.
+ 
+18
+Table of Contents
+
+The exploration and production contract for the VMM27 Block, in the Middle Magdalena Basin, where we held a 30 percent nonoperated interest, has been fully terminated. We also hold a 30 percent nonoperated interest in the VMM28 Block, in the Middle Magdalena Basin, where we are in the process of terminating with the relevant parties and the regulatory agency.
+Chile
+Exploration
+In June 2016, we entered into an agreement with Empresa Nacional Del Petroleo (ENAP) to acquire an additional 44 percent participating interest in the onshore Coiron Block located in the Magallanes Basin in southern Chile where we already had 5 percent participation. Assignment of the additional participating interest to ConocoPhillips was approved by the Chilean Ministry of Energy and the Controller General of Chile. ENAP holds the remaining 51 percent participating interest and will continue to be the operator.
+In 2016, two exploration wells were successfully drilled, logged and cored. In 2017, we will continue to explore and appraise the Coiron Block.
+Venezuela
+In October 2014, we filed for arbitration under the rules of the International Chamber of Commerce (ICC) against Petroleos de Venezuela (PDVSA), the Venezuela state oil company, for contractual compensation related to the Petrozuata and Hamaca heavy crude oil projects. The ICC arbitration is a separate and independent legal action from the investment treaty arbitration against the government of Venezuela, which is currently proceeding before an arbitral tribunal under the World Bank’s International Centre for Settlement for Investment Disputes (ICSID). The ICSID Tribunal is determining the damages owed to ConocoPhillips as a result of Venezuela’s unlawful expropriation of ConocoPhillips’ significant oil investments in the Petrozuata and Hamaca heavy crude oil projects and the offshore Corocoro development project in June 2007. In October 2016, ConocoPhillips brought fraudulent transfer actions in the U.S. District Court of Delaware against PDVSA, alleging that PDVSA has taken actions to improperly expatriate assets from the United States to Venezuela in an effort to avoid judgment creditors. For additional information, see Note 13—Contingencies and Commitments, in the Notes to Consolidated Financial Statements.
+Ecuador
+In December 2012, an ICSID Tribunal issued a decision on liability in favor of Burlington Resources, Inc., a wholly owned subsidiary of ConocoPhillips, finding that Ecuador’s seizure of Blocks 7 and 21 was an unlawful expropriation in violation of the Ecuador-U.S. Bilateral Investment Treaty. In February 2017, the tribunal unanimously awarded Burlington $380 million for Ecuador’s unlawful expropriation and breach of the U.S.-Ecuador bilateral investment treaty. The tribunal also issued a separate decision finding Ecuador to be entitled to $42 million for limited environmental and infrastructure impacts associated with the operations of Burlington and its co-venturer. Ecuador recently filed a request for annulment of this decision with ICSID. The schedule for the annulment process has not yet been set. For additional information, see Note 13—Contingencies and Commitments, in the Notes to Consolidated Financial Statements.
+Discontinued Operations
+See Note 3—Discontinued Operations, in the Notes to Consolidated Financial Statements, for information regarding our discontinued operations.
+OTHER
+Marketing Activities
+Our Commercial organization manages our worldwide commodity portfolio, which mainly includes natural gas, crude oil, bitumen, natural gas liquids and LNG. Marketing activities are performed through offices in the United States, Canada, Europe and Asia. In marketing our production, we attempt to minimize flow disruptions, maximize realized prices and manage credit-risk exposure. Commodity sales are generally made at prevailing market prices at the time of sale. We also purchase and sell third-party volumes to better position the company to satisfy customer demand while fully utilizing transportation and storage capacity.
+ 
+19
+Table of Contents
+
+Natural Gas
+Our natural gas production, along with third-party purchased gas, is primarily marketed in the United States, Canada, Europe and Asia. Our natural gas is sold to a diverse client portfolio which includes local distribution companies; gas and power utilities; large industrials; independent, integrated or state-owned oil and gas companies; as well as marketing companies. To reduce our market exposure and credit risk, we also transport natural gas via firm and interruptible transportation agreements to major market hubs.
+Crude Oil, Bitumen and Natural Gas Liquids
+Our crude oil, bitumen and natural gas liquids revenues are derived from production in the United States, Canada, Australia, Asia, Africa and Europe. These commodities are primarily sold under contracts with prices based on market indices, adjusted for location, quality and transportation.
+LNG
+LNG marketing efforts are focused on equity LNG production facilities located in Australia and Qatar. LNG is primarily sold under long-term contracts with prices based on market indices.
+Energy Partnerships
+Marine Well Containment Company
+We are a founding member of the Marine Well Containment Company (MWCC), a non-profit organization formed in 2010, which provides well containment equipment and technology in the deepwater U.S. Gulf of Mexico. MWCC’s containment system meets the U.S. Bureau of Safety and Environmental Enforcement requirements for a subsea well containment system that can respond to a deepwater well control incident in the U.S. Gulf of Mexico. For additional information, see Note 4—Variable Interest Entities (VIEs), in the Notes to Consolidated Financial Statements.
+Subsea Well Response Project
+In 2011, we, along with several leading oil and gas companies, launched the Subsea Well Response Project (SWRP), a non-profit organization based in Stavanger, Norway, which was created to enhance the industry’s capability to respond to international subsea well control incidents. Through collaboration with Oil Spill Response Limited, a non-profit organization in the United Kingdom, subsea well intervention equipment is available for the industry to use in the event of a subsea well incident. This complements the work being undertaken in the United States by MWCC.
+Oil Spill Response Removal Organizations (OSROs)
+We maintain memberships in several OSROs across the globe as a key element of our preparedness program in addition to internal response resources. Many of the OSROs are not-for-profit cooperatives owned by the member companies wherein we may actively participate as a member of the board of directors, steering committee, work group or other supporting role. Globally, our primary OSRO is Oil Spill Response Ltd. based in the U.K., with facilities in several other countries and the ability to respond anywhere in the world. In North America, our primary OSROs include the Marine Spill Response Corporation for the continental U.S. and Alaska Clean Seas and Ship Escort/Response Vessel System for the Alaska North Slope and Prince William Sound, respectively. Internationally, we maintain memberships in various regional OSROs including the Norwegian Clean Seas Association for Operating Companies, Australian Marine Oil Spill Center and Petroleum Industry of Malaysia Mutual Aid Group.
+Technology
+We have several technology programs that improve our ability to develop unconventional reservoirs, produce heavy oil economically with fewer emissions, improve the efficiency of our company’s exploration program, increase recoveries from our legacy fields, and implement sustainability measures.
+Our Optimized Cascade® LNG liquefaction technology business continues to be successful with the demand for new LNG plants. The technology has been licensed for use in 25 LNG trains around the world, with feasibility studies ongoing for additional trains.
+ 
+20
+Table of Contents
+
+RESERVES
+We have not filed any information with any other federal authority or agency with respect to our estimated total proved reserves at December 31, 2016. No difference exists between our estimated total proved reserves for year-end 2015 and year-end 2014, which are shown in this filing, and estimates of these reserves shown in a filing with another federal agency in 2016.
+DELIVERY COMMITMENTS
+We sell crude oil and natural gas from our producing operations under a variety of contractual arrangements, some of which specify the delivery of a fixed and determinable quantity. Our Commercial organization also enters into natural gas sales contracts where the source of the natural gas used to fulfill the contract can be the spot market or a combination of our reserves and the spot market. Worldwide, we are contractually committed to deliver approximately 2.0 trillion cubic feet of natural gas, including approximately 363 billion cubic feet related to the noncontrolling interests of consolidated subsidiaries, and 180 million barrels of crude oil in the future. These contracts have various expiration dates through the year 2027. We expect to fulfill the majority of these delivery commitments with proved developed reserves. In addition, we anticipate using proved undeveloped reserves and spot market purchases to fulfill any remaining commitments. See the disclosure on “Proved Undeveloped Reserves” in the “Oil and Gas Operations” section following the Notes to Consolidated Financial Statements, for information on the development of proved undeveloped reserves.
+COMPETITION
+We compete with private, public and state-owned companies in all facets of the E&P business. Some of our competitors are larger and have greater resources. Each of our segments is highly competitive, with no single competitor, or small group of competitors, dominating.
+We compete with numerous other companies in the industry, including state-owned companies, to locate and obtain new sources of supply and to produce oil, bitumen, natural gas liquids and natural gas in an efficient, cost-effective manner. Based on statistics published in the September 5, 2016, issue of the Oil and Gas Journal, we were the third-largest U.S.-based oil and gas company in worldwide liquids and natural gas production and reserves in 2015. We deliver our production into the worldwide commodity markets. Principal methods of competing include geological, geophysical and engineering research and technology; experience and expertise; economic analysis in connection with portfolio management; and safely operating oil and gas producing properties.
+GENERAL
+At the end of 2016, we held a total of 714 active patents in 49 countries worldwide, including 286 active U.S. patents. During 2016, we received 37 patents in the United States and 66 foreign patents. Our products and processes generated licensing revenues of $128 million in 2016. The overall profitability of any business segment is not dependent on any single patent, trademark, license, franchise or concession.
+Company-sponsored research and development activities charged against earnings were $116 million, $222 million and $263 million in 2016, 2015 and 2014, respectively.
+Health, Safety and Environment
+Our Health, Safety and Environment (HSE) organization provides tools and support to our business units and staff groups to help them ensure world class health, safety and environmental performance. The framework through which we safely manage our operations, the HSE Management System Standard, emphasizes process safety, risk management, emergency preparedness and environmental performance, with an intense focus on process and occupational safety. In support of the goal of zero incidents, HSE milestones and criteria are established annually to drive strong safety performance.
+ 
+21
+Table of Contents
+
+Progress toward these milestones and criteria are measured and reported. HSE audits are conducted on business functions periodically, and improvement actions are established and tracked to completion. We also have detailed processes in place to address sustainable development in our economic, environmental and social performance. Our processes, related tools and requirements focus on water, biodiversity and climate change, as well as social and stakeholder issues.
+The environmental information contained in Management’s Discussion and Analysis of Financial Condition and Results of Operations on pages 63 through 66 under the captions “Environmental” and “Climate Change” is incorporated herein by reference. It includes information on expensed and capitalized environmental costs for 2016 and those expected for 2017 and 2018.
+Website Access to SEC Reports
+Our internet website address is www.conocophillips.com. Information contained on our internet website is not part of this report on Form 10-K.
+Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 are available on our website, free of charge, as soon as reasonably practicable after such reports are filed with, or furnished to, the U.S. Securities and Exchange Commission (SEC). Alternatively, you may access these reports at the SEC’s website at www.sec.gov.
+ 
+22
+Table of Contents
+
+Item 1A. RISK FACTORS
+You should carefully consider the following risk factors in addition to the other information included in this Annual Report on Form 10-K. Each of these risk factors could adversely affect our business, operating results and financial condition, as well as adversely affect the value of an investment in our common stock.
+Our operating results, our future rate of growth and the carrying value of our assets are exposed to the effects of changing commodity prices.
+Prices for crude oil, bitumen, natural gas, natural gas liquids and LNG can fluctuate widely. Globally, prices for crude oil, bitumen, natural gas, natural gas liquids and LNG have experienced significant declines from their historic levels during 2013 and 2014, with excess of supply relative to global demand leading to global inventory builds. Total average annual prices in 2016 for Brent crude oil, WTI crude oil, Henry Hub natural gas and our realized natural gas liquids all decreased by more than 5 percent when compared with 2015. In the fourth quarter of 2016, Brent crude oil, WTI crude oil, Henry Hub natural gas and our realized natural gas liquids prices all increased, compared with the same period of 2015. Given volatility in commodity price drivers and the business environment, price trends may not continue or reverse themselves.
+Our revenues, operating results and future rate of growth are highly dependent on the prices we receive for our crude oil, bitumen, natural gas, natural gas liquids and LNG. The factors influencing these prices are beyond our control. Lower crude oil, bitumen, natural gas, natural gas liquids and LNG prices may have a material adverse effect on our revenues, operating income, cash flows and liquidity and on the amount of dividends we elect to declare and pay on our common stock. Lower prices may also limit the amount of reserves we can produce economically, adversely affecting our ability to maintain our reserve replacement ratio and accelerating the reduction in our existing reserve levels as we continue production from upstream fields.
+Significant reductions in crude oil, bitumen, natural gas, natural gas liquids and LNG prices could also require us to reduce our capital expenditures or impair the carrying value of our assets. In the past two years, we recognized several impairments, which are described in Note 9—Impairments and the “APLNG” section of Note 7—Investments, Loans and Long-Term Receivables, in the Notes to Consolidated Financial Statements. If commodity prices remain low relative to their historic levels, and as we continue to optimize our investments and exercise capital flexibility, it is reasonably likely we will incur future impairments to long-lived assets used in operations, investments in nonconsolidated entities accounted for under the equity method and unproved properties. Although it is not reasonably practicable to quantify the impact of any future impairments at this time, our results of operations could be adversely affected as a result.
+Our ability to declare and pay dividends is subject to certain considerations.
+Dividends are authorized and determined by our Board of Directors in its sole discretion and depend upon a number of factors, including:
+ 
+ 	•	 	Cash available for distribution.
+ 	•	 	Our results of operations and anticipated future results of operations.
+ 	•	 	Our financial condition, especially in relation to the anticipated future capital needs of our properties.
+ 	•	 	The level of reserves we establish for future capital expenditures.
+ 	•	 	The level of distributions paid by comparable companies.
+ 	•	 	Our operating expenses.
+ 	•	 	Other factors our Board of Directors deems relevant.
+We expect to continue to pay quarterly distributions to our stockholders; however, we bear all expenses incurred by our operations, and our funds generated by operations, after deducting these expenses, may not be sufficient to cover desired levels of distributions to our stockholders. Any downward revision in our distribution could have a material adverse effect on the market price of our common stock.
+ 
+23
+Table of Contents
+
+We may need additional capital in the future, and it may not be available on acceptable terms.
+We have historically relied primarily upon cash generated by our operations to fund our operations and strategy, however we have also relied from time to time on access to the debt and equity capital markets for funding. There can be no assurance that additional debt or equity financing will be available in the future on acceptable terms, or at all. Our ability to obtain additional financing will be subject to a number of factors, including market conditions, our operating performance, investor sentiment and our ability to incur additional debt in compliance with agreements governing our then-outstanding debt. If we are unable to generate sufficient funds from operations or raise additional capital, our growth could be impeded.
+In addition, we are regularly evaluated by the major rating agencies based on a number of factors, including our financial strength and conditions affecting the oil and gas industry generally. Due to the significant decline in prices for crude oil, bitumen, natural gas, natural gas liquids and LNG, and the expectation that these prices could remain depressed in the near future, the major ratings agencies conducted a review of the oil and gas industry and downgraded our debt ratings and those of several companies operating in the industry. Any downgrade in our credit rating, could increase the cost associated with any additional indebtedness we incur.
+Our business may be adversely affected by deterioration in the credit quality of, or defaults under our contracts with, third parties with whom we do business.
+The operation of our business requires us to engage in transactions with numerous counterparties operating in a variety of industries, including other companies operating in the oil and gas industry. These counterparties may default on their obligations to us as a result of operational failures or a lack of liquidity, or for other reasons, including bankruptcy. Market speculation about the credit quality of these counterparties, or their ability to continue performing on their existing obligations, may also exacerbate any operational difficulties or liquidity issues they are experiencing, particularly as it relates to other companies in the oil and gas industry as a result of the recent significant declines in commodity prices. Any default by any of our counterparties may result in our inability to perform obligations under agreements we have made with third parties or may otherwise adversely affect our business or results of operations. In addition, our rights against any of our counterparties as a result of a default may not be adequate to compensate us for the resulting harm caused or may not be enforceable at all in some circumstances.
+Unless we successfully add to our existing proved reserves, our future crude oil, bitumen, natural gas and natural gas liquids production will decline, resulting in an adverse impact to our business.
+The rate of production from upstream fields generally declines as reserves are depleted. Except to the extent that we conduct successful exploration and development activities, or, through engineering studies, optimize production performance or identify additional or secondary recovery reserves, our proved reserves will decline materially as we produce crude oil, bitumen, natural gas and natural gas liquids. Accordingly, to the extent we are unsuccessful in replacing the crude oil, bitumen, natural gas and natural gas liquids we produce with good prospects for future production, our business will experience reduced cash flows and results of operations. Any cash conservation efforts we may undertake as a result of commodity price declines may further limit our ability to replace depleted reserves.
+The exploration and production of oil and gas is a highly competitive industry.
+The exploration and production of crude oil, bitumen, natural gas and natural gas liquids is a highly competitive business. We compete with private, public and state-owned companies in all facets of the exploration and production business, including to locate and obtain new sources of supply and to produce oil, bitumen, natural gas and natural gas liquids in an efficient, cost-effective manner. Some of our competitors are larger and have greater resources than we do or may be willing to incur a higher level of risk than we are willing to incur to obtain potential sources of supply. If we are not successful in our competition for new reserves, our financial condition and results of operations may be adversely affected.
+ 
+24
+Table of Contents
+
+Any material change in the factors and assumptions underlying our estimates of crude oil, bitumen, natural gas and natural gas liquids reserves could impair the quantity and value of those reserves.
+Our proved reserve information included in this annual report has been derived from engineering estimates prepared by our personnel. Reserve estimation is a process that involves estimating volumes to be recovered from underground accumulations of crude oil, bitumen, natural gas and natural gas liquids that cannot be directly measured. As a result, different petroleum engineers, each using industry-accepted geologic and engineering practices and scientific methods, may produce different estimates of reserves and future net cash flows based on the same available data. Any significant future price changes could have a material effect on the quantity and present value of our proved reserves. Any material changes in the factors and assumptions underlying our estimates of these items could result in a material negative impact to the volume of reserves reported or could cause us to incur impairment expenses on property associated with the production of those reserves. Future reserve revisions could also result from changes in, among other things, governmental regulation. In addition to changes in the quantity and value of our proved reserves, the amount of crude oil, bitumen, natural gas and natural gas liquids that can be obtained from any proved reserve may ultimately be different from those estimated prior to extraction.
+We expect to continue to incur substantial capital expenditures and operating costs as a result of our compliance with existing and future environmental laws and regulations. Likewise, future environmental laws and regulations, such as limitations on greenhouse gas emissions, may impact or limit our current business plans and reduce demand for our products.
+Our businesses are subject to numerous laws and regulations relating to the protection of the environment. These laws and regulations continue to increase in both number and complexity and affect our operations with respect to, among other things:
+ 
+ 	•	 	The discharge of pollutants into the environment.
+ 	•	 	Emissions into the atmosphere, such as nitrogen oxides, sulfur dioxide, mercury and greenhouse gas emissions.
+ 	•	 	Carbon taxes.
+ 	•	 	The handling, use, storage, transportation, disposal and cleanup of hazardous materials and hazardous and nonhazardous wastes.
+ 	•	 	The dismantlement, abandonment and restoration of our properties and facilities at the end of their useful lives.
+ 	•	 	Exploration and production activities in certain areas, such as offshore environments, arctic fields, oil sands reservoirs and tight oil plays.
+We have incurred and will continue to incur substantial capital, operating and maintenance, and remediation expenditures as a result of these laws and regulations. To the extent these expenditures, as with all costs, are not ultimately reflected in the prices of our products and services, our business, financial condition, results of operations and cash flows in future periods could be materially adversely affected.
+Although our business operations are designed and operated to accommodate expected climatic conditions, to the extent there are significant changes in the Earth’s climate, such as more severe or frequent weather conditions in the markets we serve or the areas where our assets reside, we could incur increased expenses, our operations could be materially impacted, and demand for our products could fall. Demand for our products may also be adversely affected by conservation plans and efforts undertaken in response to global climate change, including plans developed in connection with the Paris climate conference in December 2015. Many governments also provide, or may in the future provide, tax advantages and other subsidies to support the use and development of alternative energy technologies. Our operations and the demand for our products could be materially impacted by the development and adoption of these technologies.
+ 
+25
+Table of Contents
+
+Domestic and worldwide political and economic developments could damage our operations and materially reduce our profitability and cash flows.
+Actions of the U.S., state, local and foreign governments, through tax and other legislation, executive order and commercial restrictions, could reduce our operating profitability both in the United States and abroad. In certain locations, governments have imposed or proposed restrictions on our operations; special taxes or tax assessments; and payment transparency regulations that could require us to disclose competitively sensitive information or might cause us to violate non-disclosure laws of other countries. U.S. federal, state and local legislative and regulatory agencies’ initiatives regarding the hydraulic fracturing process could result in operating restrictions or delays in the completion of our oil and gas wells.
+The U.S. government can also prevent or restrict us from doing business in foreign countries. These restrictions and those of foreign governments have in the past limited our ability to operate in, or gain access to, opportunities in various countries. Actions by host governments have affected operations significantly in the past, such as the expropriation of our oil assets by the Venezuelan government, and may continue to do so in the future. Changes in domestic and international regulations may affect our ability to obtain or maintain permits, including those necessary for drilling and development of wells or for construction of LNG terminals or regasification facilities in various locations.
+Local political and economic factors in international markets could have a material adverse effect on us. Approximately 58 percent of our hydrocarbon production was derived from production outside the United States in 2016, and 55 percent of our proved reserves, as of December 31, 2016, was located outside the United States. We are subject to risks associated with operations in international markets, including changes in foreign governmental policies relating to crude oil, natural gas, bitumen, natural gas liquids or LNG pricing and taxation, other political, economic or diplomatic developments, changing political conditions and international monetary fluctuations. In particular, some countries where we operate lack well-developed legal systems or have not adopted clear legal and regulatory frameworks for oil and gas exploration and production. This lack of legal certainty exposes our operations to increased risks, including increased difficulty in enforcing our agreements in those jurisdictions and increased risks of adverse actions by local government authorities, such as expropriations.
+Changes in governmental regulations may impose price controls and limitations on production of crude oil, bitumen, natural gas and natural gas liquids.
+Our operations are subject to extensive governmental regulations. From time to time, regulatory agencies have imposed price controls and limitations on production by restricting the rate of flow of crude oil, bitumen, natural gas and natural gas liquids wells below actual production capacity. Because legal requirements are frequently changed and subject to interpretation, we cannot predict the effect of these requirements.
+Our investments in joint ventures decrease our ability to manage risk.
+We conduct many of our operations through joint ventures in which we may share control with our joint venture partners. There is a risk our joint venture participants may at any time have economic, business or legal interests or goals that are inconsistent with those of the joint venture or us, or our joint venture partners may be unable to meet their economic or other obligations and we may be required to fulfill those obligations alone. Failure by us, or an entity in which we have a joint venture interest, to adequately manage the risks associated with any acquisitions or joint ventures could have a material adverse effect on the financial condition or results of operations of our joint ventures and, in turn, our business and operations.
+ 
+26
+Table of Contents
+
+We may not be able to successfully complete any disposition we elect to pursue.
+From time to time, we may seek to divest portions of our business or investments that are not important to our ongoing strategic objectives. Any dispositions we undertake may involve numerous risks and uncertainties, any of which could adversely affect our results of operations or financial condition. In particular, we may not be able to successfully complete any disposition on a timeline or on terms acceptable to us, if at all, whether due to market conditions, regulatory challenges or other concerns. In addition, the reinvestment of capital from disposition proceeds may not ultimately yield investment returns in line with our internal or external expectations. Any dispositions we pursue may also result in disruption to other parts of our business, including through the diversion of resources and management attention from our ongoing business and other strategic matters, or through the disruption of relationships with our employees and key vendors. Further, in connection with any disposition, we may enter into transition services agreements or undertake indemnity or other obligations that may result in additional expenses for us.
+We do not insure against all potential losses; therefore, we could be harmed by unexpected liabilities and increased costs.
+We maintain insurance against many, but not all, potential losses or liabilities arising from operating risks. As such, our insurance coverage may not be sufficient to fully cover us against potential losses arising from such risks. Uninsured losses and liabilities arising from operating risks could reduce the funds available to us for capital, exploration and investment spending and could have a material adverse effect on our business, financial condition, results of operations and cash flows.
+Our operations present hazards and risks that require significant and continuous oversight.
+The scope and nature of our operations present a variety of significant hazards and risks, including operational hazards and risks such as explosions, fires, crude oil spills, severe weather, geological events, labor disputes, terrorist attacks, sabotage, civil unrest or cyber attacks. Our operations may also be adversely affected by unavailability, interruptions or accidents involving services or infrastructure required to develop, produce, process or transport our production, such as contract labor, drilling rigs, pipelines, railcars, tankers, barges or other infrastructure. Our operations are subject to the additional hazards of pollution, releases of toxic gas and other environmental hazards and risks. Activities in deepwater areas may pose incrementally greater risks because of complex subsurface conditions such as higher reservoir pressures, water depths and metocean conditions. All such hazards could result in loss of human life, significant property and equipment damage, environmental pollution, impairment of operations, substantial losses to us and damage to our reputation. Further, our business and operations may be disrupted if we do not respond, or are perceived not to respond, in an appropriate manner to any of these hazards and risks or any other major crisis or if we are unable to efficiently restore or replace affected operational components and capacity.
+Our technologies, systems and networks may be subject to cybersecurity breaches. Although we have experienced occasional, actual or attempted breaches of our cybersecurity, none of these breaches has had a material effect on our business, operations or reputation. If our systems for protecting against cybersecurity risks prove to be insufficient, we could be adversely affected by having our business systems compromised, our proprietary information altered, lost or stolen, or our business operations disrupted. As cyber attacks continue to evolve, we may be required to expend significant additional resources to continue to modify or enhance our protective measures or to investigate and remediate any information systems and related infrastructure security vulnerabilities.
+Item 1B. UNRESOLVED STAFF COMMENTS
+None.
+ 
+27
+Table of Contents
+
+Item 3.	LEGAL PROCEEDINGS
+The following is a description of reportable legal proceedings, including those involving governmental authorities under federal, state and local laws regulating the discharge of materials into the environment for this reporting period. The following proceedings include those matters that arose during the fourth quarter of 2016, as well as matters previously reported in our 2015 Form 10-K and our first-, second- and third-quarter 2016 Form 10-Qs that were not resolved prior to the fourth quarter of 2016. Material developments to the previously reported matters have been included in the descriptions below. While it is not possible to accurately predict the final outcome of these pending proceedings, if any one or more of such proceedings were to be decided adversely to ConocoPhillips, we expect there would be no material effect on our consolidated financial position. Nevertheless, such proceedings are reported pursuant to SEC regulations.
+On April 30, 2012, the separation of our downstream business was completed, creating two independent energy companies: ConocoPhillips and Phillips 66. In connection with the separation, we entered into an Indemnification and Release Agreement, which provides for cross-indemnities between Phillips 66 and us and established procedures for handling claims subject to indemnification and related matters, such as legal proceedings. We have included matters where we remain or have subsequently become a party to a proceeding relating to Phillips 66, in accordance with SEC regulations. We do not expect any of those matters to result in a net claim against us.
+New Matters—ConocoPhillips
+A Judgment and Consent Decree was entered on December 7, 2016, by the South Central Judicial District Court in Burleigh County, North Dakota against Burlington Resources Oil & Gas Company LP and ConocoPhillips Company resolving alleged violations of the state’s air pollution control laws. The North Dakota Department of Health was the Plaintiff in this matter. The Consent Decree requires the companies to implement a specified program to inspect and repair as necessary its facilities in North Dakota and to pay a penalty of approximately $220,000.
+Matters Previously Reported—Phillips 66
+In October 2007, we received a Complaint from the U.S. Environmental Protection Agency (EPA) alleging violations of the Clean Water Act related to a 2006 oil spill at the Bayway Refinery and proposing a penalty of $156,000. Phillips 66 resolved this matter with the EPA in December 2016 with a settlement payment of $35,500.
+In May 2012, the Illinois Attorney General’s office filed and notified ConocoPhillips of a complaint with respect to operations at the Phillips 66 WRB Wood River Refinery alleging violations of the Illinois groundwater standards and a third-party’s hazardous waste permit. The complaint seeks as relief remediation of area groundwater; compliance with the hazardous waste permit; enhanced pipeline and tank integrity measures; additional spill reporting; and yet-to-be specified amounts for fines and penalties.
+New Matters—Phillips 66
+In October 2016, after Phillips 66 received a Notice of Intent to Sue from the Sierra Club, Phillips 66 entered into a voluntary settlement with the Illinois Environmental Protection Agency for alleged violations of wastewater requirements at the Wood River Refinery occurring in part prior to the separation. The settlement involves certain capital projects and payment of $125,000. The settlement has been filed with the Court for final approval and the Sierra Club has sought to intervene in the case to oppose the settlement. A court hearing is scheduled for March 2017.

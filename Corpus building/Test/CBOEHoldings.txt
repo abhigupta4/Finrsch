@@ -1,0 +1,1175 @@
+
+CERTAIN DEFINED TERMS
+Throughout this document, unless otherwise specified or the context so requires:
+•
+"CBOE Holdings," "we," "us," "our" or "the Company" refers to CBOE Holdings, Inc. and its subsidiaries.
+•
+"CBOE" refers to Chicago Board Options Exchange, Incorporated, a wholly-owned subsidiary of CBOE Holdings, Inc.
+•
+"C2" refers to C2 Options Exchange, Incorporated, a wholly-owned subsidiary of CBOE Holdings, Inc.
+•
+"CFE" refers to CBOE Futures Exchange, LLC, a wholly-owned subsidiary of CBOE Holdings, Inc.
+•
+"CFTC" refers to the U.S. Commodity Futures Trading Commission.
+•
+"Consent Order" refers to the consent order that CBOE and C2 entered into with the SEC on June 11, 2013.
+•
+"FASB" refers to the Financial Accounting Standards Board.
+•
+"GAAP" refers to Generally Accepted Accounting Principles in the U.S.
+•
+"Our exchanges" refers to CBOE, C2 and CFE.
+•
+"SEC" refers to the U.S. Securities and Exchange Commission.
+•
+"SPX" refers to our S&P 500 Index exchange-traded options products.
+•
+"TPH" refers to either a Trading Permit Holder or Trading Privilege Holder.
+•
+"VIX" refers to the CBOE Volatility Index methodology.
+
+TRADEMARK INFORMATION
+
+CBOE®, Chicago Board Options Exchange®, CBOE Volatility Index®, CFE®, Livevol®, FLEX®, FLexible EXchange®, Hybrid®, LEAPS® and VIX® are registered trademarks and BuyWriteSM, CBOE Futures ExchangeSM, CBOE VestSM, CBOE Options InstituteSM, CBOE Russell 2000 Volatility IndexSM, CBOE/CBOT 10-year U.S. Treasury Note Volatility IndexSM and WeeklysSM are service marks of CBOE. C2SM and C2 Options ExchangeSM are service marks of C2. Standard & Poor's®, S&P®, S&P 100® and S&P 500® are registered trademarks of Standard & Poor's Financial Services LLC and have been licensed for use by CBOE, C2 and CFE. Russell®, Russell 1000® and Russell 2000® are registered trademarks of Frank Russell Company, used under license. Dow Jones®, Dow Jones Industrial Average®, DJIA® and Dow Jones Indexes are registered trademarks or service marks of Dow Jones Trademark Holdings, LLC, used under license. MSCI, and the MSCI index names are service marks of MSCI Inc., used under license. FTSE® and the FTSE indexes are trademarks and service marks of FTSE International Limited, used under license. CBOT is a trademark of CME Group, Inc. ("CME"). CBOE has, with the permission of CME, used the CBOT trademark in CBOE/CBOT 10-year U.S. Treasury Note Volatility Index. CME makes no representation regarding the advisability of investing in any investment product that is based on such indexes. All other trademarks and service marks are the property of their respective owners.
+
+1
+Table of Contents
+
+FORWARD-LOOKING STATEMENTS
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that involve a number of risks and uncertainties. You can identify these statements by forward-looking words such as "may," "might," "should," "expect," "plan," "anticipate," "believe," "estimate," "predict," "potential" or "continue," and the negative of these terms and other comparable terminology. All statements that reflect our expectations, assumptions or projections about the future other than statements of historical fact are forward-looking statements, including statements in "Business" and "Management's Discussion and Analysis of Financial Condition and Results of Operations." These forward-looking statements, which are subject to known and unknown risks, uncertainties and assumptions about us, may include projections of our future financial performance based on our growth strategies and anticipated trends in our business. These statements are only predictions based on our current expectations and projections about future events. There are important factors that could cause our actual results, level of activity, performance or achievements to differ materially from those expressed or implied by the forward-looking statements. In particular, you should consider the risks and uncertainties described under "Risk Factors" in this Annual Report.
+While we believe we have identified material risks, these risks and uncertainties are not exhaustive. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible to predict all risks and uncertainties, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements.
+Some factors that could cause actual results to differ include:
+•
+the loss of our right to exclusively list and trade certain index options and futures products;
+•
+economic, political and market conditions;
+•
+compliance with legal and regulatory obligations, including our obligations under the Consent Order;
+•
+increasing price competition in our industry;
+•
+decreases in trading volumes or a shift in the mix of products traded on our exchanges;
+•
+legislative or regulatory changes;
+•
+increasing competition by foreign and domestic entities;
+•
+our dependence on third party service providers;
+•
+our index providers' ability to maintain the quality and integrity of their indexes and to perform under our agreements;
+•
+our ability to operate our business without violating the intellectual property rights of others and the costs associated with protecting our intellectual property rights;
+•
+our ability to accommodate trading volume and transaction traffic, including significant increases, without failure or degradation of performance of our systems;
+•
+our ability to protect our systems and communication networks from security risks, including cyber-attacks;
+•
+the accuracy of our estimates and expectations;
+•
+our ability to maintain access fee revenues;
+•
+our ability to meet our compliance obligations, including managing potential conflicts between our regulatory responsibilities and our for-profit status;
+•
+the ability of our compliance and risk management methods to effectively monitor and manage our risks;
+•
+our ability to attract and retain skilled management and other personnel;
+•
+our ability to manage our growth and strategic acquisitions or alliances effectively;
+•
+restrictions imposed by our debt obligations;
+•
+the satisfaction of the conditions precedent to the consummation of our proposed acquisition of Bats Global Markets, Inc. (“Bats”), including, without limitation, the receipt of regulatory approvals on the terms desired or anticipated;
+
+2
+Table of Contents
+
+•
+unanticipated difficulties or expenditures relating to the proposed transaction, including, without limitation, difficulties that result in the failure to realize expected synergies, efficiencies and cost savings from the proposed transaction within the expected time period (if at all), whether in connection with integration, combining trading platforms, broadening distribution of product offerings or otherwise;
+•
+our ability to maintain an investment grade credit rating;
+•
+risks relating to the value of our shares to be issued in the proposed transaction;
+•
+disruptions of our and Bats’ current plans, operations and relationships with market participants caused by the announcement and pendency of the proposed transaction; and
+•
+potential difficulties in our and Bats’ ability to retain employees as a result of the announcement and pendency of the proposed transaction.
+For a detailed discussion of these and other factors that might affect our performance, see Part I, Item 1A. of this Report. We caution you not to place undue reliance on the forward-looking statements, which speak only as of the date of this filing.
+
+
+3
+Table of Contents
+
+PART I
+Item 1.    Business
+Overview
+CBOE Holdings, Inc. is the holding company for Chicago Board Options Exchange, Incorporated, CBOE Futures Exchange, LLC, C2 Options Exchange, Incorporated and other subsidiaries, including our majority ownership in CBOE Vest Financial Group Inc. ("CBOE Vest").
+The Company's principal business is operating markets that offer for trading options on various market indexes (index options), mostly on an exclusive basis, and futures contracts, as well as on non-exclusive "multiply-listed" options, such as options on the stocks of individual corporations (equity options) and options on other exchange-traded products (ETP options), such as exchange-traded funds (ETF options) and exchange-traded notes (ETN options). The Company operates CBOE, CFE and C2 as stand-alone exchanges, but reports the results of its operations in a single reporting segment.
+CBOE is our primary options market and offers trading in listed options through a single system that integrates electronic trading and traditional open outcry trading on our trading floor in Chicago. This integration of electronic trading and traditional open outcry trading into a single exchange is known as our Hybrid trading model. CFE, our all-electronic futures exchange, offers trading of futures on the VIX Index and other products. C2 is our all-electronic exchange that also offers trading of listed options, and may operate with a different market model and fee structure than CBOE. All of our exchanges operate on our proprietary technology platform known as CBOE Command.
+The following chart illustrates annual contract volume across the different categories of products traded at the Company for the periods indicated:
+ 
+Annual Contract Volume
+ 
+2016
+ 
+2015
+ 
+2014
+ 
+2013
+ 
+2012
+Equities
+364,373,339
+
+ 
+392,982,051
+
+ 
+488,580,906
+
+ 
+433,777,204
+
+ 
+494,289,301
+
+Indexes
+433,256,044
+
+ 
+408,281,695
+
+ 
+406,454,861
+
+ 
+372,647,443
+
+ 
+304,339,908
+
+Exchange-traded products
+326,740,299
+
+ 
+320,997,251
+
+ 
+379,742,163
+
+ 
+341,023,209
+
+ 
+311,792,122
+
+  Total Options Volume
+1,124,369,682
+
+ 
+1,122,260,997
+
+ 
+1,274,777,930
+
+ 
+1,147,447,856
+
+ 
+1,110,421,331
+
+Futures
+60,176,526
+
+ 
+51,671,188
+
+ 
+50,615,435
+
+ 
+40,193,447
+
+ 
+23,892,931
+
+  Total Contract Volume
+1,184,546,208
+
+ 
+1,173,932,185
+
+ 
+1,325,393,365
+
+ 
+1,187,641,303
+
+ 
+1,134,314,262
+
+Our operating revenues are primarily driven by transaction fee revenues, which are generated on the contracts traded on our exchanges. In 2016, approximately 70.5% of our operating revenues were generated by transaction fee revenues.
+Our principal executive offices are located at 400 South LaSalle Street, Chicago, Illinois 60605, and our telephone number is (312) 786-5600.
+Our web site is www.cboe.com. Information contained on or linked through our web site is not incorporated by reference into this Annual Report on Form 10-K.
+History
+CBOE was founded in 1973 as a non-stock corporation owned by its members. CBOE was the first organized marketplace for the trading of standardized, exchange-traded options on equity securities. In 2004, CFE began operations as a futures exchange. CBOE Holdings was incorporated in the State of Delaware on August 15, 2006. In June 2010, CBOE demutualized, CBOE, CFE and C2 became wholly-owned subsidiaries of CBOE Holdings and CBOE Holdings completed its initial public offering. In October 2010, C2, the Company's all-electronic options exchange, initiated operations.
+Pending Merger
+
+CBOE Holdings and Bats Global Markets, Inc. (“Bats”) entered into an Agreement and Plan of Merger, dated as of September 25, 2016 (the “Merger Agreement”), providing, among other things, that, upon the terms and subject to the conditions set forth in the Merger Agreement, a wholly-owned subsidiary of CBOE Holdings will merge with and into Bats, with Bats surviving as a wholly-owned subsidiary of CBOE Holdings (the “Merger”). The Merger Agreement also provides that, immediately following the effective time of the Merger, Bats, as the surviving corporation from the Merger, will merge
+
+4
+Table of Contents
+
+with and into CBOE V, LLC (“Merger LLC”), a wholly-owned subsidiary of CBOE Holdings, Inc. (the “Subsequent Merger”), with Merger LLC surviving the Subsequent Merger as a wholly-owned subsidiary of CBOE Holdings.
+
+Subject to the terms and conditions of the Merger Agreement, at the effective time of the Merger (the “Effective Time”), each share of voting common stock of Bats, par value $0.01 per share (“Bats Voting Common Stock”), and each share of non-voting common stock of Bats, par value $0.01 per share (“Bats Non-Voting Common Stock” and, together with the Bats Voting Common Stock, “Bats Common Stock”), issued and outstanding immediately prior to the Effective Time (other than shares held by CBOE Holdings, Bats or any of their respective subsidiaries, shares held by any holder of Bats Common Stock who is entitled to demand and properly demands appraisal of such shares under Delaware law and unvested restricted shares of Bats Common Stock granted under any Bats equity incentive plan) will convert into, at the election of the holder of such share, subject to proration and adjustment, either (i) 0.3201 of a share of common stock of CBOE Holdings, par value $0.01 per share (“CBOE Holdings Common Stock”), and $10.00 in cash (the “Mixed Consideration”), (ii) an amount of cash, without interest (the “Cash Consideration”), equal to the sum (rounded to two decimal places) of (a) $10.00 and (b) the product obtained by multiplying 0.3201 by the volume-weighted average price (rounded to four decimal places) of shares of CBOE Holdings Common Stock on the NASDAQ Stock Market LLC for the ten consecutive trading days ending on the second full trading day prior to the Effective Time (the “Closing VWAP”), or (iii) a number of shares of CBOE Holdings Common Stock (the “Stock Consideration”) equal to the sum of (a) 0.3201 and (b) the quotient (rounded to four decimal places) obtained by dividing $10.00 by the Closing VWAP. Holders of Bats Common Stock who do not make an election will receive the Mixed Consideration. The consideration to be paid to holders of Bats Common Stock electing to receive the Cash Consideration or the Stock Consideration in connection with the Merger is subject to automatic adjustment, as applicable, to ensure that the total amount of cash paid and the total number of shares of CBOE Holdings Common Stock issued in the Merger is the same as what would be paid and issued if all holders of Bats Common Stock were to receive the Mixed Consideration at the Effective Time.
+
+The completion of the Merger is subject to certain conditions, including, among others, (i) adoption by Bats stockholders of the Merger Agreement, (ii) approval by CBOE Holdings stockholders of the issuance of CBOE Holdings common stock in connection with the Merger, (iii) the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act ("HSR") and the receipt of all other regulatory approvals the failure to obtain which would make any of the transactions contemplated by the Merger Agreement illegal, including, without limitation, approval from the SEC, the Financial Industry Regulatory Authority ("FINRA") and the U.K. Financial Conduct Authority and (iv) other customary closing conditions. Early termination of the waiting period under the HSR was granted on November 18, 2016. CBOE Holdings and Bats received regulatory approvals by the SEC on December 19, 2016 and December 16, 2016, respectively, and FINRA granted approval on January 6, 2017. On January 17, 2017, Bats stockholders adopted the Merger Agreement and CBOE Holdings stockholders approved the issuance of CBOE Holdings common stock pursuant to the Merger Agreement. CBOE Holdings received regulatory approvals from the Dutch Central Bank and the United Kingdom's ("U.K.") Financial Conduct Authority (“FCA”) on February 2, 2017 and February 9, 2017, respectively. The Merger is expected to close on February 28, 2017.
+Industry
+Our primary business of offering exchange-traded options and futures contracts on financial instruments is part of the large global derivatives industry. Derivatives are financial contracts whose value is derived from an underlying asset or reference value. While derivatives exist on a wide range of underlying assets and references, we currently focus on offering derivatives products on individual stocks, indexes, exchange-traded funds, exchange-traded notes and various benchmarks related to trading and investment strategies. The global derivatives industry includes both exchanges and a large over-the-counter market. The most common types of derivatives are options, futures and swap contracts. These products allow for various types of risk to be isolated and transferred.
+Options and Futures
+Options represent a contract giving the buyer the right, but not the obligation, to buy or sell a specified quantity of an underlying security or index at a specific price for a specific period of time. Options provide investors a means for hedging, speculation and income generation, while at the same time providing leverage with respect to the underlying asset. Most options traded on U.S. securities exchanges and over-the-counter are on individual equities, market indexes and ETPs.
+A futures contract is an agreement to buy or sell a particular commodity or financial instrument at a predetermined price at a specified time in the future. Futures are standardized, transferable, exchange-traded contracts that are settled by the delivery of the underlying asset or in cash by reference to the underlying asset or reference at a specified price and on a specified future date. Futures on CFE are settled in cash. Options on futures may also be listed for trading on futures exchanges.
+
+5
+Table of Contents
+
+Trading
+In the listed options market, there are currently options contracts covering approximately 3,700 underlying stocks, indexes and ETPs, among other products. The presence of dedicated liquidity providers, including market-makers, is a key feature of the options market. Market-makers collectively provide continuous bids and offers for all listed options series.
+Trends
+Mix of Transaction Fees
+Our proprietary products are those in which we have a property right or for which we have an exclusive license, and contribute almost all of our transaction fee revenues for index options and all of our transaction fee revenues for futures. Listed options on equities and ETPs currently may be listed on all options exchanges, while trading in our proprietary products is currently limited to our exchanges. Thus, our proprietary products are able to support a higher revenue per contract than multiply-listed products.
+Over the past five years, our transaction fees generated by our futures and index options increased from approximately 57.5% of total transaction fees in 2011 to approximately 88.2% in 2016. This increase is primarily due to increased trading volume and fees generated by our proprietary VIX options and futures and SPX options. More recently, average daily volume ("ADV") for our proprietary VIX options and futures and SPX options is up 8% from 2015, led by trading in VIX futures, which is up 16% from 2015.
+Price Competition
+The number of U.S. options exchanges that we compete with has more than doubled over the past eleven years, from five exchanges to fifteen, in large part due to existing exchange holding companies opening new exchanges that offer different markets and pricing models on existing technology. As the listed options business provides transaction processors with a new source of revenue for scalable systems, and offers greater margins than the equity trading business, we expect that our competitors, or new entrants into the exchange business, may continue to open new options exchanges.
+The options exchanges that we compete with set fees and rebates to attract multiply-listed options business to their exchanges, which has reduced the net revenue per contract that we generate from multiply-listed options. Liquidity providers are attracted to markets primarily through the incentives for customer order flow, from which they can attempt to generate trading profits. Liquidity providers are also attracted by low transaction fees and credits to post liquidity. Order flow, particularly customer order flow, is the primary driver of multiply-listed options exchange volumes and in the past several years, the competition for this business has increased significantly, due in part to the role of firms known as consolidators, who operate both order execution and market making businesses, and collect customer order flow from originating brokers which they then route and execute as a service to that customer. These consolidators base their routing decisions, among other things, on best execution, technology, liquidity, service, pricing and other factors, including in some cases their ability to internalize order flow for potential trading profits. Some exchanges have structured their options businesses in partnership with established market participants, such as consolidators, and other order flow providers, while others offer specific payments for order flow, in addition to any economic incentives received from market-makers and other participants.
+Regulatory Oversight
+We are subject to regulation by the SEC and the CFTC and market participants may be subject to regulation by the SEC, the CFTC, the Board of Governors of the Federal Reserve, the U.S. Department of the Treasury and/or foreign regulators. Laws and regulations regarding our business and the business of market participants are frequently modified or changed. See "Regulatory Environment and Compliance" for more information on significant areas of regulation of us. As the number of legislative actions have increased, such as the implementation of Basel III, Dodd-Frank and the Collins Amendment to Dodd-Frank, some market participants have adjusted their businesses.
+Competitive Strengths
+We have established ourselves as a global leader and innovator in the options industry. We believe we are well positioned to further enhance our leadership position through several key competitive strengths:
+•
+Innovative Products and Services. We have worked closely and collaboratively with market participants to introduce new products and services to meet the evolving needs of the derivatives industry, and plan to continue these efforts. Products we have developed include index options, options and futures on the VIX Index and other volatility indexes, short duration options, including Weeklys, FLexible EXchange Options ("FLEX options") and options strategy benchmark indexes.
+
+6
+Table of Contents
+
+We also connect with a growing customer base through trading and educational resources, including the world-renowned CBOE Options Institute, and we recently became the first U.S. options exchange to trade options during non-U.S. trading hours.
+•
+Strategic Relationships and Partnerships. We have entered into licensing agreements with index providers under which we have rights to create volatility indexes and offer options and futures products on their indexes. We have also formed partnerships with key providers to develop new products and services. See "Strategic Relationships" and "Strategic Partnerships."
+•
+Leading Brand, Reputation and Market Position.  CBOE, the largest U.S. options exchange, based on both contract volume and notional value, and one of the largest options exchanges in the world, is an options market leader.  As the creator of listed options and other significant products in the listed options industry, including the VIX Index and VIX futures and options, CBOE is a leading brand name in the options and volatility space.
+Growth Strategy
+We believe that the listed options and futures industry, especially with respect to volatility trading, has significant growth potential, including through new participants and products. Our mission is to be the leader in providing innovative products that facilitate and enhance trading in a global marketplace. We expect to further expand our business and increase our revenues and profitability by pursuing the following growth strategies:
+•
+Expand Customer Base. We intend to continue our efforts to expand the use of our products domestically and internationally, by intensifying our business development efforts to target new retail investors and institutional investors, including pensions and endowments, and to inform them about how to trade our products, especially our proprietary products. We also intend to continue to offer investor education and wide educational resources for both retail and institutional customers through the CBOE Options Institute and through our comprehensive website, including through the annual CBOE Risk Management Conferences, now held in the U.S., Europe and Asia. Further, offering extended trading hours in our exclusive products is at the core of our international expansion effort.  In addition to extended trading hours for VIX futures and SPX and VIX options, in 2016 we began overnight dissemination of values for the VIX Index.  We opened an office in London and engaged a full-time consultant in Hong Kong in 2016 to further support our expanding international business development efforts.
+•
+Develop Innovative Products that Leverage and Complement Core Products.  We intend to license and create proprietary intellectual property to develop proprietary products that meet the needs of the derivatives industry, through both strategic relationships and internally developed products, while continuing to diversify our product line across asset classes. In 2016, we continued to leverage partnerships with index providers to extend our product offering with products such as SPX Weeklys with Monday and Wednesday expirations and Flex Options with Asian and Cliquet style settlements. In addition, we launched new products on certain Frank Russell Company and FTSE International Limited (together, "FTSE Russell") indexes that are solely listed for trading on CBOE in the U.S.
+•
+Offer Compelling Economic Model. We have designed our fee schedule to provide benefits to market participants that concentrate their overall trading activity on CBOE, which we believe encourages market participants to increase their business with us. In our proprietary products, we offer discounts and incentives to certain participants based on relative volume and the use of selected strategies. In multiply-listed products, we offer incentive programs to attract customer order flow to help our market participants manage both the fixed and transaction-based costs of trading on CBOE. We regularly review the fee schedules for all of our exchanges to provide an industry-leading economic offering.
+•
+Continue to Enhance Our Trading Systems.  We recognize that the opportunity to participate in the growth of the derivatives market will be driven in great part by the trading functionality and systems capabilities that an exchange offers to market participants. We intend to use our strong in-house development capabilities and continued investment to further enhance and develop the functionality and capacity of our trading systems. In 2015, we began in-house custom development of our next generation of trading technology, CBOE Vector, a new platform designed with the end-user in mind, using the latest hardware and software technology in order to provide enhanced agility, speed, connectivity and risk controls. However, the launch of CBOE Vector on CFE is suspended due to the pending Merger.
+•
+Evaluate Strategic Opportunities that Leverage and Complement Core Business.  We evaluate strategic opportunities that we believe will enhance stockholder value. We specifically look for strategic opportunities beyond our current businesses that will capitalize on our core competencies and diversify our sources of revenue. We continue to form new alliances with various partners that leverage our strengths and enable us to diversify our
+
+7
+Table of Contents
+
+product and business lines across new regions and asset classes. In 2016, we made a majority investment in CBOE Vest, an investment manager focused on Target Outcome Investment strategies, and made a minority equity investment in Eris Exchange Holdings, LLC (“Eris”), a U.S. - based futures exchange group offering swap futures as a capital-efficient alternative to over-the-counter swaps.
+
+In addition, we believe the recently announced Merger squarely fits into our growth strategy outlined above to develop unique products, expand our customer base and leverage alliances that complement our core business. Specifically, we believe that the Merger has the potential to significantly expand and diversify our product line across new asset classes, such as U.S. and European equities, ETF trading and global Foreign Currencies ("FX") products, broaden our reach with Bats’ market-leading European presence and increase our non-transactional revenue stream, while enabling us to streamline the combined company’s technology and enhance our strong growth and margin profile.
+Products
+Our exchanges provide a marketplace for the trading of options and futures contracts that meet criteria established in the rules of the respective exchange. The options contracts listed for trading include options on indexes, equities and ETPs. In addition, we provide a marketplace for trading futures contracts through CFE.
+Types of Products
+•
+Index Options.  We offer trading in options on several different broad-based market indexes, including the VIX Index, a proprietary index that we developed and that has become a widely recognized measure of equity market volatility. The index options we list include some of the most widely recognized measures of the U.S. equities market, as discussed below.
+•
+Equity Options.  We offer trading in options on the stocks of over 3,100 corporations. The stocks underlying our individual equity options are listed on equity stock exchanges.
+•
+Options on ETPs.  We offer trading in options on over 600 ETFs and ETNs based on various domestic and foreign market indexes, as well as on volatility, commodities, currencies and fixed income instruments.
+•
+Futures.  We provide a marketplace for trading four futures products through CFE. CFE has focused on the trading of futures using the CBOE-created VIX methodology, but also provides trading in S&P 500 Variance futures.
+Increased Flexibility
+Over the past few years, we have expanded our offerings, and experienced increases in our existing offerings, that allow for customers to trade options on a number of different time horizons, allowing them to pinpoint their preferred timing. In addition to standard option terms, we also offer options with weekly, end of month and end of quarter expirations. Our Weeklys product in particular has seen rapid growth, especially in SPX, and in 2016 we added Monday and Wednesday expiring SPX Weeklys. We believe that the flexibility provided by these offerings allows us to meet the differing needs of our customers and increase trading volume.
+Proprietary Products
+The Company has developed several of its own proprietary indexes and index methodologies. These include volatility indexes based on various broad-based market indexes (such as the S&P 500, the S&P 100, the Russell 2000 and the DJIA), volatility indexes based on ETFs and individual stocks, the CBOE S&P 500 Implied Correlation Index, the CBOE S&P 500 Smile Index and a series of options strategy benchmarks, including BuyWrite, PutWrite and Collar indexes based on the S&P 500, Russell 2000 and BuyWrite indexes based on other broad-based market indexes. In addition to any transaction fee revenue generated on products created based on these indexes, we have licensed others to use some of these indexes to create products and have entered into agreements whereby we have granted others the rights to sub-license certain indexes. The Company generates revenue from both the calculation and dissemination of index values and from the licensing of our proprietary indexes.
+These proprietary products are built both through our in-house research and development staff and our strategic relationships and license agreements with index providers. The following is a discussion of our strategic relationships and additional detail on our most frequently traded products, including SPX options and VIX options and futures.
+Strategic Relationships
+The Company has long-term business relationships with several providers of market indexes. We license their indexes as the basis for indexes, index options and other products. In some instances, these licenses provide us with the exclusive right to list certain products based on these indexes. Of particular note are the following:
+
+8
+Table of Contents
+
+•
+S&P 500 and S&P 100 Indexes.  We have the exclusive right to offer options contracts on the S&P 500 Index and the S&P 100 Index as a result of a licensing arrangement with S&P OPCO LLC ("S&P"). Our license with S&P is through December 31, 2033, with an exclusive license to trade options on the S&P 500 Index through December 31, 2032. We are also authorized to use the S&P 500 Index and S&P 100 Index for the creation of CBOE volatility indexes, such as the VIX Index, and tradable products on those volatility indexes.
+•
+FTSE Russell Indexes.  Under our license agreement with FTSE Russell, CBOE has the exclusive right in the U.S. to offer options on more than two dozen FTSE Russell indexes, including the Russell 2000, FTSE GEIS (Global Equity Index Series), FTSE China 50, the Russell 1000, the Russell 1000 Value and the Russell 1000 Growth Indexes. We offer options on the Russell 2000 Index, Russell 1000, Russell 1000 Value and Russell 1000 Growth Indexes and in 2016 we launched trading options on the FTSE 100, FTSE China 50 and FTSE Emerging Indexes.
+•
+MSCI. We have the exclusive right in the U.S. to offer options on six of MSCI's indexes, including the MSCI EAFE and the MSCI Emerging Markets Indexes, as a result of a licensing arrangement with MSCI Inc. We offer options on the MSCI EAFE and the MSCI Emerging Markets Indexes and in 2016 we broadened distribution of data on these indexes through CBOE’s Market Data Express, LLC ("MDX") service.
+•
+Dow Jones Industrial Average ("DJIA").  We have the exclusive right during standard U.S. trading hours to offer options contracts on the DJIA and certain other Dow Jones indexes through December 31, 2017 as a result of a licensing arrangement with S&P Dow Jones Indices, LLC. We are also authorized to use these indexes to create CBOE volatility indexes and trade options, futures and other products on these indexes.
+SPX Options
+The S&P 500 Index is an index comprised of 500 large-cap U.S. listed companies.  It is one of the most commonly followed indexes, and is considered a bellwether for the U. S. economy.  The options we offer on the S&P 500 Index are exclusive to CBOE and contribute substantially to our volumes and transaction fees. Because of its status as a bellwether, SPX is traded in a number of different trading strategies by customers with different goals, including pension funds hedging their equity exposure by buying put options, asset managers seeking enhanced returns by selling covered call options and hedge funds using risk-managed strategies to capture so-called “risk premia” embedded in option prices.
+ 
+Over the past six years we have seen a significant increase in the number of SPX Weeklys contracts traded, one of our fastest growing products.  As a percentage of total SPX contracts traded, the percentage of SPX Weeklys has increased from 2.2% in 2010 to 37.8% in 2016. We believe that traders are using this product to fine tune the timing of hedging strategies and maximize the risk premium in strategies that involve the sale of options, such as covered call writing.
+Volatility Trading
+CBOE pioneered the volatility trading space, with its introduction of the CBOE Volatility Index (the "VIX Index") in 1993.  We introduced futures on the VIX Index in 2004 and options in 2006.  The VIX Index is based on real-time prices of options on the S&P 500 Index and is designed to reflect investors' consensus view of future 30-day expected stock market volatility.  Since we started offering these products, we have seen trading from a number of different customer segments utilizing a number of different trading strategies, including hedging extreme stock market declines, also known as “tail risk” hedging, and risk-managed strategies that seek to capture the relative price changes of expected volatility at different times in the future. We also offer VIX Weeklys options and futures to provide investors with opportunities and tools to trade volatility over a shorter-term.
+
+While the trading volumes in options and futures on the VIX Index have increased over the past five years, trading volumes in these products are especially sensitive to market volatility, with increases in volume generally occurring along with spikes in volatility. While we believe that there will be continued intrinsic growth in our volatility products, significant changes in the levels of market volatility may significantly impact volumes in these products.
+
+In addition to the VIX Index, we offer other products based on the VIX methodology, including futures on CBOE Russell 2000 Volatility Index and the CBOE/CBOT 10-year U.S. Treasury Note Volatility Index. CFE also lists futures on realized variance.  While volumes in our non-VIX futures volatility products are not material to us, we continue to explore opportunities to expand our volatility product offerings, with respect to both new indexes and new asset classes.
+FTSE Russell
+The London Stock Exchange Group's ("LSEG") leading global index franchises, FTSE Russell indexes, represent a diverse group of domestic and global equities with international appeal: the Russell indexes include widely followed
+
+9
+Table of Contents
+
+benchmarks of U.S.-based stocks while the FTSE indexes focus primarily on global and emerging markets equity benchmarks that are widely used in the U.S. market. FTSE Russell indexes are among the largest and most widely used by investors in the U.S., and U.S. ETFs tracking FTSE Russell indexes comprise some of the most actively traded globally.
+The options we offer on the FTSE Russell indexes, currently include the Russell 2000, Russell 1000, Russell 1000 Value, Russell 1000 Growth, FTSE Emerging, FTSE 100 and FTSE China 50 Indexes, and are exclusive to us. In 2016 we launched options on the FTSE Emerging, FTSE 100 and FTSE China 50 Indexes, enabling investors to target emerging U.K. and Chinese equity markets, respectively.
+Strategic Partnerships
+
+The Company also acquires interests in and forms partnerships with key providers to develop new products and services that are expected to capitalize on our core competencies and diversify our sources of revenue. Of particular note are the following:
+
+•
+CBOE Vest. In 2016, we made a majority investment in CBOE Vest, an investment manager focused on Target Outcome Investment strategies. CBOE Vest launched in 2016 three new mutual funds, CBOE Vest S&P 500 Buffer Protect Strategy Fund, CBOE Vest Defined Distribution Strategy Fund and CBOE Vest S&P 500 Enhanced Growth Strategy Fund.
+
+•
+American Financial Exchange. Environmental Financial Products, LLC and CBOE launched in 2015 the American Financial Exchange ("AFX"), an electronic marketplace for small and mid-sized banks to lend and borrow short-term funds. CBOE operates the web-accessible, electronic trade matching engine and also supports surveillance and membership services. In 2016, AFX launched a 30-day unsecured loan product and a new transaction-based interest rate benchmark, Ameribor.
+
+•
+Eris. In 2016, we made a minority equity investment in Eris, a U.S.-based futures exchange group offering swap futures as a capital-efficient alternative to over-the-counter ("OTC") swaps. CBOE and Eris plan to develop new product solutions and indexes across asset classes that are expected to address the impact of international regulatory reforms, including Basel III, European swap clearing and trading mandates, and margin for un-cleared swaps. The companies also plan to collaborate to enhance distribution of Eris Interest Rate Swap Futures and related market data.
+
+•
+Curve Global. We have a minority investment in CurveGlobal, a new interest rate derivatives venture of the LSEG and a number of major dealer banks. CurveGlobal, launched in 2016, offers trading in Short Term Interest Rate futures in Euribor and Short Sterling and Long Term Interest Rate futures in Bund, Bobl, Schatz and Gilts. The launch of CurveGlobal caters to banks and other market participants looking for more capital efficient ways to trade and hedge these products.
+
+•
+Social Market Analytics. We entered into an exclusive licensing agreement in 2016 with Social Market Analytics (“SMA”) to develop a series of sentiment-based strategy benchmark indexes. We launched in August 2016, the CBOE-SMA Large Cap Index, a sentiment-based strategy benchmark index that measures short-term market momentum based on SMA’s social media metrics.
+Options Exchanges' Market Participants
+As discussed in more detail below, our options exchanges are designed to provide reliable, orderly, liquid and efficient marketplaces for the trading of options by market participants. Our options exchanges operate quote-driven auction markets that involve a number of different market participants.
+Trading Permit Holders
+Purchasing a monthly trading permit for the respective exchange conveys "Trading Permit Holder" status on that exchange to the permit holder.
+A Trading Permit Holder on one of our options exchanges is allowed to enter orders, and quotes if it is a market-maker, into the trading system for that exchange. Trading Permit Holder entities can execute trades for their own accounts, for clearing firm accounts, for the accounts of other permit holders or for the accounts of customers.
+Applicants for Trading Permit Holder Status
+
+10
+Table of Contents
+
+Applicants for Trading Permit Holder status must have adequate financial resources and credit to assume the responsibilities and privileges of a Trading Permit Holder. All Trading Permit Holders must abide by the rules and regulations of the applicable exchange, the provisions of the Securities Exchange Act of 1934 (the "Exchange Act") and the rules and regulations issued by the SEC.
+Trading Permits and Participant Roles
+The following types of trading permits entitle the holders to conduct business on the exchanges during the regular trading hours session in the applicable participant roles described below:
+•
+Market-Maker Trading Permit.  A market-maker trading permit entitles the holder to act as a market-maker who engages in trading our products either for its own account or for the account of his or her firm, but does not act as an agent representing orders for customers. Market-makers have quoting obligations in their appointed product classes. They are granted margin relief and must have a relationship with a clearing firm that will hold and guarantee their positions. The majority of trading permits in use on CBOE and C2 are used for market-making. There are additional classes of market-makers, namely Lead Market-Maker ("LMM") and Designated Primary Market-Maker ("DPM") that receive incentives for market-makers to provide competitive quotes. In addition, TPHs routing orders to CBOE may designate a Preferred Market-Maker.
+
+•
+Floor Broker Trading Permit.  A floor broker trading permit entitles the holder, known as a floor broker, to act as an individual who represents orders on the CBOE trading floor as an agent. Floor brokers generally do not trade for their own account, although they may represent their firms' proprietary account.
+•
+Electronic Access Permit ("EAP").  An EAP is a trading permit used by TPHs that need a separate access permit for a specific business function and is the most general type of access permit. EAP holders may be registered for one of the following: clearing TPHs; TPHs approved to transact business with the public; proprietary TPHs; and order service firms.
+In addition, separate extended trading hours permits, market-maker trading permits and EAPs, generally entitle the holders to conduct business on CBOE during the extended trading hours session.
+CFE Market Participants
+Parties are required to apply and be approved as CFE TPHs and obtain a CFE trading permit in order to have trading privileges on CFE. TPHs on CFE are allowed to enter orders into CFE's trading system and can execute trades for their own accounts or for the accounts of customers.
+Under its rules, CFE has the authority to establish market-maker programs and appoint one or more DPMs, LMMs or market-makers.  CFE does not currently have a DPM, LMM or market-maker program in VIX futures with standard monthly expirations. CFE does have a DPM or LMM program for VIX futures with weekly expirations and CFE's other products.
+Market Model
+Algorithms
+The matching algorithms used on our exchanges are the means by which trades are allocated to market participants. Our technology and the rules of our exchanges provide for a variety of different algorithms for matching buyers and sellers. We have the ability to apply different matching algorithms to different products in order to meet the needs of particular market segments. The setting of the matching algorithm affects the share of each trade that a market participant receives and is central to the opportunity and profit potential of market participants.
+•
+CBOE utilizes various matching algorithms in different listed options classes, with different combinations of customer priority, participation rights and pro-rata, modified pro-rata or price-time depending on the product.
+•
+C2's matching algorithm is pro-rata for all options classes.
+•
+CFE utilizes either a price-time priority algorithm or a price-time priority algorithm with participation rights for all futures.
+Details on our technological capabilities, as well as key systems offerings available to customers, are described in "Technology."
+Pricing
+
+11
+Table of Contents
+
+Each of our exchanges establishes a fee schedule that, among other things, sets the transaction fee for buying or selling options or futures contracts on the exchange and the connectivity and access fees for participating as a TPH on the exchange. In our proprietary products, we assess transaction fees on all participants, with the amount of the fee based on the market participant's role and the origin of the underlying order, and subject to discounts based on relative volume or trading strategies. In multiply-listed products, CBOE utilizes a pricing model in which transaction fees are charged to most professionals, including market-makers, but are not charged for most customer orders. Additionally, CBOE offers incentive programs to attract customer order flow, including certain payments for order flow and our volume incentive program ("VIP"), which pays credits to permit holders for executing certain types and levels of qualifying customer business at the exchange.
+CFE utilizes a pricing model in which transaction fees vary depending on the type of market participant on whose behalf a trade is made and on whether the trade is executed through CFE’s central limit order book, or is a block trade. CFE also offers Day Trade and New Foreign Trader Incentive Programs that provide rebates on trades that qualify for the respective programs.
+Each of the exchanges also currently charges a fee for trading permits that allow access to our exchanges. CBOE has a sliding scale for all market-maker trading permits used by affiliated TPHs and TPH organizations that satisfy certain requirements in our multiply-listed options classes.
+Competition
+CBOE is the single largest options exchange in the U.S. based on both total contract volume and notional value of contracts traded. The market share for all options traded on U.S. exchanges over the past five years for CBOE and C2, combined, has ranged from 27.1% to 29.9% annually. For 2016, our market share was 27.7%.
+In our proprietary products, we compete against futures exchanges and swap execution facilities that offer similar products, as well as against financial market participants that offer similar over-the-counter derivatives. We also compete against certain multiply-listed options products, such as options on SPY, which offer some of the market exposure of our proprietary products such as options on SPX.
+The multiply-listed options industry is extremely competitive and the competition has intensified. We expect this trend to continue. We compete with a number of entities on several different fronts, including the price, quality and speed of our trade execution, the functionality and ease of use of our trading platform, the range of our products and services, our technological innovation and adaption and our reputation. We compete in various ways with the thirteen other U.S. options exchanges.
+The options exchanges frequently introduce new pricing models in order to attract additional trades to their exchanges. These pricing models include traditional pricing, maker-taker, and ownership benefits. See "Trends - Price Competition."
+Our competitive challenge is to persuade broker-dealers to route options orders to our exchanges rather than to our competitors and to convince liquidity providers to concentrate their market-making activity on our exchanges. This is particularly true with respect to options on equities and ETPs. We compete through a variety of methods, including:
+•
+Offering a fee schedule that both attracts order flow and provides incentives to liquidity providers;
+•
+Providing advanced technology that offers broad functionality, low latency, fast execution, ease of use, scalability, reliability and security;
+•
+Offering participants access to a broad array of products and services, including proprietary products;
+•
+Offering market participants an efficient, transparent and liquid marketplace for trading options using our electronic trading system, CBOE Command, in either a hybrid (CBOE) or fully electronic (C2, CFE) market model;
+•
+Offering customers a deep, liquid market with opportunities for price improvement;
+•
+Facilitating payment for order flow through the administration of marketing fees;
+•
+Offering market participants potential participation rights for order flow that they direct or cause to be directed to our exchanges;
+•
+Maintaining close relationships and open communication channels with market participants; and
+•
+Providing brokers and their customers with a comprehensive source of information on options as well as extensive options education.
+
+12
+Table of Contents
+
+Technology
+CBOE Command
+CBOE Command, our in-house developed Java application with an infrastructure designed for high performance and low latency, supports trading on all of our exchanges. The platform supports trading nearly 24 hours, 5 days a week on CFE and supports an early morning trading session for SPX and VIX options on CBOE. The technology supports different products, different market models and multiple matching algorithms, as well as a fully integrated complex order book and several auction mechanisms. As mentioned above, CBOE is a hybrid exchange, combining features of screen-based and floor-based trading, while C2 and CFE are fully electronic.
+CBOE Command supports both a quote-driven options market model where liquidity providers have quoting obligations and an order-driven market model for our futures exchange. CBOE and C2 market-makers, DPMs and LMMs typically stream hundreds of millions of quotes into CBOE Command each day. CBOE Command provides a number of risk controls geared towards both customers using our markets as well as liquidity providers quoting large numbers of options.
+CBOE Command allows for a quick introduction of different types of derivative and securities products, including options, futures, options on futures and stock products. CBOE also offers CFLEX, our hybrid platform for trading FLEX options built on the CBOE Command platform.
+CBOE Vector
+In 2015, we began in-house custom development of CBOE Vector, our next generation of trading technology. This new platform is designed to provide streamlined access to a comprehensive array of options and volatility products and to the deeply liquid markets in which they trade.
+The advanced architecture of the platform was designed to deliver best-in-class functionality, low latency, ease of use, improved connectivity and trading efficiency. The platform is engineered to provide greatly increased transaction speeds while handling constantly increasing message traffic and industry demand for additional functionality, such as risk controls. However, the launch of CBOE Vector on CFE is suspended due to the pending Merger.
+Hybrid Trading Model
+All CBOE products trade with an electronic and open-outcry component where both are integrated to function as a single market.  Our Hybrid trading model is supported by state-of-the-art technology, including the CBOE Command trading platform. For our a.m.-settled SPX options, certain of the electronic trading features are differently configured to better suit the needs of customers in those products.
+In general, CBOE market-makers stream their own individual quotes into the CBOE trading engine and, if on the floor, engage in open outcry transactions in their trading crowd. Our Hybrid trading model allows CBOE to offer the best of both electronic and open outcry trading models.
+Market Data
+Market data is sent to the Options Price Reporting Authority ("OPRA") and CBOE Streaming Markets ("CSM"), described below. Our exchanges generate valuable information regarding the prices of our products and the trading activity in our exchanges. For options, market data relating to price and size of market quotations and the price and size of trades is collected and consolidated by OPRA. OPRA disseminates the information for a fee to vendors who redistribute the data to brokers, investors and other persons or entities that use our markets or that monitor general market conditions. After costs are deducted, the fees collected are distributed among OPRA's exchange participants based on their cleared transactions pursuant to the OPRA Plan. As of December 2016, our market data was available on approximately 137,000 terminals worldwide. See "Regulatory Environment and Compliance" for further information on OPRA.
+Our subsidiary, MDX sells historical options data and real-time data index values. It also provides market data and market depth through CSM, a proprietary streaming data feed. In January 2017, MDX historical data subscriptions were transitioned to the CBOE Livevol Data Shop.
+CBOE Livevol
+In 2015, we acquired Livevol, Inc., which we subsequently renamed CBOE Livevol, Inc. ("CBOE Livevol"). CBOE Livevol provides equity and index options technology for professional and retail traders, which includes options strategy backtesting, trade analysis and volatility modeling technologies and historical data.
+
+13
+Table of Contents
+
+Disaster Recovery
+We operate and maintain geographically diverse disaster recovery facilities for CBOE, C2 and CFE. We expect that the disaster recovery facilities can be up and running in a short period and work with our market participants to ensure that the marketplace can be quickly reopened. We continue to work to improve both the availability of our systems and our disaster recovery facilities, including through simulation testing.
+Clearing System
+The Options Clearing Corporation ("OCC") acts as the issuer, counterparty and guarantor for all options contracts traded on our options exchanges and other U.S. options exchanges. OCC fulfills these same functions for futures products traded on CFE. Upon execution of an options or futures trade, we transmit to OCC a record of all trading activity for clearing and settlement purposes.
+Regulatory Environment and Compliance
+The following discussion covers the more significant areas of regulation of us by the SEC and the CFTC.
+Recent Developments
+Laws and regulations regarding our business are frequently modified or changed, including in response to adverse financial conditions, to address perceived problems, new products, competition or at the request of market participants. The following is a summary of certain recent regulatory developments that may impact our business.
+CFTC Core Principles
+Dodd-Frank amended the core principles with which designated contract markets ("DCMs") like CFE must comply under the Commodity Exchange Act. As a result, CFE implemented a number of new rules, policies and procedures in relation to the new requirements. However, one aspect with respect to the amended core principles applicable to DCMs that remains pending relates to amended Core Principle 9. Core Principle 9 requires each DCM to provide a competitive, open and efficient market and mechanism for executing transactions that protects the price discovery process of trading in the DCM’s centralized market. CFTC regulations to implement Core Principle 9 remain pending and may address the extent to which a DCM may permit block trades and exchanges of derivatives for related positions in its products to occur through the DCM outside of the DCM’s centralized market. CFE cannot predict or estimate the extent to which these regulations may affect CFE or its operations.
+Automated Trading
+In November 2015, the CFTC issued a rulemaking proposal relating to automated trading on DCMs referred to as Regulation Automated Trading ("Regulation AT"). In November 2016, the CFTC issued a supplemental rulemaking proposal which included modifications to the original proposal. The rulemaking proposal proposes risk control and other requirements for (a) certain market participants that are defined as “AT Persons,” (b) executing futures commission merchants ("FCMs") and (c) DCMs.
+
+Regulation AT is intended to reduce potential risks arising from electronic trading activity by requiring the implementation of risk controls such as maximum order message and maximum order size parameters, and the establishment of standards for the development, testing and monitoring of automated trading systems, among other requirements. Automated Trading Persons ("AT Persons") and executing FCMs would be required to submit annual certifications to DCMs attesting to their compliance with Regulation AT, and DCMs would be required to establish programs for the periodic review and evaluation of compliance with Regulation AT by AT Persons and executing FCMs. Regulation AT also proposes to require the registration of proprietary traders with direct electronic access to a DCM that have average daily trading volume of 20,000 contracts across all products and DCMs over a 6 month period and to require that these AT Persons become members of a registered futures association. In addition, Regulation AT is intended to foster transparency around DCM market-maker and trading incentive programs.
+
+Although CFE may require additional resources to comply with the proposal if it were to be adopted by the CFTC, CFE does not expect that the proposal will have a material impact on CFE or its operations.
+Systems Safeguards
+In September 2016, the CFTC issued a final rule to amend its system safeguards rules for DCMs by enhancing and clarifying existing provisions relating to system safeguards, risk analysis and oversight, and cybersecurity testing, and adding new provisions concerning certain aspects of cybersecurity testing. The rule clarified the existing system safeguards rules for DCMs by specifying and defining the types of cybersecurity testing required to fulfill system safeguards testing obligations,
+
+14
+Table of Contents
+
+including vulnerability testing, penetration testing, controls testing, security incident response plan testing, and enterprise technology risk assessment. The rule also clarified the categories of risk analysis and oversight that statutorily-required programs of system safeguards-related risk analysis and oversight must address; system safeguards-related books and records obligations; the scope of system safeguards testing; internal reporting and review of testing results; and remediation of vulnerabilities and deficiencies. The provisions of the final rule have various compliance dates, most of which are one year from September 19, 2016, the effective date of the rule. Although CFE may require additional resources to comply with the final rule, CFE does not expect the rule to result in significant changes to its operations.
+Compliance
+Securities Industry-CBOE and C2
+Federal securities laws have established a two-tiered system for the regulation of securities exchanges and market participants. The first tier consists of the SEC, which has primary responsibility for enforcing federal securities laws. The second tier consists of self-regulatory organizations ("SROs"), which are non-governmental entities that must register with and are regulated by the SEC. CBOE and C2 are SROs, each registered under Section 6 of the Exchange Act as a "national securities exchange" and are subject to oversight by the SEC.
+SROs are an essential component of the regulatory scheme of the Exchange Act for providing fair and orderly markets and protecting investors. To be registered as a national securities exchange, an exchange must successfully undergo an application and review process with the SEC prior to beginning operations. Among other things, the SEC must determine that the SRO has the ability to comply with the Exchange Act and to enforce compliance by its members and persons associated with its members with the provisions of the Exchange Act, the rules and regulations thereunder and the rules of the exchange.
+In general, an exchange SRO is responsible for operating its trading platforms consistent with its rules, and regulating its members, known as TPHs at CBOE and C2, through the adoption and enforcement of rules governing the business conduct of its members. The rules of the exchange must also assure fair representation of its members in the selection of its directors and administration of its affairs and, among other things, provide that one or more directors be representative of issuers or investors and not be associated with a member of the exchange or with a broker or dealer. Additionally, the rules of the exchange must be adequate to ensure fair dealing and to protect investors and may not impose any burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act.
+As registered national securities exchanges, virtually all facets of our CBOE and C2 exchange operations are subject to the SEC's oversight, as prescribed by the Exchange Act. The Exchange Act and the rules thereunder impose on us many regulatory and operational responsibilities, including the day-to-day responsibilities for market operations and broker-dealer oversight. Furthermore, as SROs, CBOE and C2 are potentially subject to regulatory or legal action by the SEC or other interested parties. The SEC also has broad enforcement powers to censure, fine, issue cease-and-desist orders, prohibit us from engaging in some of our businesses, suspend or revoke our designation as a registered securities exchange or to remove or censure any of our officers or directors who violate applicable laws or regulations.
+As part of its regulatory oversight, the SEC conducts periodic reviews and inspections of exchanges, and CBOE and C2 have been subject to such routine reviews and inspections. To the extent such reviews and inspections result in regulatory or other changes, we may be required to modify the manner in which we conduct our business, which may adversely affect our business. We collect certain fees derived from our regulatory function and fines in connection with our disciplinary proceedings. Under the rules of each of our options exchanges, as required by the SEC, any revenue derived from the regulatory fees and fines cannot be used for non-regulatory purposes.
+CBOE and C2 are also subject to the record keeping requirements of Section 17 of the Exchange Act, including the requirement pursuant to Section 17(b) of the Exchange Act to make certain records available to the SEC for examination.
+Section 19 of the Exchange Act also provides that we must submit to the SEC proposed changes to any of CBOE's or C2's rules, including revisions of their certificates of incorporation and bylaws. The SEC will typically publish the proposal for public comment, following which the SEC may approve or disapprove the proposal, as it deems appropriate. The SEC's action is designed to ensure that CBOE's and C2's rules and procedures are consistent with the Exchange Act and the rules and regulations under the Exchange Act. Certain categories of rule changes, like fee changes, can be effective on filing, but the SEC retains the ability to suspend or reject such filings within a prescribed period of time.
+In November 2015, the compliance date for Regulation Systems Compliance and Integrity (“Reg SCI”), SEC began rulemaking under the Exchange Act . Reg SCI requires “SCI Entities,” which includes SROs, like CBOE and C2, to comply with security and capacity requirements with respect to their systems and accompanying compliance procedures. As part of complying with Reg SCI, CBOE and C2 established written policies and procedures reasonably designed to provide for a resilient market in the event of a disruption. This includes, for example, each exchange ensuring that it has adequate disaster
+
+15
+Table of Contents
+
+recovery facilities that are geographically diverse from the exchange’s systems and that facilitate the ability to resume trading within specified timeframes when certain critical and non-critical SCI systems are rendered inoperable. It also requires timely and substantial notification to be made to the SEC in the event an exchange experiences certain system interruptions or interference. The SEC has also established various working groups of exchanges to focus on improving market resiliency, including regarding regulatory halts, trade nullification and additional market protections. As adopted, Reg SCI and the other SEC mandated working group initiatives are very complex, and, as such, compliance with rules may require significant resources.
+Consent Order
+On June 11, 2013, CBOE and C2 entered into a Consent Order with the SEC, under which CBOE and C2 were censured, ordered to cease and desist from violating certain sections of the Exchange Act, paid a fine of $6 million and agreed to complete certain undertakings. These undertakings included conducting a review of our regulatory programs, enterprise risk management and business influences on regulation, reviewing business practices to ensure compliance with the rules of the exchanges and implementing training programs for employees. We have certified to the completion of these undertakings. The Consent Order also requires on-going certifications by the Company's Chief Executive Officer and Chief Regulatory Officer until 2019.
+CBOE Holdings
+Certain aspects of CBOE Holdings are also subject to SEC oversight, including certain ownership and voting restrictions on its stockholders. The focus of the SEC's regulation of CBOE Holdings is to assure fair representation of Trading Permit Holders in the selection of CBOE and C2 directors, public participation in the governance of CBOE and C2 and that CBOE and C2 can satisfy their regulatory responsibilities under the Exchange Act. Furthermore, the SEC requires that CBOE Holdings give due regard to the preservation of the independence of the self-regulatory function of CBOE and C2 and to CBOE Holdings' obligations to investors and the general public. The SEC also requires that CBOE Holdings not take any actions that would interfere with the effectuation of any decisions by the board of directors of CBOE or C2 relating to their regulatory functions or the structure of the market that it regulates or that would interfere with the ability of the exchanges to carry out their responsibilities under the Exchange Act. To the extent that CBOE Holdings' business activities involve or relate to CBOE and C2, the officers and directors of CBOE Holdings may be deemed to be officers and directors of the exchanges for purposes of and subject to oversight under the federal securities laws. Accordingly, the SEC may exercise direct supervision and disciplinary authority over certain CBOE Holdings' activities and those activities may be subject to SEC approval and, in some cases, public notice and comment.
+Futures Industry-CFE
+The operations of CFE are subject to regulation by the CFTC under the Commodity Exchange Act. The Commodity Exchange Act generally requires that futures trading in the U.S. be conducted on a commodity exchange designated as a contract market by the CFTC under the Act. The Commodity Exchange Act and CFTC regulations establish criteria for an exchange to be designated as a contract market on which futures and futures options contracts may be traded. Designation as a contract market for the trading of a specified futures contract is non-exclusive. This means that the CFTC may designate additional exchanges as contract markets for trading the same or similar contracts.
+CFE is a designated contract market that is subject to the oversight of the CFTC and to a variety of ongoing regulatory and reporting responsibilities under the Commodity Exchange Act. As a designated contract market, CFE is required to comply with the applicable core principles and regulations under the Commodity Exchange Act. CFE has surveillance and regulatory operations and procedures to monitor and enforce compliance by Trading Privilege Holders with CFE rules. If CFE fails to comply with applicable laws, rules or regulations, CFE may be subject to censure, fines, cease-and-desist orders, suspension of its business, removal of personnel or other sanctions, including revocation of CFE’s designation as a contract market.
+Regulatory Responsibilities
+Our exchanges are responsible for assessing the compliance of their TPHs with the respective exchange's rules and the applicable rules of the SEC and CFTC. The main activities that the exchanges, as applicable, are required to provide to measure compliance with these rules include:
+•
+surveillance designed to detect violations of exchange trading rules;
+•
+surveillance designed to detect violations of other SEC and CFTC rules;
+•
+the further investigation of matters deemed to be problematic;
+•
+the investigation of complaints about possible rule violations brought by customers, TPHs or other SROs; and
+
+16
+Table of Contents
+
+•
+the examination of TPHs for compliance with rules such as those related to net capital, books and records, market access and other matters related to the TPHs' exchange business functions.
+In order to ensure market integrity, we regulate and monitor our TPHs' trading activities by using both our employees and third parties under regulatory services agreements. See "Regulatory Agreements" below. Providing effective regulation is important for attracting and retaining the confidence and participation of market-makers, broker-dealers and institutional and retail investors.
+We expend considerable time, financial resources and effort to ensure that the exchanges' rules and regulations conform to regulatory best practices within the securities and futures exchange industries and within the regulatory regime overseen by the SEC and CFTC, our primary regulators. In order to support our efforts and those of our market participants to comply with applicable law and our exchange rules, we developed a regulatory program to monitor market activity on our exchanges and entered into the regulatory services agreements described below.
+CBOE, C2 and CFE are participants in the Intermarket Surveillance Group ("ISG"). ISG is an international information-sharing cooperative governed by a written agreement that provides for a comprehensive surveillance sharing arrangement. In addition to the agreement for confidential information sharing, the ISG provides a framework for the coordination of regulatory efforts among exchanges trading securities, commodity futures and related products to address potential intermarket manipulations and trading abuses.
+As part of the self-regulatory process, formal disciplinary matters are reviewed by our Business Conduct Committee, which includes both market participants and public representatives.
+We collect certain fees derived from our regulatory function and fines in connection with our disciplinary proceedings. Under the rules of each of CBOE and C2, as required by the SEC, any revenue derived from the regulatory fees and fines cannot be used for non-regulatory purposes.
+Regulatory Agreements
+CBOE, C2 and CFE have entered into agreements, some of which are pursuant to Section 17(d) of the Exchange Act, under which third parties have agreed to perform regulatory services to our markets. As discussed below, in certain instances, the third party has assumed the regulatory responsibility under Rule 17d-2, while in others, we retain the regulatory responsibility for the activities.
+Regulatory Services Agreement with FINRA
+On December 19, 2014, CBOE and C2 entered into an agreement with the Financial Industry Regulatory Authority ("FINRA") under which FINRA agreed to start providing regulatory services to CBOE and C2 on January 1, 2015. Under the agreement, FINRA performs the majority of the regulatory services for CBOE and C2. CBOE and C2 remain responsible for the regulation of their marketplaces, and retain the authority for bringing disciplinary actions against their TPHs.
+Regulatory Services Agreement with NFA
+The National Futures Association ("NFA") performs many regulatory functions for CFE pursuant to a Regulatory Services Agreement with CFE. CFE retains overall responsibility for the regulation of its marketplace. CFE also remains responsible for bringing disciplinary actions against TPHs. CFE is also a party to cooperative and regulatory information sharing agreements with other SROs and is a member of the ISG, described above.
+Rule 17d-2 Agreements
+Section 17(d) of the Exchange Act and the related Exchange Act rules permit SROs to allocate certain regulatory responsibilities to avoid duplicative oversight and regulation. Under Exchange Act Rule 17d-1, the SEC designates one SRO to be the Designated Examining Authority ("DEA") for each broker-dealer that is a member of more than one SRO. The DEA is responsible for the regulatory oversight of the financial responsibility aspects of that broker-dealer. We are the DEA for many of our members.
+Exchange Act Rule 17d-2 permits SROs to enter into agreements, commonly called Rule 17d-2 agreements, which are approved by the SEC and concern the enforcement of rules applicable to all of those SROs and relating to members those SROs have in common. We have entered into Rule 17d-2 agreements under which FINRA is allocated responsibility for enforcing certain federal securities laws and CBOE and C2 rules that are common with FINRA rules. We have entered into other Rule 17d-2 agreements that allocate responsibility to each SRO, which may include CBOE and C2, for ensuring that their allocated common members comply with rules governing options sales practices, expiring exercise declarations, options position limits and large options position reporting and position adjustments.
+
+17
+Table of Contents
+
+ORSA Plan
+The SEC approved a national market system ("NMS") plan named the Options Regulatory Surveillance Authority Plan ("ORSA Plan") with the purpose of permitting the U.S. securities options exchanges to act jointly in the administration, operation and maintenance of a regulatory system for the surveillance, investigation and detection of the unlawful use of undisclosed, material information in trading in one or more of their markets. Through the sharing of the costs of these regulatory activities and the sharing of the regulatory information generated under the ORSA Plan, the ORSA Plan is intended to enhance the effectiveness and efficiency with which the exchanges regulate their respective markets and the national market system for options and to avoid duplication of certain regulatory efforts. The ORSA policy committee had delegated the operation of the surveillance and investigative facility contemplated by the ORSA Plan to CBOE. The exchanges also entered into a Regulatory Services Agreement with CBOE, as service provider, pursuant to which CBOE performed certain regulatory and surveillance functions under the ORSA Plan and used its automated insider trading surveillance system to perform these functions on behalf of the exchanges. In 2015, the ORSA policy committee delegated the operation of the ORSA Plan facility to FINRA, and FINRA is the service provider under the Regulatory Services Agreement.
+National Market System Plans
+In addition to the ORSA Plan described above, CBOE and C2 are member participants of several other NMS plans, including the plans that are described below.
+OPRA, CTA, CQ Plan and NASDAQ Unlisted Trading Privileges Plan
+Like all U.S. options exchanges, CBOE and C2 are member exchanges in OPRA, a limited liability company. The OPRA limited liability company agreement sets forth a system for reporting options information that is administered by the member exchanges through OPRA, consisting of representatives of the member exchanges. OPRA is the designated securities information processor for market information that is generated through the trading of exchange-listed securities options in the U.S., and it disseminates certain core trading information, such as last sale reports and quotations. We also participate in the Consolidated Tape Association ("CTA"), the Consolidated Quotation Plan ("CQ Plan"), and the NASDAQ Unlisted Trading Privileges Plan, which perform analogous services for the U.S. equities market. NYSE Technologies, formerly the Securities Industry Automation Corporation, acts as the "processor" for OPRA, CTA and the CQ Plan. NASDAQ acts as the processor for the NASDAQ Unlisted Trading Privileges Plan.
+Options Intermarket Linkage Plan
+We are a party to the Options Order Protection and Locked/Crossed Market Plan, known as the Options Intermarket Linkage Plan, which is designed to prevent trade-throughs and facilitate the routing of orders between exchanges in furtherance of a national market system. The principal purposes of the plan are to promote price protection and to assure that brokers may execute investors' orders at the best market price, the "National Best Bid and Offer" ("NBBO"). The plan requires price protection of an exchange's best displayed bid or offer when the bid or offer is at the NBBO. Under the plan, direct exchange-to-exchange access through broker-dealers is used to transmit intermarket sweep orders similar to sweep orders that are available in the stock market under Regulation NMS. Undisplayed bids and offers and bids and offers at prices that are inferior to an exchange's best bid or offer do not receive protection under this plan.
+Options Listing Procedures Plan and Symbology Plan
+We are a party to the Options Listing Procedures Plan, which sets forth the procedures that the options exchanges must follow to list new options. We are also a party to the National Market System Plan for the selection and reservation of securities symbols.
+Consolidated Audit Trail ("CAT")
+In 2012, the SEC directed the SROs through a new regulation, to submit a plan to create, implement and maintain a consolidated audit trail ("CAT"), which would serve as a comprehensive audit trail of orders that will allow regulators to efficiently and accurately track all activity in Regulation NMS securities in the U.S. market. The regulation requires, among other things, that, upon implementation of a plan, data be reported to a central repository the following day by each exchange and broker-dealer. On November 15, 2016, the SEC approved a plan to implement CAT. There is a phased implementation over the next three years. We expect to begin reporting to the CAT in November 2017. The exchanges have incurred costs and the exchanges and their participants and may also incur additional significant costs related to the implementation of the CAT requirements.
+Intellectual Property
+
+18
+Table of Contents
+
+We own or have rights to a number of intellectual property assets, including trademarks, service marks, domain names, trade names, copyrights, trade secrets and patents. While the majority of our intellectual property is protected under U.S. law, we have many intellectual property assets protected by laws in Europe, Asia and other parts of the world. We license some intellectual property assets to other entities. We attempt to protect our intellectual property rights, while respecting the legitimate intellectual property rights of others.
+Employees
+As of December 31, 2016, we employed 553 individuals. Of these employees, 258 were involved in systems development or operations and 121 were involved in direct support of trading operations. The remaining 174 employees provide financial, regulation, human resources, compliance, legal, planning and research, administrative and managerial support.
+We have eight building engineers that are covered by a collective bargaining agreement, which expires on May 31, 2018, with the International Union of Operating Engineers Local 399, AFL-CIO. Management believes that we have strong relationships with our employees, and we have never experienced a work stoppage.
+Executive Officers of CBOE Holdings
+Set forth below is information regarding our executive officers and certain other key employees:
+Name
+Age
+ 
+Position
+Edward T. Tilly
+53
+
+ 
+Chief Executive Officer
+Edward L. Provost
+64
+
+ 
+President and Chief Operating Officer
+Alan J. Dean
+62
+
+ 
+Executive Vice President, Chief Financial Officer and Treasurer
+Joanne Moffic-Silver
+64
+
+ 
+Executive Vice President, General Counsel and Corporate Secretary
+Gerald T. O'Connell
+65
+
+ 
+Executive Vice President and Chief Information Officer
+David S. Reynolds
+63
+
+ 
+Vice President and Chief Accounting Officer
+Edward T. Tilly.  Mr. Tilly is our Chief Executive Officer. He has served in that capacity since May 2013. Prior to becoming CEO, Mr. Tilly served as President and Chief Operating Officer from November 2011, and Executive Vice Chairman from August 2006 until November 2011. He was a member of CBOE from 1989 until 2006, and served as Member Vice Chairman from 2004 through July 2006. Mr. Tilly serves on the board of directors of the OCC. He holds a B.A. degree in Economics from Northwestern University.
+Edward L. Provost. Mr. Provost became our President and Chief Operating Officer in May 2013. Prior to that, Mr. Provost served as Executive Vice President and Chief Business Development Officer. He served as the head of our Business Development Division since 2000 and has been employed at the Company since 1975. He holds a B.B.A. in Finance from Loyola University of Chicago and an M.B.A. from the University of Chicago Graduate School of Business.
+Alan J. Dean.  Mr. Dean is our Executive Vice President, Chief Financial Officer and Treasurer. He has served in that capacity since 1988 and has been employed at the Company in the financial area since 1979. He is a certified public accountant, and he holds a B.S. degree in Accounting from Western Illinois University and an M.B.A. from Northwestern University's Kellogg Graduate School of Management.
+Joanne Moffic-Silver.  Ms. Moffic-Silver is our Executive Vice President, General Counsel and Corporate Secretary. She has served in that capacity since 1997 and has been employed as an attorney at the Company since 1980. She is currently a member of the executive committee of the board of advisors of Northwestern University School of Law, a member of the Anti-Defamation League's Chicago/Upper Midwest Region Board, a member of the board of a not-for-profit education organization and a member of the Chicago Network. Ms. Moffic-Silver received her B.A. degree from the University of Wisconsin-Madison (Phi Beta Kappa). Ms. Moffic-Silver received her J.D. degree with honors from Northwestern University Pritzker School of Law.
+Gerald T. O'Connell.  Mr. O'Connell is our Executive Vice President and Chief Information Officer. He has served in that capacity since 1993 and has been employed at the Company since 1984. He holds a B.S. degree in Mathematics from Lewis University and a J.D. degree from John Marshall Law School.
+David S. Reynolds.  Mr. Reynolds is our Vice President and Chief Accounting Officer. He has served in that capacity since May 2009. Prior to that, Mr. Reynolds was with Hudson Highland Group, Inc., where he served in various roles including vice president, controller and chief accounting officer. From February 2005 to February 2007, Mr. Reynolds was vice president, controller and chief accounting officer of Bally Total Fitness Corporation. Prior to that, he spent twenty-two years in various
+
+19
+Table of Contents
+
+financial roles at Comdisco, Inc., rising to senior vice president and controller. Mr. Reynolds began his career at Ernst & Young. Mr. Reynolds is a certified public accountant and a certified cash manager. He is a graduate of Lehigh University where he obtained an M.B.A. and a B.S. in Finance.
+Available Information
+Our website is www.cboe.com. The Company files annual, quarterly and current reports, proxy statements and other information with the SEC under the Exchange Act. The Company makes available, free of charge, on its website its annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after such reports are electronically filed with, or furnished to, the SEC. The Company's reports filed with, or furnished to, the SEC are also available on the SEC's website at www.sec.gov.
+In addition, we have posted on our website the charters for our (i) Audit Committee, (ii) Compensation Committee, and (iii) Nominating and Governance Committee, as well as our Code of Business Conduct and Ethics and Corporate Governance Guidelines. We will provide a copy of these documents without charge to stockholders upon written request to Investor Relations, CBOE Holdings Inc., 400 South LaSalle Street, Chicago, Illinois 60605. Our website and information included in or linked to our website are not part of this Form 10-K.
+Item 1A.    Risk Factors
+The risks and uncertainties described below are those that we believe are material at this time relating to our business and relating to the Merger. These risks and uncertainties, however, are not the only risks and uncertainties that we face. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial may also significantly impact us. Any of these risks and uncertainties may materially and adversely affect our business, financial condition or results of operations, liquidity, cash flows and the Merger.
+
+Risks Relating to Our Business
+Loss of our right to exclusively list and trade certain index options and futures could have a material adverse effect on our financial performance.
+We hold exclusive licenses to list securities index options on the S&P 500 Index, the S&P 100 Index, the Russell 2000 Index, as well as others, granted to us by the owners of such indexes and based on which we have developed our proprietary VIX methodology. In 2016, approximately 88.2% of our transaction fees were generated by our futures and index options, the overwhelming majority of which were generated by our exclusively-licensed products and products based on the VIX methodology. The bulk of this revenue is attributable to our S&P 500 Index options and VIX Index options and futures. As a result, our operating revenues are dependent in large part on the exclusive licenses we hold for these products and our ability to maintain our exclusive VIX methodology.
+There is a risk, with respect to each of our current exclusive licenses, that the owner of the index may not renew the license with us on an exclusive basis or at all. In the first event, we would be subject to multiple listing in the trading of what is now an exclusive index product, which could result in a loss of market share and negatively impact our profitability. In the second event, we could lose the right to list the index product entirely. The loss or limited use of any of our exclusive index licenses, especially for the S&P 500 Index, for any reason could have a material adverse effect on our business and profitability. See "Business—Products—Strategic Relationships" for a discussion of these licenses and their expiration dates.
+In addition to the risks related to our exclusive licenses, if we are unable to retain exclusive proprietary rights in the VIX methodology, our volatility products could be subject to multiple listing, which could have a material adverse effect on us.
+In addition, the European Parliament has adopted legislation that will require European exchanges to provide non-discriminatory access to benchmarks, like index options, and is considering other legislation that may impact the ability of European banks to trade our products. While similar legislation has not been proposed in the U.S., if it were passed, it could cause us to lose exclusivity in our internally developed and licensed index products. The adopted and proposed European legislation may impact our expansion activities in Europe, and may reduce the volume on our exchanges from international customers.
+Furthermore, our competitors may succeed in providing a market for the trading of index-based or volatility products that are economically similar to those that we offer. It is also possible that a third party may offer trading in index-based products that are the same as those that are the subject of one of our exclusive licenses, but in a jurisdiction in which the index owner cannot require a license or in a manner otherwise not covered by our exclusive license.
+
+20
+Table of Contents
+
+The value of our exclusive licenses to list securities index options also depends on the continued ability of index owners to require licenses for the trading of options based on their indexes. Although we and the index owners have prevailed in legal actions challenging our rights to exclusively license indexes, we may be subject to changes in the law or other actions taken in the future that might impede our ability to exclusively offer trading in certain index options.
+General economic conditions and other factors beyond our control could significantly reduce demand for our products and services and harm our business.
+The volume of options and futures transactions and the demand for our products and services are directly affected by economic, political and market conditions in the U.S. and elsewhere in the world that are beyond our control, including:
+•
+broad trends in business and finance;
+•
+concerns over wavering institutional or retail confidence levels;
+•
+changes in government fiscal and monetary policy and foreign currency exchange rates;
+•
+the availability of short-term and long-term funding and capital;
+•
+the availability of alternative investment opportunities;
+•
+changes in the level of trading activity in underlying instruments;
+•
+changes and volatility in the prices of securities;
+•
+the level and volatility of interest rates;
+•
+unforeseen market closures or other disruptions in trading; and
+•
+concerns about terrorism and war.
+General economic conditions affect options and futures trading in a variety of ways, from the availability of capital to investor confidence. The economic climate in recent years has been characterized by challenging business, economic and political conditions throughout the world. Adverse changes in the economy may have a negative impact on our revenues by causing a decline in trading volume. Significant declines in trading volumes or demand for market data may have a material adverse effect on our business, financial condition and operating results.
+We operate in a highly regulated industry and may be subject to censures, fines and other legal proceedings if we fail to comply with legal and regulatory obligations.
+CBOE and C2 are registered national securities exchanges and SROs, and, as such, are subject to comprehensive regulation by the SEC. CFE is a DCM registered with the CFTC and is subject to comprehensive regulation by the CFTC.
+In addition to the requirements related to operating our markets imposed by the SEC and the CFTC, we also have certain responsibilities for regulating the TPHs that trade on our exchanges. While we have entered into agreements under which FINRA with respect to our options exchanges, and NFA with respect to our futures exchange, provide certain regulatory services, we retain responsibility for the regulation of our TPHs. See "Business—Regulatory Responsibilities."
+Our ability to comply with applicable laws and rules is largely dependent on the establishment and maintenance of appropriate systems and procedures, our ability to attract and retain qualified personnel, the ability of FINRA and NFA to perform under the regulatory services agreements and our oversight of the work done by FINRA and NFA. The SEC and CFTC have broad powers to audit, investigate and enforce compliance and to punish noncompliance by SROs and DCMs, respectively, pursuant to applicable laws, rules and regulations.
+If the SEC or CFTC were to find one of our programs of enforcement or compliance to be deficient, CBOE, C2 or CFE could be the subject of SEC or CFTC investigations and enforcement proceedings that may result in substantial sanctions, including revocation of an exchange's registration as a national securities exchange or DCM. Any such investigations or proceedings, whether successful or unsuccessful, could result in substantial costs, the diversion of resources, including management time, and potential harm to our reputation, which could have a material adverse effect on our business, results of operations or financial condition. In addition, CBOE, C2 or CFE may be required to modify or restructure their regulatory functions in response to any changes in the regulatory environment, or they may be required to rely on third parties to perform regulatory and oversight functions, each of which may require us to incur substantial expenses and may harm our reputation if our regulatory services are deemed inadequate.
+
+21
+Table of Contents
+
+Although CBOE Holdings itself is not an SRO, CBOE Holdings is subject to regulation by the SEC of activities that involve the options exchanges. Specifically, the SEC will exercise oversight over the governance of CBOE Holdings and its relationship with CBOE and C2. See "Business—Regulatory Responsibilities."
+Our business may be adversely affected by price competition.
+The business of operating options exchanges is characterized by intense price competition, especially with respect to transaction fees. The pricing model for trade execution for options has changed in response to competitive market conditions and our competitors have adjusted transaction fees and fee structures accordingly, including by opening new exchanges, which allow them to offer multiple pricing models that can appeal to different segments of market participants. These changes have resulted in significant pricing pressures on us, especially on transaction fees and incentives for multiply-listed products. As a result of these pricing pressures, our average rate per multiply-listed options contract may decrease. It is likely that this pressure will continue and even intensify as our competitors continue to seek to increase their share of trading by further reducing their transaction fees or by offering other financial incentives to order providers and liquidity providers to induce them to direct orders to their markets.
+In addition, one or more competitors may engage in aggressive pricing strategies and significantly decrease or completely eliminate their profit margin for a period of time in order to capture a greater share of trading volume. Some order-providing firms on our exchanges have taken ownership positions in options exchanges that compete with us and such exchanges have given those firms added economic incentives to direct orders to them.
+With respect to our proprietary products, we compete with futures exchanges and swap execution facilities that offer similar products and other financial market participants that offer over-the-counter derivatives. We also compete on price against certain multiply-listed options products, including SPY, that offer some of the features of our proprietary products.
+We could lose a substantial percentage of our share of trading if we are unable to price transactions in a competitive manner. Also, our profits could decline if competitive pressures force us to reduce fees. If any of these events occur, our operating results and profitability could be adversely affected.
+A significant portion of our operating revenues is generated by our transaction-based business. If the amount of trading volume on our exchanges decreases, or the product mix shifts to lower revenue products, our revenues from transaction fees will decrease.
+In 2016, 2015 and 2014, approximately 70.5%, 71.9% and 70.9% of our operating revenues, respectively, were generated by our transaction-based business. This business is dependent on our ability to attract and maintain order flow, both in absolute terms and relative to other market centers. Our total trading volumes could decline if our market participants reduce their trading activity for any reason, such as:
+•
+heightened capital requirements;
+•
+regulatory or legislative actions;
+•
+reduced access to capital required to fund trading activities; or
+•
+significant market disruptions.
+Over the past few years, a number of legislative actions have been taken, both domestically and internationally, that may cause market participants to be subject to increased capital requirements and additional compliance burdens. These actions, including Basel III, Dodd-Frank and the Collins Amendment to Dodd-Frank, may cause market participants to reduce the number of trades they make on our exchanges.
+In addition, the transaction fees generated are different based on type of product and other factors, including the type of customer and certain volume discounts. See "Management's Discussion and Analysis—Operating Revenues—Average revenue per contract." If the amount of our trading volume decreases, or the mix traded shifts to our lower revenue per contract products, our revenues from transaction fees will decrease. We can offer no assurance that we would be able to reduce our costs to match the amount of any such decrease.
+Legislative or regulatory changes affecting the listed options or futures markets could have a material adverse effect on our business.
+Changes in regulation by the SEC, CFTC, foreign regulators or other government action, including SEC approval of rule filings by other SROs or entities, including OCC, could materially affect our markets. In recent years, the securities and futures industries have been subject to significant regulatory changes as a result of increasing government and public scrutiny of the securities and futures industries. We have also experienced an increase in rulemaking and legislation that could affect our
+
+22
+Table of Contents
+
+business.
+In 2010, Congress passed the Dodd-Frank Act and other legislation. While many of its requirements have been implemented or are in the process of being implemented, some of the provisions in Dodd-Frank that impact our markets require additional action by the SEC or the CFTC. Depending on how the SEC and CFTC interpret and implement these laws, exchanges like ours could be subject to increased competition and additional costs. We could also see reduced trading by our customers due to margin or other requirements placed on them.
+Under the Collins Amendment to the Dodd-Frank Act, starting in 2015, large U.S. banks are required to compute their risk weighted assets, which include exchange-traded options and futures. This, and other rulemaking, may lead to further increases in capital requirements for U.S. bank holding companies, and bank subsidiaries involved in the trading and clearing of derivatives. These increased capital requirements may reduce trading in options and futures due to bank-affiliated clearing members and broker-dealers reducing their own trading, charging their customers more to trade, reducing the type or number of customers or withdrawing from the business of market-maker clearing.
+In 2016, the SEC approved a plan to create, implement and maintain the CAT, which would serve as a comprehensive audit trail of orders that will allow regulators to efficiently and accurately track all activity in Regulation NMS securities in the U.S. market. In addition to increased regulatory obligations, implementation of the CAT could result in significant additional expenditures, including to implement any new technology to meet any plan's requirements.
+Under European Union ("EU") regulations, European banks and other European financial institutions become subject to punitive capital charges if they transact options or futures through a non-qualifying clearinghouse.  OCC, our clearinghouse for options and futures, is not currently recognized as a qualified clearinghouse by the EU.  The current deadline for the EU to qualify foreign clearinghouses as equivalent is June 15, 2017.  If the EU does not recognize OCC as a qualified clearinghouse by such date (or by a subsequent date in the event that the current deadline is extended), then European market participants that clear through OCC would become subject to punitive capital charges. As a result, we could experience the loss of a significant number of European market participants and a significant reduction in trading activity on our markets, which could have a material adverse effect on our business.
+On June 23, 2016, the U.K. held a referendum in which voters approved an exit from the EU, commonly referred to as “Brexit.” As a result of the referendum, it is expected that the British government will begin negotiating the terms of the U.K.’s future relationship with the EU. The Brexit vote resulted in regulatory uncertainty throughout the region and could adversely affect business activity, political stability and economic conditions throughout Europe.
+It is also possible that there will be additional legislative and regulatory changes or efforts in the environment in which we operate our businesses, although we cannot predict the nature of these changes or their impact on our business at this time. Actions on any of the specific regulatory issues currently under review in the U.S. and other proposals could have a material impact on our business. For a discussion of the regulatory environment in which we operate and proposed regulatory changes, see "Business—Regulatory Environment and Compliance."
+In addition, Congress, the SEC, foreign regulators and other regulatory authorities could impose legislative or regulatory changes that could adversely impact the ability of our market participants to use our markets, or participate in the options or futures industry at all. Any such changes could result in the loss of a significant number of market participants or a reduction in trading activity on our markets, either of which could have a material adverse effect on our business. Changes or proposed changes in regulation may also result in additional costs of compliance and modification of market participants' trading activity on our exchanges.
+Intense competition could materially adversely affect our market share and financial performance.
+We compete with a number of entities on several different fronts, including the cost, quality and speed of our trade execution, functionality and ease of use of our trading platform, range of our products and services, our technological innovation and adaptation and our reputation. We compete with futures exchanges and swap execution facilities that offer comparable products and with the over-the-counter market with respect to our proprietary products. With respect to our multiply-listed products, our principal competitors are the thirteen other U.S. options exchanges. See the risk factor entitled "Our business may be adversely affected by price competition."
+Most of the equity options and options on ETPs listed and traded on our exchanges are also listed and traded on other U.S. options exchanges. Changes we have implemented in response to competitive pressures may not be successful in maintaining or expanding our market share in those products in the future. Likewise, our future responses to these or other competitive developments may not be successful in maintaining or expanding our market share.
+
+23
+Table of Contents
+
+In addition, indexes underlying our products, including VIX and SPX, may be licensed for use in similar OTC options. Needs or preferences of investors could change leading to a migration to the market of some trades that today could be entered into on our exchanges. Options on ETFs and ETNs that have such licenses on these indexes are available for trading. As a result, trading in our products could decrease due to competitive pressures from these alternative products.
+Some of our competitors and potential competitors have greater financial, marketing, technological, personnel and other resources than we do. These factors may enable them to develop similar or more innovative products, to offer lower transaction fees or better execution to their customers or to execute their business strategies more quickly or efficiently than we can.
+Furthermore, our competitors may:
+•
+respond more quickly to competitive pressures;
+•
+develop products that compete with our products or are preferred by our customers;
+•
+develop and expand their technology and service offerings more efficiently;
+•
+provide better, more user-friendly and more reliable technology;
+•
+take greater advantage of acquisitions, alliances and other opportunities;
+•
+market, promote, bundle and sell their products and services more effectively;
+•
+leverage existing relationships with customers and alliance partners more effectively or exploit brand names to market and sell their services; and
+•
+exploit regulatory disparities between traditional, regulated exchanges and alternative markets, including over-the-counter markets, that benefit from a reduced regulatory burden and lower-cost business model.
+The derivatives industry has witnessed both the consolidation of exchange holding companies and the growth in the number of exchanges, with a doubling of the number of options exchanges over the past decade. Consolidation or alliances among our competitors may achieve cost reductions or other increases in efficiency, which may allow them to offer better prices or services than we do. The increase to the number of competitors that we face may result in fragmentation of the market and a reduced market share for our exchanges.
+If our products, markets, services and technology are not competitive, our financial condition and operating results would be materially harmed. A decline in our transaction fees or any loss of customers would lower our revenues, which would adversely affect our profitability. For a discussion of the competitive environment in which we operate, see "Business—Competition."
+We depend on third party service providers for certain services that are important to our business. An interruption or cessation of such service by any third party could have a material adverse effect on our business.
+We depend on a number of service providers, including clearing organizations such as OCC and its member clearing firms; securities information processors such as the CTA and OPRA; regulatory service providers such as FINRA and NFA; the host of our data center; and various vendors of communications and networking products and services. More specifically:
+•
+OCC is the sole provider of clearing on all of our exchanges. If it were unable to perform clearing services, or its clearing members were unable or unwilling to clear through OCC, transactions would likely not occur on our markets or there may be delays.
+•
+OPRA, UTP Securities Information Processor and the CTA consolidate market information such as last sale reports and quotations. If any of them were unable to provide this information for a sustained period of time, we may be unable to offer trading on our options markets.
+•
+We are heavily dependent on technology for our markets, including our data center, which is housed by a third party, and certain communications and networking products and services. If this technology is unavailable, and cannot be replaced in a short time period, we may be unable to operate our markets.
+•
+FINRA and NFA provide regulatory services for our options and futures exchanges, respectively, while we retain regulatory responsibilities for such services. If FINRA or NFA stopped providing services, or provided inadequate services, we may be subject to action by the SEC or CFTC, or may have limitations placed upon our markets.
+We cannot provide assurance that any of these providers will be able to continue to provide these services in an efficient manner or that they will be able to adequately expand their services to meet our needs. An interruption or malfunction in or the cessation of an important service by a third party could cause us to halt trading in some or all of our products or our services, or
+
+24
+Table of Contents
+
+make us unable to conduct other aspects of our business. In addition, our inability to make alternative arrangements in a timely manner, or at all, could have a material adverse impact on our business, financial condition and operating results.
+If one or more of the index providers from which we have licenses or service providers with respect to proprietary products fails to maintain the quality and integrity of their indexes or fails to perform under our agreements with them or if customer preferences change, revenues we generate from trading in these proprietary products may suffer.
+We are a party to an increasing number of license agreements pursuant to which we may list for trading securities options on various indexes including license agreements that we have with S&P, for the S&P 500 Index and S&P 100 Index, S&P Dow Jones Indices, LLC, for the Dow Jones Industrial Average, LSEG, for more than two dozen FTSE Russell indexes, including the Russell 2000 Index, and MSCI Inc., for six MSCI indexes, including the MSCI EAFE Index and MSCI Emerging Markets Index. These license agreements provide, among other things, that we are authorized to list options on their indexes, and some of the resulting index options are among the most actively traded products at CBOE. The quality and integrity of each of these indexes are dependent on the ability of the index providers to maintain the index, including by means of the calculation and rebalancing of the index, and we are dependent on the index providers for a number of things, including the provision of index data to us. We also rely on index providers to enforce intellectual property rights against unlicensed uses of the indexes and uses of the indexes that infringe on our licenses, as further discussed in risk factor "We may not be able to protect our intellectual property rights." Furthermore, some of our agreements concerning our proprietary products provide for the parties to those agreements to provide important services to us. If any of our index providers are unable to maintain the quality and integrity of their indexes, or if any of the index providers or service providers fail to perform their obligations under the agreements, trading in these products, and therefore transaction fees we receive, may be adversely affected or we may not receive the financial benefits of the agreements that we negotiated.
+If we are unable to fulfill our obligations under the Consent Order, it may have a significant adverse impact on our business.
+In addition to entering into the Consent Order and agreeing to complete certain undertakings, we may be subject to additional investigations or proceedings by the SEC if the SEC were to find that we did not fulfill our obligations under the Consent Order. See "Business—Regulatory Environment and Compliance—Compliance—Consent Order." Any investigations or proceedings, whether successful or unsuccessful, could result in substantial costs, the diversion of resources, including management time, and potential harm to our reputation, which could have a material adverse effect on our business results of operations or financial condition.
+We and our licensors may not be able to protect our respective intellectual property rights.
+We rely on patent, trade secret, copyright and trademark laws, the law of the doctrine of misappropriation and contractual protections to protect our proprietary technology, proprietary index and futures products, index methodologies and other proprietary rights. In addition, we rely on the intellectual property rights of our licensors in connection with our listing of exclusively-licensed index and futures products. We and our licensors may not be able to prevent third parties from copying, or otherwise obtaining and using, our intellectual property without authorization, listing our proprietary or exclusively-licensed index products without licenses or otherwise infringing on our rights. We and our licensors may have to rely on litigation to enforce our intellectual property rights, determine the validity and scope of the proprietary rights of others or defend against claims of infringement or invalidity. We and our licensors may not be successful in this regard. Such litigation, whether successful or unsuccessful, could result in substantial costs to us, diversion of our resources or a reduction in our revenues, any of which could materially adversely affect our business.
+Any infringement by us on patent rights of others could result in litigation and could have a material adverse effect on our operations.
+Our competitors, as well as others, have obtained, or may obtain, patents that are related to our technology or the types of products and services we offer or plan to offer. We may not be aware of all patents containing claims that may pose a risk of infringement by our products, services or technologies. In addition, some patent applications in the U.S. are confidential until a patent is issued, and therefore we cannot evaluate the extent to which our products and services may be covered or asserted to be covered in pending patent applications. Thus, we cannot be sure that our products and services do not infringe on the rights of others or that others will not make claims of infringement against us. Claims of infringement are not uncommon in our industry. If one or more of our products, services or technologies were determined to infringe a patent held by another party, we may be required to pay damages, stop using, developing or marketing those products, services or technologies, obtain a license from the holders of the patents or redesign those products, services or technologies to avoid infringing the patent. If we were required to stop using, developing or marketing certain products, our business, results of operations and financial condition could be materially harmed. Moreover, if we were unable to obtain required licenses, we may not be able to redesign our
+
+25
+Table of Contents
+
+products, services or technologies to avoid infringement, which could materially adversely affect our business, results of operations or financial condition.
+Computer and communications systems failures and capacity constraints could harm our reputation and our business.
+We operate, monitor and maintain our computer systems and networks, including the systems that comprise CBOE Command, the platform for trading on our exchanges and CBOE Vector, the platform that we are developing that is expected to replace CBOE Command. If we are unable to operate, monitor or maintain these systems and networks, program them so that they operate correctly and maintain the integrity of their data, or successfully transition from the CBOE Command platform to the new CBOE Vector trading platform, it could have a material adverse effect on our ability to conduct our business. Although we have a back-up of trading and key corporate systems, the back-up systems or disaster recovery plans may prove to be inadequate in the event of a systems failure or cyber-security breach. There can be no guarantees that we will be able to open an efficient, transparent and liquid marketplace, if we can open at all.
+With extended trading hours, we have to operate our systems longer and have fewer non-trading hours to address any potential concerns with the systems on which we rely.
+Our systems may fail, in whole or in part, or may operate slowly, causing one or more of the following:
+•
+unanticipated disruption in service to our participants;
+•
+failures or delays during peak trading times or times of unusual market volatility;
+•
+slower response times and delays in trade execution and processing;
+•
+incomplete or inaccurate accounting, recording or processing of trades; and
+•
+distribution of inaccurate or untimely market data to participants who rely on this data in their trading activity.
+Any of these events may cause:
+•
+a loss in transaction or other fees due to the inability to provide services for a time;
+•
+requests by market participants or others that we reimburse them for financial loss, either within the constraints of the limited liability provisions of our exchanges' rules or in excess of those amounts;
+•
+trading to diminish on our exchanges due to dissatisfaction with the platform; and
+•
+one or more of our regulators to investigate or take enforcement action against us.
+
+As a consequence of any of these events, our business, financial condition and results of operations could suffer materially.
+In addition to other measures, we test our systems to confirm whether they will be able to handle anticipated present and future peak trading activity or times of unusual market volatility. However, we cannot assure you that our estimates of future trading volume will be accurate or that our systems will always be able to accommodate actual trading volume without failure or degradation of performance.
+We anticipate that we will need to continue to make significant investments in hardware, software and telecommunications infrastructure to accommodate the increases in traffic. If we cannot increase the capacity and capabilities of our systems to accommodate increasing trading activity and to execute our business strategy, our ability to maintain or expand our businesses would be adversely affected.
+The computer systems and communication networks upon which we rely may be vulnerable to security risks and other disruptions.
+The secure and reliable operation of our computer systems, our communications networks and the systems of our service providers and market participants, is a critical element of our operations. These systems and communications networks may be vulnerable to unauthorized access, including the improper access or disclosure of personally identifiable information, malware and other security problems, as well as to acts of terrorism, natural disasters and other events that are beyond our control. If our security measures are inadequate or if there are interruptions or malfunctions in our systems or communications networks, our business, financial condition and operating results could be materially impacted. We may be required to expend significant resources in the event of any real or threatened breaches in security or system failures, including to protect against threatened breaches and to alleviate harm caused by an actual breach, and may suffer harm to our reputation and litigation. Measures we implement for security and otherwise to provide for the confidentiality, integrity and reliability of our systems may prove to be
+
+26
+Table of Contents
+
+inadequate in preventing system failures or delays in our systems or communications networks, which could lower trading volume and have an adverse effect on our business, financial condition and operating results.
+We may not be able to maintain operating revenues generated by making trading permits available in exchange for a fee.
+The right to trade on our exchanges is made available through trading permits for which the user pays a fee. These fees accounted for 8.0% of our operating revenues in 2016. CBOE charges the highest relative trading permit rates in the options industry. We may face pressure from our customers to lower these rates or may see larger firms electing to use fewer permits to access our exchanges. If the demand for trading permits to our exchanges is less than historic levels or if we are unable to maintain permit rates, our ability to generate operating revenues through the granting of permits for trading access would be negatively impacted, which could adversely affect our profitability.
+Potential conflicts of interest between our for-profit status and our regulatory responsibilities may adversely affect our business.
+As a for-profit business with regulatory responsibilities, we are responsible for disciplining TPHs for violating our rules, including by imposing fines and sanctions. This may create a conflict of interest between our business interests and our regulatory responsibilities. Any failure by us to fulfill our regulatory obligations could significantly harm our reputation, increase regulatory scrutiny or cause the SEC or CFTC to take action against us, all of which could adversely affect our business, results of operations or financial condition.
+Our compliance methods might not be effective and may result in outcomes that could adversely affect our financial condition and operating results.
+As the parent company for SROs, we are responsible for maintaining exchanges that comply with securities and futures laws, SEC and CFTC regulations and the rules of the respective exchanges. Our ability to comply with applicable laws and rules is largely dependent on our policies and procedures designed to meet those compliance responsibilities, as well as our ability to attract and retain qualified personnel throughout the company. Our policies and procedures to identify, monitor and manage compliance risks may not be fully effective. Management of legal and regulatory risk requires policies and procedures to properly monitor, record and verify a large number of transactions and events. We cannot provide assurance that our policies and procedures will always be effective or that we will always be successful in monitoring or evaluating the compliance risks to which we are or may be exposed, or that our compliance and internal audit functions would be able to identify any such ineffectiveness. If these policies and procedures are not effective, we may be subject to monetary or other penalties by our regulators.
+If our risk management methods are not effective, our business, reputation and financial results may be adversely affected.
+We have methods to identify, monitor and manage our risks. If our methods are not effective or we are not successful in monitoring or evaluating the risks to which we are or may be exposed, our business, reputation, financial condition and operating results could be materially adversely affected. In addition, our insurance policies may not provide adequate coverage.
+Misconduct by our TPHs or others could harm us.
+We run the risk that our TPHs, other persons who use our markets or our employees may engage in fraud, market manipulation or other misconduct, which could result in regulatory sanctions and serious harm to our reputation, especially because we are the parent company of SROs. It is not always possible to deter misconduct or market manipulation, and the precautions we take to prevent and detect this activity may not be effective in all cases. In addition, misconduct or market manipulation by, or failures of, participants on our exchanges may discourage trading on our exchanges, which could reduce revenues.
+If we fail to attract or retain highly skilled management and other employees, our business may be harmed.
+Our future success depends in large part on our management team, which possesses extensive knowledge and managerial skill with respect to the critical aspects of our business. The failure to retain members of our management team could adversely affect our ability to manage our business effectively and execute our business strategy. Additionally, effective succession planning is also important to our long-term success. Failure to ensure effective transfer of knowledge and smooth transitions involving our management team and key employees could hinder our strategic planning and execution.
+Our business is also dependent on highly skilled employees, especially those who provide specialized services to our clients and oversee our technology functions. Many of these employees have extensive knowledge and experience in highly technical and complex areas of the options trading industry. Because of the complexity and risks associated with our business and the specialized knowledge required to conduct this business effectively, and because the growth in our industry has increased demand for qualified personnel, many of our employees could find employment at other firms if they chose to do so,
+
+27
+Table of Contents
+
+particularly if we fail to continue to provide competitive levels of compensation. If we fail to retain our current employees, it would be difficult and costly to identify, recruit and train replacements needed to continue to conduct and expand our business. In particular, failure to retain and attract qualified systems personnel could result in systems errors. Consequently, our reputation may be harmed, we may incur additional costs and our profitability could decline.
+We may not effectively manage our growth, which could materially harm our business.
+Over the past five years, we have experienced significantly increased volume on our futures exchange, extended trading hours on our futures exchange and in SPX and VIX options and developed several proprietary products. We expect that our business will continue to grow, which may place a significant strain on our management, personnel, systems and resources. We must continually improve our operational, financial and regulatory systems and managerial controls and procedures, and may need to continue to expand, train and manage our workforce. We must also maintain close coordination among our technology, legal, accounting, finance, marketing, sales, regulatory and compliance functions. We cannot assure you that we will manage our growth effectively. If we fail to do so, our business could be materially harmed.
+Our continued growth will require increased investment by us in technology, facilities, personnel, and financial and management systems and controls. It also will require expansion of our procedures for monitoring and assuring our compliance with applicable regulations, and we will need to integrate, train and manage a growing employee base. The expansion of our existing businesses, any expansion into new businesses and the resulting growth of our employee base will increase our need for internal audit and monitoring processes, which may be more extensive and broader in scope than those we have historically required. We may not be successful in identifying or implementing all of the processes that are necessary. Further, unless our growth results in an increase in our revenues that is proportionally greater than or equal to the increase in our costs associated with this growth, our operating margins will be adversely affected.
+Our ability to implement or amend rules could be limited or delayed because of regulation, which could negatively affect our ability to implement needed changes.
+Our options exchanges registered with the SEC must submit proposed rule changes to the SEC for its review and, in many cases, its approval. Even where a proposed rule change may be effective upon filing with the SEC, the SEC retains the right to suspend and disapprove such rule changes. Also, the CFTC may stay or disapprove rules that we file with it for CFE, our futures exchange. The rule review process can be lengthy and can significantly delay the implementation of proposed rule changes that we believe are necessary to the operation of our markets. If the SEC or CFTC delays or does not allow one of our exchanges to implement a rule change, this could negatively affect our ability to make needed changes or implement business activities.
+Similarly, the SEC must approve amendments to our options exchange subsidiaries' certificates of incorporation and bylaws as well as certain amendments to the certificate of incorporation and bylaws of CBOE Holdings. The SEC may decide not to approve a proposed amendment or may delay such approval in a manner that could negatively affect our ability to make a desired change, which could prevent or delay us from improving the operations of our markets or recognize income from new products.
+As one of the largest options exchanges in the world and the largest options exchange in the U.S., we may be at a greater risk for a cyber attack and other cyber security risks.
+The frequency of cyber attacks is increasing in general, and a variety of threat actors have specifically targeted the financial services industry. At the date of this filing, we have no evidence of any material cases of data theft, corruption or destruction of data or compromised customer data. Security breaches may, among other consequences, lead to increased scrutiny by our regulators and have significant costs in terms of cash outlays, business disruption, revenue losses, internal labor, overhead and other expenses. Measures we implement to monitor the environment and protect our infrastructure against security breaches and misappropriation of our intellectual property assets may prove insufficient, which could cause us to lose market participants, experience lower trading volume, incur significant liabilities or have a negative impact on our competitive advantage.
+Changes in the tax laws and regulations affecting us and our market participants could have a material adverse effect on our business.
+Legislation may be proposed, both domestically and internationally, that could change the way that our market participants are taxed on the products they trade on our markets. If such proposals were to become law, they could have a negative impact on the options and futures industry and on us by making transactions more costly to market participants, which may reduce trading.
+
+
+28
+Table of Contents
+
+In 2015, the Internal Revenue Service issued final and temporary regulations under Section 871(m) that require dividend tax withholding for certain transactions completed by foreign persons that could result in a reduction in trading by such foreign persons, either by their choice or as a result of brokers refusing to execute certain option trades for such persons.
+
+In addition to proposed tax changes that could affect our market participants, like other corporations, we are subject to taxes at the federal, state and local levels, as well as in non-U.S. jurisdictions. Changes in tax laws, regulations or policies could result in us having to pay higher taxes, which would in turn reduce our net income. There has been a trend toward states changing income tax laws to increase the apportionment factors on which state income taxes are based and becoming more aggressive asserting nexus over corporations that are not domiciled in the state.  If state income tax laws change, or if states are successful asserting nexus against us, we may become subject to income taxes in additional states or at a higher rate in the states where income tax filing requirements exists. If this occurs, we may experience a higher effective state tax rate.
+We selectively explore acquisition opportunities or strategic alliances relating to other businesses, products or technologies. We may not be successful in integrating other businesses, products or technologies with our business. Any such transaction also may not produce the results we anticipate, which could adversely affect us.
+We selectively explore and pursue acquisition and other opportunities to strengthen our business and grow our company. We may enter into business combination transactions, make acquisitions or enter into strategic partnerships, joint ventures or alliances, any of which may be material. The market for acquisition targets and strategic alliances is highly competitive, which could make it more difficult to find appropriate merger or acquisition opportunities. If we are required to raise capital by incurring debt or issuing additional equity for any reason in connection with a strategic acquisition or investment, financing may not be available or the terms of such financing may not be favorable to us and our stockholders, whose interests may be diluted by the issuance of additional stock. See “Risk Factors — Risks Relating to the Merger” for additional discussion of our risks related to the Merger.
+In 2016, we made a majority investment in CBOE Vest, an investment manager focused on Target Outcome Investment strategies, a minority investment in CurveGlobal, a new interest rate derivatives venture of the LSEG and a number of major dealer banks, and made a minority equity investment in Eris, a U.S. - based futures exchange group offering swap futures as a capital-efficient alternative to over-the-counter swaps. See also “Business-Strategic Partnership” for additional information regarding our strategic partnerships.
+The process of integration may produce unforeseen regulatory issues and operating difficulties and expenditures and may divert the attention of management from the ongoing operation of our business and harm the reputation of the companies. We may not successfully achieve the integration objectives, and we may not realize the anticipated cost savings, revenue growth and synergies in full or at all, or it may take longer to realize them than expected, any of which could negatively impact our results of operations, financial condition or the market price of our common stock.
+Any decision to pay dividends on our common stock is at the discretion of our board of directors and depends upon the earnings of our operating subsidiaries. Accordingly, there can be no guarantee that we will pay dividends to our stockholders.
+We have paid quarterly dividends since the restructuring transaction and initial public offering and intend to continue paying regular quarterly dividends to our stockholders. However, any decision to pay dividends on our common stock will be at the discretion of the board of directors, which may determine not to declare dividends at all or at a reduced amount. The board's determination to declare dividends will depend upon our profitability and financial condition, contractual restrictions, restrictions imposed by applicable law and the SEC and other factors that the board deems relevant. As a holding company with no significant business operations of its own, CBOE Holdings depends entirely on distributions, if any, it may receive from its subsidiaries to meet its obligations and pay dividends to its stockholders. If these subsidiaries are not profitable, or even if they are and they determine to retain their profits for use in their businesses, we will be unable to pay dividends to our stockholders.
+Certain provisions in our organizational documents could enable the board of directors to prevent or delay a change of control.
+Our organizational documents contain provisions that could block actions that stockholders might find favorable, including discouraging, delaying or preventing a change of control or and unsolicited acquisition proposals for us. These include provisions:
+•
+prohibiting stockholders from acting by written consent;
+•
+requiring advance notice of director nominations and of business to be brought before a meeting of stockholders; and
+•
+limiting the persons who may call special stockholders' meetings.
+
+29
+Table of Contents
+
+In addition, our organizational documents include provisions that:
+•
+restrict any person from voting or causing the voting of shares of stock representing more than 20% of our outstanding voting capital stock; and
+•
+restrict any person from beneficially owning shares of stock representing more than 20% of the outstanding shares of our capital stock.
+Furthermore, our board of directors has the authority to issue shares of preferred stock in one or more series and to fix the rights and preferences of these shares without stockholder approval. Any series of our preferred stock is likely to be senior to our common stock with respect to dividends, liquidation rights and, possibly, voting rights. The ability of the board of directors to issue preferred stock also could have the effect of discouraging unsolicited acquisition proposals, thus adversely affecting the market price of our common stock.
+Delaware law makes it difficult for stockholders that have recently acquired a large interest in a corporation to cause the merger or acquisition of the corporation against the directors' wishes. Under Section 203 of the Delaware General Corporation Law, a Delaware corporation may not engage in any merger or other business combination with an interested stockholder for a period of three years following the date that the stockholder became an interested stockholder except in limited circumstances, including by approval of the corporation's board of directors.
+Risks Relating to the Merger
+Failure to complete the proposed Merger within the expected timeframe or at all could have a material adverse impact on our business, financial condition and results of operations.
+There can be no assurance that the Merger will occur. The closing of the Merger is subject to certain conditions, including, among others, (i) the adoption of the Merger Agreement by the holders of at least a majority of the outstanding shares of Bats common stock entitled to vote thereon, (ii) approval of the issuance of shares of our common stock in the Merger by the holders of at least a majority of the shares of our common stock entitled to vote thereon and present in person or represented by proxy at the meeting of our stockholders called for such purpose, (iii) the expiration or earlier termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and regulatory approval by the SEC, Financial Industry Regulatory Authority and the U.K. Financial Conduct Authority, (iv) no court order or other legal restraint or prohibition preventing the consummation of the Merger or the Subsequent Merger or imposing a “burdensome effect” (as defined in the Merger Agreement) upon the consummation thereof, (v) the absence of any pending action commenced by a governmental or regulatory body wherein a judgment would reasonably be expected to prevent the consummation of the Merger or the Subsequent Merger or impose a burdensome effect upon the consummation thereof, (vi) receipt of tax opinions from counsel to each of us and Bats with respect to the treatment of the Merger and Subsequent Merger from a tax perspective, (vii) in the case of our obligation to effect the Merger, no exercise of appraisal rights by Bats stockholders holding more than 20% of the outstanding shares of Bats common stock, (viii) in the case of each party’s obligation to effect the Merger, the absence of a material adverse effect with respect to the other party since the date of the Merger Agreement and (ix) subject to materiality exceptions, the accuracy of the representations and warranties made by us, Merger Sub and Merger LLC, on the one hand, and Bats, on the other hand, and compliance by us, Merger Sub, Merger LLC and Bats in all material respects with our and their respective obligations under the Merger Agreement. Although certain of these conditions have been satisfied, there can be no assurance that the remaining conditions to the closing of the Merger will be satisfied in a timely matter or at all.
+In particular, before the proposed transactions contemplated by the Merger Agreement, including the Merger, may be completed, various clearances and approvals must be obtained from certain regulatory and governmental authorities. These regulatory and governmental entities may impose conditions on the granting of such approvals. Such conditions and the process of obtaining regulatory approvals could have the effect of delaying completion of the Merger or of imposing additional costs or limitations on the combined company following the Merger. The regulatory approvals may not be received at all, may not be received in a timely fashion and may contain conditions on the completion of the Merger. However, if any such conditions impose a “burdensome effect” as defined in the Merger Agreement, the parties may not be obligated to complete the Merger, and either Bats or we may have the right to terminate the Merger Agreement. In addition, our and Bats’ obligations to complete the Merger are conditioned on the receipt of certain regulatory approvals or waiver by the other party of such condition.
+
+Failure to complete the Merger could negatively impact our stock price and future businesses and financial results.
+
+If the Merger is not completed, our ongoing business may be adversely affected, and we will be subject to several risks and consequences, including the following:
+
+
+30
+Table of Contents
+
+•
+we may be required, under certain circumstances, to pay Bats a termination fee of $110 million or reimburse Bats’ expenses up to $10 million under the Merger Agreement;
+
+•
+we will be required to pay certain costs relating to the Merger, whether or not the Merger is completed, such as legal, accounting, financial advisory and printing fees;
+
+•
+under the Merger Agreement, we are subject to certain restrictions on the conduct of our business prior to completing the Merger that may adversely affect our ability to execute certain of our business strategies; and
+
+•
+matters relating to the Merger may require substantial commitments of time and resources by our management, which could otherwise have been devoted to other opportunities that may have been beneficial to us as an independent company and such commitments may impact future earnings of the combined company.
+
+In addition, if the Merger is not completed, we may experience negative reactions from the financial markets and from our customers and employees. We also could be subject to litigation related to any failure to complete the Merger or to enforcement proceedings commenced against us to perform our obligations under the Merger Agreement. If the Merger is not completed, we cannot assure our stockholders that the risks described above will not materialize and will not materially adversely affect our business, financial results and stock prices.
+
+The announcement and pendency of the Merger may adversely affect our business, financial condition and results of operations.
+
+Uncertainty about the effect of the Merger on our employees, customers, and other parties may have an adverse effect on our business, financial condition and results of operation regardless of whether the Merger is completed. These risks to our business include the following, all of which could be exacerbated by a delay in the completion of the Merger:
+
+•
+the impairment of our ability to attract, retain and motivate our employees, including key personnel;
+
+•
+the diversion of significant management time and resources towards the completion of the Merger;
+
+•
+difficulties maintaining relationships with customers and other business partners;
+
+•
+delays or deferments of certain business decisions by our customers and other business partners;
+
+•
+the inability to pursue alternative business opportunities or make appropriate changes to our business because of requirements in the Merger Agreement that we conduct our business in the ordinary course of business consistent with past practice and not engage in certain kinds of transactions prior to the completion of the Merger;
+
+•
+litigation relating to the Merger and the costs related thereto; and
+
+•
+the incurrence of significant costs, expenses and fees for professional services and other transaction costs in connection with the Merger.
+
+Our debt arrangements in connection with financing the Merger may decrease our business flexibility and adversely affect our financial results.
+
+On December 15, 2016, we entered into a $1.0 billion senior unsecured delayed draw term loan facility. On January 12, 2017, we issued $650 million aggregate principal amount of our 3.650% Senior Notes due 2027. The proceeds from this delayed draw term loan facility and issuance of our senior notes, in addition to using cash on hand at CBOE Holdings and Bats, are expected to be used to finance a portion of the cash component of the Merger consideration, to refinance existing indebtedness of Bats and its subsidiaries and to pay related fees and expenses. In addition, on December 15, 2016, we entered into a $150 million revolving credit facility to be used for working capital and other general corporate purposes.
+
+Prior to entering into the Merger Agreement, we did not have any indebtedness and were not subject to any financial covenants. The financial and other covenants to which we have agreed to in connection with the incurrence of the indebtedness, and the combined company’s increased indebtedness, may have the effect, among other things, of reducing the combined company’s flexibility to respond to changing business and economic conditions, thereby placing the combined company at a competitive disadvantage compared to competitors that have less indebtedness and making the combined company more vulnerable to general adverse economic and industry conditions. The combined company’s increased indebtedness will also
+
+31
+Table of Contents
+
+increase borrowing costs, and the covenants pertaining thereto may also limit the combined company’s ability to repurchase shares of our common stock, increase dividends or obtain additional financing to fund working capital, capital expenditures, acquisitions or general corporate requirements. The combined company will also be required to dedicate a larger portion of its cash flow from operations to payments on its indebtedness, thereby reducing the availability of its cash flow for other purposes, including working capital, capital expenditures and general corporate purposes.
+
+The combined company’s ability to make payments on and to refinance its debt obligations and to fund planned capital expenditures will depend on its ability to generate cash from the combined company’s operations. This, to a certain extent, is subject to general economic, financial, competitive, legislative, regulatory and other factors that are beyond the combined company’s control.
+
+The combined company may not be able to refinance any of its indebtedness on commercially reasonable terms, or at all. If the combined company cannot service its indebtedness, the combined company may have to take actions such as selling assets, seeking additional equity or reducing or delaying capital expenditures, strategic acquisitions, investments and alliances, any of which could impede the implementation of the combined company’s business strategy or prevent the combined company from entering into transactions that would otherwise benefit its business. Additionally, the combined company may not be able to effect such actions, if necessary, on commercially reasonable terms, or at all.
+
+Any of the foregoing consequences could adversely affect the combined company’s financial results.
+
+Deterioration in our credit profile may increase our costs of borrowing money.
+
+Our long-term indebtedness is rated by S&P Global Ratings and Moody’s Investors Service. There is no assurance that we will maintain such credit ratings, since credit ratings may be lowered or withdrawn entirely by a rating agency if, in its judgment, the circumstances warrant. If a rating agency were to downgrade our rating below investment grade, our borrowing costs and the costs of the proposed transactions contemplated by the Merger Agreement would increase.
+
+The Merger Agreement contains provisions that may discourage other companies from trying to acquire us.
+
+The Merger Agreement contains provisions that apply both during the pendency of the Merger transaction with Bats as well as afterward should the Merger with Bats not be consummated that may discourage a third party from submitting a business combination proposal to us that might result in greater value to our stockholders than the Merger. These Merger Agreement provisions include a general prohibition on us from soliciting, or, subject to certain exceptions, entering into discussions with any third party regarding any acquisition proposal or offers for competing transactions. In addition, we may be required to pay Bats a $110 million termination fee and reimburse Bats for its expenses incurred in connection with the Merger in an aggregate amount not to exceed $10 million in certain circumstances involving acquisition proposals for competing transactions.
+
+The price of our common stock might increase or decline prior to the completion of the Merger, which would change the value of the Merger consideration to be received by Bats stockholders pursuant to the Merger Agreement.
+
+The market price of our common stock at the time the Merger is completed may vary significantly from the price on the date of the Merger Agreement. On September 22, 2016, the last full trading day prior to media publications regarding the proposed Merger, our common stock closed at $69.41 per share as reported on NASDAQ, and on September 23, 2016, the last full day of trading prior to the announcement of the Merger Agreement, our common stock closed at $70.30 per share as reported on NASDAQ. If the market price of our common stock increases above $70.30, the market value of the Merger consideration will be greater than $32.50 per share of Bats common stock.
+
+The issuance of shares of our common stock to Bats stockholders pursuant to the Merger Agreement will substantially reduce the percentage ownership interests of our pre-existing stockholders.
+
+Based on the number of shares of our common stock and Bats common stock outstanding on December 9, 2016, the record date for the two companies' special meetings of stockholders held in connection with the Merger, we expect to issue or reserve for issuance approximately 31.9 million shares of our common stock pursuant to the Merger Agreement (including shares of our common stock issuable to Bats stockholders pursuant to outstanding and unexercised options to purchase Bats common stock granted under any Bats equity incentive plan, whether vested or unvested, and outstanding awards of restricted Bats common stock granted under any Bats equity incentive plan). Based on these numbers, immediately following the completion of the Merger, our pre-existing stockholders and former Bats stockholders would own approximately 72% and 28% of the outstanding shares of our common stock, respectively. The Merger will have no effect on the number of shares of our
+
+32
+Table of Contents
+
+common stock owned by our existing stockholders. The issuance of approximately 31.9 million shares of our common stock to Bats stockholders and holders of equity incentive awards will cause a significant reduction in the relative percentage interests of our current stockholders in earnings, voting, liquidation value and book and market value.
+
+The Merger will result in changes to the board of directors and management of the combined company that may affect the strategy of the combined company as compared to our strategy as a standalone company.
+
+If the parties complete the Merger, the composition of our board of directors and our management team will change from our current board and management team. The board of directors of the combined company will consist of 14 members, including three individuals designated by Bats who are serving as Bats directors immediately prior to the effective time of the Merger. We will also have executive officers from both us and Bats. This new composition of our board of directors and our management team may affect the business strategy and operating decisions of the combined company upon the completion of the Merger.
+
+We will incur significant transaction and integration costs in connection with the Merger.
+
+We and Bats expect to incur a number of costs associated with completing the Merger and integrating the operations of the two companies. The substantial majority of these costs will be non-recurring expenses resulting from the Merger and will consist of transaction costs related to the Merger, facilities and systems consolidation costs and employment‑related costs. Additional unanticipated costs may be incurred in the integration of our businesses with Bats’ businesses. Although we expect that the elimination of duplicative costs, as well as the realization of other efficiencies related to the integration of the businesses, will offset incremental transaction and Merger-related costs over time, this net benefit may not be achieved in the near term, or at all.
+
+We may not realize all of the anticipated benefits of the transactions contemplated by the Merger Agreement or such benefits may take longer to realize than expected.
+
+The success of the Merger will depend, in part, on our ability to realize the anticipated benefits from combining our businesses with Bats’ businesses. Our ability to realize the anticipated benefits of the Merger will depend, to a large extent, on our ability to integrate our businesses with Bats’ businesses. The combination of two independent companies is a complex, costly and time-consuming process. As a result, the combined company will be required to devote significant management attention and resources to integrating our business practices and operations with those of Bats. The integration process may disrupt the business of either or both of the companies and, if implemented ineffectively, could preclude realization of the full benefits expected by us. The failure of the combined company to meet the challenges involved in integrating successfully our operations with those of Bats or otherwise to realize the anticipated benefits of the proposed transactions could cause an interruption of, or a loss of momentum in, the activities of the combined company and could seriously harm its results of operations. In addition, the overall integration of the two companies may result in material unanticipated problems, expenses, liabilities, competitive responses, loss of client relationships and diversion of management’s attention, and may cause the combined company’s stock price to decline. The difficulties of combining the operations of the companies include, among others:
+
+•
+unanticipated issues in integrating information technology, communications and other systems;
+
+•
+unforeseen expenses or delays associated with the integration or the Merger;
+
+•
+managing a significantly larger company;
+
+•
+the potential diversion of management focus and resources from other strategic opportunities and from operational matters, and potential disruption associated with the Merger;
+
+•
+maintaining employee morale and retaining key management and other key employees;
+
+•
+integrating two unique business cultures, which may prove to be incompatible;
+
+•
+the possibility of faulty assumptions underlying expectations regarding the integration process and expense synergies;
+
+•
+consolidating corporate and administrative infrastructures and eliminating duplicative operations;
+
+•
+coordinating geographically separate organizations;
+
+33
+Table of Contents
+
+
+•
+changes in applicable laws and regulations;
+
+•
+managing costs or inefficiencies associated with integrating the operations of the combined company; and
+
+•
+making any necessary modifications to internal financial control standards to comply with the Sarbanes Oxley Act of 2002 and the rules and regulations promulgated thereunder.
+
+Many of these factors will be outside of our control and any one of them could result in increased costs, decreases in the amount of expected revenues and diversion of management’s time and energy, which could materially impact our business, financial condition and results of operations. In addition, even if Bats’ and our operations are integrated successfully, we may not realize the full benefits of the proposed transactions, including the synergies, cost savings or growth opportunities that we expect. These benefits may not be achieved within the anticipated time frame, or at all. As a result, we cannot assure you that the combination of Bats with us will result in the realization of the full benefits anticipated from the transactions contemplated by the Merger Agreement.
+
+A failure to integrate successfully or a material disruption in information technology systems could adversely affect the combined company’s business and results of operations.
+
+The combined company will rely extensively on its information technology systems. The failure of information technology systems to operate effectively, difficulty in integrating our information technology systems with Bats’ information technology systems, inconsistencies in standards, controls, procedures and policies and problems with transitioning to upgraded or replacement systems could adversely impact the business of the combined company. In addition, a number of our TPHs are not connected to Bats’ information technology platforms and will be required to complete the process of connecting to these platforms as part of the integration.
+
+The process of integrating information technology systems may take longer, cost more and provide fewer synergies than initially anticipated. There may also be new regulations adopted during the transition period that require systems changes, which could divert attention away from integration process and cause delays. To the extent this occurs, the benefits of the proposed transaction may be reduced, delayed or may never come to fruition. Although Bats has experience with transitioning other businesses to its information technology platform, there are certain portions of our business, such as open outcry trading and complex order trading, that have not yet been addressed by Bats’ information technology platform.
+
+We currently expect to complete the integration of our information technology systems with those of Bats in phases over a four-year period following the Merger. However, we may not be able to successfully achieve the transition on the timetable currently contemplated, and the transition may not be successful or could encounter various difficulties and unexpected issues. Any delays or issues that we encounter in the transition could have a material adverse effect on the businesses of the combined company and could negatively affect our reputation, which in turn could have a material adverse effect on the combined company’s overall business, results of operations and financial condition, as well as impair customer confidence in the combined company’s product offerings and overall services.
+
+If the combined company is unable to manage its growth, its business and financial results could suffer.
+
+The combined company’s future financial results will depend in part on its ability to manage its core businesses, including any growth that the combined company may be able to achieve. Over the past several years, we and Bats have each engaged in the identification of, and competition for, growth and expansion opportunities. In order to achieve those initiatives, the combined company will need to, among other things, recruit, train, retain and effectively manage employees and expand its operations and financial control systems. If the combined company is unable to manage its businesses effectively and profitably, its business and financial results could suffer.
+
+To be successful, the combined company must retain and motivate key employees, including those experienced with post-acquisition integration, and failure to do so could seriously harm the combined company.
+
+The success of the combined company largely depends on the skills, experience and continued efforts of management and other key personnel. As a result, to be successful, the combined company must retain and motivate executives and other key employees. In particular, the combined company expects to benefit from the integration experience of certain Bats personnel. Certain key executives of Bats have executed offer letters with us to continue their employment following the Merger. However, these executives will continue to be at‑will employees, and the offer letters provide no assurance that these executives will remain with the combined company. Additionally, certain of our information technology employees will be
+
+34
+Table of Contents
+
+important to retain during the transition period to effectively manage our information technology platforms and to assist Bats in the process of integrating its information technology platform. If these personnel were to leave, the combined company may experience increased difficulty in the post-Merger integration process, maintenance of the current information technology platform and may not be able to adequately replace such personnel, which could have a material adverse effect on the combined company’s overall business, results of operations and financial condition.
+
+Our and Bats’ employees may experience uncertainty about their future roles with the combined company until integration strategies for the combined company are announced or executed. These circumstances may adversely affect the combined company’s ability to retain key personnel. The combined company also must continue to motivate employees and maintain their focus on the strategies and goals of the combined company. Doing so may be difficult due to the uncertainties and challenges associated with post-Merger integration. If the combined company is unable to retain executives and other key employees, the roles and responsibilities of such executive officers and employees will need to be filled either by existing or new officers and employees, which may require the combined company to devote time and resources to identifying, hiring and integrating replacements for the departed executives and employees that could otherwise be used to integrate our and Bats’ businesses or otherwise pursue business opportunities. There can be no assurance that the combined company will be able to retain and motivate its employees in the same manner as we and Bats have historically done.
+
+The combined company may need to hire additional personnel in order to assist with the transition of our businesses to the Bats information technology platform. It may be difficult for the combined company to retain and recruit qualified employees in sufficient numbers, and if the combined company is unable to satisfy its needs for qualified and capable employees, its business and operating results could be adversely affected.
+
+There is substantial competition for qualified and capable personnel in the technology space, which may make it difficult for the combined company to retain and recruit qualified employees in sufficient numbers. Increased difficulty in retaining or recruiting sufficient and qualified personnel by the combined company may lead to increased employment compensation costs, which could adversely affect the combined company’s results of operations. In addition, the increased number of employees may impose a significant administrative burden on the combined company. If the combined company is unable to retain and recruit highly qualified employees by offering competitive compensation, stable work environment and leadership opportunities now and in the future, the combined company’s business and operating results could be negatively impacted.
+
+Bats generates a significant percentage of its total revenues from, and is provided with significant liquidity in its markets and other services by, entities who are affiliates of its significant stockholders, and there is no assurance that such entities will continue to generate such revenue or provide such liquidity and other services after the completion of the Merger.
+
+Bats earns a significant percentage of its revenue from customers who are affiliates of its significant stockholders. In addition, Bats relies on certain entities who are affiliates of significant Bats stockholders to route orders that are not routed directly by Bats and to clear certain trades routed to other markets. The significant stockholders of Bats may not receive shares of our common stock in the Merger, or even if they do, their proportionate stake in the combined company will be significantly less than their stake in Bats prior to the Merger, so there may be less incentive for the affiliates of Bats’ significant stockholders to maintain their current business relationships with the combined company following the Merger at current levels or at all. If the affiliates of Bats’ significant stockholders do not remain customers following the Merger at current levels or at all or if any of the affiliates of Bats’ significant stockholders do not continue to route and clear trades as they did prior to the Merger, the combined company may experience decreased revenues and business interruptions, which could have a material adverse effect on the business, results of operations and financial condition of the combined company.
+
+The combined company will record goodwill and intangible assets that could become impaired and adversely affect its results of operations and financial condition.
+
+Accounting standards in the United States require that one party to the Merger be identified as the acquirer. In accordance with these standards, the Merger will be accounted for as an acquisition of Bats by us and will follow the acquisition method of accounting for business combinations. The assets and liabilities of Bats will be consolidated with our assets and liabilities. The excess of the purchase price over the fair values of Bats’ assets and liabilities, if any, will be recorded as goodwill.
+
+We will be required to assess goodwill and intangible assets for impairment at least annually. In the future we may take charges against earnings resulting from impairment. Any determination requiring the write off of a significant portion of our goodwill or other intangible assets could adversely affect our results of operations and financial condition.
+
+
+35
+Table of Contents
+
+The Merger may not be accretive and may cause dilution to our earnings per share, which may negatively affect the market price of our common stock.
+
+We currently anticipate that the Merger will be accretive to adjusted earnings per share in the first year following the completion of the Merger. This expectation is based on preliminary estimates, which may materially change. We could also encounter additional transaction and integration‑related costs or other factors such as the failure to realize all of the benefits anticipated in the Merger. All of these factors could cause dilution to our earnings per share or decrease or delay the expected accretive effect of the Merger and cause a decrease in the price of our common stock.
+
+The combined company will indirectly hold 100% of the issued share capital and voting rights in Bats Trading Limited (“BTL”) and its wholly owned subsidiary, Chi-X Europe Limited (“Chi-X Europe”).  As a result, any person who holds, or has voting power with respect to, 10% or more of the outstanding shares of our common stock following the effective time of the Merger, will be subject to certain regulatory requirements under U.K. law.
+
+A person that indirectly acquires control in a FCA entity is required to file a change in control notice with the FCA.  Though both are FCA regulated entities, the statutorily prescribed change in control notification threshold for BTL is acquisition of voting power with respect to 20% or more of the issued share capital thereof.  The change in control notification threshold for Chi-X Europe is acquisition of voting power with respect to 10% or more of the issued share capital thereof.   Therefore, any person who holds, or has voting power with respect to, 10% or more of the outstanding shares of our common stock will be required to file a change in control notice in respect of Chi-X Europe and, if this holding is in excess of 20%, also for BTL.  This obligation may discourage, delay or prevent accumulations of 10% or more of our common stock.
+Item 1B.    Unresolved Staff Comments
+Not applicable.
+Item 2.    Properties
+Our principal offices are located at 400 South LaSalle Street, Chicago, Illinois 60605. Through our wholly-owned subsidiary, Chicago Options Exchange Building Corporation, we own the building in which our principal offices are located and occupy approximately 300,000 square feet of this building. In addition to our principal offices, we lease approximately 13,000 square feet, which includes office space, our data center and remote network operations.
+We believe the space we occupy is sufficient to meet our current and expected future needs.
+Item 3.    Legal Proceedings
+As of December 31, 2016, the end of the period covered by this report, the Company was subject to the various legal proceedings and claims discussed below, as well as certain other legal proceedings and claims that have not been fully resolved and that have arisen in the ordinary course of business.
+
+The Company reviews its legal proceedings and claims, regulatory reviews and inspections and other legal proceedings on an ongoing basis and follows appropriate accounting guidance when making accrual and disclosure decisions. The Company establishes accruals for those contingencies where the incurrence of a loss is probable and can be reasonably estimated, and we disclose the amount accrued and the amount of a reasonably possible loss in excess of the amount accrued, if such disclosure is necessary for our financial statements to not be misleading. The Company does not record liabilities when the likelihood that the liability has been incurred is probable, but the amount cannot be reasonably estimated, or when the liability is believed to be only reasonably possible or remote. The Company's assessment of whether a loss is reasonably possible or probable is based on its assessment of the ultimate outcome of the matter following all appeals.
+
+As of December 31, 2016, the Company does not believe that there is a reasonable possibility that any material loss exceeding the amounts already recognized for these reviews, inspections or other legal proceedings, if any, has been incurred. While the consequences of certain unresolved proceedings are not presently determinable, the outcome of any litigation is inherently uncertain and an adverse outcome from certain matters could have a material effect on our earnings in any given reporting period. However, in the opinion of management, the ultimate liability is not expected to have a material effect on our financial position, liquidity or capital resources.
+
+Lanier Litigation
+
+On May 23, 2014, Harold R. Lanier sued 14 securities exchanges, including CBOE, in the United States District Court for the Southern District of New York (the "Court") on behalf of himself and a putative class consisting of all persons in the
+
+36
+Table of Contents
+
+United States who entered into contracts to receive market data through certain data plans at any time since May 19, 2008 to the present. The complaint alleged that the market data provided under the CQ Plan and CTA Plans was inferior to the data that the exchanges provided to those that directly receive other data from the exchanges, which the plaintiffs alleged is a breach of their “subscriber contracts” and a violation of the exchanges’ obligations under the CQ and CTA Plans. The plaintiffs sought monetary and injunctive relief. On May 30, 2014, Mr. Lanier filed two additional suits in the same Court, alleging substantially the same claims and requesting the same types of relief against the exchanges who participate in the UTP and the OPRA data plans. CBOE was a defendant in each of these suits, while C2 was only a defendant in the suit regarding the OPRA Plan. On April 28, 2015, the Court dismissed Lanier’s complaint with prejudice because it was preempted by the federal regulatory scheme and because the claims were precluded by the terms of the applicable subscriber agreements. Mr. Lanier appealed the orders dismissing each of his three cases and, on September 2, 2015, he filed his opening appellate briefs in those cases. The defendants’ response briefs were filed November 24, 2015 and briefing on the appeals has concluded. The oral arguments on the appeals were heard on March 3, 2016. On September 23, 2016, the Court of Appeals ruled in favor of the defendants and affirmed the Court’s dismissal of Lanier’s complaints with prejudice. On October 7, 2016, Lanier filed a petition for rehearing only in the action related to the OPRA Plan and the Court of Appeals ruling with respect to the other two complaints is now final. On November 4, 2016, the Court of Appeals denied the petition for rehearing in the case related to the OPRA Plan.
+Other
+As a self-regulatory organization under the jurisdiction of the SEC, with respect to CBOE and C2, and as a designated contract market under the jurisdiction of the CFTC, with respect to CFE, we are subject to routine reviews and inspections by the SEC and the CFTC.
+We are also currently a party to various other legal proceedings in addition to those already mentioned. Management does not believe that the outcome of any of these other reviews, inspections or other legal proceedings will have a material impact on our consolidated financial position, results of operations or cash flows.
+Item 4.    Mine Safety Disclosures
+Not applicable.
+
+37
+Table of Contents
+
+PART II
+
+Item 5.    Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+Common Stock
+The Company's common stock is listed on the NASDAQ Global Select Market under the trading symbol CBOE. As of January 31, 2017, there were approximately 145 holders of record of our common stock.
+The following table sets forth the high and low sales prices by quarter for shares of our common stock as reported on NASDAQ and cash dividends declared per quarter:
+ 
+Price Range
+ 
+Cash
+Dividends Declared
+per Share
+Calendar Period
+High
+ 
+Low
+ 
+2015
+ 
+ 
+ 
+ 
+ 
+First Quarter
+$
+68.00
+
+ 
+$
+56.57
+
+ 
+$
+0.21
+
+Second Quarter
+59.64
+
+ 
+55.04
+
+ 
+0.21
+
+Third Quarter
+67.22
+
+ 
+57.41
+
+ 
+0.23
+
+Fourth Quarter
+72.53
+
+ 
+63.65
+
+ 
+0.23
+
+2016
+ 
+ 
+ 
+ 
+ 
+First Quarter
+67.41
+
+ 
+58.43
+
+ 
+0.23
+
+Second Quarter
+66.95
+
+ 
+61.22
+
+ 
+0.23
+
+Third Quarter
+71.05
+
+ 
+64.62
+
+ 
+0.25
+
+Fourth Quarter
+77.29
+
+ 
+61.58
+
+ 
+0.25
+
+2017
+ 
+ 
+ 
+ 
+ 
+Through February 16, 2017 (1)
+80.47
+
+ 
+72.54
+
+ 
+0.25
+
+(1) On February 16, 2017, the Company's board of directors declared a quarterly cash dividend of $0.25 per share. The dividend is payable on March 24, 2017 to stockholders of record at the close of business on March 3, 2017.
+Dividends
+Each share of common stock, including restricted stock awards and restricted stock units, is entitled to receive dividend and dividend equivalents, respectively, if, as and when declared by the board of directors of the Company.
+The Company’s expectation is to continue to pay dividends. The decision to pay a dividend, however, remains within the discretion of the Company's board of directors and may be affected by various factors, including our earnings, financial condition, capital requirements, level of indebtedness and other considerations our board of directors deems relevant. Future debt obligations and statutory provisions, among other things, may limit, or in some cases prohibit, our ability to pay dividends.
+As a holding company, the Company's ability to declare and continue to pay dividends in the future with respect to its common stock will also be dependent upon the ability of its subsidiaries to pay dividends to it under applicable corporate law.
+Recent Sales of Unregistered Securities
+Not applicable.
+Use of Proceeds
+Not applicable.
+Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+In 2011, the board of directors approved an initial authorization for the Company to repurchase shares of its outstanding common stock of $100 million and approved additional authorizations of $100 million in each of 2012, 2013, 2014, 2015, and February 2016 for a total authorization of $600 million. The program permits the Company to purchase shares through a variety of methods, including in the open market or through privately negotiated transactions, in accordance with applicable securities laws. It does not obligate the Company to make any repurchases at any specific time or situation.
+
+38
+Table of Contents
+
+
+Under the program, for the year ended December 31, 2016, the Company purchased 947,786 shares of common stock at an average cost per share of $63.83 totaling $60.5 million. Since inception of the program through December 31, 2016, the Company has purchased 10,947,401 shares of common stock at an average cost per share of $45.95 totaling $503.0 million.
+
+     As of December 31, 2016, the Company had $97 million of availability remaining under its existing share repurchase authorizations. As a result of our pending transaction with Bats, we were not active in our share repurchase program during the third and fourth quarters of 2016.

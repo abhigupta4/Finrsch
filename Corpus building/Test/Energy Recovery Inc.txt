@@ -1,0 +1,516 @@
+PART I
+ 
+ITEM 1 — BUSINESS
+ 
+OVERVIEW
+ 
+Energy Recovery, Inc. (the “Company”, “Energy Recovery”, “Our”, “Us”, and “We”) is an energy solutions provider to industrial fluid flow markets worldwide. We make industrial processes more operating and capital expenditure efficient. Our solutions convert wasted pressure energy into a reusable asset and preserve or eliminate pumping technology in hostile processing environments. Our solutions are marketed and sold in fluid flow markets, such as water, oil & gas and chemical processing, under the trademarks ERI®, PX®, Pressure Exchanger®, PX Pressure Exchanger®, AT™, AquaBold™, VorTeq™, IsoBoost®, and IsoGen®. Our solutions are developed in whole or in part, in the United States of America (“U.S.”), as well as other locations internationally.
+ 
+Energy Recovery was incorporated in Virginia in April 1992, reincorporated in Delaware in March 2001, and became a public company in July 2008. Our headquarters and primary manufacturing center is located at 1717 Doolittle Drive, San Leandro, California 94577, and we have four (4) wholly-owned subsidiaries: ERI Energy Recovery Holdings Ireland Limited; ERI Energy Recovery Ireland Ltd.; Energy Recovery Iberia, S.L.; and Energy Recovery Canada Corp. We also have sales offices in Dubai, United Arab Emirates and Shanghai, Peoples Republic of China. Our main telephone number is (510) 483-7370.
+ 
+The Energy Recovery website is www.energyrecovery.com. We use the Investor Relations section of our website as a routine channel for distribution of important information, including news releases, presentations, and financial statements. Our Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, all amendments to those reports, and the Proxy Statement for our Annual Meeting of Stockholders are made available, free of charge, in the Investor Relations section of our website, as soon as reasonably practicable after the reports have been filed with or furnished to the Securities and Exchange Commission (“SEC”). The information contained on our website or any other website is not part of this report nor is it considered to be incorporated by reference herein or with any other filing we make with the SEC.
+ 
+ 
+FLUID FLOW MARKETS
+ 
+Our primary industrial fluid flow markets are water desalination and oil & gas. We have been and continue to be the technology leader for energy recovery devices (“ERDs”) in the water desalination market with our proprietary Pressure Exchanger technology and turbochargers. We also provide high-performance and high-efficiency pumps to facilitate a packaged solution for our customers. Building on our leading technology, we have expanded our solution offerings into other fluid flow markets, such as those found in upstream, midstream, and downstream applications of the oil & gas industry, as well as exploring other end markets for which our solutions may be applicable. We offer the VorTeq hydraulic fracturing system (“VorTeq”), IsoBoost, and IsoGen product lines to the oil & gas market.
+ 
+Water Desalination
+ 
+Water Desalination has been our core market for revenue generation to date. The water desalination market ranges from small water desalination plants such as those used in cruise ships and resorts to mega-project desalination plant deployments globally. Because of the geographical location of many significant desalination projects, geopolitical and economic events can have an effect on the timing of expected projects. In addition, population and economic growth in countries such as India and China are driving water demand for human, agricultural, and industrial use. We anticipate that markets traditionally not associated with water desalination, including the United States, will inevitably develop and provide further revenue growth opportunities. Our solutions leverage our Pressure Exchanger, turbocharger, and pump technologies providing our customers significant operational efficiency and energy savings.
+ 
+Oil & Gas
+ 
+Across the oil & gas upstream, midstream and downstream market, highly pressurized fluid flows are required to extract and process oil or gas. These pressurized fluid flows are both a necessity and liability to the oil & gas industry.
+ 
+ 
+- 4 -
+ 
+ 
+Within the oil & gas upstream segment, hydraulic fracturing is a well-stimulation technique in which rock is fractured by pressurized liquid through the injection of a highly abrasive, proppant-laden fluid into a wellbore to create cracks in deep-rock formations thereby permitting oil & gas extraction. Oilfield service providers utilize high-pressure hydraulic fracturing pumps to pressurize the fracturing fluid at treating pressures up to 15,000 psi. These pumps are routinely destroyed during the hydraulic fracturing process causing significant oilfield service operator costs associated with excessive downtime, repairs, maintenance, and capital equipment redundancy. Our solution leverages our Pressure Exchanger technology to isolate high-pressure hydraulic fracturing pumps from abrasive fracturing fluid thereby enabling oilfield service operators to realize immediate and long-term savings.
+ 
+Within the oil & gas midstream and downstream segments, pressure energy becomes a waste product at different stages of oil and gas processing. It is at these stages that our technology enables the recovery of pressure energy in the fluid flow either through the exchange of pressure within the application or by converting it to electricity. We enable gas processing plant and pipeline owners and operators to achieve immediate and long-term energy savings with little or no operational disruption.
+ 
+ 
+2015 HIGHLIGHTS
+ 
+ 	
+●
+Signed a fifteen (15) year, exclusive, worldwide licensing agreement with Schlumberger Technologies Corporation (“Schlumberger”), a subsidiary of Schlumberger Limited for the use of our VorTeq hydraulic fracturing system in onshore hydraulic fracturing operations;
+ 
+ 	
+●
+Completed the VorTeq field trials with our test partner, Liberty Oil Field Services;
+ 
+ 	
+●
+Commissioned an IsoGen system in one of Saudi Aramco’s plants;
+ 
+ 	
+●
+Implemented austerity measures to restructure and right-size our cost base while continually executing against our revised strategic plan;
+ 
+ 	
+●
+Restructured our management team appointing a new Chief Executive Officer, Chief Financial Officer, Vice President of Corporate Development, and Vice President of Marketing;
+ 
+ 
+●
+
+Implemented segment reporting in the third quarter of 2015 to articulate our new internal organizational and reporting structure. Prior to implementation, we disclosed segment information as a supplement to the Management, Discussion and Analysis in the second quarter of 2015;
+
+ 
+ 	
+●
+Developed a comprehensive strategic plan, including a new product development road map; and
+ 
+ 	
+●
+Water desalination sales rebounded to be one of the best in the history of the Company.
+ 
+ 
+ 
+OUR SOLUTIONS
+ 
+In the Water Desalination market, our energy recovery solutions reduce plant operating costs by capturing and reusing the otherwise lost pressure energy from the reject stream of the desalination process. In the Oil & Gas market, our hydraulic fracturing solutions reduce operating and capital equipment costs by isolating high cost pumping equipment from highly abrasive fracturing fluids. In addition, our oil & gas solutions reduce plant or pipeline operating costs by capturing and reusing otherwise lost pressure energy. Energy and capital costs are major cost drivers in both the water desalination and oil & gas markets.
+ 
+ 
+Water Desalination
+ 
+Our water desalination ERDs are categorized into two technology groups: PX energy recovery devices and turbochargers. The first technology group is comprised of our patented Pressure Exchanger technology consisting of ceramic rotors and almost frictionless hydrodynamic bearings. Our PX energy recovery devices perform with up to 98% efficiency and unmatched uptime in the desalination industry as well as save up to 60% of the energy costs of a desalination plant.
+ 
+The second technology group is comprised of AT turbochargers designed for low-pressure brackish and high-pressure seawater reverse osmosis systems. Our turbochargers provide premium efficiency with state-of-the-art engineering and configuration. Designed for reliability and optimum efficiency, our turbochargers offer substantial savings, and the custom-designed hydraulics and 3-D geometry allow for optimum performance. Also, the patent-protected technology for volute inserts allows field flexibility.
+ 
+Complementing both our PX energy recovery devices and AT turbochargers are our high-efficiency and high-pressure pumps marketed under the trademark of AquaBold. These pumps range from single and multiple stage centrifugal pumps to circulation and advanced high-speed pumps.
+ 
+ 
+- 5 -
+ 
+ 
+Oil & Gas 
+ 
+In the Oil & Gas market, we design and manufacture innovative solutions that preserve or eliminate pumping technology in hostile processing environments and convert wasted pressure energy into a reusable asset. Our core solutions are the VorTeq hydraulic fracturing system and our centrifugal line of products, the IsoBoost and the IsoGen.
+ 
+Field trials were initiated for the VorTeq in the second quarter of 2015 and successfully completed in the fourth quarter of 2015. In October 2015, we entered into a fifteen (15) year license agreement with Schlumberger for the exclusive, worldwide right to use the VorTeq technology for hydraulic fracturing onshore operations. The product is currently in the research and development stage. The VorTeq is an enabling technology for oilfield service (“OFS”) companies to isolate and preserve costly hydraulic fracturing pumps by re-routing hostile fracturing fluid away from these critical pumps. These hydraulic fracturing pumps will then process only water, which leads to reduced repairs and maintenance costs, increased fleet revenue, and reduced capital costs by extending pump life expectancy and eliminating redundant capital equipment. The VorTeq further allows for the migration to increasingly efficient pumping technology that could lead to the revolutionizing of the hydraulic fracturing system.
+ 
+The IsoBoost and IsoGen were commercialized in 2012. Our IsoBoost energy recovery systems are comprised of hydraulic turbo chargers and related controls and automation systems. Our IsoBoost systems, through the use of turbochargers, enable oil & gas operators to capture wasted hydraulic pressure energy from a high-pressure fluid flow and transfer the energy to a low-pressure fluid flow thereby recovering wasted pressure energy. Our IsoGen energy recovery systems are comprised of hydraulic turbines, generators, and related controls and automation systems. The IsoGen enables oil & gas operators to capture hydraulic energy and generate electricity from high-pressure fluid flows. Additionally, our energy recovery and power generation systems result in lower capital costs for oil & gas operators by minimizing the need for high-pressure pumps that consume large amounts of energy.
+ 
+ 
+Services
+ 
+We provide a portfolio of services tailored to our customers’ needs. Specifically, we assist our customers in the early stages of planning and design by leveraging our broad experience in fluid flows and advanced material science. We also provide engineering, technical support, and training to customers during installation and commissioning. Additionally, we offer preventive maintenance and support services as well as reinstallation services. To date the revenue from these services has not represented a significant portion of our revenue.
+ 
+ 
+CUSTOMERS
+ 
+Water Desalination
+ 
+Our water desalination customers include major international engineering, procurement, and construction (“EPC”) firms that design and build large desalination plants, original equipment manufacturers (“OEM”), which are companies that supply equipment and packaged solutions for small- to medium-sized desalination plants, and national, state and local municipalities worldwide.
+ 
+Large Engineering, Procurement and Construction Firms
+ 
+A significant portion of our revenue historically has come from sales of solutions to large EPC firms worldwide that have the required desalination expertise to engineer, undertake procurement for, construct, and sometimes own and operate large desalination plants or mega-projects (“MPD”). We work with these firms to specify our solutions for their plants. The time between project tender and shipment can range from 16 to 36 months. Each MPD project typically represents a revenue opportunity of between $1 million and $10 million.
+ 
+A limited number of these EPC firms account for 10% or more of our product revenue. Revenue from customers representing 10% or more of product revenue varies from year to year. For the year ended December 31, 2015, one customer, Acciona Agua, S.A.U., accounted for approximately 14% of our product revenue. For the year ended December 31, 2014, one customer, IDE Americas, Inc., accounted for approximately 14% of our product revenue. For the year ended December 31, 2013, one customer, Acciona Agua, S.A.U., accounted for approximately 15% of our product revenue.
+ 
+ 
+- 6 -
+ 
+ 
+Original Equipment Manufacturers
+ 
+We also sell our solutions and services to suppliers of pumps and other water-related equipment for assembly and use in small- to medium-sized desalination plants located in hotels, power plants, cruise ships, farm operations, island bottlers, mobile and containerized water desalination solutions, and small municipalities. These OEMs also purchase our solutions for “quick water” or emergency water solutions. Our OEM customer base accounted for approximately 45% of our 2015 revenues. We typically sell and promote our packaged solutions to this sales channel represented by a product mix of PX Pressure Exchangers, turbochargers, high-pressure pumps, and circulation “booster” pumps. The time from project tender and shipment can range from one (1) to twelve (12) months. OEM projects typically represent revenue opportunities between $0.01 million to $1.0 million.
+ 
+ 
+Oil & Gas
+ 
+Our oil & gas customers include international oil companies (“IOC”), national oil companies (“NOC”), exploration and production companies (“E&P”), oilfield service companies (“OFS”), and EPC firms that design and build oil & gas processing plants.
+ 
+Upstream
+ 
+OFS companies provide the infrastructure, equipment, intellectual property, and services needed by the oil & gas industry to explore for, extract, and transport crude oil and natural gas. OFS hydraulic fracturing operators face significant pressure to reduce costs as oil & gas companies curtail capital expenditures and seek operational efficiencies in response to lower commodity prices. We developed the VorTeq hydraulic pumping system which enables these operators to isolate pumps from fracturing fluid thereby reducing operating and capital costs.
+ 
+In the third quarter of 2014, we entered into a strategic partnership with Liberty Oil Field Services to pilot and conduct field trials with the VorTeq hydraulic pumping system, which were initiated in the second quarter of 2015. These field trials were successfully completed in December 2015. In October 2015, we entered into a fifteen (15) year license agreement with Schlumberger for the exclusive, worldwide right to use our VorTeq technology for hydraulic fracturing onshore operations.
+ 
+Midstream and Downstream
+ 
+With respect to IsoBoost and IsoGen, we have contracted and delivered oil & gas solutions, as pilot projects to customers in North America, Asia, and the Middle East. The sales cycle for our oil & gas solutions can be prolonged and may be impacted by procurement processes and budgetary constraints.
+ 
+For the year ended December 31, 2015, we recognized oil & gas revenue from the license agreement with Schlumberger, cancellation of a purchase order with Conoco Philips, and from the commissioning of an IsoGen system with a customer in Saudi Arabia. For the year ended December 31, 2014, we recognized oil & gas rental income from the operating lease and subsequent lease buy-out of an IsoGen system to a customer in Saudi Arabia. For the year ended December 31, 2013, we did not recognize any revenue from shipments of our oil & gas solutions.
+ 
+Additional information regarding our product revenue by segment is included in Note 13 to the Consolidated Financial Statements in this Form 10-K.
+ 
+ 
+COMPETITION
+ 
+Water Desalination
+ 
+The market for energy recovery devices and pumps in the Water Desalination market is competitive. As the demand for fresh water increases and the market expands, we expect competition to persist and intensify.
+ 
+We have two main competitors for our energy recovery devices: Flowserve Corporation (Flowserve) and Fluid Equipment Development Company (FEDCO). We compete with these companies on the basis of price, quality, efficiency, lead time, expected life, downtime, and maintenance costs. Although these companies may offer competing solutions at lower prices, we believe that our solutions offer a competitive advantage because it is our belief that our solutions are the most cost-effective energy recovery devices for reverse osmosis desalination over time.
+ 
+ 
+- 7 -
+ 
+ 
+In the market for large desalination projects, our PX devices and large turbochargers compete primarily with Flowserve’s DWEER product. We believe that our PX devices have a competitive advantage over DWEER devices because our devices are made with highly durable and corrosion-resistant ceramic parts that are designed for a life of 25 years, are warranted for high efficiencies, cause no unplanned downtime, and offer lower lifecycle costs. Additionally, the PX devices offer optimum scalability with a quick startup as well as minimal maintenance. We believe that our large turbocharger solutions also have a competitive advantage over the DWEER product, particularly in countries where energy costs are low and upfront capital costs are a critical factor in purchase decisions, because our turbocharger solutions have lower upfront capital costs, a simple design with one rotating assembly, a small physical footprint, and a long operating life that leads to low total lifecycle costs.
+ 
+In the market for small- to medium-sized desalination plants, our solutions compete with Flowserve’s Pelton turbines and FEDCO’s turbochargers. We believe that our PX devices have a competitive advantage over these solutions because our devices provide up to 98% energy efficiency, have lower lifecycle maintenance costs, and are made of highly durable and corrosion-resistant ceramic parts. We also believe that our turbochargers compete favorably with Pelton turbines and FEDCO turbochargers on the basis of efficiency and price and because our turbochargers have design advantages that enhance efficiency, field flexibility, and serviceability.
+ 
+In the market for high-pressure pumps, our solutions compete with pumps manufactured by Clyde Union Ltd.; FEDCO; Flowserve; Düchting Pumpen Maschinenfabrik GmbH & Co KG; KSB Aktiengesellschaft; Torishima Pump Mfg. Co., Ltd.; Sulzer Pumps, Ltd.; and other companies. We believe that our pump solutions are competitive with these solutions because our pumps are developed specifically for reverse osmosis desalination, are highly efficient, and feature product-lubricated bearings.
+ 
+ 
+ 
+Oil & Gas 
+ 
+The market for our technology in the Oil & Gas market is competitive. As demand for our products increase, we expect competition to intensify.
+ 
+Within the oil & gas upstream market, OFS hydraulic fracturing operators utilize high-pressure hydraulic fracturing pumps to pressurize fracturing fluid. This fluid is sent through traditional missile manifolds into the wellbore to create cracks in the deep-rock formations thereby permitting oil & gas extraction. Our VorTeq system is a hydraulic pumping system that replaces the traditional missile manifold used by OFS hydraulic fracturing operators. There are many manufacturers of the traditional missile manifolds.
+ 
+We believe our VorTeq technology represents a competitive advantage over existing missile manifold technology because our solution re-routes abrasive proppant away from high-pressure pumps, thereby extending pump lifespan, reducing repairs and maintenance costs, and decreasing the need for redundant capital equipment. In addition, because our VorTeq technology isolates the high-pressure pumps from abrasive proppant, OFS hydraulic fracturing operators have the ability to transition to more robust, longer lived centrifugal pumps thereby further decreasing operating and capital costs.
+ 
+Within the oil and gas midstream and downstream markets, acid gas removal — also known as amine gas treating — refers to a process that utilizes solvents such as an amine solution to remove acid gasses, specifically hydrogen sulfide (H2S) and carbon dioxide (CO2) from natural gas, synthesis gas, or other hydrocarbon streams. Our IsoBoost and IsoGen technologies integrate into acid gas removal systems to reduce energy consumption and increase the reliability and uptime of the amine circulation system. Currently, most acid gas removal plants use pumps and valves to pressurize and depressurize the amine solution; the depressurization of the cleansing fluid (e.g. amine) provides an opportunity for the use of energy recovery devices.
+ 
+Our IsoBoost system is based partly on hydraulic turbocharger technology. While to our knowledge the only turbocharger systems presently utilized in acid gas removal applications are manufactured by Energy Recovery, there is at least one established competitor, FEDCO, which makes a similar hydraulic turbocharger for desalination applications. We combine our highly competitive turbocharger technology with process equipment and control systems to make a unique, proprietary, and highly competitive offering for oil & gas and petrochemical plants.
+ 
+Our IsoGen system is partly based on hydraulic turbine technology which converts recovered energy to electric power. Many other companies make hydraulic turbines for a broad range of applications. For acid gas removal plants, our competitors utilize reverse running pumps (also called hydraulic power recovery turbines or HPRTs) to perform the same energy recovery function that our IsoGen systems provide. These reverse running pumps are typically part of a large “skid-mounted” system, incorporating a multi-stage pump and motor, all rotating about a common shaft. Flowserve, Sulzer, and Shin Nippon Machinery are known to have supplied these systems and other major pump companies may have built systems for this application as well. We believe most of our competitors’ reverse running pump systems present concerns related to reliability, operational flexibility, and low energy efficiency as compared to our solution.
+ 
+ 
+- 8 -
+ 
+ 
+Sales and Marketing
+ 
+We market and sell our solutions directly to customers through our direct sales organization and, in some countries, through authorized, independent sales agents. Our current sales organization consists of two groups, water desalination and oil & gas. The water desalination group targets MPD, OEM, and aftermarket opportunities. MPD opportunities are for desalination projects exceeding 50,000 cubic meters per day. OEM opportunities include sales of PX devices, turbochargers, and pumps for plants typically designed to produce less than 50,000 cubic meters per day. Aftermarket opportunities include new and replacement parts and products, as well as technical support, training, product installation, and plant commissioning.
+ 
+Our oil & gas group targets IOCs, NOCs, E&Ps, OFSs, or EPCs on behalf of oil producers, and chemical producers who have applications for our solutions and services.
+ 
+Many of the large EPC firms that specialize in large projects are located in the Mediterranean region. Our sales branch in Dubai, United Arab Emirates serves the Middle East, where many desalination plants and key EPC firms are located. We have a sales force in Spain focused on the Spain and European markets. We also have a sales office in Shanghai, China to address this emerging market for our energy recovery solutions. In the U.S., our sales office along with our corporate headquarters is located in San Leandro, California. In February 2016, we hired an oil & gas sales manager in Dublin, Ireland with responsibilities for Europe, the Middle East, and Africa. As opportunities and diversification dictate, particularly in oil & gas, we will look to expand our geographical presence.
+ 
+A significant portion of our revenue is from outside of the United States. Sales in the United States represented 7%, 4%, and 13% of our product revenue for the fiscal years 2015, 2014, and 2013, respectively. Additional segment and geographical information regarding our product revenue is included in Note 13 to the Consolidated Financial Statements in this Form 10-K.
+ 
+ 
+Manufacturing
+ 
+Our primary manufacturing facility is in San Leandro, California, where our energy recovery devices are produced, assembled, and tested. We produce the majority of our ceramic components for our water desalination PX solutions in our ceramics manufacturing facility in San Leandro. We complete machining and assemble of all ceramic components for our PX devices and many components of our turbochargers and pumps to protect the proprietary nature of our manufacturing methods and product designs and to maintain premium quality standards. In October 2015, we hired a supply chain manager in Dublin, Ireland responsible for commercializing the VorTeq and expanding our manufacturing activities in Europe.
+ 
+ 
+Research and Development
+ 
+Design, quality, and innovation are key facets of our corporate culture. Our development efforts are focused on enhancing our existing energy recovery devices and pumps for the desalination market and advancing our know-how in fluid dynamics for use in other markets such as oil & gas and chemical processing. In the last several years our engineering work has led to the development of new solutions for applications both within the water desalination market as well as other fluid flow applications such as oil & gas and chemical processing.
+ 
+In July 2015, with the sale of our oil & gas intellectual property (“IP”) to ERI Energy Recovery Holdings Ireland Limited, Dublin, Ireland has become key to our VorTeq commercialization efforts.
+ 
+We continue to make significant investments in oil & gas technologies and solutions to diversify our business and expand addressable markets. Most of these investments are expensed as incurred in research and development expense. Those that have reached commercial feasibility are ultimately recorded in cost of revenue when leased, sold, or evaluated for net realizable value and therefore impact gross profit. Research and development expense totaled $7.7 million, $9.7 million, and $4.4 million in 2015, 2014, and 2013, respectively. Research and development costs may increase in the future as we continue to advance our existing technology and develop new energy recovery and efficiency-enhancing solutions for markets outside of seawater desalination.
+ 
+ 
+- 9 -
+ 
+ 
+Seasonality
+ 
+In the water desalination sector, we often experience substantial fluctuations in product revenue from quarter to quarter and from year to year due to the fact that a single order for our energy recovery devices by a large EPC firm for a particular plant may represent significant revenue. In addition, historically our EPC customers tend to order a significant amount of equipment for delivery in the fourth quarter, and as a consequence, a significant portion of our annual sales typically occurs during the fourth quarter.
+ 
+We do not currently have enough history to determine revenue patterns within the oil & gas sector.
+ 
+ 
+Intellectual Property
+ 
+We seek patent protection for new technologies, inventions, and improvements that are likely to be incorporated into our solutions. We rely on patents, trade secret laws, and contractual safeguards to protect the proprietary tooling, processing techniques, and other know-how used in the production of our solutions. We have a robust intellectual property portfolio consisting of (i) U.S. and internationally issued patents and (ii) a number of U.S. and International pending patent applications.
+ 
+We have registered the following trademarks with the United States Patent and Trademark office: “ERI,” “PX,” “PX Pressure Exchanger,” “Pressure Exchanger,” the Energy Recovery logo, “ERI Energy Recovery, Inc.”, “Making Desalination Affordable”, “AT”, “VorTeq”, “IsoBoost”, and “IsoGen”. We have also applied for and received registrations in international trademark offices.
+ 
+In July 2015, the U.S. parent company transferred the oil & gas IP via platform license agreements to ERI Energy Recovery Holdings Ireland Limited.
+ 
+ 
+Employees 
+ 
+As of December 31, 2015, we had 114 employees: 42 in manufacturing; 27 in corporate services and management; 28 in sales, service, and marketing; and 17 in engineering and research and development. Thirteen (13) of these employees were located outside of the United States. We also engage a relatively small number of independent contractors, primarily as sales agents worldwide. We have not experienced any work stoppages, and our employees are not unionized.
+ 
+ 
+- 10 -
+ 
+ 
+Item 1A — Risk Factors
+ 
+This Annual Report on Form 10-K contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those anticipated by such forward-looking statements as a result of various factors, including those set forth below.
+ 
+●
+We depend on the construction of new desalination plants for revenue, and as a result, our operating results have experienced, and may continue to experience, significant variability due to volatility in capital spending, availability of project financing, and other factors affecting the water desalination industry.
+ 
+We currently derive the majority of our revenue from sales of products and services used in desalination plants for municipalities, hotels, mobile containerized desalination solutions, resorts, and agricultural operations in dry or drought-ridden regions of the world. The demand for our products may decrease if the construction of desalination plants declines for political, economic, or other factors, especially in these regions. Other factors that could affect the number and capacity of desalination plants built or the timing of their completion include the availability of required engineering and design resources; a weak global economy; shortage in the supply of credit and other forms of financing; changes in government regulation, permitting requirements, or priorities; and reduced capital spending for desalination. Each of these factors could result in reduced or uneven demand for our products. Pronounced variability or delays in the construction of desalination plants or reductions in spending for desalination could negatively impact our sales and revenue and make it difficult for us to accurately forecast our future sales and revenue, which could lead to increased inventory and use of working capital.
+ 
+●
+We face competition from a number of companies that offer competing energy recovery and pump solutions. If any one of these companies produces superior technology or offers more cost-effective products, our competitive position in the market could be harmed and our profits may decline.
+ 
+The market for energy recovery devices and pumps for desalination plants is competitive and evolving. We expect competition, especially competition on price, to persist and intensify as the desalination market grows and new competitors enter the market. Some of our current and potential competitors may have significantly greater financial, technical, marketing, and other resources; longer operating histories; or greater name recognition. They may also have more extensive products and product lines that would enable them to offer multi-product or packaged solutions as well as competing products at lower prices or with other more favorable terms and conditions. As a result, our ability to sustain our market share may be adversely impacted, which would affect our business, operating results, and financial condition. In addition, if one of our competitors were to merge or partner with another company, the change in the competitive landscape could adversely affect our continuing ability to compete effectively.
+ 
+●
+Global oil price deflation may result in the delay or cancellation of projects by oil & gas customers thus negatively affecting the rate of our market penetration and consequently revenue.
+ 
+ 
+The continued deflationary oil environment may delay and even stall adoption and deployment of our products including but not limited to the VorTeq® as licensed by Schlumberger. Additionally, there is a historical correlation between a strong U.S. dollar and declining oil prices. Emerging market economies, those dependent on commodity exports, and especially those for whom oil exports make up a significant percent of total exports, may be unable to retrofit or expand their oil exploration, production, and gas processing infrastructure thus negatively impacting our addressable market and future revenue. Additionally, oil price deflation may lead to widespread bankruptcies and defaults by exploration, production, and processing customers which may further negatively affect our addressable markets and financial performance.
+ 
+●
+Part of our inventory may become excess or obsolete, which would increase our cost of revenues.
+ 
+Inventory of raw materials, parts, components, work in-process, or finished products may accumulate, and we may encounter losses due to a variety of factors, including:
+ 
+ 	
+•
+technological change in the desalination and oil & gas industries that result in product changes;
+ 
+ 	
+•
+long delays in shipment of our products or order cancellations;
+ 
+ 	
+•
+our need to order raw materials that have long lead times and our inability to estimate exact amounts and types of items thus needed, especially with regard to the configuration of our high-efficiency pumps; and
+ 
+ 	
+•
+cost reduction initiatives resulting in component changes within the products.
+ 
+ 
+- 11 -
+ 
+ 
+In addition, we may from time to time purchase more inventory than is immediately required in order to shorten our delivery time in case of an increase in demand for our products. If we are unable to forecast demand for our products with a reasonable degree of certainty and our actual orders from our customers are lower than these forecasts, we may accumulate excess inventory that we may be required to write off, and our business, financial condition, and results of operations could be adversely affected.
+ 
+●
+Our operating results may fluctuate significantly, making our future operating results difficult to predict and causing our operating results to fall below expectations or guidance.
+ 
+Our operating results may fluctuate due to a variety of factors, many of which are outside of our control. Since a single order for our energy recovery devices may represent substantial revenue, we have experienced significant fluctuations in revenue from quarter to quarter and year to year, and we expect such fluctuations to continue. As a result, comparing our operating results on a period-to-period basis may not be meaningful. Our past results are not necessarily an indication of our future performance. If our revenue or operating results fall below the expectations of investors or securities analysts or below any guidance we may provide to the market, the price of our common stock would likely decline.
+ 
+In 2015 and in past years, customer buying patterns led to a significant portion of our sales occurring in the fourth quarter. This presents the risk that delays, cancellations, or other adverse events in the fourth quarter could have a substantial negative impact on annual results. Our results have fluctuated due to adverse timing of larger orders during the year, the effects of a global decline in new desalination plant construction stemming from global economic and financial pressures, and competition. Since it is difficult for us to anticipate our future results, our stock price may be adversely affected by the risks discussed in this paragraph.
+ 
+●
+If we are unable to collect unbilled receivables, which are caused in part by holdback provisions, our operating results could be adversely affected.
+ 
+Our contracts with large engineering, procurement, and construction firms generally contain holdback provisions that typically delay final installment payments by up to 30 months, after the product has been shipped and revenue has been recognized. Typically, between 5% and 15%, of the revenue we recognize pursuant to our customer contracts is subject to such holdback provisions and is accounted for as unbilled receivables. Such holdbacks can result in relatively high unbilled receivables. If we are unable to collect these performance holdbacks then our results of operations would be adversely affected.
+ 
+●
+Our future success depends on our ability to diversify into new markets outside of reverse osmosis water desalination while continuing to market, enhance, and scale existing desalination products.
+ 
+We believe that developing new products for applications outside of desalination is a necessary strategy to accelerate future growth in our business as we continue to market, enhance, and scale existing desalination products.
+ 
+While new or enhanced products and services have the potential to meet specified needs of new or existing markets, pricing may not meet customer expectations, and our products may not compete favorably with products and services of current or potential competitors. New products may be delayed or cancelled if they do not meet specifications, performance requirements, or quality standards, or perform as expected in a production environment. Product designs also may not scale as expected. We may have difficulty finding new markets for our existing technologies or developing or acquiring new products for new markets. Customers may not accept or be slow to adopt new products and services, and potential new markets may be too costly to penetrate. In addition, we may not be able to offer our products and services that meet customer expectations without decreasing our prices and eroding our margins. We may also have difficulty executing plans to break into new markets, expanding our operations to successfully manufacture new products, or scaling our operations to accommodate increased business. If we are unable to develop competitive new products, open new markets, and scale our business to support increased sales and new markets, our business and results of operations will be adversely affected.
+ 
+We have hired and promoted individuals to new executive positions and undertaken other activities to pursue new markets beyond desalination. We may incur significant personnel and development expenses in these efforts without assurance as to when or if new products will contribute to revenue or be profitable.
+ 
+ 
+- 12 -
+ 
+ 
+●
+Our diversification into new fluid flow markets such as oil & gas may not materialize according to our expectations.
+ 
+We have made a substantial investment in research, development, and sales to execute on our diversification strategy into fluid flow markets such as oil & gas and chemical processing. While we see diversification as core to our growth strategy, there is no guarantee that we will be successful in our efforts. Our model for growth is based on our ability to initiate and embrace disruptive technology trends, to enter new markets, both in terms of geographies and product areas, and to drive broad adoption of the products and services that we develop and market. While we believe that our products will, for example, enable gas processing plant operators to operate at a high level of energy efficiency with minimal downtime, we may be subject to claims if customers of these offerings experience significant downtimes or failures for which our warranty reserves may be inadequate given the lack of historical failure rates associated with new product introductions. We also could be subject to damage claims based on our products against which we may not be able to properly insure. In addition, profitability, if any, in new industrial verticals may be lower than in our desalination market, and we may not be sufficiently successful in our diversification efforts to recoup investments. If any of these were to occur, it could damage our reputation, limit our growth, and negatively affect our operating results.
+ 
+●
+Our sales cycles can be long and unpredictable, and our sales efforts require considerable time and expense. As a result, our sales are difficult to predict and may vary substantially from quarter to quarter, which may cause our operating results to fluctuate.
+ 
+Our sales efforts involve substantial education of our current and prospective customers about the use and benefits of our energy recovery products. This education process can be time-consuming and typically involves a significant product evaluation process which is especially so when dealing with product introduction into new fluid flow industrial verticals. In desalination, the sales cycle for our OEM customers, which are involved with smaller desalination plants, averages one to twelve months. The sales cycle for our international engineering, procurement, and construction firm customers, which are involved with larger desalination plants, ranges from 16 to 36 months. In the oil & gas and chemical processing segments our experience indicates that sales efforts are prolonged due in part to customers’ reluctance to accept new technology, procurement processes, and budgetary constraints. These long sales cycles make quarter-by-quarter revenue predictions difficult and results in our expending significant resources well in advance of orders for our products.
+ 
+●
+We depend on a limited number of suppliers for some of our components. If our suppliers are not able to meet our demand and/or requirements, our business could be harmed.
+ 
+We rely on a limited number of suppliers for vessel housings, stainless steel ports, alumina powder, and tungsten carbide for our portfolio of PX devices and stainless steel castings and components for our turbochargers and pumps. Our reliance on a limited number of manufacturers for these supplies involves a number of risks, including reduced control over delivery schedules, quality assurance, manufacturing yields, production costs, and lack of guaranteed production capacity or product supply. We do not have long-term supply agreements with these suppliers but secure these supplies on a purchase order basis. Our suppliers have no obligation to supply products to us for any specific period, in any specific quantity, or at any specific price, except as set forth in a particular purchase order. Our requirements may represent a small portion of the total production capacities of these suppliers, and our suppliers may reallocate capacity to other customers, even during periods of high demand for our products. We have in the past experienced, and may in the future experience, product quality issues and delivery delays with our suppliers due to factors such as high industry demand or the inability of our vendors to consistently meet our quality or delivery requirements. If our suppliers were to cancel or materially change their commitments to us or fail to meet quality or delivery requirements needed to satisfy customer orders for our products, we could lose time-sensitive customer orders, be unable to develop or sell our products cost-effectively or on a timely basis, if at all, and have significantly decreased revenue, which could harm our business, operating results, and financial condition. We may qualify additional suppliers in the future, which would require time and resources. If we do not qualify additional suppliers, we may be exposed to increased risk of capacity shortages due to our dependence on current suppliers.
+ 
+ 
+- 13 -
+ 
+ 
+●
+We are subject to risks related to product defects, which could lead to warranty claims in excess of our warranty provision or result in a significant or a large number of warranty or other claims in any given year.
+ 
+We provide a warranty for certain products for a period of 18 to 30 months and provide up to a five-year warranty for the ceramic components of our PX-branded products. We test our products in our manufacturing facilities through a variety of means; however, there can be no assurance that our testing will reveal latent defects in our products, which may not become apparent until after the products have been sold into the market. The testing may not replicate the harsh, corrosive, and varied conditions of the desalination and other plants in which they are installed. It is also possible that components purchased from our suppliers could break down under those conditions. Certain components of our turbochargers and pumps are custom-made and may not scale or perform as required in production environments. Accordingly, there is a risk that we may have significant warranty claims or breach supply agreements due to product defects. We may incur additional cost of revenue if our warranty provisions are not sufficient to cover the actual cost of resolving issues related to defects in our products. If these additional expenses are significant, they could adversely affect our business, financial condition, and results of operations.
+ 
+●
+If we are unable to protect our technology or enforce our intellectual property rights, our competitive position could be harmed, and we could be required to incur significant expenses to enforce our rights.
+ 
+Our competitive position depends on our ability to establish and maintain proprietary rights in our technology and to protect our technology from copying by others. We rely on trade secret, patent, copyright, and trademark laws, as well as confidentiality agreements with employees and third parties, all of which may offer only limited protection. We hold a number of U.S. and counterpart international patents, and when their terms expire, we could become more vulnerable to increased competition. The protection of our intellectual property in some countries may be limited. While we have expanded our portfolio of patent applications, we do not know whether any of our pending patent applications will result in the issuance of patents or whether the examination process will require us to narrow our claims, and even if patents are issued, they may be contested, circumvented, or invalidated. Moreover, while we believe our issued patents and patent pending applications are essential to the protection of our technology, the rights granted under any of our issued patents or patents that may be issued in the future may not provide us with proprietary protection or competitive advantages, and as with any technology, competitors may be able to develop similar or superior technologies now or in the future. In addition, our granted patents may not prevent misappropriation of our technology, particularly in foreign countries where intellectual property laws may not protect our proprietary rights as fully as those in the United States. This may render our patents impaired or useless and ultimately expose us to currently unanticipated competition. Protecting against the unauthorized use of our products, trademarks, and other proprietary rights is expensive, difficult, and in some cases, impossible. Litigation may be necessary in the future to enforce or defend our intellectual property rights or to determine the validity and scope of the proprietary rights of others. Intellectual property litigation could result in substantial costs and diversion of management resources, either of which could harm our business.
+ 
+●
+Claims by others that we infringe their proprietary rights could harm our business.
+ 
+Third parties could claim that our technology infringes their intellectual property rights. In addition, we or our customers may be contacted by third parties suggesting that we obtain a license to certain of their intellectual property rights that they may believe we are infringing. We expect that infringement claims against us may increase as the number of products and competitors in our market increases and overlaps occur. In addition, to the extent that we gain greater visibility, we believe that we will face a higher risk of being the subject of intellectual property infringement claims. Any claim of infringement by a third party, even those without merit, could cause us to incur substantial costs defending against the claim and could distract management from our business. Furthermore, a party making such a claim, if successful, could secure a judgment that requires us to pay substantial damages. A judgment against us could also include an injunction or other court order that could prevent us from offering our products. In addition, we might be required to seek a license for the use of such intellectual property, which may not be available on commercially reasonable terms, or at all. Alternatively, we may be required to develop non-infringing technology, which could require significant effort and expense and may ultimately not be successful. Any of these events could seriously harm our business. Third parties may also assert infringement claims against our customers. Because we generally indemnify our customers if our products infringe the proprietary rights of third parties, any such claims would require us to initiate or defend protracted and costly litigation on their behalf in one or more jurisdictions, regardless of the merits of these claims. If any of these claims succeed, we may be forced to pay damages on behalf of our customers.
+ 
+ 
+- 14 -
+ 
+ 
+●
+We are currently involved in legal proceedings, and may be subject to additional future legal proceedings, that may result in material adverse outcomes.
+ 
+In addition to intellectual property litigation risks discussed above, we are presently involved, and may become involved in the future, in various commercial and other disputes as well as related claims and legal proceedings that arise from time to time in the course of our business. We believe that we have substantial defenses in the matters currently pending; however, the process of settling or litigating claims is subject to uncertainties, and our views of these matters may change in the future. On January 20, 2015, we were named, among other defendants, in a purported class action on behalf of Energy Recovery stockholders, alleging securities act violations. In addition, we are party to other litigation including one with our former Chief Sales Officer alleging, among other things, wrongful termination. These and any future lawsuits to which we may become a party will likely be expensive and time consuming to investigate, defend and resolve, and will divert our management’s attention. Any litigation to which we are a party may result in an onerous or unfavorable judgment that may not be reversed upon appeal or in payments of substantial monetary damages or fines, or we may decide to settle lawsuits on similarly unfavorable terms, which could have an adverse effect our business, financial condition, or results of operations.
+ 
+●
+Our business entails significant costs that are fixed or difficult to reduce in the short term while demand for our products is variable and subject to downturns, which may adversely affect our operating results.
+ 
+Our business requires investments in facilities, equipment, research and development, and training that are either fixed or difficult to reduce or scale in the short term. At the same time, the market for our products is variable and has experienced downturns due to factors such as economic recessions, increased precipitation, uncertain global financial markets, and political changes, many of which are outside of our control. During periods of reduced product demand, we may experience higher relative costs and excess manufacturing capacity, resulting in high overhead and lower gross profit margins while causing cash flow and profitability to decline. Similarly, although we believe that our existing manufacturing facilities are capable of meeting current demand and demand for the foreseeable future, the continued success of our business depends on our ability to expand our manufacturing, research and development, and testing facilities to meet market needs. If we are unable to respond timely to an increase in demand, our revenue, gross profit margin, cash flow, and net income may be adversely affected.
+ 
+●
+If we need additional capital to fund future growth, it may not be available on favorable terms, or at all.
+ 
+Our primary source of cash historically has been proceeds from the issuance of common stock and customer payments for our products and services. This has funded our operations, capital expenditures, and expansion. We may require additional capital from equity or debt financing in the future to fund our operations or respond to competitive pressures or strategic opportunities, such as an acquisition. We may not be able to secure such additional financing on favorable terms or at all. The terms of additional financing may place limits on our financial and operating flexibility. If we raise additional funds through further issuances of equity, convertible debt securities, or other securities convertible into equity, our existing stockholders could suffer significant dilution in their percentage ownership of our company, and any new securities that we issue could have rights, preferences, or privileges senior to those of existing or future holders of our common stock. If we are unable to obtain necessary financing on terms satisfactory to us, if and when we require it, our ability to grow or support our business and to respond to business challenges or opportunities could be significantly limited.
+ 
+●
+Our past acquisition or future acquisitions could disrupt our business, impact our margins, cause dilution to our stockholders, or harm our financial condition and operating results.
+ 
+We acquired privately-held Pump Engineering, LLC in late 2009, and in the future, we may invest in other companies, technologies, or assets. We may not realize the expected benefits from our past or future acquisitions. We may not be able to find other suitable acquisition candidates, and we may not be able to complete acquisitions on favorable terms, if at all. If we do complete acquisitions, we cannot ensure that they will ultimately strengthen our competitive or financial position or that they will not be viewed negatively by customers, financial markets, investors, or the media. Acquisitions could also result in stockholder dilution or significant acquisition-related charges for restructuring, stock-based compensation, and the amortization of purchased technology and intangible assets. Expenses resulting from impairment of acquired goodwill, intangible assets, and purchased technology could also increase over time if the fair value of those assets decreases. A future change in market conditions, a downturn in our business, or a long-term decline in the quoted market price of our stock may result in a reduction of the fair value of acquisition-related assets. Any such impairment of goodwill or intangible assets could harm our operating results and financial condition. In addition, when we make an acquisition, we may have to assume some or all of that entity's liabilities, which may include liabilities that are not fully known at the time of the acquisition. Future acquisitions may reduce our cash available for operations and other uses. If we make future acquisitions, we may require additional cash or use shares of our common stock as payment, which would cause dilution to our existing stockholders.
+ 
+ 
+- 15 -
+ 
+ 
+Acquisitions entail a number of risks that could harm our ability to achieve their anticipated benefits. We could have difficulties integrating and retaining key management and other personnel, aligning product plans and sales strategies, coordinating research and development efforts, supporting customer relationships, aligning operations, and integrating accounting, order processing, purchasing, and other support services. Since acquired companies have different accounting and other operational practices, we may have difficulty harmonizing order processing, accounting, billing, resource management, information technology, and other systems company-wide. We may also have to invest more than anticipated in product or process improvements. Especially with acquisitions of privately-held or non-U.S. companies, we may face challenges developing and maintaining internal controls consistent with the requirements of the Sarbanes-Oxley Act and U.S. public accounting standards. Acquisitions may also disrupt our ongoing operations, divert management from day-to-day responsibilities, and disrupt other strategic, research and development, marketing, or sales efforts. Geographic and time zone differences and disparate corporate cultures may increase the difficulties and risks of an acquisition. If integration of our acquired businesses or assets is not successful or disrupts our ongoing operations, acquisitions may increase our expenses, harm our competitive position, adversely impact our operating results and financial condition, and fail to achieve anticipated revenue, cost, competitive, or other objectives.
+ 
+●
+Insiders and principal stockholders will likely have significant influence over matters requiring stockholder approval.
+ 
+Our directors, executive officers, and other principal stockholders beneficially own, in the aggregate, a substantial amount of our outstanding common stock. These stockholders could likely have significant influence over all matters requiring stockholder approval, including the election of directors and approval of significant corporate transactions such as a merger or other sale of our company or its assets.
+ 
+●
+Anti-takeover provisions in our charter documents and under Delaware law could discourage, delay, or prevent a change in control of our company and may affect the trading price of our common stock.
+ 
+Provisions in our amended and restated certificate of incorporation and bylaws may have the effect of delaying or preventing a change of control or changes in our management. Our amended and restated certificate of incorporation and amended and restated bylaws include provisions that:
+ 
+ 	
+•
+authorize our Board of Directors to issue, without further action by the stockholders, up to 10,000,000 shares of undesignated preferred stock;
+ 
+ 	
+•
+require that any action to be taken by our stockholders be effected at a duly called annual or special meeting and not by written consent;
+ 
+ 	
+•
+specify that special meetings of our stockholders can be called only by our Board of Directors, the chairman of the board, the chief executive officer, or the president;
+ 
+ 	
+•
+establish an advance notice procedure for stockholder approvals to be brought before an annual meeting of our stockholders, including proposed nominations of persons for election to our Board of Directors;
+ 
+ 	
+•
+establish that our Board of Directors is divided into three classes, Class I, Class II, and Class III, with each class serving staggered terms;
+ 
+ 	
+•
+provide that our directors may be removed only for cause;
+ 
+ 	
+•
+provide that vacancies on our Board of Directors may be filled only by a majority vote of directors then in office, even though less than a quorum;
+ 
+ 	
+•
+specify that no stockholder is permitted to cumulate votes at any election of directors; and
+ 
+ 	
+•
+require a super-majority of votes to amend certain of the above mentioned provisions.
+ 
+In addition, we are subject to the provisions of Section 203 of the Delaware General Corporation Law regulating corporate takeovers. Section 203 generally prohibits us from engaging in a business combination with an interested stockholder subject to certain exceptions.
+ 
+●
+Regulations related to conflict minerals could adversely impact our business.
+ 
+The Dodd-Frank Wall Street Reform and Consumer Protection Act contains provisions to improve transparency and accountability concerning the supply of certain minerals, known as conflict minerals, originating from the Democratic Republic of Congo (DRC) and adjoining countries. As a result, in August 2012, the SEC adopted annual disclosure and reporting requirements for those companies who use conflict minerals mined from the DRC and adjoining countries in their products. Based on our purchasing policy and supplier selection, it is considered unlikely that any conflict minerals are used in the manufacturing of our products. Nevertheless, we are continuing a reasonable country of origin inquiry and have implemented a program of due diligence on the source and chain of custody for conflict minerals.
+ 
+ 
+ 
+- 16 -
+ 
+ 
+There are costs associated with complying with these disclosure requirements, including loss of customers and potential changes to products, processes, or sources of supply as a consequence of our verification activities. The implementation of these rules could adversely affect the sourcing, supply, and pricing of materials used in our products. As there may be only a limited number of suppliers offering “conflict free” minerals, we cannot be sure that we will be able to obtain necessary materials from such suppliers in sufficient quantities or at competitive prices. Also, we may face reputational challenges if we determine that certain of our products contain minerals not determined to be conflict-free or if we are unable to sufficiently verify the origins for all conflict minerals used in our products through the procedures we have implemented.
+ 
+●
+Business interruptions may damage our facilities or those of our suppliers.
+ 
+Our operations and those of our suppliers may be vulnerable to interruption by fire, earthquake, flood, and other natural disasters, as well as power loss, telecommunications failure, and other events beyond our control. Our facilities in California are located near major earthquake faults and have experienced earthquakes in the past. If a natural disaster occurs, our ability to conduct our operations could be seriously impaired, which could harm our business, financial condition, results of operations, and cash flows. We cannot be sure that the insurance we maintain against general business interruptions will be adequate to cover all of our losses.
+ 
+●
+We may have risks associated with security of our information technology systems.
+ 
+We make significant efforts to maintain the security and integrity of our information technology systems and data. Despite significant efforts to create security barriers to such systems, it is virtually impossible for us to entirely mitigate this risk. There is a risk of industrial espionage, cyber-attacks, misuse or theft of information or assets, or damage to assets by people who may gain unauthorized access to our facilities, systems, or information. Such cybersecurity breaches, misuse, or other disruptions could lead to the disclosure of confidential information, improper usage and distribution of our intellectual property, theft, manipulation and destruction of private and proprietary data, and production downtimes.
+ 
+Although we actively employ measures to prevent unauthorized access to our information systems, preventing unauthorized use or infringement of our rights is inherently difficult. These events could adversely affect our financial results and any legal action in connection with any such cybersecurity breach could be costly and time-consuming and may divert management's attention and adversely affect the market's perception of us and our products.
+ 
+●
+We may not meet the key performance indicators necessary to meet the two milestones in the Schlumberger license agreement.
+ 
+The Schlumberger license agreement calls for certain milestone key performance indicators that if met will result in payments to the Company of $25 million for each of two milestones. Achievement of these milestones is uncertain, and while we believe we can meet the milestones, if we are unable to do so, the milestone payments will be delayed until such time as the milestones are met or not earned and received at all. Failure to meet said milestones may also jeopardize commercialization and the rate of adoption of our VorTeq hydraulic fracturing system.
+ 
+●
+
+We may have risks associated with our new international tax optimization structure.
+
+ 
+In 2015, the Company implemented a new international tax optimization structure. Subsidiaries were established in Ireland and the U.S. parent company transferred the oil & gas intellectual property via platform licenses to ERI Energy Recovery Holdings Ireland Limited. The Company has undertaken extensive due diligence, implemented and continues to implement manufacturing, R&D, and sales operations to create Irish substance, and has conferred with tax experts to ensure that uncertain tax positions are unlikely. It is possible that the new international tax structure could be examined by the Internal Revenue Service in the US and or the Tax Authorities in Ireland, and it is possible that such an examination could result in an unfavorable impact on the Company
+Item 5 — Market for Registrant’s Common Stock Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+ 
+Market Information
+ 
+Our common stock is quoted on the NASDAQ Global Select Market under the symbol “ERII”.
+ 
+The following table sets forth the high and low intra-day sales prices of our common stock for the periods indicated.
+ 
+ 	 	
+2015
+ 	 	
+2014
+ 
+ 	 	
+High
+ 	 	
+Low
+ 	 	
+High
+ 	 	
+Low
+ 
+First Quarter
+ 	$	5.37	 	 	$	2.49	 	 	$	6.98	 	 	$	3.82	 
+Second Quarter
+ 	$	3.71	 	 	$	2.28	 	 	$	6.18	 	 	$	4.10	 
+Third Quarter
+ 	$	3.07	 	 	$	2.07	 	 	$	5.15	 	 	$	3.54	 
+Fourth Quarter
+ 	$	9.50	 	 	$	2.09	 	 	$	5.42	 	 	$	3.30	 
+ 
+Stockholders
+ 
+As of February 29, 2016, there were approximately 36 stockholders of record of our common stock as reported by our transfer agent, one of which is Cede & Co., a nominee for Depository Trust Company (DTC). All of the shares of common stock held by brokerage firms, banks, and other financial institutions as nominees for beneficial owners are deposited into participant accounts at DTC and are therefore considered to be held of record by Cede & Co. as one stockholder.
+ 
+Dividend Policy
+ 
+We have never declared or paid any dividends on our common stock, and we do not currently intend to pay any dividends on our common stock for the foreseeable future. Any future determination to pay dividends on our common stock will be, subject to applicable law, at the discretion of our Board of Directors and will depend upon, among other factors, our results of operations, financial condition, capital requirements, and contractual restrictions in loan or other agreements.
+ 
+Stock Repurchase Program
+ 
+In January 2016, our Board of Directors authorized a stock repurchase program under which shares, not to exceed $6.0 million in aggregate cost, of our outstanding common stock may be repurchased through June 30, 2016 at the discretion of management. As of February 29, 2016, 673,700 shares at an aggregate cost of $4.1 million had been repurchased under this authorization.
+ 
+A stock repurchase program was not in place during the year ended December 31, 2015, therefore no shares were repurchased during 2015.
+ 
+In February 2014, our Board of Directors authorized a stock repurchase program under which up to three million shares, not to exceed $6.0 million in aggregate cost, of our outstanding common stock could be repurchased through December 31, 2014 at the discretion of management. During the year ended December 31, 2014, 696,853 shares at an aggregate cost of $2.8 million were repurchased under this authorization. This 2014 repurchase authorization expired on December 31, 2014.
+ 
+ 
+Sales of Unregistered Securities
+ 
+During the year ended December 31, 2015, warrants to purchase 200,000 shares of common stock were exercised for cash at a price of $1.00 per share. The proceeds received from this exercise totaled $200,000.
+ 
+During the year ended December 31, 2014, warrants to purchase 450,000 shares of common stock were exercised. Warrants to purchase 50,000 shares of common stock were exercised for cash at a price of $1.00 per share. The proceeds received from this exercise totaled $50,000. Warrants to purchase 400,000 shares of common stock were exercised for 311,111 shares of common stock in lieu of cash proceeds. The remaining 88,889 warrants were cancelled and considered payment for the exercise.
+ 
+ 
+- 19 -
+ 
+ 
+During the year ended December 31, 2013, warrants to purchase 300,000 shares of common stock were exercised. Warrants to purchase 100,000 were exercised for cash at a price of $1.00 per share. The proceeds received from this exercise totaled $100,000. Warrants to purchase 200,000 shares of common stock were exercised for 180,276 shares in lieu of cash proceeds. The remaining 19,724 warrants were cancelled and considered payment for the exercise.
+ 
+These shares issued pursuant to the warrants were not registered under the Securities Act of 1933, as amended, in reliance upon the exemption set forth in Section 4(2) of that Act for transactions not involving a public offering.
+ 
+Stock Performance Graph
+ 

@@ -1,0 +1,754 @@
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION
+This Annual Report on Form 10-K, including the exhibits being filed as part of this report, as well as other statements made by Delphi Automotive PLC (“Delphi,” the “Company,” “we,” “us” and “our”), contain forward-looking statements that reflect, when made, the Company’s current views with respect to current events and financial performance. Such forward-looking statements are subject to many risks, uncertainties and factors relating to the Company’s operations and business environment, which may cause the actual results of the Company to be materially different from any future results, express or implied, by such forward-looking statements. All statements that address future operating, financial or business performance or the Company’s strategies or expectations are forward-looking statements. In some cases, you can identify these statements by forward-looking words such as “may,” “might,” “will,” “should,” “expects,” “plans,” “intends,” “anticipates,” “believes,” “estimates,” “predicts,” “projects,” “potential,” “outlook” or “continue,” and other comparable terminology. Factors that could cause actual results to differ materially from these forward-looking statements include, but are not limited to, the following: global and regional economic conditions, including conditions affecting the credit market and resulting from the United Kingdom referendum held on June 23, 2016 in which voters approved an exit from the European Union, commonly referred to as "Brexit"; fluctuations in interest rates and foreign currency exchange rates; the cyclical nature of automotive sales and production; the potential disruptions in the supply of and changes in the competitive environment for raw material integral to the Company’s products; the Company’s ability to maintain contracts that are critical to its operations; potential changes to beneficial free trade laws and regulations such as the North American Free Trade Agreement; the ability of the Company to integrate and realize the benefits of recent acquisitions; the ability of the Company to attract, motivate and/or retain key executives; the ability of the Company to avoid or continue to operate during a strike, or partial work stoppage or slow down by any of its unionized employees or those of its principal customers, and the ability of the Company to attract and retain customers. Additional factors are discussed under the captions “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Company’s filings with the Securities and Exchange Commission. New risks and uncertainties arise from time to time, and it is impossible for us to predict these events or how they may affect the Company. It should be remembered that the price of the ordinary shares and any income from them can go down as well as up. Delphi disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events and/or otherwise, except as may be required by law.
+
+3
+Table of Contents
+
+PART I
+ITEM 1. BUSINESS
+“Delphi,” the “Company,” “we,” “us” and “our” refer to Delphi Automotive PLC, a public limited company which was formed under the laws of Jersey on May 19, 2011, together with its subsidiaries, including Delphi Automotive LLP, a limited liability partnership incorporated under the laws of England and Wales (“Delphi Automotive LLP”) which was formed on August 19, 2009 for the purpose of acquiring certain assets and subsidiaries of the former Delphi Corporation, and became a subsidiary of Delphi Automotive PLC in connection with the completion of the Company’s initial public offering on November 22, 2011. The former Delphi Corporation (now known as DPH Holdings Corp. (“DPHH”)) and, as the context may require, its subsidiaries and affiliates, are also referred to herein as “Old Delphi.”
+We are a leading global technology company serving the automotive sector. We design and manufacture vehicle components and provide electrical and electronic, powertrain and active safety technology solutions to the global automotive and commercial vehicle markets. We are one of the largest vehicle component manufacturers, and our customers include all 25 of the largest automotive original equipment manufacturers (“OEMs”) in the world. We operate 126 major manufacturing facilities and 15 major technical centers utilizing a regional service model that enables us to efficiently and effectively serve our global customers from low cost countries. We have a presence in 46 countries and have over 20,000 scientists, engineers and technicians focused on developing market relevant product solutions for our customers.
+We are focused on growing and improving the profitability of our businesses, and have implemented a strategy designed to position Delphi to deliver industry-leading long-term shareholder returns. This strategy includes disciplined investing in our business to grow and enhance our product offerings, strategically focusing our portfolio in high-technology, high-growth spaces in order to meet consumer preferences and leveraging an industry-leading cost structure to expand our operating margins. In line with the long term growth in emerging markets, we have been increasing our focus on these markets, particularly China, where we have a major manufacturing base, including investments in 6 new manufacturing facilities since 2012, and strong customer relationships. Our strategy also includes maintaining a strong and flexible balance sheet with investment grade credit ratings.
+Website Access to Company’s Reports
+Delphi’s website address is delphi.com. Our Annual Reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act are available free of charge through our website as soon as reasonably practicable after they are electronically filed with, or furnished to, the Securities and Exchange Commission (“SEC”).
+Our History
+In October 2005, Old Delphi and certain of its United States (“U.S.”) subsidiaries filed voluntary petitions for reorganization relief under Chapter 11 of the United States Bankruptcy Code (the “Bankruptcy Code”) in the United States Bankruptcy Court for the Southern District of New York (the “Bankruptcy Court”). Old Delphi's non-U.S. subsidiaries, which were not included in the Chapter 11 Filings, continued their business operations without supervision from the Bankruptcy Court and were not subject to the requirements of the Bankruptcy Code. On October 6, 2009 (the “Acquisition Date”), Delphi Automotive LLP acquired the major portion of the business of Old Delphi and issued membership interests to a group of investors consisting of certain lenders to Old Delphi, General Motors Company (“GM”) and the Pension Benefit Guaranty Corporation (the “PBGC”). On March 31, 2011, all of the outstanding Class A and Class C membership interests held by GM and the PBGC were redeemed, respectively, for approximately $4.4 billion.
+On May 19, 2011, Delphi Automotive PLC was formed as a Jersey public limited company, and had nominal assets, no liabilities and had conducted no operations prior to its initial public offering. On November 22, 2011, in conjunction with the completion of its initial public offering by the selling shareholders, all of the outstanding equity of Delphi Automotive LLP was exchanged by its equity holders for ordinary shares in Delphi Automotive PLC. As a result, Delphi Automotive LLP became a wholly-owned subsidiary of Delphi Automotive PLC.
+
+4
+Table of Contents
+
+Our Company
+We believe the automotive industry is being shaped by increasing government regulations for vehicle safety, fuel efficiency and emissions control, as well as rapidly increasing consumer demand for connectivity. These industry mega-trends, which we refer to as “Safe,” “Green” and “Connected,” are driving higher growth in products that address these trends than growth in the automotive industry overall. We have organized our business into three diversified segments, which enable us to develop solutions and manufacture highly-engineered products that enable our customers to respond to these mega-trends:
+•
+Electrical/Electronic Architecture—This segment provides complete design of the vehicle’s electrical architecture, including connectors, wiring assemblies and harnesses, electrical centers and hybrid high voltage and safety distribution systems. Our products provide the critical electrical and electronics backbone that supports increased vehicle content and electrification, reduced emissions and higher fuel economy through weight savings.
+•
+Powertrain Systems—This segment provides systems integration of full end-to-end gasoline and diesel engine management systems including fuel handling, fuel injection, combustion, electronic controls, test and validation capabilities, electric and hybrid electric vehicle power electronics, aftermarket, and original equipment services. We design solutions to optimize powertrain power and performance while helping our customers meet new emissions and fuel economy regulations.
+•
+Electronics and Safety—This segment provides critical components, systems and advanced software for passenger safety, security, comfort and infotainment, as well as vehicle operation, including body controls, infotainment and connectivity systems, passive and active safety electronics, autonomous driving technologies and displays, as well as advanced development of software. Our products integrate and optimize electronic content, which improves fuel economy, reduces emissions, increases safety and provides occupant infotainment and connectivity.
+We previously reported the results of our former Thermal Systems business as a segment. The Thermal Systems business provided powertrain cooling and heating, ventilating and air conditioning (“HVAC”) systems, such as compressors, systems and controls, and heat exchangers for vehicle markets. As part of our strategy to focus on a high-growth product portfolio, and as further described in Note 25. Discontinued Operations to the audited consolidated financial statements herein, we completed the sale of the wholly owned Thermal Systems business to MAHLE GmbH ("MAHLE") on June 30, 2015. The assets and liabilities, operating results and operating and investing cash flows for the previously reported Thermal Systems segment are presented as discontinued operations separate from the Company’s continuing operations for all periods presented. Our description and discussion of financial amounts within this Item 1. Business reflect the results of continuing operations, unless otherwise noted.
+Financial Information about Business Segments
+We operate our core business along three operating segments, which are grouped on the basis of similar product, market and operating factors.
+Net Sales by Segment
+ 
+Year Ended December 31, 2016
+ 
+Year Ended December 31, 2015
+ 
+Year Ended December 31, 2014
+ 
+Net Sales
+ 
+% of Total
+ 
+Net Sales
+ 
+% of Total
+ 
+Net Sales
+ 
+% of Total
+ 
+(in millions, excluding percentages)
+Electrical/Electronic Architecture
+$
+9,316
+
+ 
+56
+ %
+ 
+$
+8,180
+
+ 
+54
+ %
+ 
+$
+8,274
+
+ 
+53
+ %
+Powertrain Systems
+4,486
+
+ 
+27
+ %
+ 
+4,407
+
+ 
+29
+ %
+ 
+4,540
+
+ 
+29
+ %
+Electronics and Safety
+3,014
+
+ 
+18
+ %
+ 
+2,744
+
+ 
+18
+ %
+ 
+2,880
+
+ 
+19
+ %
+Eliminations and Other
+(155
+)
+ 
+(1
+)%
+ 
+(166
+)
+ 
+(1
+)%
+ 
+(195
+)
+ 
+(1
+)%
+Total
+$
+16,661
+
+ 
+ 
+ 
+$
+15,165
+
+ 
+ 
+ 
+$
+15,499
+
+ 
+ 
+Refer to Results of Operations by Segment in Item 7. Management’s Discussion and Analysis and Note 23. Segment Reporting of the notes to the consolidated financial statements, included in Item 8. Financial Statements and Supplementary Data of this Annual Report for further financial information about business segments.
+Our business is diversified across end-markets, regions, customers, vehicle platforms and products. Our customer base includes all 25 of the largest automotive OEMs in the world, and in 2016, 26% of our net sales came from the Asia Pacific region, which we have identified as a key market likely to experience substantial long-term growth. Our ten largest platforms in 2016 were with six different OEMs. In addition, in 2016 our products were found in 18 of the 20 top-selling vehicle models in the United States, in 18 of the 20 top-selling vehicle models in Europe and in 15 of the 20 top-selling vehicle models in China. We have diversified our business into the commercial vehicle market, which is typically on a different business cycle than the light vehicle market. In addition, approximately 6% of our 2016 net sales were to the aftermarket, which meets the ongoing need for replacement parts required for vehicle servicing.
+
+5
+Table of Contents
+
+We have established a worldwide design and manufacturing footprint with a regional service model that enables us to efficiently and effectively serve our global customers from low cost countries. This regional model is structured primarily to service the North American market from Mexico, the South American market from Brazil, the European market from Eastern Europe and North Africa, and the Asia Pacific market from China. Our global scale and regional service model enables us to engineer globally and execute regionally to serve the largest OEMs, which are seeking suppliers that can serve them on a worldwide basis. Our footprint also enables us to adapt to the regional design variations the global OEMs require and serve the emerging market OEMs.
+Our Industry
+The automotive parts industry provides components, systems, subsystems and modules to OEMs for the manufacture of new vehicles, as well as to the aftermarket for use as replacement parts for current production and older vehicles. Overall, we expect long-term growth of global vehicle sales and production in the OEM market. In 2016, the industry experienced increased global customer sales and production schedules. Compared to 2015, vehicle production in 2016 increased by 2% in North America, 3% in Europe and 15% in China. As a result of persisting economic weakness in South America, there was a decline of 12% in South American vehicle production in 2016 compared to 2015, which followed a 19% decrease in that region in 2015. Demand for automotive components in the OEM market is generally a function of the number of new vehicles produced in response to consumer demand, which is primarily driven by macro-economic factors such as credit availability, interest rates, fuel prices, consumer confidence, employment and other trends. Although OEM demand is tied to actual vehicle production, participants in the automotive parts industry also have the opportunity to grow through increasing product content per vehicle by further penetrating business with existing customers and in existing markets, gaining new customers and increasing their presence in global markets. We believe that as a company with a global presence and advanced technology, engineering, manufacturing and customer support capabilities, we are well-positioned to benefit from these opportunities.
+We believe that continuously increasing societal demands have created the three “mega-trends” that serve as the basis for the next wave of market-driven automotive technology advancement. Our challenge is to continue developing leading edge technology focused on addressing these mega-trends, and apply that technology toward products with sustainable margins that enable our customers, both OEMs and others, to produce distinctive market-leading products. We have identified a core portfolio of products that draw on our technical strengths and align with these mega-trends where we believe we can provide differentiation to our automotive, commercial vehicle and aftermarket customers.
+Safe. The first mega-trend, “Safe,” represents technologies aimed not just at protecting vehicle occupants when a crash occurs, but those that actually proactively reduce the risk of a crash occurring. OEMs continue to focus on improving occupant and pedestrian safety in order to meet increasingly stringent regulatory requirements in various markets, such as a notice issued by the U.S. National Highway Traffic Safety Administration which updated its five-star rating system to include automatic emergency braking systems as a recommended safety technology, beginning with model year 2018. As a result, suppliers are focused on developing technologies aimed at protecting vehicle occupants when a crash occurs, as well as advanced driver assistance systems that reduce driver distractions and automated safety features that proactively mitigate the risk of a crash occurring. Examples of new and alternative technologies that incorporate sophisticated detection and advanced software for collision avoidance include lane departure warning systems, adaptive cruise control, gesture control and automatic braking.
+Green. The second mega-trend, “Green,” represents technologies designed to help reduce emissions, increase fuel economy and minimize the environmental impact of vehicles. Green is a key mega-trend today because of the convergence of several issues: climate change, volatility in oil prices, an increasing number of vehicles in use worldwide and recent and pending regulation in the U.S. and overseas regarding fuel economy and carbon dioxide emissions. OEMs continue to focus on improving fuel efficiency and reducing emissions in order to meet increasingly stringent regulatory requirements in various markets. On a worldwide basis, the relevant authorities in the European Union, the United States, China, India, Japan, Brazil, South Korea and Argentina have already instituted regulations requiring further reductions in emissions and/or increased fuel economy through 2016. In many cases, other authorities have initiated legislation or regulation that would further tighten the standards through 2020 and beyond. Based on the current regulatory environment, we believe that OEMs, including those in the U.S. and China, will be subject to requirements for even greater reductions in carbon dioxide ("CO2") emissions over the next ten years. These standards will require meaningful innovation as OEMs and suppliers are forced to find ways to improve engine management, electrical power consumption, vehicle weight and integration of alternative powertrains (e.g., electric/hybrid propulsion). As a result, suppliers are developing innovations that result in significant improvements in fuel economy, emissions and performance from gasoline and diesel internal combustion engines, and permit engine downsizing without loss of performance. At the same time, suppliers are also developing and marketing new and alternative technologies that support hybrid vehicles, electric vehicles and fuel cell products to improve fuel economy and emissions. Delphi is pioneering the electrification of internal combustion powertrains through the addition of hybrid technology, which will allow for further engine downsizing
+
+6
+Table of Contents
+
+by providing more power for intelligent driving. In 2016, Delphi introduced its 48-volt, mild hybrid vehicle solution, which maximizes the use of 48-volt electrification to minimize the demand on the engine, improving engine performance while lowering CO2 emissions by more than 10%.
+Connected. The third mega-trend, “Connected,” represents technologies designed to seamlessly integrate the highly complex electronic world in which automotive consumers live into the cars they drive, so that time in a vehicle is more productive and enjoyable. The technology content of vehicles continues to increase as consumers demand greater safety, personalization, infotainment, productivity and convenience while driving, which in turn leads to increasing demand for electrical architecture as a foundation for this content. Also with increased smart device usage in vehicles, driver distractions can be dramatically increased, which in turn results in greater risk of accidents. Delphi is pioneering vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication technologies which enable vehicles to detect and signal danger, reducing vehicle collisions and improving driver safety, while also maintaining connectivity to an increasing number of devices inside and outside of vehicles.
+We expect these mega-trends to continue to create growth and opportunity for us. We believe we are well-positioned to provide solutions and products to OEMs to expand the electronic and technological content of their vehicles. We also believe electronics integration, which generally refers to products and systems that combine integrated circuits, software algorithms, sensor technologies and mechanical components within the vehicle will allow OEMs to achieve substantial reductions in weight and mechanical complexity, resulting in easier assembly, enhanced fuel economy, improved emissions control and better vehicle performance.
+Convergence of Safe, Green and Connected Solutions in Autonomous Driving
+The combination of advanced technologies being developed within these mega-trends is also contributing to increasing industry development of autonomous driving technologies, leading to a fully automated driving experience. We expect automated driving technologies will provide strong societal benefit as well as the opportunity for long-term growth for our product offerings in this space. Societal benefits of increased vehicle automation include enhanced safety (resulting from collision avoidance and improved vehicle control), environmental improvements (a reduction in CO2 emissions through optimized driving behavior), labor cost savings and improved productivity (as a result of alternate uses for drive time). Growth opportunities in this space result from increased content, additional computing power and software requirements, enhanced connectivity systems and increased electrification and interconnects. We believe the complexity of these systems will also require on-going software support services, as these vehicle systems will be continuously upgraded with new features and performance enhancements.
+We are continuing to invest in the automated driving space, and have continued to develop market-leading automated driving platform solutions such as automated driving software, key active safety sensing technologies and our Multi-Domain Controller, which fuses information from sensing systems as well as mapping and navigation data to make driving decisions. We believe we are well-aligned with industry technology trends that will result in sustainable future growth in this space. For example, in 2016 we entered into a collaborative arrangement with Mobileye N.V. to jointly develop the Centralized Sensing Localization and Planning ("CSLP") system, a complete turn-key fully autonomous driving platform for our OEM customers, with the goal of being production ready for 2019. We also believe the increasing societal demand for mobility on demand ("MoD") services will accelerate the development of autonomous driving technologies, strongly benefiting the MoD space. For example, in 2016 we entered into an agreement to develop fully-autonomous vehicles as part of an automated MoD pilot for the government of Singapore.
+To guide our product strategies and investments in technology with a focus on developing advanced technologies to drive growth within the Safe, Green and Connected mega-trends, we utilize and benefit from our Technology Advisory Council, a panel of prominent global technology thought leaders.
+Standardization of Sourcing by OEMs
+Many OEMs are adopting global vehicle platforms to increase standardization, reduce per unit cost and increase capital efficiency and profitability. As a result, OEMs are selecting suppliers that have the capability to manufacture products on a worldwide basis as well as the flexibility to adapt to regional variations. Suppliers with global scale and strong design, engineering and manufacturing capabilities, are best positioned to benefit from this trend. OEMs are also increasingly looking to their suppliers to simplify vehicle design and assembly processes to reduce costs. As a result, suppliers that sell vehicle components directly to manufacturers (Tier I suppliers) have assumed many of the design, engineering, research and development and assembly functions traditionally performed by vehicle manufacturers. Suppliers that can provide fully-engineered solutions, systems and pre-assembled combinations of component parts are positioned to leverage the trend toward system sourcing.
+
+7
+Table of Contents
+
+Shorter Product Development Cycles
+As a result of government regulations and customer preferences, OEMs are requiring suppliers to respond faster with new designs and product innovations. While these trends are more prevalent in mature markets, the emerging markets are advancing rapidly towards the regulatory standards and consumer preferences of the more mature markets. Suppliers with strong technologies, robust global engineering and development capabilities will be best positioned to meet OEM demands for rapid innovation.
+Products
+Our organizational structure and management reporting support the management of these core product lines:
+Electrical/Electronic Architecture. This segment offers complete electrical and electronic architectures for our customer-specific needs that help reduce production cost, weight and mass, and improve reliability and ease of assembly.
+•
+High quality connectors are engineered primarily for use in the automotive and related markets, but also have applications in the aerospace, military and telematics sectors.
+•
+Electrical centers provide centralized electrical power and signal distribution and all of the associated circuit protection and switching devices, thereby optimizing the overall vehicle electrical system.
+•
+Distribution systems, including hybrid high voltage and safety systems, are integrated into one optimized vehicle electrical system that can utilize smaller cable and gauge sizes and ultra-thin wall insulation (which product line makes up approximately 37%, 40% and 37% of our total revenue for the years ended December 31, 2016, 2015 and 2014, respectively).
+Powertrain Systems. This segment offers high quality products for complete engine management systems (“EMS”) and products to help optimize performance, emissions and fuel economy.
+•
+The gasoline EMS portfolio features fuel injection and air/fuel control, valvetrain, ignition, sensors and actuators, transmission control products, and powertrain electronic control modules with software, algorithms and calibration.
+•
+The diesel EMS product line offers high quality common rail fuel injection system technologies including diesel injection equipment, system integration, calibration, electronics, and emission control solutions.
+•
+Electric and hybrid electric vehicle power electronics comprises power modules, inverters and converters and battery packs.
+•
+The Powertrain Systems segment also supplies integrated fuel handling systems for gasoline, diesel, flexfuel and biofuel configurations, and innovative evaporative emissions systems that are recognized as industry-leading technologies.
+We also include aftermarket and original equipment service in the Powertrain Systems segment.
+Electronics and Safety. This segment offers a wide range of electronic and safety equipment and software in the areas of controls, security, infotainment, communications and safety systems.
+•
+Electronic controls products primarily consist of body computers and security systems.
+•
+The infotainment and driver interface portfolio primarily consists of receivers, digital receivers, satellite audio receivers, navigation systems and displays (including re-configurable displays).
+•
+Passive and active safety electronics and advanced driver assistance systems primarily includes occupant detection systems, collision warning systems, advanced cruise control technologies, collision sensing and auto braking.
+Competition
+Although the overall number of our top competitors has decreased due to ongoing industry consolidation, the automotive parts industry remains extremely competitive. Furthermore, the rapidly evolving nature of the markets in which we compete has attracted, and may continue to attract, new entrants, particularly in low-cost countries such as China and in areas of evolving vehicle technologies such as automated driving, which has attracted competitors from outside the traditional automotive industry. OEMs rigorously evaluate suppliers on the basis of product quality, price, reliability and timeliness of delivery, product design capability, technical expertise and development capability, new product innovation, financial viability, application of lean principles, operational flexibility, customer service and overall management. In addition, our customers generally require that we demonstrate improved efficiencies, through cost reductions and/or price improvement, on a year-over-year basis.
+
+8
+Table of Contents
+
+Our competitors in each of our operating segments are as follows:
+Segment
+Competitors
+Electrical/Electronic Architecture
+•  A Raymond Et Cie
+•  Lear Corporation
+•  Leoni AG
+•  Molex Inc. (a subsidiary of Koch Industries, Inc.)
+•  Panduit Corporation
+•  Sumitomo Corporation
+•  TE Connectivity, Ltd.
+•  Yazaki Corporation
+ 
+Powertrain Systems
+•  Bosch Group 
+•  Continental AG 
+•  Denso Corporation
+•  Hitachi, Ltd.
+•  Magneti Marelli S.p.A.
+ 
+Electronics and Safety
+•  Alpine Electronics
+•  Autoliv AB
+•  Bosch Group
+•  Continental AG
+•  Denso Corporation
+•  Harman International Industries
+•  Panasonic Corporation
+•  Visteon Corporation
+•  ZF Friedrichshafen AG
+Customers
+We sell our products and services to the major global OEMs in every region of the world. We also sell our products to the worldwide aftermarket for replacement parts, including the aftermarket operations of our OEM customers and to other distributors and retailers. The following table provides the percentage of net sales to our largest customers for the year ended December 31, 2016:
+Customer
+Percentage of Net Sales
+GM
+14%
+Volkswagen Group (“VW”)
+8%
+Ford Motor Company (“Ford”)
+6%
+Fiat Chrysler Automobiles N.V. ("FCA")
+5%
+Shanghai General Motors Company Limited
+5%
+Daimler AG (“Daimler”)
+5%
+PSA Peugeot Citroën (“PSA”)
+5%
+Hyundai Motor Company
+3%
+Geely Automobile Holdings Limited
+3%
+Toyota Motor Corporation
+2%
+
+9
+Table of Contents
+
+Supply Relationships with Our Customers
+We typically supply products to our OEM customers through purchase orders, which are generally governed by general terms and conditions established by each OEM. Although the terms and conditions vary from customer to customer, they typically contemplate a relationship under which our customers place orders for their requirements of specific components supplied for particular vehicles but are not required to purchase any minimum amount of products from us. These relationships typically extend over the life of the related vehicle. Prices are negotiated with respect to each business award, which may be subject to adjustments under certain circumstances, such as commodity or foreign exchange escalation/de-escalation clauses or for cost reductions achieved by us. The terms and conditions typically provide that we are subject to a warranty on the products supplied; in most cases, the duration of such warranty is coterminous with the warranty offered by the OEM to the end-user of the vehicle. We may also be obligated to share in all or a part of recall costs if the OEM recalls its vehicles for defects attributable to our products.
+Individual purchase orders are terminable for cause or non-performance and, in most cases, upon our insolvency and certain change of control events. In addition, many of our OEM customers have the option to terminate for convenience on certain programs, which permits our customers to impose pressure on pricing during the life of the vehicle program, and issue purchase contracts for less than the duration of the vehicle program, which potentially reduces our profit margins and increases the risk of our losing future sales under those purchase contracts. Additionally, our largest customer, GM, expressly reserves a right to terminate for competitiveness on certain of our long-term supply contracts. We manufacture and ship based on customer release schedules, normally provided on a weekly basis, which can vary due to cyclical automobile production or dealer inventory levels.
+Although customer programs typically extend to future periods, and although there is an expectation that we will supply certain levels of OEM production during such future periods, customer agreements including applicable terms and conditions do not necessarily constitute firm orders. Firm orders are generally limited to specific and authorized customer purchase order releases placed with our manufacturing and distribution centers for actual production and order fulfillment. Firm orders are typically fulfilled as promptly as possible from the conversion of available raw materials, sub-components and work-in-process inventory for OEM orders and from current on-hand finished goods inventory for aftermarket orders. The dollar amount of such purchase order releases on hand and not processed at any point in time is not believed to be significant based upon the time frame involved.
+Our Global Operations
+Information concerning principal geographic areas is set forth below. Net sales data reflects the manufacturing location for the years ended December 31, 2016, 2015 and 2014. Net property data is as of December 31, 2016, 2015 and 2014.
+ 
+Year Ended December 31, 2016
+ 
+Year Ended December 31, 2015
+ 
+Year Ended December 31, 2014
+ 
+(in millions)
+ 
+Net Sales
+ 
+Net
+Property (1)
+ 
+Net Sales
+ 
+Net
+Property (1)
+ 
+Net Sales
+ 
+Net
+Property (1)
+United States (2)
+$
+6,037
+
+ 
+$
+980
+
+ 
+$
+5,536
+
+ 
+$
+898
+
+ 
+$
+5,160
+
+ 
+$
+675
+
+Other North America
+143
+
+ 
+171
+
+ 
+146
+
+ 
+147
+
+ 
+208
+
+ 
+135
+
+Europe, Middle East & Africa (3)
+5,871
+
+ 
+1,435
+
+ 
+5,275
+
+ 
+1,469
+
+ 
+5,940
+
+ 
+1,395
+
+Asia Pacific (4)
+4,274
+
+ 
+858
+
+ 
+3,839
+
+ 
+809
+
+ 
+3,552
+
+ 
+732
+
+South America
+336
+
+ 
+71
+
+ 
+369
+
+ 
+54
+
+ 
+639
+
+ 
+84
+
+Total
+$
+16,661
+
+ 
+$
+3,515
+
+ 
+$
+15,165
+
+ 
+$
+3,377
+
+ 
+$
+15,499
+
+ 
+$
+3,021
+
+(1)
+Net property data represents property, plant and equipment, net of accumulated depreciation.
+(2)
+Includes net sales and machinery, equipment and tooling that relate to the Company's maquiladora operations located in Mexico. These assets are utilized to produce products sold to customers located in the United States.
+(3)
+Includes our country of domicile, Jersey, and the country of our principal executive offices, the United Kingdom. We had no sales in Jersey in any period. We had net sales of $827 million, $834 million and $892 million in the United Kingdom for the years ended December 31, 2016, 2015 and 2014, respectively. We had net property in the United Kingdom of $230 million, $276 million and $231 million as of December 31, 2016, 2015 and 2014, respectively. The largest portion of net sales in the Europe, Middle East & Africa region was $959 million in Germany, $834 million in the United Kingdom and $892 million in the United Kingdom for the years ended December 31, 2016, 2015 and 2014, respectively.
+(4)
+Net sales and net property in Asia Pacific are primarily attributable to China.
+
+10
+Table of Contents
+
+Research, Development and Intellectual Property
+We maintain technical engineering centers in major regions of the world to develop and provide advanced products, processes and manufacturing support for all of our manufacturing sites, and to provide our customers with local engineering capabilities and design development on a global basis. As of December 31, 2016, we employed over 20,000 scientists, engineers and technicians around the world. Our total investment in research and development, including engineering, was approximately $1.5 billion, $1.5 billion and $1.6 billion for the years ended December 31, 2016, 2015 and 2014, respectively, which includes approximately $300 million, $300 million and $400 million of co-investment by customers and government agencies. Each year we share some engineering expenses with OEMs and government agencies. While this amount varies from year-to-year, it is generally in the range of 20% to 30% of engineering expenses.
+We utilize a Technology Advisory Council, a panel of prominent global technology thought leaders, which guides our product strategies and investments in technology with a focus on developing advanced technologies to drive growth. We believe that our engineering and technical expertise, together with our emphasis on continuing research and development, allow us to use the latest technologies, materials and processes to solve problems for our customers and to bring new, innovative products to market. We believe that continued engineering activities are critical to maintaining our pipeline of technologically advanced products. Given our strong financial discipline, we seek to effectively manage fixed costs and efficiently rationalize capital spending by critically evaluating the profit potential of new and existing customer programs, including investment in innovation and technology. We maintain our engineering activities around our focused product portfolio and allocate our capital and resources to those products with distinctive technologies. We expect expenditures for research and development activities, including engineering, net of co-investment, to be approximately $1.2 billion for the year ended December 31, 2017.
+We maintain a large portfolio of patents in the operation of our business. While no individual patent or group of patents, taken alone, is considered material to our business, taken in the aggregate, these patents provide meaningful protection for our products and technical innovations. Similarly, while our trademarks (particularly those protecting the Delphi brand) are important to identify our position in the industry, we do not believe that any of these are individually material to our business. We are actively pursuing marketing opportunities to commercialize and license our technology to both automotive and non-automotive industries and we have selectively taken licenses from others to support our business interests. These activities foster optimization of intellectual property rights.
+Materials
+We procure our raw materials from a variety of suppliers around the world. Generally, we seek to obtain materials in the region in which our products are manufactured in order to minimize transportation and other costs. The most significant raw materials we use to manufacture our products include copper and resins. As of December 31, 2016, we have not experienced any significant shortages of raw materials and normally do not carry inventories of such raw materials in excess of those reasonably required to meet our production and shipping schedules.
+Commodity cost volatility, most notably related to copper, petroleum-based resin products and fuel, is a challenge for us and our industry. We are continually seeking to manage these and other material-related cost pressures using a combination of strategies, including working with our suppliers to mitigate costs, seeking alternative product designs and material specifications, combining our purchase requirements with our customers and/or suppliers, changing suppliers, hedging of certain commodities and other means. In the case of copper, which primarily affects our Electrical/Electronic Architecture segment, contract clauses have enabled us to pass on some of the price increases to our customers and thereby partially offset the impact of increased commodity costs on operating income for the related products. However, other than in the case of copper, our overall success in passing commodity cost increases on to our customers has been limited. We will continue our efforts to pass market-driven commodity cost increases to our customers in an effort to mitigate all or some of the adverse earnings impacts, including by seeking to renegotiate terms as contracts with our customers expire.
+Seasonality
+Our business is moderately seasonal, as our primary North American customers historically reduce production during the month of July and halt operations for approximately one week in December. Our European customers generally reduce production during the months of July and August and for one week in December. Shut-down periods in the rest of the world generally vary by country. In addition, automotive production is traditionally reduced in the months of July, August and September due to the launch of parts production for new vehicle models. Accordingly, our results reflect this seasonality.
+Employees
+As of December 31, 2016, we employed approximately 145,000 people; 28,000 salaried employees and 117,000 hourly employees. In addition, we maintain an alternative workforce of 21,000 contract and temporary workers. Our employees are represented worldwide by numerous unions and works councils, including the International Union of Electronic, Electrical,
+
+11
+Table of Contents
+
+Salaried, Machine and Furniture Workers - Communications Workers of America ("IUE-CWA") and the Confederacion De Trabajadores Mexicanos. In the U.S., our employees are represented by only the IUE-CWA, with which we have competitive wage and benefit packages.
+Environmental Compliance
+We are subject to the requirements of U.S. federal, state and local, and non-U.S., environmental and safety and health laws and regulations. These include laws regulating air emissions, water discharge, hazardous materials and waste management. We have an environmental management structure designed to facilitate and support our compliance with these requirements globally. Although it is our intent to comply with all such requirements and regulations, we cannot provide assurance that we are at all times in compliance. Environmental requirements are complex, change frequently and have tended to become more stringent over time. Accordingly, we cannot assure that environmental requirements will not change or become more stringent over time or that our eventual environmental costs and liabilities will not be material.
+Certain environmental laws assess liability on current or previous owners or operators of real property for the cost of removal or remediation of hazardous substances. In addition to clean-up actions brought by U.S. federal, state, local and non-U.S. agencies, plaintiffs could raise personal injury or other private claims due to the presence of hazardous substances on or from a property. At this time, we are involved in various stages of investigation and cleanup related to environmental remediation matters at certain of our present and former facilities. In addition, there may be soil or groundwater contamination at several of our properties resulting from historical, ongoing or nearby activities.
+At December 31, 2016, 2015 and 2014, the undiscounted reserve for environmental investigation and remediation was approximately $6 million, $4 million and $5 million, respectively. Additionally, as of December 31, 2016, 2015 and 2014, the undiscounted reserve for environmental investigation and remediation attributable to discontinued operations included within liabilities held for sale was approximately $0, $6 million and $16 million, respectively, of which $0, $0 and $7 million, respectively, related to sites within the U.S. We cannot ensure that our eventual environmental remediation costs and liabilities will not exceed the amount of our current reserves. In the event that such liabilities were to significantly exceed the amounts recorded, our results of operations could be materially affected.
+
+12
+Table of Contents
+
+SUPPLEMENTARY ITEM. EXECUTIVE OFFICERS OF THE REGISTRANT
+The name, age (as of February 1, 2017), current positions and description of business experience of each of our executive officers are listed below. Our executive officers are elected annually by the Board of Directors and hold office until their successors are elected and qualified or until the officer’s resignation or removal. Positions noted below reflect current service to Delphi Automotive PLC and prior service to Delphi Automotive LLP. Other than Mr. Massaro, Mr. Dorlack and Ms. Suver, each officer listed below as a senior vice president was a vice president until February 2012.
+Kevin P. Clark, 54, is president and chief executive officer (CEO) of Delphi and is a member of the company's board of directors. Mr. Clark was named president and CEO and became a member of the board in March 2015. Previously, Mr. Clark was chief operating officer (COO) since October 2014. Prior to the COO position, Mr. Clark was chief financial officer and executive vice president since February 2013. He was appointed vice president and chief financial officer in July 2010. Previously, Mr. Clark was a founding partner of Liberty Lane Partners, LLC, a private-equity investment firm focused on building and improving middle-market companies. Prior to Liberty Lane Partners, Mr. Clark served as the chief financial officer of Fisher-Scientific International Inc., a manufacturer, distributor and service provider to the global healthcare market. Mr. Clark served as Fisher-Scientific’s chief financial officer from the company’s initial public offering in 2001 through the completion of its merger with Thermo Electron Corporation in 2006. Prior to becoming chief financial officer, Mr. Clark served as Fisher-Scientific’s corporate controller and treasurer.
+Joseph R. Massaro, 47, is chief financial officer and senior vice president of Delphi, a position he has held since March 2016. Mr. Massaro joined Delphi in October 2013 as vice president, Internal Audit, and in September 2014 was appointed to the position of vice president, Corporate Controller. Previously, Mr. Massaro was a managing director at Liberty Lane Partners from 2008 to 2013. While there he also served as chief financial officer of inVentiv Health Inc. from 2010 to 2013, a Liberty Lane portfolio company. Prior to Liberty Lane, he served in a variety of finance and operational roles at Thermo Fisher Scientific from 2002 to 2007, including senior vice president of Global Business Services where his responsibilities included the global sourcing and information technology functions. Prior to the merger with Thermo Electron, he also served as vice president and corporate controller of Fisher Scientific and held several other senior finance positions. 
+Majdi Abulaban, 53, is senior vice president of Delphi and president of Delphi Electrical/Electronic Architecture (E/EA) effective February 2012. He also continues to serve as president of Delphi Asia Pacific. Mr. Abulaban was most recently president of the Connection Systems product business unit for Delphi E/EA. Mr. Abulaban was appointed managing director for the former Packard Electric Systems’ Asia Pacific operations and became chairman of the board for Delphi Packard Electric Systems Co., Ltd, (China) in July 2002. He previously held a variety of assignments, including business line executive for cockpits at the former Safety & Interior division since 2001 and director of Asia Pacific Operations for Delphi Harrison Thermal Systems since January 2000.
+Liam Butterworth, 46, was named senior vice president of Delphi and president, Powertrain Systems in February 2014 and assumed responsibilities for Delphi Product & Service Solutions in September 2015. He previously was president of Delphi Connection Systems, a product business unit (PBU) of Delphi E/EA, from October 2012. He joined Delphi in 2012 after the company acquired FCI’s Motorized Vehicles Division, where he had been president and general manager from 2009 through the acquisition by Delphi. He joined FCI in 2000 and held positions in sales, marketing, purchasing and general management. Prior to FCI, Mr. Butterworth worked for Lucas Industries and TRW Automotive.
+Jerome J. Dorlack, 36, is senior vice president of Delphi and president of Delphi Electrical Electronic Distribution Systems (DEEDS), effective February 2017, and will also assume responsibility for Delphi’s South American operations. Mr. Dorlack joined Delphi in April 2016 as the managing director Gas and Diesel RPBU- Americas for Delphi Powertrain Systems and was appointed to the position of vice president Delphi Powertrain Systems and general manager of Powertrain Products in July 2016. Prior to joining Delphi, Mr. Dorlack was the executive vice president of Global Commodity Procurement for  ZF Friedrichshafen AG ("ZF"), a global automotive supplier, from 2015 to 2016. Previously, he spent 15 years with TRW Automotive Holdings Corp., which was acquired by ZF in 2015, and TRW Inc., where he served in a variety of procurement and operational roles, including vice president of Global Purchasing, Supplier Development and Logistics from 2013 to 2015 and director of Quality & Continuous Improvement - Global Braking Systems from 2012 to 2013.
+Jeffrey J. Owens, 62, was named chief technology officer and executive vice president of Delphi in February 2013. He previously was senior vice president and chief technology officer since February 2012. Prior to that role he was vice president of Delphi and president of Delphi Electronics and Safety since October 2009 and was previously vice president and president of Delphi Electronics and Safety, from September 2001 to September 2009. He also served as president of Delphi Asia Pacific from 2006 to 2009.
+David M. Sherbin, 57, is senior vice president, general counsel, secretary and chief compliance officer of Delphi. He was named to his current position in October 2009 and previously was vice president, general counsel from October 2005 to October 2009. He was appointed chief compliance officer in January 2006. Prior to joining Delphi, Mr. Sherbin was vice president, general counsel and secretary for Pulte Homes, Inc., a national homebuilder, from January 2005 through September
+
+13
+Table of Contents
+
+2005. Mr. Sherbin joined Federal-Mogul Corporation in 1997 and was named senior vice president, general counsel, secretary and chief compliance officer in 2003.
+Susan M. Suver, 57, is senior vice president and chief human resources officer, a position she has held since February 2015. Prior to joining Delphi, Ms. Suver was an executive with United States Steel Corporation, a leading integrated steel producer, where she was senior vice president of human resources and administration from 2013 to 2014 and vice president human resources from 2007 to 2013. Ms. Suver has also held positions with Phelps Dodge Corporation, a metals, mining and industrial manufacturing company, and Arrow Electronics, Inc., a global supply channel for electronic components and software.
+Jugal K. Vijayvargiya, 48, is senior vice president of Delphi and president of Delphi Electronics and Safety (E&S). He was named to his current position in February 2012 and was most recently vice president of the Infotainment & Driver Interface PBU for Delphi E&S since August 2009. He was previously general director of the Controls & Security PBU since 2006. Earlier, Mr. Vijayvargiya was global business line executive (BLE) for Body Security & Mechatronics at Delphi Electrical/Electronic Architecture. Prior to his BLE assignment, Mr. Vijayvargiya was director of program management before being named product line manager of Audio Systems in 2002.
+
+14
+Table of Contents
+
+ITEM 1A. RISK FACTORS
+Set forth below are certain risks and uncertainties that could adversely affect our results of operations or financial condition and cause our actual results to differ materially from those expressed in forward-looking statements made by the Company. Also refer to the Cautionary Statement Regarding Forward-Looking Information in this annual report.
+Risks Related to Business Environment and Economic Conditions
+The cyclical nature of automotive sales and production can adversely affect our business.
+Our business is directly related to automotive sales and automotive vehicle production by our customers. Automotive sales and production are highly cyclical and, in addition to general economic conditions, also depend on other factors, such as consumer confidence and consumer preferences. Lower global automotive sales would be expected to result in substantially all of our automotive OEM customers lowering vehicle production schedules, which has a direct impact on our earnings and cash flows. In addition, automotive sales and production can be affected by labor relations issues, regulatory requirements, trade agreements, the availability of consumer financing and other factors. Economic declines that result in a significant reduction in automotive sales and production by our customers have in the past had, and may in the future have, an adverse effect on our business, results of operations and financial condition.
+Our sales are also affected by inventory levels and OEMs’ production levels. We cannot predict when OEMs will decide to increase or decrease inventory levels or whether new inventory levels will approximate historical inventory levels. Uncertainty and other unexpected fluctuations could have a material adverse effect on our business and financial condition.
+A prolonged economic downturn or economic uncertainty could adversely affect our business and cause us to require additional sources of financing, which may not be available.
+Our sensitivity to economic cycles and any related fluctuation in the businesses of our customers or potential customers may have a material adverse effect on our financial condition, results of operations or cash flows. Due to overall strong global economic conditions in 2016, the automotive industry experienced increased global customer sales and production schedules. Compared to 2015, vehicle production in 2016 increased by 2% in North America, 3% in Europe and 15% in China. However, economic uncertainties have continued to persist in South America, resulting in a decline of 12% in South American vehicle production in 2016, which follows a 19% decrease in that region in 2015. As a result, we have experienced and may continue to experience reductions in orders from OEM customers in certain regions. Uncertainty relating to global or regional economic conditions may have an adverse impact on our business. A prolonged downturn in the global or regional automotive industry, or a significant change in product mix due to consumer demand, could require us to shut down plants or result in impairment charges, restructuring actions or changes in our valuation allowances against deferred tax assets, which could be material to our financial condition and results of operations. If global economic conditions deteriorate or economic uncertainty increases, our customers and potential customers may experience deterioration of their businesses, which may result in the delay or cancellation of plans to purchase our products. If vehicle production were to remain at low levels for an extended period of time or if cash losses for customer defaults rise, our cash flow could be adversely impacted, which could result in our needing to seek additional financing to continue our operations. There can be no assurance that we would be able to secure such financing on terms acceptable to us, or at all.
+Any changes in consumer credit availability or cost of borrowing could adversely affect our business.
+Declines in the availability of consumer credit and increases in consumer borrowing costs have negatively impacted global automotive sales and resulted in lower production volumes in the past. Substantial declines in automotive sales and production by our customers could have a material adverse effect on our business, results of operations and financial condition.
+A drop in the market share and changes in product mix offered by our customers can impact our revenues.
+We are dependent on the continued growth, viability and financial stability of our customers. Our customers generally are OEMs in the automotive industry. This industry is subject to rapid technological change, vigorous competition, short product life cycles and cyclical and reduced consumer demand patterns. When our customers are adversely affected by these factors, we may be similarly affected to the extent that our customers reduce the volume of orders for our products. As a result of changes impacting our customers, sales mix can shift which may have either favorable or unfavorable impact on revenue and would include shifts in regional growth, shifts in OEM sales demand, as well as shifts in consumer demand related to vehicle segment purchases and content penetration. For instance, a shift in sales demand favoring a particular OEMs' vehicle model for which we do not have a supply contract may negatively impact our revenue. A shift in regional sales demand toward certain markets could favorably impact the sales of those of our customers that have a large market share in those regions, which in turn would be expected to have a favorable impact on our revenue.
+The mix of vehicle offerings by our OEM customers also impacts our sales. A decrease in consumer demand for specific types of vehicles where we have traditionally provided significant content could have a significant effect on our business and
+
+15
+Table of Contents
+
+financial condition. Our sales of products in the regions in which our customers operate also depend on the success of these customers in those regions.
+If we do not respond appropriately, the evolution of the automotive industry towards autonomous vehicles and mobility on demand services could adversely affect our business.
+The automotive industry is increasingly focused on the development of advanced driver assistance technologies, with the goal of developing and introducing a commercially-viable, fully automated driving experience. The high development cost of active safety and autonomous driving technologies may result in a higher risk of exposure to the success of new or disruptive technologies different than those being developed by us. There has also been an increase in consumer preferences for mobility on demand services, such as car- and ride-sharing, as opposed to automobile ownership, which may result in a long term reduction in the number of vehicles per capita. These evolving areas have also attracted increased competition from entrants outside the traditional automotive industry. If we do not continue to innovate to develop or acquire new and compelling products that capitalize upon new technologies in response to OEM and consumer preferences, this could have an adverse impact on our results of operations.
+Declines in the market share or business of our five largest customers may have a disproportionate adverse impact on our revenues and profitability.
+Our five largest customers accounted for approximately 38% of our total net sales in the year ended December 31, 2016. Accordingly, our revenues may be disproportionately affected by decreases in any of their businesses or market share. Because our customers typically have no obligation to purchase a specific quantity of parts, a decline in the production levels of any of our major customers, particularly with respect to models for which we are a significant supplier, could disproportionately reduce our sales and thereby adversely affect our financial condition, operating results and cash flows. See Item 1. Supply Relationships with Our Customers.
+We may not realize sales represented by awarded business.
+We estimate awarded business using certain assumptions, including projected future sales volumes. Our customers generally do not guarantee volumes. In addition, awarded business may include business under arrangements that our customers have the right to terminate without penalty. Therefore, our actual sales volumes, and thus the ultimate amount of revenue that we derive from such sales, are not committed. If actual production orders from our customers are not consistent with the projections we use in calculating the amount of our awarded business, we could realize substantially less revenue over the life of these projects than the currently projected estimate.
+Continued pricing pressures, OEM cost reduction initiatives and the ability of OEMs to re-source or cancel vehicle programs may result in lower than anticipated margins, or losses, which may have a significant negative impact on our business.
+Cost-cutting initiatives adopted by our customers result in increased downward pressure on pricing. Our customer supply agreements generally require step-downs in component pricing over the period of production, typically one to two percent per year. In addition, our customers often reserve the right to terminate their supply contracts for convenience, which enhances their ability to obtain price reductions. OEMs have also possessed significant leverage over their suppliers, including us, because the automotive component supply industry is highly competitive, serves a limited number of customers, has a high fixed cost base and historically has had excess capacity. Based on these factors, and the fact that our customers’ product programs typically last a number of years and are anticipated to encompass large volumes, our customers are able to negotiate favorable pricing. Accordingly, as a Tier I supplier, we are subject to substantial continuing pressure from OEMs to reduce the price of our products. For example, our customer supply agreements generally provide for annual reductions in pricing of our products over the period of production. It is possible that pricing pressures beyond our expectations could intensify as OEMs pursue restructuring and cost cutting initiatives. If we are unable to generate sufficient production cost savings in the future to offset price reductions, our gross margin and profitability would be adversely affected. See Item 1. Supply Relationships with Our Customers for a detailed discussion of our supply agreements with our customers.
+Our supply agreements with our OEM customers are generally requirements contracts, and a decline in the production requirements of any of our customers, and in particular our largest customers, could adversely impact our revenues and profitability.
+We receive OEM purchase orders for specific components supplied for particular vehicles. In most instances our OEM customers agree to purchase their requirements for specific products but are not required to purchase any minimum amount of products from us. The contracts we have entered into with most of our customers have terms ranging from one year to the life of the model (usually three to seven years, although customers often reserve the right to terminate for convenience). Therefore, a significant decrease in demand for certain key models or group of related models sold by any of our major customers or the ability of a manufacturer to re-source and discontinue purchasing from us, for a particular model or group of models, could have a material adverse effect on us. To the extent that we do not maintain our existing level of business with our largest
+
+16
+Table of Contents
+
+customers because of a decline in their production requirements or because the contracts expire or are terminated for convenience, we will need to attract new customers or win new business with existing customers, or our results of operations and financial condition will be adversely affected. See Item 1. Supply Relationships with Our Customers for a detailed discussion of our supply agreements with our customers.
+We have invested substantial resources in markets where we expect growth and we may be unable to timely alter our strategies should such expectations not be realized.
+Our future growth is dependent on our making the right investments at the right time to support product development and manufacturing capacity in geographic areas where we can support our customer base and in product areas of evolving vehicle technologies. We have identified the Asia Pacific region, and more specifically China, as a key geographic market, and have identified advanced driver assistance systems and autonomous driving technologies as a key product market. We believe these markets are likely to experience substantial long term growth, and accordingly have made and expect to continue to make substantial investments, both directly and through participation in various partnerships and joint ventures, in numerous manufacturing operations, technical centers, research and development activities and other infrastructure to support anticipated growth in these areas. If we are unable to deepen existing and develop additional customer relationships in the Asia Pacific region, or are unable to develop and introduce market-relevant advanced driver assistance technologies, we may not only fail to realize expected rates of return on our existing investments, but we may incur losses on such investments and be unable to timely redeploy the invested capital to take advantage of other markets or product categories, potentially resulting in lost market share to our competitors. Our results will also suffer if these areas do not grow as quickly as we anticipate.
+Our business in China is subject to aggressive competition and is sensitive to economic and market conditions.
+Maintaining a strong position in the Chinese market is a key component of our global growth strategy. The automotive supply market in China is highly competitive, with competition from many of the largest global manufacturers and numerous smaller domestic manufacturers. As the size of the Chinese market continues to increase over the long term, we anticipate that additional competitors, both international and domestic, will seek to enter the Chinese market and that existing market participants will act aggressively to increase their market share. Increased competition may result in price reductions, reduced margins and our inability to gain or hold market share. Additionally, there have been periods of increased market volatility and moderations in the level of economic growth in China, which resulted in periods of lower automotive production growth rates in China than those previously experienced. For example, automotive production in China increased 4% in 2015 as compared to 2014, which represented a reduction from the overall level of long-term automotive market growth in the country. In 2016, automotive production in China increased 15% as compared to 2015, benefiting in part from a consumer vehicle tax reduction program. Following a partial increase in the consumer vehicle tax in 2017, vehicle production volumes in China are expected to increase by 1% in 2017. Our business in China is sensitive to economic and market conditions that drive automotive sales volumes in China and may be impacted if there are reductions in vehicle demand in China. If we are unable to maintain our position in the Chinese market or if vehicle sales in China decrease or do not continue to increase, our business and financial results could be materially adversely affected.
+Disruptions in the supply of raw materials and other supplies that we and our customers use in our products may adversely affect our profitability.
+We and our customers use a broad range of materials and supplies, including copper and other metals, petroleum-based resins, chemicals, electronic components and semiconductors. A significant disruption in the supply of these materials for any reason could decrease our production and shipping levels, which could materially increase our operating costs and materially decrease our profit margins.
+We, as with other component manufacturers in the automotive industry, ship products to our customers’ vehicle assembly plants throughout the world so they are delivered on a “just-in-time” basis in order to maintain low inventory levels. Our suppliers also use a similar method. However, this “just-in-time” method makes the logistics supply chain in our industry very complex and very vulnerable to disruptions.
+Such disruptions could be caused by any one of a myriad of potential problems, such as closures of one of our or our suppliers’ plants or critical manufacturing lines due to strikes, mechanical breakdowns, electrical outages, fires, explosions or political upheaval, as well as logistical complications due to weather, global climate change, volcanic eruptions, or other natural or nuclear disasters, mechanical failures, delayed customs processing and more. Additionally, as we grow in low cost countries, the risk for such disruptions is heightened. The lack of even a small single subcomponent necessary to manufacture one of our products, for whatever reason, could force us to cease production, even for a prolonged period. Similarly, a potential quality issue could force us to halt deliveries while we validate the products. Even where products are ready to be shipped, or have been shipped, delays may arise before they reach our customer. Our customers may halt or delay their production for the same reason if one of their other suppliers fails to deliver necessary components. This may cause our customers, in turn to suspend their orders, or instruct us to suspend delivery, of our products, which may adversely affect our financial performance.
+
+17
+Table of Contents
+
+When we fail to make timely deliveries in accordance with our contractual obligations, we generally have to absorb our own costs for identifying and solving the “root cause” problem as well as expeditiously producing replacement components or products. Generally, we must also carry the costs associated with “catching up,” such as overtime and premium freight.
+Additionally, if we are the cause for a customer being forced to halt production, the customer may seek to recoup all of its losses and expenses from us. These losses and expenses could be significant, and may include consequential losses such as lost profits. Any supply-chain disruption, however small, could potentially cause the complete shutdown of an assembly line of one of our customers, and any such shutdown that is due to causes that are within our control could expose us to material claims of compensation. Where a customer halts production because of another supplier failing to deliver on time, it is unlikely we will be fully compensated, if at all.
+Adverse developments affecting one or more of our suppliers could harm our profitability.
+Any significant disruption in our supplier relationships, particularly relationships with sole-source suppliers, could harm our profitability. Furthermore, some of our suppliers may not be able to handle the commodity cost volatility and/or sharply changing volumes while still performing as we expect. To the extent our suppliers experience supply disruptions, there is a risk for delivery delays, production delays, production issues or delivery of non-conforming products by our suppliers. Even where these risks do not materialize, we may incur costs as we try to make contingency plans for such risks.
+The loss of business with respect to, or the lack of commercial success of, a vehicle model for which we are a significant supplier could adversely affect our financial performance.
+Although we receive purchase orders from our customers, these purchase orders generally provide for the supply of a customer’s requirements for a particular vehicle model and assembly plant, rather than for the purchase of a specific quantity of products. The loss of business with respect to, or the lack of commercial success of, a vehicle model for which we are a significant supplier could reduce our sales and thereby adversely affect our financial condition, operating results and cash flows.
+We operate in the highly competitive automotive supply industry.
+The global automotive component supply industry is highly competitive. Competition is based primarily on price, technology, quality, delivery and overall customer service. There can be no assurance that our products will be able to compete successfully with the products of our competitors. Furthermore, the rapidly evolving nature of the geographic markets in which we compete has attracted, and may continue to attract, new entrants, particularly in countries such as China or in areas of evolving vehicle technologies such as active safety and automated driving, which has attracted new entrants from outside the traditional automotive supply industry. Additionally, consolidation in the automotive industry may lead to decreased product purchases from us. As a result, our sales levels and margins could be adversely affected by pricing pressures from OEMs and pricing actions of competitors. These factors led to selective resourcing of business to competitors in the past and may also do so in the future. In addition, any of our competitors may foresee the course of market development more accurately than us, develop products that are superior to our products, have the ability to produce similar products at a lower cost than us, adapt more quickly than us to new technologies or evolving customer requirements or develop or introduce new products or solutions before we do, particularly related to potential transformative technologies such as autonomous driving solutions. As a result, our products may not be able to compete successfully with their products. These trends may adversely affect our sales as well as the profit margins on our products. If we do not continue to innovate to develop or acquire new and compelling products that capitalize upon new technologies, this could have a material adverse impact on our results of operations.
+Increases in costs of the materials and other supplies that we use in our products may have a negative impact on our business.
+Significant changes in the markets where we purchase materials, components and supplies for the production of our products may adversely affect our profitability, particularly in the event of significant increases in demand where there is not a corresponding increase in supply, inflation or other pricing increases. In recent periods there have been significant fluctuations in the global prices of copper and petroleum-based resin products, and fuel charges, which have had and may continue to have an unfavorable impact on our business, results of operations or financial condition. Continuing volatility may have adverse effects on our business, results of operations or financial condition. We will continue efforts to pass some supply and material cost increases onto our customers, although competitive and market pressures have limited our ability to do that, particularly with domestic OEMs, and may prevent us from doing so in the future, because our customers are generally not obligated to accept price increases that we may desire to pass along to them. Even where we are able to pass price increases through to the customer, in some cases there is a lapse of time before we are able to do so. The inability to pass on price increases to our customers when raw material prices increase rapidly or to significantly higher than historic levels could adversely affect our operating margins and cash flow, possibly resulting in lower operating income and profitability. We expect to be continually challenged as demand for our principal raw materials and other supplies, including electronic components, is significantly impacted by demand in emerging markets, particularly in China. We cannot provide assurance that fluctuations in commodity
+
+18
+Table of Contents
+
+prices will not otherwise have a material adverse effect on our financial condition or results of operations, or cause significant fluctuations in quarterly and annual results of operations.
+Our hedging activities to address commodity price fluctuations may not be successful in offsetting future increases in those costs or may reduce or eliminate the benefits of any decreases in those costs.
+In order to mitigate short-term volatility in operating results due to the aforementioned commodity price fluctuations, we hedge a portion of near-term exposure to certain raw materials used in production. The results of our hedging practice could be positive, neutral or negative in any period depending on price changes in the hedged exposures. Our hedging activities are not designed to mitigate long-term commodity price fluctuations and, therefore, will not protect from long-term commodity price increases. Our future hedging positions may not correlate to actual raw material costs, which could cause acceleration in the recognition of unrealized gains and losses on hedging positions in operating results.
+We may encounter manufacturing challenges.
+The volume and timing of sales to our customers may vary due to: variation in demand for our customers’ products; our customers’ attempts to manage their inventory; design changes; changes in our customers’ manufacturing strategy; and acquisitions of or consolidations among customers. Due in part to these factors, many of our customers do not commit to long-term production schedules. Our inability to forecast the level of customer orders with certainty makes it difficult to schedule production and maximize utilization of manufacturing capacity.
+We rely on third-party suppliers for the components used in our products, and we rely on third-party manufacturers to manufacture certain of our assemblies and finished products. Our results of operations, financial condition and cash flows could be adversely affected if our third party suppliers lack sufficient quality control or if there are significant changes in their financial or business condition. If our third-party manufacturers fail to deliver products, parts and components of sufficient quality on time and at reasonable prices, we could have difficulties fulfilling our orders, sales and profits could decline, and our commercial reputation could be damaged.
+From time to time, we have underutilized our manufacturing lines. This excess capacity means we incur increased fixed costs in our products relative to the net revenue we generate, which could have an adverse effect on our results of operations, particularly during economic downturns. If we are unable to improve utilization levels for these manufacturing lines and correctly manage capacity, the increased expense levels will have an adverse effect on our business, financial condition and results of operations. In addition, some of our manufacturing lines are located in China or other foreign countries that are subject to a number of additional risks and uncertainties, including increasing labor costs, which may result from market demand or other factors, and political, social and economic instability.
+We may not be able to respond quickly enough to changes in regulations, technology and technological risks, and to develop our intellectual property into commercially viable products.
+Changes in legislative, regulatory or industry requirements or in competitive technologies may render certain of our products obsolete or less attractive. Our ability to anticipate changes in technology and regulatory standards and to successfully develop and introduce new and enhanced products on a timely basis are significant factors in our ability to remain competitive and to maintain or increase our revenues. For example, the evolving sector of automated driver assistance and autonomous driving technologies has led to new regulations issued by the U.S. Department of Transportation ("DOT") in 2016 which will require manufacturers of autonomous vehicles to provide documentation covering specific topics to regulators, such as how automated systems detect objects on the road, how information is displayed to drivers, what cybersecurity measures are in place and the testing and validation methods used to develop the autonomous driving system. In addition to these issued regulations, there remains potential for the continued introduction of new and expanded regulations in this space, including potential requirements for autonomous vehicle systems to receive approval from the DOT or other regulatory agencies prior to commercial introduction. It is also possible that regulations in this space may diverge among jurisdictions, leading to increased compliance costs.
+We cannot provide assurance that certain of our products will not become obsolete or that we will be able to achieve the technological advances that may be necessary for us to remain competitive and maintain or increase our revenues in the future. We are also subject to the risks generally associated with new product introductions and applications, including lack of market acceptance, delays in product development or production and failure of products to operate properly. The pace of our development and introduction of new and improved products depends on our ability to implement successfully improved technological innovations in design, engineering and manufacturing, which requires extensive capital investment. Any capital expenditure cuts in these areas that we may determine to implement in the future to reduce costs and conserve cash could reduce our ability to develop and implement improved technological innovations, which may materially reduce demand for our products.
+To compete effectively in the automotive supply industry, we must be able to launch new products to meet changing consumer preferences and our customers’ demand in a timely and cost-effective manner. Our ability to respond to competitive
+
+19
+Table of Contents
+
+pressures and react quickly to other major changes in the marketplace, including the potential introduction of disruptive technologies such as autonomous driving solutions, increased gasoline prices, or consumer desire for and availability of vehicles with advanced driver assistance technologies or which use alternative fuels is also a risk to our future financial performance.
+We cannot provide assurance that we will be able to install and certify the equipment needed to produce products for new product programs in time for the start of production, or that the transitioning of our manufacturing facilities and resources to full production under new product programs will not impact production rates or other operational efficiency measures at our facilities. Development and manufacturing schedules are difficult to predict, and we cannot provide assurance that our customers will execute on schedule the launch of their new product programs, for which we might supply products. Our failure to successfully launch new products, or a failure by our customers to successfully launch new programs, could adversely affect our results.
+Changes in factors that impact the determination of our non-U.S. pension liabilities may adversely affect us.
+Certain of our non-U.S. subsidiaries sponsor defined benefit pension plans, which generally provide benefits based on negotiated amounts for each year of service. Our primary funded non-U.S. plans are located in Mexico and the United Kingdom and were underfunded by $521 million as of December 31, 2016. The funding requirements of these benefit plans, and the related expense reflected in our financial statements, are affected by several factors that are subject to an inherent degree of uncertainty and volatility, including governmental regulation. In addition to the defined benefit pension plans, we have retirement obligations driven by requirements in many of the countries in which we operate. These legally required plans require payments at the time benefits are due. Obligations, net of plan assets, related to the defined benefit pension plans and statutorily required retirement obligations totaled $925 million at December 31, 2016, of which $10 million is included in accrued liabilities, $923 million is included in long-term liabilities and $8 million is included in long-term assets in our consolidated balance sheet. Key assumptions used to value these benefit obligations and the cost of providing such benefits, funding requirements and expense recognition include the discount rate and the expected long-term rate of return on pension assets. If the actual trends in these factors are less favorable than our assumptions, this could have an adverse effect on our results of operations and financial condition.
+We may suffer future asset impairment and other restructuring charges, including write downs of long-lived assets, goodwill, or intangible assets.
+We have taken, are taking, and may take future restructuring actions to realign and resize our production capacity and cost structure to meet current and projected operational and market requirements. Charges related to these actions or any further restructuring actions may have a material adverse effect on our results of operations and financial condition. We cannot assure that any current or future restructuring will be completed as planned or achieve the desired results.
+Additionally, from time to time in the past, we have recorded asset impairment losses relating to specific plants and operations. Generally, we record asset impairment losses when we determine that our estimates of the future undiscounted cash flows from an operation will not be sufficient to recover the carrying value of that facility's building, fixed assets and production tooling. For goodwill, we perform a qualitative assessment of whether it is more likely than not that a reporting unit's value is less than its carrying amount. If the fair value of the reporting unit is less than its carrying amount, we compare its implied fair value of goodwill to its carrying amount. If the carrying amount of goodwill exceeds its implied fair value, the reporting unit would recognize an impairment loss for that excess. We cannot ensure that we will not incur such charges in the future as changes in economic or operating conditions impacting the estimates and assumptions could result in additional impairment.
+Employee strikes and labor-related disruptions involving us or one or more of our customers or suppliers may adversely affect our operations.
+Our business is labor-intensive and utilizes a number of work councils and other represented employees. A strike or other form of significant work disruption by our employees would likely have an adverse effect on our ability to operate our business. A labor dispute involving us or one or more of our customers or suppliers or that could otherwise affect our operations could reduce our sales and harm our profitability. A labor dispute involving another supplier to our customers that results in a slowdown or a closure of our customers’ assembly plants where our products are included in the assembled parts or vehicles could also adversely affect our business and harm our profitability. In addition, our inability or the inability of any of our customers, our suppliers or our customers’ suppliers to negotiate an extension of a collective bargaining agreement upon its expiration could reduce our sales and harm our profitability. Significant increases in labor costs as a result of the renegotiation of collective bargaining agreements could also adversely affect our business and harm our profitability.
+
+20
+Table of Contents
+
+We may lose or fail to attract and retain key salaried employees and management personnel.
+An important aspect of our competitiveness is our ability to attract and retain key salaried employees and management personnel. Our ability to do so is influenced by a variety of factors, including the compensation we award and the competitive market position of our overall compensation package. We may not be as successful as competitors at recruiting, assimilating and retaining highly skilled personnel. The loss of the services of any member of senior management or a key salaried employee could have an adverse effect on our business.
+We are exposed to foreign currency fluctuations as a result of our substantial global operations, which may affect our financial results.
+We have currency exposures related to buying, selling and financing in currencies other than the local currencies of the countries in which we operate. Approximately 64% of our net revenue for the year ended December 31, 2016 came from sales outside the United States, which were primarily invoiced in currencies other than the U.S. dollar, and we expect net revenue from non-U.S. markets to continue to represent a significant portion of our net revenue. Accordingly, significant changes in currency exchange rates, particularly the Euro, Chinese Yuan (Renminbi), British Pound and Brazilian Real, could cause fluctuations in the reported results of our businesses’ operations that could negatively affect our results of operations. Price increases caused by currency exchange rate fluctuations may make our products less competitive or have an adverse effect on our margins. Currency exchange rate fluctuations may also disrupt the business of our suppliers by making their purchases of raw materials more expensive and more difficult to finance.
+Historically, we have reduced our exposure by aligning our costs in the same currency as our revenues or, if that is impracticable, through financial instruments that provide offsets or limits to our exposures, which are opposite to the underlying transactions. However, any measures that we may implement to reduce the effect of volatile currencies and other risks of our global operations may not be effective.
+In addition, we have significant business in Europe and transact much of this business in the Euro currency, including sales and purchase contracts. Although not as prevalent currently, concerns over the stability of the Euro currency and the economic outlook for many European countries, including those that do not use the Euro as their currency, persist. Given the broad range of possible outcomes, it is difficult to fully assess the implications on our business. Some of the potential outcomes could significantly impact our operations. In the event of a country redenominating its currency away from the Euro, the potential impact could be material to operations. We cannot provide assurance that fluctuations in currency exposures will not have a material adverse effect on our financial condition or results of operations, or cause significant fluctuations in quarterly and annual results of operations.
+We face risks associated with doing business in non-U.S. jurisdictions.
+The majority of our manufacturing and distribution facilities are in countries outside of the U.S., including Mexico, China and other countries in Asia Pacific, Eastern and Western Europe, South America and Northern Africa. We also purchase raw materials and other supplies from many different countries around the world. For the year ended December 31, 2016, approximately 64% of our net revenue came from sales outside the United States. International operations are subject to certain risks inherent in doing business abroad, including:
+•
+exposure to local economic, political and labor conditions;
+•
+unexpected changes in laws, regulations, trade or monetary or fiscal policy, including interest rates, foreign currency exchange rates and changes in the rate of inflation in the U.S. and other foreign countries;
+•
+tariffs, quotas, customs and other import or export restrictions and other trade barriers;
+•
+expropriation and nationalization;
+•
+difficulty of enforcing agreements, collecting receivables and protecting assets through non-U.S. legal systems;
+•
+reduced intellectual property protection;
+•
+limitations on repatriation of earnings;
+•
+withholding and other taxes on remittances and other payments by subsidiaries;
+•
+investment restrictions or requirements;
+•
+export and import restrictions;
+•
+violence and civil unrest in local countries; and
+•
+compliance with the requirements of an increasing body of applicable anti-bribery laws, including the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act and similar laws of various other countries.
+
+21
+Table of Contents
+
+Additionally, our global operations may also be adversely affected by political events, domestic or international terrorist events and hostilities or complications due to natural or nuclear disasters. These uncertainties could have a material adverse effect on the continuity of our business and our results of operations and financial condition.
+Existing free trade laws and regulations, such as the North American Free Trade Agreement, provide certain beneficial duties and tariffs for qualifying imports and exports, subject to compliance with the applicable classification and other requirements. Changes in laws or policies governing the terms of foreign trade, and in particular increased trade restrictions, tariffs or taxes on imports from countries where we manufacture products, such as China and Mexico, could have a material adverse affect on our business and financial results.
+Increasing our manufacturing footprint in Asian markets, including China, and our business relationships with Asian automotive manufacturers are important elements of our long term strategy. In addition, our strategy includes increasing revenue and expanding our manufacturing footprint in lower-cost regions. As a result, our exposure to the risks described above may be greater in the future. The likelihood of such occurrences and their potential impact on us vary from country to country and are unpredictable.
+The results of the Referendum of the United Kingdom’s Membership of the European Union may adversely affect our business and profitability.
+The United Kingdom ("U.K.") held a referendum on June 23, 2016 in which a majority of voters approved an exit from the European Union ("E.U."), commonly referred to as "Brexit", which resulted in increased market volatility and currency exchange rate fluctuations. As a result of the referendum, the British government will begin negotiating the terms of the U.K.’s future relationship with the E.U. including, among other matters, the terms of trade between the U.K. and the E.U. Brexit could adversely affect European and worldwide economic and market conditions and could contribute to instability in global financial and foreign exchange markets, including increased volatility in interest rates and foreign exchange rates. The taxation policies of the U.K. and the E.U. nations in which we conduct business may also change as a result of the Brexit, which could adversely impact our tax positions. Delphi Automotive PLC is a U.K. resident taxpayer.
+Although we are actively monitoring the ongoing potential impacts of Brexit and will seek to minimize its impact on our business, any of these effects of Brexit, among others, could adversely affect our business, business opportunities, results of operations, financial condition and cash flows. Approximately 5% of our annual net sales are generated in the U.K., and approximately 3% are denominated in British pounds.
+If we fail to manage our growth effectively or to integrate successfully any new or future business ventures, acquisitions or strategic alliance into our business, our business could be materially adversely harmed.
+We expect to pursue business ventures, acquisitions, and strategic alliances that leverage our technology capabilities, enhance our customer base, geographic penetration and scale to complement our current businesses and we regularly evaluate potential opportunities, some of which could be material. While we believe that such transactions are an integral part of our long-term strategy, there are risks and uncertainties related to these activities. Assessing a potential growth opportunity involves extensive due diligence. However, the amount of information we can obtain about a potential growth opportunity may be limited, and we can give no assurance that new business ventures, acquisitions, and strategic alliances will positively affect our financial performance or will perform as planned. We may not be able to successfully assimilate or integrate companies that we acquire, including their personnel, financial systems, distribution, operations and general operating procedures. We may also encounter challenges in achieving appropriate internal control over financial reporting in connection with the integration of an acquired company. If we fail to assimilate or integrate acquired companies successfully, our business, reputation and operating results could be materially impacted. Likewise, our failure to integrate and manage acquired companies successfully may lead to future impairment of any associated goodwill and intangible asset balances.
+We depend on information technology to conduct our business. Any significant disruption could impact our business.
+Our ability to keep our business operating effectively depends on the functional and efficient operation of information technology and telecommunications systems. We rely on these systems to make a variety of day-to-day business decisions as well as to track transactions, billings, payments and inventory. Our systems, as well as those of our customers, suppliers, partners, and service providers, are susceptible to interruptions (including those caused by systems failures, cyber attack, malicious computer software (malware), and other natural or man-made incidents or disasters), which may be prolonged. We are also susceptible to security breaches that may go undetected. Although we have taken precautions to mitigate such events, including geographically diverse data centers, redundant infrastructure and the implementation of security measures, a significant or large-scale interruption of our information technology could adversely affect our ability to manage and keep our operations running efficiently and effectively. An incident that results in a wider or sustained disruption to our business could have a material adverse effect on our business, financial condition and results of operations.
+
+22
+Table of Contents
+
+Risks Related to Legal, Regulatory, Tax and Accounting Matters
+We may incur material losses and costs as a result of warranty claims, product recalls, product liability and intellectual property infringement actions that may be brought against us.
+We face an inherent business risk of exposure to warranty claims and product liability in the event that our products fail to perform as expected and, in the case of product liability, such failure of our products results in bodily injury and/or property damage. The fabrication of the products we manufacture is a complex and precise process. Our customers specify quality, performance and reliability standards. If flaws in either the design or manufacture of our products were to occur, we could experience a rate of failure in our products that could result in significant delays in shipment and product re-work or replacement costs. Although we engage in extensive product quality programs and processes, these may not be sufficient to avoid product failures, which could cause us to:
+•
+lose net revenue;
+•
+incur increased costs such as warranty expense and costs associated with customer support;
+•
+experience delays, cancellations or rescheduling of orders for our products;
+•
+experience increased product returns or discounts; or
+•
+damage our reputation,
+all of which could negatively affect our financial condition and results of operations.
+If any of our products are or are alleged to be defective, we may be required to participate in a recall involving such products. Each vehicle manufacturer has its own practices regarding product recalls and other product liability actions relating to its suppliers. However, as suppliers become more integrally involved in the vehicle design process and assume more of the vehicle assembly functions, OEMs continue to look to their suppliers for contribution when faced with recalls and product liability claims. A recall claim brought against us, or a product liability claim brought against us in excess of our available insurance, may have a material adverse effect on our business. OEMs also require their suppliers to guarantee or warrant their products and bear the costs of repair and replacement of such products under new vehicle warranties. Depending on the terms under which we supply products to a vehicle manufacturer, a vehicle manufacturer may attempt to hold us responsible for some or all of the repair or replacement costs of defective products under new vehicle warranties when the OEM asserts that the product supplied did not perform as warranted. Although we cannot assure that the future costs of warranty claims by our customers will not be material, we believe our established reserves are adequate to cover potential warranty settlements. Our warranty reserves are based on our best estimates of amounts necessary to settle future and existing claims. We regularly evaluate the level of these reserves and adjust them when appropriate. However, the final amounts determined to be due related to these matters could differ materially from our recorded estimates.
+In addition, as we adopt new technology, we face an inherent risk of exposure to the claims of others that we have allegedly violated their intellectual property rights. We cannot assure that we will not experience any material warranty, product liability or intellectual property claim losses in the future or that we will not incur significant costs to defend such claims.
+We may be adversely affected by laws or regulations, including environmental regulation, litigation or other liabilities.
+We are subject to various U.S. federal, state and local, and non-U.S., laws and regulations, including those related to environmental, health and safety, financial and other matters.
+We cannot predict the substance or impact of pending or future legislation or regulations, or the application thereof. The introduction of new laws or regulations or changes in existing laws or regulations, or the interpretations thereof, could increase the costs of doing business for us or our customers or suppliers or restrict our actions and adversely affect our financial condition, operating results and cash flows.
+We are subject to regulation governing, among other things:
+•
+the generation, storage, handling, use, transportation, presence of, or exposure to hazardous materials;
+•
+the emission and discharge of hazardous materials into the ground, air or water;
+•
+the incorporation of certain chemical substances into our products, including electronic equipment; and
+•
+the health and safety of our employees.
+We are also required to obtain permits from governmental authorities for certain operations. We cannot assure you that we have been or will be at all times in complete compliance with such laws, regulations and permits. If we violate or fail to comply with these laws, regulations or permits, we could be fined or otherwise sanctioned by regulators. We could also be held liable for any and all consequences arising out of human exposure to hazardous substances or other environmental damage.
+
+23
+Table of Contents
+
+Certain environmental laws impose liability, sometimes regardless of fault, for investigating or cleaning up contamination on or emanating from our currently or formerly owned, leased or operated property, as well as for damages to property or natural resources and for personal injury arising out of such contamination. Some of these environmental laws may also assess liability on persons who arrange for hazardous substances to be sent to third party disposal or treatment facilities when such facilities are found to be contaminated. At this time, we are involved in various stages of investigation and cleanup related to environmental remediation matters at a number of present and former facilities. The ultimate cost to us of site cleanups is difficult to predict given the uncertainties regarding the extent of the required cleanup, the potential for ongoing environmental monitoring and maintenance that could be required for many years, the interpretation of applicable laws and regulations, alternative cleanup methods, and potential agreements that could be reached with governmental and third parties. While we have environmental reserves of approximately $6 million at December 31, 2016 for the cleanup of presently-known environmental contamination conditions, it cannot be guaranteed that actual costs will not significantly exceed these reserves. We also could be named a potentially responsible party at additional sites in the future and the costs associated with such future sites may be material.
+In addition, environmental laws are complex, change frequently and have tended to become more stringent over time. While we have budgeted for future capital and operating expenditures to maintain compliance with environmental laws, we cannot assure that environmental laws will not change or become more stringent in the future. Therefore, we cannot assure that our costs of complying with current and future environmental and health and safety laws, and our liabilities arising from past or future releases of, or exposure to, hazardous substances will not adversely affect our business, results of operations or financial condition. For example, adoption of greenhouse gas rules in jurisdictions in which we operate facilities could require installation of emission controls, acquisition of emission credits, emission reductions, or other measures that could be costly, and could also impact utility rates and increase the amount we spend annually for energy.
+We may identify the need for additional environmental remediation or demolition obligations relating to facility divestiture, closure and decommissioning activities.
+As we sell, close and/or demolish facilities around the world, environmental investigations and assessments will continue to be performed. We may identify previously unknown environmental conditions or further delineate known conditions that may require remediation or additional costs related to demolition or decommissioning, such as abatement of asbestos containing materials or removal of polychlorinated biphenyls or storage tanks. Such costs could exceed our reserves.
+We are involved from time to time in legal proceedings and commercial or contractual disputes, which could have an adverse impact on our profitability and consolidated financial position.
+We are involved in legal proceedings and commercial or contractual disputes that, from time to time, are significant. These are typically claims that arise in the normal course of business including, without limitation, commercial or contractual disputes, including warranty claims and other disputes with customers and suppliers; intellectual property matters; personal injury claims; environmental issues; tax matters; and employment matters.
+In addition, we conduct significant business operations in Brazil that are subject to the Brazilian federal labor, social security, environmental, tax and customs laws as well as a variety of state and local laws. While we believe we comply with such laws, they are complex, subject to varying interpretations, and we are often engaged in litigation with government agencies regarding the application of these laws to particular circumstances. As of December 31, 2016, the majority of claims asserted against Delphi in Brazil relate to such litigation. The remaining claims relate to commercial and labor litigation with private parties in Brazil. As of December 31, 2016, claims totaling approximately $185 million (using December 31, 2016 foreign currency rates) have been asserted against Delphi in Brazil. As of December 31, 2016, we maintained reserves for these asserted claims of approximately $30 million (using December 31, 2016 foreign currency rates).
+While we believe our reserves are adequate, the final amounts required to resolve these matters could differ materially from our recorded estimates and our results of operations could be materially affected.
+For further information regarding our legal matters, see Item 3. Legal Proceedings. No assurance can be given that such proceedings and claims will not have a material adverse effect on our profitability and consolidated financial position.
+Developments or assertions by us or against us relating to intellectual property rights could materially impact our business.
+We own significant intellectual property, including a large number of patents and tradenames, and are involved in numerous licensing arrangements. Our intellectual property plays an important role in maintaining our competitive position in a number of the markets we serve. Developments or assertions by or against us relating to intellectual property rights could negatively impact our business. Significant technological developments by others also could materially and adversely affect our business and results of operations and financial condition.
+
+24
+Table of Contents
+
+Taxing authorities could challenge our historical and future tax positions.
+Our future effective tax rates could be affected by changes in the mix of earnings in countries with differing statutory rates and changes in tax laws or their interpretation including changes related to tax holidays or tax incentives. Our taxes could increase if certain tax holidays or incentives are not renewed upon expiration, or if tax rates or regimes applicable to us in such jurisdictions are otherwise increased.
+The amount of tax we pay is subject to our interpretation of applicable tax laws in the jurisdictions in which we file. We have taken and will continue to take tax positions based on our interpretation of such tax laws. In particular, we will seek to organize and operate ourselves in such a way that we are and remain tax resident in the United Kingdom. Additionally, in determining the adequacy of our provision for income taxes, we regularly assess the likelihood of adverse outcomes resulting from tax examinations. While it is often difficult to predict the final outcome or the timing of the resolution of a tax examination, our reserves for uncertain tax benefits reflect the outcome of tax positions that are more likely than not to occur. While we believe that we have complied with all applicable tax laws, there can be no assurance that a taxing authority will not have a different interpretation of the law and assess us with additional taxes. Should additional taxes be assessed, this may result in a material adverse effect on our results of operations and financial condition.
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+We have no unresolved SEC staff comments to report.
+
+ITEM 2. PROPERTIES
+As of December 31, 2016, we owned or leased 126 major manufacturing sites and 15 major technical centers. A manufacturing site may include multiple plants and may be wholly or partially owned or leased. We also have many smaller manufacturing sites, sales offices, warehouses, engineering centers, joint ventures and other investments strategically located throughout the world. We have a presence in 46 countries. The following table shows the regional distribution of our major manufacturing sites by the operating segment that uses such facilities:
+ 
+North America
+ 
+Europe,
+Middle East
+& Africa
+ 
+Asia Pacific
+ 
+South America
+ 
+Total
+Electrical/Electronic Architecture
+32
+
+ 
+34
+
+ 
+25
+
+ 
+5
+
+ 
+96
+
+Powertrain Systems
+4
+
+ 
+8
+
+ 
+5
+
+ 
+1
+
+ 
+18
+
+Electronics and Safety
+3
+
+ 
+6
+
+ 
+3
+
+ 
+—
+
+ 
+12
+
+Total
+39
+
+ 
+48
+
+ 
+33
+
+ 
+6
+
+ 
+126
+
+In addition to these manufacturing sites, we had 15 major technical centers: five in North America; five in Europe, Middle East and Africa; four in Asia Pacific; and one in South America.
+Of our 126 major manufacturing sites and 15 major technical centers, which include facilities owned or leased by our consolidated subsidiaries, 75 are primarily owned and 66 are primarily leased.
+We frequently review our real estate portfolio and develop footprint strategies to support our customers’ global plans, while at the same time supporting our technical needs and controlling operating expenses. We believe our evolving portfolio will meet current and anticipated future needs.
+
+ITEM 3. LEGAL PROCEEDINGS
+We are from time to time subject to various actions, claims, suits, government investigations, and other proceedings incidental to our business, including those arising out of alleged defects, breach of contracts, competition and antitrust matters, product warranties, intellectual property matters, personal injury claims and employment-related matters. It is our opinion that the outcome of such matters will not have a material adverse impact on our consolidated financial position, results of operations, or cash flows. With respect to warranty matters, although we cannot ensure that the future costs of warranty claims by customers will not be material, we believe our established reserves are adequate to cover potential warranty settlements. However, the final amounts required to resolve these matters could differ materially from our recorded estimates.
+
+25
+Table of Contents
+
+Unsecured Creditors Litigation
+Delphi has been subject to ongoing litigation related to general unsecured claims against the former Delphi Corporation, now known as DPHH, resulting from that entity's 2005 bankruptcy filing. The Fourth Amended and Restated Limited Liability Partnership Agreement of Delphi Automotive LLP (the “Fourth LLP Agreement”) was entered into on July 12, 2011 by the members of Delphi Automotive LLP in order to position the Company for its initial public offering. Under the terms of the Fourth LLP Agreement, if cumulative distributions to the members of Delphi Automotive LLP under certain provisions of the Fourth LLP Agreement exceed $7.2 billion, Delphi, as disbursing agent on behalf of DPHH, is required to pay to the holders of allowed general unsecured claims against DPHH, $32.50 for every $67.50 in excess of $7.2 billion distributed to the members, up to a maximum amount of $300 million. In December 2014, a complaint was filed in the United States Bankruptcy Court for the Southern District of New York (the "Bankruptcy Court") alleging that the 2011 redemption by Delphi Automotive LLP of the membership interests of GM and the Pension Benefit Guaranty Corporation (the "PBGC") totaling $4.4 billion, and the subsequent repurchase of shares and payment of dividends by Delphi Automotive PLC, constituted distributions under the terms of the Fourth LLP Agreement approximating $7.2 billion, triggering the maximum $300 million distribution to the holders of general unsecured claims.
+In May 2016, the Bankruptcy Court initially denied both parties' motions for summary judgment, requiring further submissions to the Bankruptcy Court regarding the parties' intent with respect to the redemptions of the GM and PBGC membership interests. On January 12, 2017, the Bankruptcy Court granted summary judgment in favor of the plaintiffs, ruling that the membership interest redemption payments qualified as distributions, which, along with share repurchases and dividend payments made by Delphi, count toward the $7.2 billion threshold, and thus the $300 million maximum distribution for general unsecured claims has been triggered. The Bankruptcy Court will rule on the application of pre-judgment interest at a future date.
+In connection with the ruling, the Company recorded a reserve of $300 million in the fourth quarter of 2016. The reserve was recorded to other expense in the consolidated statement of operations, and resulted in a corresponding reduction in earnings per diluted share of approximately $1.10 for the year ended December 31, 2016. However, Delphi continues to consider cumulative distributions through December 31, 2016 to be substantially below the $7.2 billion threshold, and intends to vigorously contest the ruling through the appeals process. Delphi filed a notice of appeal on January 26, 2017.
+Brazil Matters
+Delphi conducts business operations in Brazil that are subject to the Brazilian federal labor, social security, environmental, tax and customs laws, as well as a variety of state and local laws. While Delphi believes it complies with such laws, they are complex, subject to varying interpretations, and the Company is often engaged in litigation with government agencies regarding the application of these laws to particular circumstances. As of December 31, 2016, the majority of claims asserted against Delphi in Brazil relate to such litigation. The remaining claims in Brazil relate to commercial and labor litigation with private parties. As of December 31, 2016, claims totaling approximately $185 million (using December 31, 2016 foreign currency rates) have been asserted against Delphi in Brazil. As of December 31, 2016, the Company maintains accruals for these asserted claims of $30 million (using December 31, 2016 foreign currency rates). The amounts accrued represent claims that are deemed probable of loss and are reasonably estimable based on the Company’s analyses and assessment of the asserted claims and prior experience with similar matters. While the Company believes its accruals are adequate, the final amounts required to resolve these matters could differ materially from the Company’s recorded estimates and Delphi’s results of operations could be materially affected. The Company estimates the reasonably possible loss in excess of the amounts accrued related to these claims to be zero to $155 million.

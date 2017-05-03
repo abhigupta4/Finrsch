@@ -1,0 +1,715 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+Form 10-K
+ANNUAL REPORT PURSUANT TO SECTIONS 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+(Mark One)
+x
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the fiscal year ended September 30, 2016
+or
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the transition period from                      to                     .
+Commission File Number 000-26041
+ 
+F5 Networks, Inc.
+(Exact name of Registrant as specified in its charter)
+ 
+WASHINGTON
+ 
+91-1714307
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(I.R.S. Employer
+Identification No.)
+401 Elliott Ave West
+Seattle, Washington 98119
+(Address of principal executive offices)
+(206) 272-5555
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+Title of Each Class
+ 
+Name of Each Exchange on Which Registered
+Common stock, no par value
+ 
+NASDAQ Global Select Market
+Securities registered pursuant to Section 12(g) of the Act:
+None 
+ 
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes  x    No  ¨
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes  ¨    No  x
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  x    No  ¨
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes  x    No  ¨
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of the Registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.    ¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act. (Check one):
+Large accelerated filer  x
+ 
+ 
+ 
+Accelerated filer  ¨
+Non-accelerated filer    ¨
+ 
+(Do not check if a smaller reporting company)
+ 
+Smaller reporting company  ¨
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ¨    No  x
+As of March 31, 2016, the aggregate market value of the Registrant’s Common Stock held by non-affiliates of the Registrant was $7,074,870,573 based on the closing sales price of the Registrant’s Common Stock on the NASDAQ Global Select Market on that date.
+As of October 28, 2016, the number of shares of the Registrant’s common stock outstanding was 65,316,007.
+ 
+ 
+DOCUMENTS INCORPORATED BY REFERENCE
+Information required in response to Part III of this Form 10-K (Items 10, 11, 12, 13 and 14) is hereby incorporated by reference to the specified portions of the Registrant’s Definitive Proxy Statement for the Annual Shareholders Meeting for fiscal year 2016, which Definitive Proxy Statement shall be filed with the Securities and Exchange Commission pursuant to Regulation 14A within 120 days of the end of the fiscal year to which this Report relates.
+
+
+Table of Contents
+
+F5 NETWORKS, INC.
+ANNUAL REPORT ON FORM 10-K
+For the Fiscal Year Ended September 30, 2016
+Table of Contents
+ 
+ 
+ 
+Page
+PART I
+ 
+ 
+ 
+Item 1.
+Business
+3
+Item 1A.
+Risk Factors
+15
+Item 1B.
+Unresolved Staff Comments
+27
+Item 2.
+Properties
+27
+Item 3.
+Legal Proceedings
+27
+Item 4.
+Mine Safety Disclosures
+27
+ 
+PART II
+ 
+ 
+ 
+Item 5.
+Market For Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+28
+Item 6.
+Selected Financial Data
+31
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+32
+Item 7A.
+Quantitative and Qualitative Disclosure About Market Risk
+43
+Item 8.
+Financial Statements and Supplementary Data
+44
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+72
+Item 9A.
+Controls and Procedures
+72
+Item 9B.
+Other Information
+73
+ 
+PART III
+ 
+ 
+ 
+Item 10.
+Directors, Executive Officers and Corporate Governance
+74
+Item 11.
+Executive Compensation
+74
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+74
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+74
+Item 14.
+Principal Accountant Fees and Services
+74
+ 
+PART IV
+ 
+ 
+ 
+Item 15.
+Exhibits and Financial Statement Schedules
+75
+SIGNATURES
+76
+
+
+2
+Table of Contents
+
+Trademarks and Tradenames
+3DNS, Access Policy Manager, Acopia, Acopia Networks, Advanced Client Authentication, Advanced Routing, AAM, Application Acceleration Manager, AFM, Advanced Firewall Manager, APM, Application Security Manager, Applications without Constraints, ARX, AskF5, ASM, BIG-IP, BIG-IP EDGE GATEWAY, BIG-IQ, Cloud Extender, CloudFucious, Clustered Multiprocessing, CMP, COHESION, Data Manager, Defense.Net, defense.net [DESIGN], DevCentral, DevCentral [DESIGN], DSI, DNS Express, DSC, Edge Client, Edge Gateway, Edge Portal, ELEVATE, EM, Enterprise Manager, ENGAGE, F5, F5 [DESIGN], F5 Agility, F5 Certified [DESIGN], F5 Labs, F5 Labs [DESIGN], F5 Management Pack, F5 Networks, F5 Synthesis, f5 Synthesis, F5 TMOS, F5 World, Fast Application Proxy, Fast Cache, FirePass, Global Traffic Manager, GTM, GUARDIAN, IBR, Intelligent Browser Referencing, iCall, Intelligent Compression, IPv6 Gateway, iApps, iControl, iHealth, iQuery, iRules, iRules OnDemand, iSession, iWorkflow, L7 Rate Shaping, LC, LineRate, LineRate [DESIGN],  LROS, LineRate Operating System, LineRate Point, LineRate Precision, Link Controller, Local Traffic Manager, LTM, Message Security Manager, MobileSafe, MSM, Netcelera, OneConnect, Packet Velocity, Protocol Security Manager, PSM, Policy Enforcement Manager, PEM, Point Load Balancer, Ready Defense, Real Traffic Policy Builder, SAM, ScaleN, Secure Access Manager, Signaling Delivery Controller, SDC, Solutions for an application world, Software Defined Application Services, SDAS, SalesXchange, SalesXchange [DESIGN], Silverline, SSL Acceleration, SSL Everywhere, SSL Orchestrator, StrongBox, SuperVIP, SYN Check, Synthesis, Synthesis [DESIGN], TCP Express, TechXchange, TechXchange [DESIGN], TotALL, TDR, TMOS, Traffic Management Operating System, TrafficShield, Traffix, Traffix [DESIGN], Transparent Data Reduction, UNITY, VAULT, VE F5 [DESIGN], Versafe, Versafe [DESIGN], VIPRION, vCMP, Virtual Clustered Multiprocessing, WA, WAN Optimization Manager, WAN Optimization Module, WANJet, WebAccelerator, WebSafe, WOM, and ZoneRunner are trademarks or service marks of F5 Networks, Inc., or its subsidiaries in the U.S. and other countries. Any other trademarks, service marks and/or trade names appearing in this document are the property of their respective owners.
+Unless the context otherwise requires, in this Annual Report on Form 10-K, the terms “F5 Networks,” “the Company,” “we,” “us,” and “our” refer to F5 Networks, Inc. and its subsidiaries. Our fiscal year ends on September 30, and fiscal years are referred to by the calendar year in which they end. For example, “fiscal year 2016” and “fiscal 2016” refer to the fiscal year ended September 30, 2016.
+Forward-Looking Statements
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934 and Section 27A of the Securities Act of 1933. These statements include, but are not limited to, statements about our plans, objectives, expectations, strategies, intentions or other characterizations of future events or circumstances and are generally identified by the words “expects,” “anticipates,” “intends,” “plans,” “believes,” “seeks,” “estimates,” and similar expressions. These forward-looking statements are based on current information and expectations and are subject to a number of risks and uncertainties. Our actual results could differ materially and adversely from those expressed or implied by these forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed under “Item 1A. Risk Factors” below and in other documents we file from time to time with the Securities and Exchange Commission. We assume no obligation to revise or update any such forward-looking statements.
+
+Item 1.
+Business
+General
+F5 Networks is the leading developer and provider of software defined application services designed to ensure that applications delivered over Internet Protocol (IP) networks are secure, fast and available to any user, anywhere, anytime, on any device. Our core technology is a full-proxy, programmable, massively-scalable software platform called TMOS (Traffic Management Operating System).
+Introduced in 2004, the TMOS platform supports the industry’s broadest array of application services, including local and global traffic management, network and application security, access management, web acceleration and a number of other network and application services. These services are available as software modules that can run individually or as part of an integrated solution on our high-performance, scalable, purpose-built BIG-IP appliances and chassis-based VIPRION systems; or as software-only Virtual Editions that run on major hypervisors in public and private clouds. Our cloud-based Silverline software-as-a-service (SaaS) offerings allow customers to subscribe to online denial-of-service protection and application security services. In conjunction with our BIG-IQ management software, the availability of our application services as software on our purpose-built hardware, software-only and Silverline subscription services gives customers the flexibility to create a dynamic hybrid infrastructure with consistent policies and centralized management across public and private clouds as well as traditional data centers.
+
+3
+Table of Contents
+
+The core features and functions of TMOS enable our products to inspect and modify the content of IP traffic flows at network speeds and sessions between users and applications and support a broad and growing array of services. iRules, a built-in scripting language, enables customers and third parties to write customized rules to inspect and modify traffic. TMOS also has an open software interface called iControl, which allows our products to communicate with one another and with third-party products; a set of powerful features called iApps that speed deployment of our services and give users an application-centric view of how applications are managed and delivered; and a scripting framework called iCall that lets users configure their F5 devices inline.
+The majority of our revenue today is derived from sales of BIG-IP and VIPRION products. Our hardware products include our BIG-IP family of appliances and our scalable VIPRION systems, and a new line of security appliances. These purpose-built devices integrate industry-standard components, such as Intel based general-purpose processors, high performance cryptographic offload components, and FPGAs (Field-Programmable Gate Arrays). The architecture of these systems is designed to accelerate and optimize the performance of our software by offloading repetitive, compute-intensive functions such as encryption and compression to specific components, and enabling complex application-layer processing at network speed. Typically deployed in front of web and application servers, our hardware products deliver massive performance and scalability that enable customers to consolidate multiple application services on a single device. This consolidation reduces their total cost of ownership and helps drive down operating costs by simplifying the management of servers and applications.
+As information technology architecture continues to evolve, there is growing demand for software-only application services that can be deployed in virtual environments next to each instance of an application. Our Virtual Edition (VE) products are software-only versions of the same application delivery services we sell as modules on our purpose-built hardware. Designed to run on all standard hypervisors, they are portable across major cloud environments, deliver faster throughput than competing products, and offer the broadest array of integrated application services available. While VEs have lower performance than our hardware-based solutions, they give customers the flexibility to deploy a mix of integrated application services as needed, spin them up and down with each instance of an application, and move them easily between traditional data centers and private or public clouds.
+Whether they are deployed as VEs or as modules on our purpose-built hardware, all of our application delivery services can be centrally managed from our BIG-IQ management platform.
+
+In addition to our VEs and hardware-based solutions, our cloud-based Silverline SaaS platform gives customers the option to subscribe to enterprise-grade application delivery services available online. Current Silverline services include DDoS protection and application security. Subscriptions include 24/7 access to our Security Operations Center (SOC) support teams.
+Our products also include our Traffix solutions for Diameter signaling and routing, load balancing and gateway connectivity, designed to enable service providers to meet the multiple challenges associated with the growth of mobile data.
+In connection with our products, we offer a broad range of services including consulting, training, installation, maintenance and other technical support services.
+F5 Networks was incorporated on February 26, 1996 in the State of Washington. Our headquarters is in Seattle, Washington, and our mailing address is 401 Elliott Avenue West, Seattle, Washington 98119. The telephone number at our executive offices is (206) 272-5555. We have subsidiaries or branch offices in Argentina, Australia, Belgium, Brazil, the British Virgin Islands, Canada, Chile, China, Colombia, Croatia, Finland, France, Germany, Hong Kong, India, Israel, Italy, Japan, Kingdom of Saudi Arabia, Malaysia, Mexico, Netherlands, New Zealand, Norway, Poland, Russia, Singapore, South Africa, South Korea, Spain, Sweden, Taiwan, Turkey, the United Arab Emirates and the United Kingdom. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those reports are available free of charge on our website, www.f5.com, as soon as reasonably practicable after they are electronically filed with the Securities and Exchange Commission. Copies of these filings may also be obtained by visiting the Public Reference Room of the SEC at 100 F Street, NE, Washington, D.C. 20549, or by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains a website (www.sec.gov) that contains current, quarterly and annual reports, proxy and information statements and other information regarding issuers that file electronically.
+
+4
+Table of Contents
+
+Industry Background
+Growth and Evolution of IP-Based Infrastructures
+Internet Protocol (IP) is a communications language used to deliver applications and data over the Internet. For more than two decades, large business and government organizations have been gradually replacing older data center architectures with IP-based infrastructures, deploying new IP-based applications and replacing or upgrading legacy applications with new IP-enabled versions. This trend has been accompanied by the proliferation of mobile devices such as smartphones, tablets and laptops that allow users to access data and applications from almost anywhere. At the same time, virtualization of data centers and networks and the emergence of public clouds have given rise to dynamic hybrid infrastructures where applications are increasingly hosted off-premise as well as in traditional data centers and can move freely between locations as demand or other circumstances require.
+Emergence of the Dynamic Data Center and Hybrid IT Infrastructures
+From a broad perspective, the goal of IT organizations is to optimize the secure delivery of applications to users wherever they are and whenever they need them, regardless of where those applications exist. Server virtualization has enabled organizations to group or partition data center resources to meet user demand and reconfigure these virtual resources easily and quickly as demand changes. More recently, Software Defined Networks (SDN) offer organizations ways to reduce costs, increase the flexibility, and simplify the deployment and management of IT infrastructure through network virtualization. Many organizations are also taking advantage of the growing availability of external private and public cloud resources as a flexible, secure and reliable alternative to owning and managing everything themselves. As a result, IT infrastructure has become increasingly dynamic, complex and reliant on IP-based networks for the delivery of applications and data.
+At the same time, these changes have created new challenges to the security of IP networks and the applications and data accessible over the Internet. With increasing frequency, sophisticated denial-of-service attacks have exposed a major vulnerability in the security perimeter of corporate networks by overwhelming firewalls and effectively shutting down the networks. In addition, many network-level security threats are directly related to the improper use of the same protocols applications depend on to transmit data. Intrusion detection and prevention devices, which rely on signature databases of known threats, afford some protection against these types of attack. However, they offer no protection against many of the most common threats, including information leakage, content spoofing, cross-site request forgery or “day zero” attacks designed to exploit a variety of application vulnerabilities.
+In addition to preventing the threat of attacks designed to disrupt, destroy or block access to network applications, organizations are faced with the equally daunting challenge of controlling access to applications and data. The proliferation of mobile devices has given users with smart phones, tablets, and laptops the ability to access corporate private and public data centers from virtually anywhere. This, in turn, has increased the difficulty of ensuring that mobile users are able to access applications and data for which they are authorized, and that applications and data are protected from access by unauthorized users.
+Need to Optimize the Secure Delivery of Applications and Data
+With the ongoing evolution and increasing complexity of IT infrastructures, there is a growing need to optimize the secure delivery of applications and data over IP networks. IP-based traffic passing between end-user devices and servers is divided into discrete packets that travel by multiple routes to their destination where they are reassembled. The disassembly, routing, and reassembly of transmissions are relatively straightforward and require little intelligence. By contrast, managing, inspecting, modifying, redirecting and securing application traffic going to and from servers requires intelligent systems capable of performing an expanding array of functions. Broadly speaking, all of those functions are aspects of application delivery.
+Application Delivery Services dynamically manage, secure and optimize the flow of traffic between users and servers (physical or virtual), freeing up other resources by offloading common network functions, such as encryption, IPv4/IPv6 translation, compression, authentication, rate-shaping, and a variety of specialized functions, including network and application security services, policy management, and WAN optimization, that would otherwise have to be coded into applications. Since most large enterprises have hundreds — if not thousands — of applications, it isn't practical to replicate these functions within each instance of an application and maintain consistent policies across a broad spectrum of different applications. In traditional data centers, it has been common practice to deploy an array of point products in front of server farms to provide various services, but that typically requires integrating, maintaining and upgrading disparate technologies from different vendors, a process that is time-consuming and expensive in terms of both capital and operating costs. From a security standpoint, it is also much more difficult to audit traffic passing through multiple devices. In such environments, a more practical and efficient solution is a comprehensive set of integrated application delivery services on a single, high-performance device. In virtual and
+
+5
+Table of Contents
+
+cloud environments where flexibility is a priority, software designed to run on standard hypervisors provides the same services and many of the benefits associated with hardware-based solutions.
+Although application delivery services are broadly applicable within enterprise and service provider IT infrastructures, service providers face unique challenges as they attempt to modernize and scale their networks to deal with the flood of data generated by smart phones, tablets, wearables and other mobile devices. To cope with these challenges, service providers are migrating legacy 2G/3G infrastructures to 4G/LTE networks and Evolved Packet Core (EPC) data centers that require an array of network and application services. Today, most of those services are deployed on separate appliances from different vendors, and service providers are actively seeking solutions that will enable them to lower costs and improve reliability and performance by consolidating services and reducing the number of devices. Increasingly, they are also demanding software solutions designed to run on commodity hardware that can be repurposed as needed. To cope with the dramatic increase in signaling traffic associated with 4G/LTE networks, the challenges of migrating legacy infrastructure, and the need to integrate charging and enforcement functions with subscriber data, service providers have also adopted the Diameter signaling protocol as the de facto standard for communication within their evolving data centers.
+F5’s Strategy
+Our goal is to lead the industry in providing IP network services that ensure the safe, fast and reliable delivery of applications to any user, anywhere, anytime regardless of a user's location or where the application resides. These services include availability, security, performance, mobility, and identity. They also include managing and orchestrating resources, as well as coordinating services across multiple data centers, networks and cloud-based resources. Our products are designed to be strategic points of control in the IT infrastructure that allow business policies to be implemented where information is exchanged. Key components of our strategy include:
+Offering a complete, integrated suite of application services.
+Since the introduction of TMOS, we have developed TMOS-based versions of our own legacy products, such as Local Traffic Manager (LTM), BIG-IP DNS and Link Controller; new products, such as Advanced Firewall Manager (AFM), Carrier Grade Network Address Translation (CGNAT) and Policy Enforcement Manager (PEM); and products that incorporate acquired technology, including Application Security Manager (ASM), Application Acceleration Manager (AAM), Access Policy Manager (APM) and our end-user protection services, WebSafe and MobileSafe. All of these products are currently available as integrated software modules on our BIG-IP and VIPRION hardware and as Virtual Editions that run on any standard hypervisor. Recently, we introduced our first stand-alone security appliances, DDoS Hybrid Defender and SSL Orchestrator. In addition, we offer online DDoS protection and application security as subscription services on our cloud-based Silverline SaaS platform. Regardless whether these services are deployed as software-only solutions or as modules running on our purpose-built hardware, our BIG-IQ management platform allows customers to apply and update consistent policies across all of their F5 services from a centralized resource. We believe this approach addresses the needs of today's evolving hybrid infrastructures and sharply differentiates our products from our competitors’ offerings.
+Investing in technology to meet evolving customer needs.
+We meet with our customers often, and we host an annual invitational customer advisory board to ensure that our development efforts are aligned with their needs. We continue to invest in research and development efforts that leverage the unique attributes of our TMOS platform to deliver new features and functions that address the complex, changing needs of our customers. Although the bulk of our investment is software development, concurrent development of tightly integrated hardware that delivers consistent, guaranteed high-performance is a key part of our investment strategy. We also look for opportunities to acquire technologies that will enable us to broaden the scope of our offerings and expand into adjacent markets.
+
+6
+Table of Contents
+
+Expanding our addressable market.
+Since the introduction of TMOS, we have continually expanded our addressable market and the definition of application delivery through the acquisition and development of new technology. In 2003, for example, we entered the market for secure remote access through the acquisition of uRoam, Inc. and its FirePass SSL VPN technology that has become the core of our current Access Policy Manager (APM) offering. The following year we entered the web application firewall market with the acquisition of Magnifire Websystems, Inc. and its TrafficShield security appliance, which became the foundation of our Application Security Manager (ASM). In 2013, we introduced Advanced Firewall Manager (AFM), our network firewall. In 2013, we also continued to expand our security offerings with the acquisition of Versafe, a provider of web anti-fraud, anti-phishing, and anti-malware solutions, and in 2014 we acquired Defense.Net, a cloud-based DDoS protection service that complements our on-premise DDoS solution and is currently available on our Silverline SaaS platform. During fiscal year 2016, we added new standalone security appliances, DDoS Defender and SSL Orchestrator, to our family of security products. These products are all integral components of our comprehensive Security offering and tightly integrated with LTM and the other features and functions available on our products. As a result of this strategy and our development and acquisition of technology in other related markets such as WAN optimization, Java Script programming, and Diameter signaling and routing, we believe our current addressable market is significantly broader and more diverse than the ADC market as industry analysts have traditionally defined it.
+Continuing to build and expand relationships with strategic technology partners.
+Early on, we developed strategic technology partnerships with enterprise software vendors, such as Microsoft, Oracle, VMware and others, who had an established presence in large enterprises. By taking advantage of iControl, our open application programming interface, and iCall, a scripting framework that provides the ability to define data plane events such as threshold breaches and adjust the behavior of our products accordingly, these vendors were able to equip their applications to control our products in the network, enhancing overall application performance. In return, they provided us significant leverage in the selling process by recommending our products to their customers. More recently, we have worked closely with several of these vendors to develop configurations of our products, called iApps, that are specifically designed to simplify deployment and optimize the performance of their applications. These solutions are available as templates which allow quick and easy configuration of our products for specific applications.
+Within the past two years, we have developed partnerships with Cisco, HP, Microsoft and VMware to provide integrated application services for their Software Defined Networking (SDN) offerings. In addition, we have established partnerships with Amazon AWS, Microsoft Azure, VMware vCloud Air, Cisco ACI and many others to provide cloud-based application services and solutions. We plan to continue building on our existing relationships and to extend our competitive edge by developing new strategic partnerships with other technology leaders.
+Leveraging DevCentral, our online community of network architects and developers.
+Customization of our TMOS-based products using iRules enhances their “stickiness” by allowing customers to solve problems in both their applications and their networks that would be difficult if not impossible to solve by other means. To promote the use of iRules, we host an online community, DevCentral, where customers and partners discuss and share the ways in which they use iRules to solve problems and enhance the security, performance and availability of applications. A corollary benefit is that many of the iRules solutions posted by DevCentral participants have become standard features in new releases of TMOS. DevCentral also provides a valuable window into our customers’ constantly evolving needs that guide our product development.
+F5 Solutions
+Our integrated family of TMOS-based application services are available as software modules on our purpose-built hardware, as software-only Virtual Editions, or VEs, that run on standard hypervisors, and as online services on our Silverline SaaS platform. These products function as strategic points of control in IP networks, inspecting, modifying and directing traffic to optimize the security, availability and delivery of applications and data to any user, anywhere, anytime and on any device. Our Traffix Diameter signaling and routing solutions address the complex needs of service providers and complement our TMOS-based products by enabling fast, reliable communications among the elements of their legacy infrastructures and their evolving packet-based 4G/LTE networks and data centers. We believe our products offer the most intelligent services and advanced functionality in the marketplace along with performance and flexibility that enable organizations to simplify management of their IP networks and data center operations by integrating disparate resources to reduce operating costs, enhance productivity and improve service to employees, customers and partners.
+Since 2004 we have expanded the breadth of features and functionality we offer well beyond the scope of application delivery networking as it has been traditionally defined. Today, we also offer solutions that include application security, secure
+
+7
+Table of Contents
+
+remote access, firewall protection, WAN optimization, access policy management, carrier grade network address translation, Diameter signaling policy enforcement, and fraud detection, opening up large opportunities in several adjacent markets.
+Software
+The core of our application delivery technology is TMOS, our Traffic Management Operating System, introduced in September 2004. The full-proxy characteristics of the TMOS architecture enable our products to intercept, inspect and act on the contents of traffic from virtually every type of IP-enabled application. In addition, the modularity of the TMOS architecture allows us to deliver tightly integrated solutions that secure, optimize and ensure the availability of applications and the networks they run on.
+Traffic Management Operating System (TMOS)
+Since TMOS was launched, we have added thousands of new features designed to interpret and act on specific content in the traffic passing between users and applications. TMOS includes several features and functions that are unique to our products:
+•
+iApps is a set of portable, customizable, reusable templates that enable the rapid and predictable deployment of our products in front of dozens of applications from vendors including Cisco, Citrix, Microsoft, Oracle and VMware. iApps also allows customers and partners to create templates that simplify the deployment and provisioning of their own applications.
+•
+iCall is a control plane scripting framework that provides the ability to define data plane events such as threshold breaches and adjust the behavior of our products accordingly. iCall enables administrators to react to specified data plane events by executing services on the management plane. It can also be used periodically to manage backups or repopulate DNS, or to provide regularly scheduled services such as configuration audits.
+•
+iRules is a powerful, built-in scripting language that enables users to customize how our products intercept, inspect, transform, and direct inbound or outbound application traffic.
+•
+ScaleN is a set of three unique capabilities that enhance the flexibility of our products:
+◦
+Clustered Multiprocessing (CMP) allows customers to cluster and aggregate processors (cores) within BIG-IP appliances or VIPRION chassis products.
+◦
+Virtual Clustered Multiprocessing (vCMP) enables the creation of separate virtual instances of TMOS within an appliance or chassis, each with a different configuration and assigned to a different application.
+◦
+Device Service Clustering (DSC) gives customers the ability to group devices and services across an array of physical and virtual devices (BIG-IP appliances, VIPRION chassis, or Virtual Editions). Devices can be added to or removed from a DSC without disrupting application services, and application services can be independently managed within the cluster.
+TMOS includes features that enhance the ability of our products to protect and hide networks and applications from denial-of-service attacks and other types of security threats. Other enhancements include gateway support for software defined networks (SDN), symmetrical and asymmetrical application acceleration, subscriber and application aware enforcement for service providers, management and orchestration of multiple devices, and improved visibility that allows customers to monitor and record the performance of applications and users. The latest release of TMOS (BIG-IP 12.1) delivers leading application services with enhanced public cloud integration and more sophisticated security policies for on-premises and hybrid cloud environments. Enhancements in iRules LX enable programmability across traditional, cloud, and hybrid architectures and leverage an extensive Node.js library that allows DevOps teams to create customized services quickly and easily.
+Software Modules and Virtual Editions
+The features and functions embedded in TMOS support a family of integrated software services that cover a broad range of application-aware network functions from load-balancing to security. These services are available as software modules designed to run on our purpose-built hardware and as software only Virtual Editions designed to run on any standard hypervisor.
+•
+Local Traffic Manager (LTM) provides intelligent load-balancing, traffic management and application health checking.
+•
+BIG-IP DNS (DNS) improves the performance and availability of global applications by intelligently directing users to the closest or best-performing physical, virtual, or cloud environment. In addition, it enhances DNS security by automatically scaling to absorb a rapid increase in queries resulting from a denial-of-service attack and mitigates complex threats from malware and viruses by blocking access to malicious IP domains.
+
+8
+Table of Contents
+
+•
+Link Controller: For organizations with more than one Internet Service Provider (ISP), Link Controller monitors the health and availability of each connection. In the event of a failure, traffic is dynamically directed across other available links so users and external customers stay connected. Link Controller includes an optional compression feature that reduces WAN link bandwidth for lower ISP costs and cuts down on bandwidth bottlenecks for faster application delivery.
+•
+Advanced Firewall Manager (AFM) is a high-performance network firewall designed to ensure that traffic isn’t interrupted even under the most intense attacks. AFM scales to support millions of concurrent connections per second and uses the flexibility of iRules, sophisticated filtering, immediate blacklisting, and over a hundred built-in threat vectors to identify and mitigate DDoS attacks. We also offer a carrier-class version of AFM designed to meet the rigorous requirements of an S/Gi firewall in service provider networks.
+•
+Application Security Manager (ASM) is a web application firewall that provides comprehensive, proactive, application-layer protection against both generalized and targeted attacks. Combining a positive security model (“deny all unless allowed”) with signature-based detection, ASM can prevent “day-zero” attacks in addition to known security threats.
+•
+Access Policy Manager (APM) provides secure, granular, context-aware access to networks and applications while simplifying authentication, authorization, and accounting (AAA) management. Our endpoint security service validates client devices, including personal devices used by employees to access corporate applications and data, to protect organizations from viruses or malware infections, accidental data loss, and rogue device access. This allows users to apply repeatable access policies across many devices, networks, applications and servers with centralized visibility of their authorization infrastructure.
+•
+Carrier-Grade Network Address Translation (CGNAT) offers a broad set of tools that enables service providers to successfully migrate to IPv6 while continuing to support and interoperate with existing IPv4 devices and content. BIG-IP CGNAT offers service providers tunneling solutions with Dual-Stack Lite capabilities as well as native network address translation solutions such as NAT44 and NAT64. It provides carrier-grade scalability by offering a very high number of IP address translations, very fast NAT translation setup rates, high throughput, and high-speed logging.
+•
+Policy Enforcement Manager (PEM) offers service providers a comprehensive set of traffic classification capabilities to accurately identify the specific applications and services subscribers are using and how they’re using them. This information allows them to steer application and subscriber traffic to the most appropriate value-added services (such as web caching, video optimization, or parental control) and reduce the burden on other services. PEM also provides deep reporting, enabling service providers to build tailored services and packages based on subscribers’ application usage and traffic classification.
+All software modules and Virtual Editions can be licensed individually. In addition, our “Better” and “Best” offerings bundle certain modules or VEs and are sold at a discount to the price customers would pay if each of the included items were purchased separately. We also offer a variety of licensing options for VEs, including subscriptions, utility pricing, and volume licensing.
+Cloud-Based Subscription Services
+•
+Silverline is a SaaS platform that allows customers to subscribe to application services running on our own high-performance, massively-scalable hardware in cloud-based points of presence around the globe. Two services are currently available on Silverline: DDoS protection and Web Application Firewall (WAF). Depending on the level of protection they require, customers can route traffic through Silverline 24/7 or only when an attack is detected. For customers who want to minimize the upfront costs and expense of maintaining on-premise solutions, these services are an easy and affordable alternative. For large enterprises, subscribing to these services in conjunction with our on-premise DDoS solution (AFM) and application firewall (ASM) can provide a first line of defense against attacks before they reach the data center.
+Other Subscription Services
+•
+WebSafe and MobileSafe are software modules that inject code into traffic between a large enterprise, such as a major financial institution, and its online customers or clients. The code is then downloaded transparently onto the client device and provides real-time protection against malware, phishing, and other cyberthreats, including fraud, without any impact to the user experience. WebSafe protects against all web-based threat types, and MobileSafe protects against advanced threats targeting the mobile user.
+•
+Secure Web Gateway Services is a function of APM that protects enterprises against both inbound and outbound malware. Integrated with cloud-based threat intelligence provided by Websense, Secure Web Gateway enables enterprises to manage user access to websites, as well as to hundreds of web-based applications, protocols, and videos, ensuring adherence to corporate acceptable use policies, and compliance regulations.
+
+9
+Table of Contents
+
+•
+IP Intelligence uses contextual awareness and analysis of traffic and constantly refreshed data from a global threat-sensor network to block threats from a dynamic set of high-risk IP addresses.
+Diameter Signaling and Routing
+•
+Traffix Signaling Delivery Controller: The Diameter signaling protocol is a de facto standard adopted by service providers to deal with the massive increase in signaling traffic that has accompanied the mobile industry’s transition to 4G/LTE networks. The Traffix Signaling Delivery Controller (SDC) is a software platform consolidating Traffix’s widely deployed Diameter Gateway, Diameter Load Balancer and Diameter Router solutions to deliver cost-effective connectivity, scalability and control to service providers migrating from legacy infrastructures to LTE and IMS networks. Traffix SDC solutions include interoperability of legacy and next-generation networks, mobile and fixed elements, and all third-party vendors.
+Hardware
+All of our purpose-built hardware products are designed to enhance the performance of our software. Currently we offer two types of hardware configurations: BIG-IP appliances; and our chassis-based VIPRION products. Both BIG-IP and VIPRION run TMOS and support all of our product software modules. We also sell specialty appliances that integrate specific software services and are only available as standalone products.
+Data sheets for all of our hardware platforms are available in the products section of our website.
+BIG-IP Appliances
+Products in our family of BIG-IP appliances differ primarily in their performance characteristics resulting from the hardware components and configurations that make up each system. Our current line of BIG-IP appliances includes BIG-IP 2000 series, BIG-IP 4000 series, BIG-IP 5000 series, BIG-IP 7000 series, BIG-IP 10000 series and BIG-IP 12000 series. During the fourth quarter of fiscal year 2016, we began the rollout of a complete refresh of the BIG-IP appliance family that will replace all current products and is scheduled for completion during the first quarter of fiscal year 2017. Enhancements in performance, scalability and hardware programmability will enable all the new products to run all of our software services, including virtual clustered multiprocessing (vCMP), which allows complete segmentation of BIG-IP systems into independent virtual BIG-IPs.
+VIPRION Chassis-Based Systems
+Currently we offer four chassis-based systems: VIPRION 4800, VIPRION 4480, VIPRION 2400 and VIPRION 2200. VIPRION’s unique architecture distributes traffic across all available processors and allows customers to add or remove blades without disrupting traffic. It also helps customers simplify their networks by consolidating application delivery services, saving management costs as well as power, space, and cooling in the datacenter. During the third quarter of fiscal year 2016, we introduced the VIPRION 4450 blade for VIPRION 4800 (our 8-blade chassis) and VIPRION 4480 (our 4-blade chassis). Each blade delivers 100Gb of throughput, and a fully loaded VIPRION 4800 can support more than 1 billion concurrent connections.
+Management and Orchestration
+BIG-IQ Centralized Management
+BIG-IQ Centralized Management is an intelligent management framework that enables customers to manage their F5 devices across on-premise data centers and public and private clouds. From a single console, customers can:
+•
+Manage up to 200 physical and/or virtual BIG-IP devices, including inventory, status, backups, updates and upgrades, and handle licensing for up to 5,000 virtual devices, spinning them up or down as needed.
+•
+Manage configurations and policies for F5 security products and view reports and alerts for recognized security events.
+BIG-IQ Centralized Management is available as a Virtual Edition or as an enterprise-grade appliance.
+iWorkflow
+iWorkflow is a software platform designed to accelerate the deployment of applications and services, while reducing exposure to the operational risk that comes with manual processes. Available as a virtual appliance, iWorkflow lets customers deploy configurable, administrator-defined application policies, in the form of iApp templates, in minutes rather than days. Compatible with a range of technologies and platforms, including Cisco APIC and VMware NSX, as well as BIG-IP, iWorkflow’s REST API enables easy integration with third-party management and orchestration systems.
+
+10
+Table of Contents
+
+Product Development
+We believe our future success depends on our ability to maintain technology leadership by continuing to improve our products and by developing new products to meet the changing needs of our customers and partners. Our product development organization, which includes product management and marketing, employs standard processes for the development, documentation and quality control of software and systems that are designed to meet these goals. These processes include working with our business development and marketing teams, customers and partners to identify new or improved solutions that meet the evolving needs of our addressable markets.
+More than 90 percent of our product development organization is engaged in software development. Our principal software engineering team is located at our headquarters in Seattle, Washington. Product development for APM and PEM is located in San Jose, California. ASM, Traffix SDC and Versafe product development is located in Tel Aviv, Israel. Our hardware engineering team is located in Spokane, Washington, San Jose and Tel Aviv. In addition, we recently opened a dedicated facility for product testing and quality control in Warsaw, Poland.
+Members of all our product development teams collaborate closely with one another to ensure the interoperability and performance of our hardware and software systems.
+During the fiscal years ended September 30, 2016, 2015 and 2014, we had research and product development expenses of $334.2 million, $296.6 million, and $263.8 million, respectively.
+Customers
+Our customers include a wide variety of enterprises and service providers among Fortune 1000 and Business Week Global 1000 companies, including those in technology, telecommunications, financial services, transportation, education, manufacturing and healthcare, along with government customers. In fiscal year 2016, sales outside of the Americas represented 43.6% of our net revenues. Refer to Note 9 of our consolidated financial statements included in this Annual Report on Form 10-K for additional information regarding our revenues by geographic area.
+Sales and Marketing
+Sales
+We sell our products and services to large enterprise customers and service providers through a variety of channels, including distributors, value-added resellers (VARs) and systems integrators. A substantial amount of our revenue for fiscal year 2016 was derived from these channel sales. Our sales teams work closely with our channel partners and also sell our products and services directly to major accounts.
+F5 sales teams. Our inside sales team generates and qualifies leads for regional sales managers and helps manage accounts by serving as a liaison between the field and internal corporate resources. Our field sales personnel are located in major cities in four sales regions: the Americas (primarily the United States); Europe, the Middle East, and Africa (EMEA); Japan; and the Asia Pacific region (APAC). Field sales personnel work closely with our channel partners to assist them, as necessary, in the sale of our products and services to their customers. We also sell our products and services directly to customers, primarily large enterprises, whose accounts are managed by our major account team. Field systems engineers support our regional sales managers and channel partners by participating in joint sales calls and providing pre-sale technical resources as needed.
+Distributors and VARs. As a key component of our sales strategy, we have established relationships with a number of large national and international distributors, local and specialized distributors and VARs. We derive a majority of our product sales from VARs and rely on our large distributors primarily for fulfillment.
+Our agreements with these channel partners are not exclusive and do not prevent them from selling competitive products. These agreements typically have terms of one year with no obligation to renew, and typically do not provide for exclusive sales territories or minimum purchase requirements.
+For fiscal year 2016, sales to four of our worldwide distributors, Westcon Group, Inc., Ingram Micro, Inc., Avnet Technology Solutions and Arrow ECS represented 18.7%, 14.9%, 13.3% and 10.1% of our total revenues, respectively. Our agreements with these distributors are standard, non-exclusive distribution agreements that renew automatically on an annual basis and generally can be terminated by either party with 30 days written notice prior to the start of any renewal term. The agreements grant Westcon Group, Inc., Ingram Micro, Inc., Avnet Technology Solutions, and Arrow ECS the right to distribute our products to resellers, with no minimum purchase requirements.
+
+11
+Table of Contents
+
+Systems integrators. We also market our products through strategic relationships with systems integrators, including Dell Services, HP Enterprise Services and IBM Global Services, who include our products as core components of application deployments or network-based solutions they deploy for their customers. In most cases, systems integrators do not directly purchase our products for resale to their customers. Instead they typically recommend our products as part of broader solutions, such as enterprise resource planning (ERP) or customer relationship management (CRM) solutions that incorporate our products for high availability and enhanced performance.
+Resellers and Technology Partners. Historically, our ability to compete with much larger companies has been strengthened through partnerships with large systems and software vendors. Currently we partner with Dell and Hewlett-Packard, who resell our products, and with other large technology companies, including Microsoft, Oracle, VMware and Cisco, who recommend our products to their customers. Management of these relationships is the responsibility of our business development team, which closely monitors technology companies in adjacent and complementary markets for opportunities to partner with those whose solutions are complementary to ours and could enable us to expand our addressable market.
+Marketing
+Our marketing strategy is driven by the belief that our continued success depends on our ability to understand and anticipate the dynamic needs of our addressable markets and to develop valuable solutions that meet those needs. In line with this belief, our marketing organization works directly with customers, partners and our product development teams to identify and create innovative solutions to further enhance our leadership position.
+To support the growing number of developers using our products, including network and application architects, we continue to promote and expand DevCentral, our on-line community website that provides technical resources to customers, prospects and partners wanting to extend and optimize F5 solutions using iRules and iCall. A key aspect of DevCentral is an on-line forum where developers as well as application and network architects discuss and share solutions they have written with iRules and iCall. At the end of fiscal year 2016, DevCentral had more than 278,000 registered members.
+We also engage in a number of marketing programs and initiatives aimed at promoting our brand and creating market awareness of our technology and products. These include actively participating in industry trade shows and joint marketing events with channel and technology partners, and briefing industry analysts and members of the trade press on our latest products, business relationships and technology partnerships. In addition, we market our products to chief information officers and other information technology professionals through targeted advertising, direct mail and high-profile Web events.
+Backlog
+At the end of fiscal years 2016 and 2015, we had product backlog of approximately $33.4 million and $38.1 million, respectively. Backlog represents orders confirmed with a purchase order for products to be shipped generally within 90 days to customers with approved credit status. Orders are subject to cancellation, rescheduling by customers or product specification changes by customers. Although we believe that the backlog orders are firm, purchase orders may be cancelled by the customer prior to shipment without significant penalty. For this reason, we believe that our product backlog at any given date is not a reliable indicator of future revenues.
+Customer Service and Technical Support
+We believe that our ability to provide consistent, high-quality customer service and technical support is a key factor in attracting and retaining large enterprise customers. Accordingly, we offer a broad range of support services that include installation, phone support, hardware repair and replacement, software updates, online tools, consulting and training services.
+We provide these services directly to end users and also utilize a multi-tiered support model, leveraging the capabilities of our channel partners when applicable. Our technical support staff is strategically located in regional service centers to support our global customer base.
+Prior to the installation of our products, our services personnel work with customers to analyze their network needs and determine the best way to deploy our products and configure product features and functions to meet those needs. Our services personnel also provide on-site installation and training services to help customers make optimal use of product features and functions.
+Our customers typically purchase a one-year maintenance contract which entitles them to an array of services provided by our technical support team. Maintenance services provided under the contract include online updates, software error correction releases, hardware repair and replacement, and, in the majority of cases, round-the-clock call center support. Free updates of our software are available to customers with a current maintenance contract. We also offer an online, automated,
+
+12
+Table of Contents
+
+self-help customer support function called “Ask F5” that provides answers to many commonly asked questions, allowing customers to get information and solve problems quickly while significantly reducing the number of calls to our support desk. This enables us to provide comprehensive customer support while keeping our support-related expenses at a manageable, consistent level. We also offer an online service called iHealth, which allows customers to diagnose up-to-the-minute snapshots of their BIG-IP systems. Diagnoses include tailored feedback about configuration issues or code defects, a description of the issue, recommendations for resolution, and a link to further information in the AskF5™ Knowledge Base.
+F5 offers training classes for customers on the configuration and use of products, including local and wide area network system administration and management. We have a complete certification program that qualifies our partners and customers for having the appropriate skills to implement and use the functionality of our products. To provide our customers with onsite and remote help, we have a professional services team able to provide a full range of fee-based consulting services, including comprehensive network management, documentation and performance analysis, and capacity planning to assist in predicting future network requirements.
+Manufacturing
+We outsource the manufacturing of our pre-configured hardware platforms to third party contract manufacturers for assembly according to our specifications.
+Our purpose-built systems are manufactured by Flextronics International LTD. Subcontracting activity at Flextronics encompasses prototype builds, full production and direct fulfillment. Flextronics also performs the following activities on our behalf; material procurement, PCB assembly and test, final assembly, system test, quality control, direct shipment and warranty repairs. We provide a rolling forecast that allows our contract manufacturers to stock component parts and other materials, plan capacity and build finished goods inventory in anticipation of end user demand. Flextronics procures components in volumes consistent with our forecast, assembles the products and tests them according to our specifications. Products are then shipped to our distributors, value-added resellers, or end users. Generally, we do not own the components. Title to the products transfers from the contract manufacturers to us and then to our customers upon shipment from a designated fulfillment location. If the components are unused or the products are not sold within specified periods of time, we may incur carrying charges or obsolete material charges for components that our contract manufacturers purchased to build products to meet our forecast or customer orders.
+Hardware components for our products consist primarily of commodity parts and certain custom components designed and approved by our hardware engineering group. Most of our components are purchased from sources which we believe are readily available from other suppliers. However, some components used in the assembly of our products are purchased from a single or limited source.
+Certain sub-assembly and testing processes of our products are performed at Flextronics' facility in Zhuhai, China. The majority of our sub-assemblies are shipped to Flextronics' Milpitas, California plant for configuration and final testing and eventual distribution to our end users. We also have capabilities to complete this process for some of our products in Flextronics' Zhuhai, China plant for distribution to APAC and Japan end users.
+Competition
+The expanding capabilities of our product offerings have enabled us to address a growing array of market opportunities, many of which are outside the bounds of the application delivery networking market as defined and measured by industry analysts such as Gartner Group, Dell’Oro and others. In addition to server load-balancing, traffic management and other functions normally associated with application delivery, our suite of integrated product modules has expanded our addressable market into security, WAN optimization, application acceleration, policy management, and Diameter signaling and routing, where we compete with a growing number of companies not included among traditional ADC vendors. The ability to create custom network services using iRules, iControl and iCall has also enabled us, our customers, and our partners to design solutions to problems for which there is no off-the-shelf solution. As a result, we believe the traditional definitions of our market do not encompass all of the features, functions and capabilities of our products or accurately represent the addressable market for those products.
+Within the more narrowly defined traditional ADC market, several companies sell server load-balancing products. These include Brocade Communications Systems, Inc., Citrix Systems, Inc. and a number of smaller competitors: A10 Networks, Array Networks, Inc., Barracuda Networks, Inc., Kemp Technologies, and Radware Ltd.
+In related markets we compete with the following:
+•
+Cisco, Juniper Networks and Checkpoint Systems in the network firewall market;
+
+13
+Table of Contents
+
+•
+Cisco, Imperva, Citrix and Barracuda Networks in the web application firewall market;
+•
+Cisco, Juniper and A10 in Carrier Grade NAT;
+•
+Procera, Allot, Sandvine and other DPI vendors with our PEM offerings;
+•
+Oracle via the acquisition of Tekelec and Acme Packet in the Diameter signaling market;
+•
+IBM in end-user protection against malware, phishing and other cyberthreats;
+•
+Akamai Networks in cloud-based DDoS protection; and
+•
+Blue Coat Systems in protecting enterprises from inbound and outbound malware.
+The principal competitive factors in the markets in which we compete include product features and performance, customer support, brand recognition, the scope of distribution and sales channels and pricing. Certain of our competitors have employed and may in the future adopt aggressive pricing policies to gain market share. However, because of the superior performance, broad functionality and unique capabilities of our products, which have resulted in high levels of customer satisfaction and growing brand awareness, we believe that we can and will compete effectively against such pricing policies.
+Intellectual Property
+We rely on a combination of patent, copyright, trademark and trade secret laws and restrictions on disclosure to protect our intellectual property rights. F5 holds 283 patents in the United States and has 46 international patents (with applications pending for various aspects of our technology). Our future success depends in part on our ability to protect our proprietary rights to the technologies used in our principal products. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our products or to obtain and use trade secrets or other information that we regard as proprietary. In addition, the laws of some foreign countries do not protect our proprietary rights as fully as do the laws of the United States. Any issued patent may not preserve our proprietary position, and competitors or others may develop technologies similar to or superior to our technology. Our failure to enforce and protect our intellectual property rights could harm our business, operating results and financial condition.
+In addition to our own proprietary software, we incorporate software licensed from several third-party sources into our products. These are generally term licenses which may renew annually and that generally provide for certain rights and licenses to support our customers post termination. While we may not be able to renew certain of these licenses in the future, we believe that alternative technologies for these licenses are available both domestically and internationally.
+Employees
+As of September 30, 2016, we had 4,395 full-time employees, including 1,202 in product development, 1,617 in sales and marketing, 1,120 in professional services and technical support and 456 in accounting and finance, administration and operations. None of our employees is represented by a labor union. We have experienced no work stoppages and believe that our employee relations are good.
+Executive Officers of the Registrant
+The following table sets forth certain information with respect to our executive officers as of November 4, 2016:
+ 
+Name
+ 
+Age
+ 
+Position
+John McAdam
+ 
+65
+
+ 
+President, Chief Executive Officer, and Director
+John DiLullo
+ 
+50
+
+ 
+Executive Vice President of Worldwide Sales
+Edward J. Eames
+ 
+58
+
+ 
+Executive Vice President and Chief Operations Officer
+Benjamin Gibson
+ 
+48
+
+ 
+Executive Vice President and Chief Marketing Officer
+Ryan Kearny
+ 
+47
+
+ 
+Executive Vice President of Product Development and Chief Technology Officer
+Andy Reinland
+ 
+52
+
+ 
+Executive Vice President and Chief Financial Officer
+Scot Rogers
+ 
+49
+
+ 
+Executive Vice President and General Counsel
+John McAdam served as our President, Chief Executive Officer and member of our Board of Directors from July 2000 until his retirement in July 2015. He subsequently served as Non-Executive Chairman of the Board until December 2015, when
+
+14
+Table of Contents
+
+he stepped down as Chairman and resumed the role of President and Chief Executive Officer in December 2015, following the resignation of Manuel Rivelo. Mr. McAdam has announced his intention to remain in his current position until the Board hires a replacement. A search for his replacement is currently underway. Prior to joining F5 in 2000, Mr. McAdam served as General Manager of the Web server sales business at International Business Machines Corporation from September 1999 to July 2000. From January 1995 until August 1999, Mr. McAdam served as the President and Chief Operating Officer of Sequent Computer Systems, Inc., a manufacturer of high-end open systems, which was sold to International Business Machines Corporation in September 1999. Mr. McAdam holds a B.S. in Computer Science from the University of Glasgow, Scotland.
+John DiLullo has served as our Executive Vice President of Worldwide Sales since October 2015. Responsible for F5’s global sales strategy, Mr. DiLullo brings over 25 years of experience in global business, sales, market and channel development, operations, and team management. Prior to joining F5, Mr. DiLullo ran the Worldwide Sales and Services team at Aruba Networks, through their acquisition by Hewlett-Packard. Before this role, he served Avaya Communications in three progressive General Manager roles-first as President of Asia-Pacific, then Latin America and Canada, and ultimately the entire Americas Theater. Before joining Avaya, Mr. DiLullo spent seven years at Cisco Systems, most recently as Vice President of Channels, and three years at SonicWALL as Vice President of Sales, Channels, and Field Operations. He holds a B.S. from Villanova University and was a Fellow and Ph.D. candidate at Stanford University.
+Edward J. Eames has served as our Executive Vice President and Chief Operations Officer since October 2015. Mr. Eames joined F5 in October 2000 as our Vice President of Professional Services and was promoted to Executive Vice President of Business Operations in January 2001. Prior to joining F5, Mr. Eames served as Vice President of e-Business Services for International Business Machines Corporation from September 1999 to October 2000. From June 1992 to September 1999, Mr. Eames served as the European Services Director and the Worldwide Vice President of Customer Service for Sequent Computer Systems, Inc., a manufacturer of high-end open systems. Mr. Eames holds a Higher National Diploma in Business Studies from Bristol Polytechnic and in 1994 completed the Senior Executive Program at the London Business School.
+Benjamin Gibson has served as our Executive Vice President and Chief Marketing Officer since August 2016. Prior to joining F5, Mr. Gibson was Chief Marketing Officer at Veritas, where he led the company’s rebranding efforts, following a spin-off from Symantec. Prior to Veritas, Mr. Gibson served as Chief Marketing Officer at Aruba Networks. During his five-year tenure, Aruba doubled in annual revenue as it expanded into new markets. Before joining Aruba, Mr. Gibson spent five years at Cisco Systems, most recently as Vice President of Data Center/Virtualization Marketing, where he ran the outbound marketing strategy and execution for a number of Cisco’s application networking products. Mr. Gibson has a B.A. in Journalism from California State University, Long Beach.
+Ryan Kearny has served as our Executive Vice President of Product Development and Chief Technology Officer since October 2016.  Mr. Kearny is responsible for overseeing F5's products and technology roadmap and leading our engineering team. Mr. Kearny joined F5 in 1998 and was named Vice President of Product Development in May 2004 and Senior Vice President of Product Development in January 2012.  Prior to joining F5, Mr. Kearny held a variety of software application architect positions with various Northwest companies.  Mr. Kearny holds a B.S. in Electrical Engineering from the University of Washington.
+Andy Reinland has served as Executive Vice President since October 2005 and Chief Financial Officer since October 2012. From October 2005 to October 2012, he served as our Chief Finance Officer. Mr. Reinland joined F5 in 1998 as a senior financial analyst and served as our Vice President of Finance from January 2004 to October 2005. Prior to joining F5, Mr. Reinland was Chief Financial Officer for RTIME, Inc., a developer of real-time 3D software for Internet applications, which was acquired by Sony. Mr. Reinland started his career in public accounting. Mr. Reinland holds a B.A. in Business from Washington State University.
+Scot Rogers has served as our Executive Vice President and General Counsel since January 2014. Mr. Rogers has held a variety of positions in F5's legal department since 2005, including most recently as Senior Vice President and Associate General Counsel immediately prior to his promotion to Executive Vice President. From 2002 through 2005, Mr. Rogers was the General Counsel for Xpediate Consulting, a healthcare technology and consulting company located in the San Francisco Bay Area. Prior to becoming a corporate counsel, he spent eight years in private practice as a commercial litigator. Mr. Rogers is a graduate of the University of Texas and holds a J.D. from the Dedman School of Law of Southern Methodist University.
+Item 1A.
+Risk Factors
+In addition to the other information in this report, the following risk factors should be carefully considered in evaluating our company and its business.
+
+15
+Table of Contents
+
+Our business could be adversely impacted by conditions affecting the information technology market
+A substantial portion of our business depends on the demand for information technology by large enterprise customers and service providers. In addition to the challenges presented by new cloud computing models, we are dependent upon the overall economic health of our current and prospective customers and the continued growth and evolution of the Internet. International, national, regional and local economic conditions, such as recessionary economic cycles, protracted economic slowdown or further deterioration of the economy could adversely impact demand for our products. Demand for our products and services depends substantially upon the general demand for application delivery products and associated services, which fluctuates based on numerous factors, including capital spending levels and growth of our current and prospective customers, as well as general economic conditions. Moreover, the purchase of our products is often discretionary and may involve a significant commitment of capital and other resources. Future economic projections for the information technology sector are uncertain as companies continue to reassess their spending for technology projects and embrace new models for delivery of IT services, such as cloud computing and highly orchestrated software defined networking environments. As a result, spending priorities for our current and future customers may vary and demand for our products and services may be impacted. In addition, customer buying patterns are changing over time and more customers seek to rent software on a subscription basis and to reduce their total cost of ownership. These evolving business models could lead to changes in demand and licensing strategies, which could have a material adverse effect on our business, results of operations and financial condition.
+Cloud-based computing trends present competitive and execution risks
+Customers are transitioning to a hybrid computing environment utilizing various cloud-based software and services accessed via various smart client devices. Pricing and delivery models are evolving and our competitors are developing and deploying cloud-based services for customers. In addition, new cloud infrastructures are enabling the emergence of new competitors including large cloud providers who offer their own ADC functionality as well as smaller companies targeting the growing numbers of "born in the cloud" applications. We are devoting significant resources to develop and deploy our own competing cloud-based software and services strategies. While we believe our expertise and investments in software and infrastructure for cloud-based services provides us with a strong foundation to compete, it is uncertain whether our strategies will attract the customers or generate the revenue required to be successful. In addition to software development costs, we are incurring costs to build and maintain infrastructure to support cloud-computing services. These costs may reduce the operating margins we have previously achieved. Whether we are successful in this new business model depends on our execution in a number of areas, including:
+•
+continuing to innovate and bring to market compelling cloud-based services that generate increasing traffic and market share;
+•
+maintaining the utility, compatibility and performance of our software on the growing array of cloud computing platforms and the enhanced interoperability requirements associated with orchestration of cloud computing environments; and
+•
+implementing the infrastructure to deliver our own cloud based services.
+These new business models may reduce our revenues or operating margins and could have a material adverse effect on our business, results of operations and financial condition.
+Industry consolidation may result in increased competition
+Some of our competitors have made acquisitions or entered into partnerships or other strategic relationships to offer a more comprehensive solution than they had previously offered. We have also entered into large, strategic partnerships to enhance our competitive position in the marketplace. As IT companies attempt to strengthen or maintain their market positions in the evolving application delivery, mobility, cloud networking and cloud platform markets, these companies continue to seek to deliver comprehensive IT solutions to end users and combine enterprise-level hardware and software solutions that may compete with our solutions and which could negatively impact our partnerships. These consolidators or potential consolidators may have significantly greater financial, technical and other resources than we do and may be better positioned to acquire and offer complementary products and services. The companies resulting from these possible combinations may create more compelling product and service offerings and be able to offer greater pricing flexibility or sales and marketing support for such offerings than we can. These heightened competitive pressures could result in a loss of customers or a reduction in our revenues or revenue growth rates, all of which could adversely affect our business, results of operations and financial condition.
+We may not be able to compete effectively in the emerging application delivery networking market
+The markets we serve are new, rapidly evolving and highly competitive, and we expect competition to persist and intensify in the future. Our principal competitors in the application delivery networking market include Brocade
+
+16
+Table of Contents
+
+Communications Systems, Inc., Citrix Systems, Inc., Radware Ltd. and A10 Networks. In related ADC markets, we compete with the following:
+•
+Cisco, Juniper Networks and Checkpoint Systems in the network firewall market;
+•
+Cisco, Imperva, Citrix and Barracuda Networks in the web application firewall market;
+•
+Cisco, Juniper and A10 in Carrier Grade NAT;
+•
+Procera, Allot, Sandvine and other DPI vendors with our PEM offerings;
+•
+Oracle via the acquisition of Tekelec and Acme Packet in the Diameter signaling market;
+•
+IBM in end-user protection against malware, phishing and other cyberthreats;
+•
+Akamai Networks in cloud-based DDoS protection; and
+•
+Blue Coat Systems in protecting enterprises from inbound and outbound malware.
+We expect to continue to face additional competition as new participants enter our markets. As we continue to expand globally, we may see new competitors in different geographic regions. In addition, larger companies with significant resources, brand recognition, and sales channels may form alliances with or acquire competing application delivery networking solutions from other companies and emerge as significant competitors. Potential competitors may bundle their products or incorporate an Internet traffic management or security component into existing products in a manner that discourages users from purchasing our products. Any of these circumstances may limit our opportunities for growth and negatively impact our financial performance.
+Our success depends on our timely development of new products and features, market acceptance of new product offerings and proper management of the timing of the life cycle of our products
+The markets for our products and services are characterized by:
+•
+rapid technological change;
+•
+evolving industry standards;
+•
+consolidation of network and application functions into existing network infrastructure products;
+•
+requirements that our products interoperate with those of other IT vendors to enable ease of management;
+•
+fluctuations in customer demand;
+•
+changes in customer requirements; and
+•
+frequent new product and service introductions and enhancements.
+Our continued success depends on our ability to identify and develop new products and new features for our existing products to meet the demands of these changes, and the acceptance of those products and features by our existing and target customers. In addition, our products must interoperate with our end customers’ IT infrastructure, which often have different specifications, deploy products from multiple vendors, and utilize multiple protocol standards. Our customers’ IT infrastructure is becoming more complex and we may be reliant on orchestration and interoperability with third party vendors on whom we are reliant for testing and support of new product versions and configurations. If we are unable to identify, develop and deploy new products and new product features on a timely basis, our business and results of operations may be harmed.
+The current development cycle for our products is on average 12-24 months. The introduction of new products or product enhancements may shorten the life cycle of our existing products, or replace sales of some of our current products, thereby offsetting the benefit of even a successful product introduction, and may cause customers to defer purchasing our existing products in anticipation of the new products. This could harm our operating results by decreasing sales, increasing our inventory levels of older products and exposing us to greater risk of product obsolescence. We have also experienced, and may in the future experience, delays in developing and releasing new products and product enhancements. This has led to, and may in the future lead to, delayed sales, increased expenses and lower quarterly revenue than anticipated. Also, in the development of our products, we have experienced delays in the prototyping of our products, which in turn has led to delays in product introductions. In addition, complexity and difficulties in managing product transitions at the end-of-life stage of a product can create excess inventory of components associated with the outgoing product that can lead to increased expenses. Any or all of the above problems could materially harm our business and results of operations.
+
+17
+Table of Contents
+
+Our success depends on sales and continued innovation of our application delivery networking product lines
+For the fiscal year ended September 30, 2016, we derived approximately 98.8% of our net product revenues, or approximately 46.8% of our total net revenues, from sales of our application delivery networking (ADN) product lines. We expect to continue to derive a significant portion of our net revenues from sales of our ADN products in the future. Implementation of our strategy depends upon these products being able to solve critical network availability, performance and security problems for our customers. If our ADN products are unable to solve these problems for our customers or if we are unable to sustain the high levels of innovation in our ADN product feature set needed to maintain leadership in what will continue to be a competitive market environment, our business and results of operations will be harmed.
+Undetected software or hardware errors or security vulnerabilities may harm our business and results of operations
+Our products may contain undetected errors or defects when first introduced or as new versions are released. We have experienced these errors or defects in the past in connection with new products and product upgrades. As our products and customer IT infrastructures become increasingly complex, customers may experience unforeseen errors in implementing our products into their IT environments. We expect that these errors or defects will be found from time to time in new or enhanced products after commencement of commercial shipments. These problems may cause us to incur significant warranty and repair costs, divert the attention of our engineering personnel from our product development efforts and cause significant customer relations problems. We may also be subject to liability claims for damages related to product errors or defects. While we carry insurance policies covering this type of liability, these policies may not provide sufficient protection should a claim be asserted. A material product liability claim may harm our business and results of operations.
+Our products must successfully operate with products from other vendors. As a result, when problems occur in a network, it may be difficult to identify the source of the problem. The occurrence of software or hardware problems, whether caused by our products or another vendor’s products, may result in the delay or loss of market acceptance of our products. The occurrence of any of these problems may harm our business and results of operations.
+Our products are used to manage critical applications and data for customers and third parties may attempt to exploit security vulnerabilities in our products as well as our internal IT systems. As we continue to focus on the development and marketing of security solutions, we become a bigger target for malicious computer hackers who wish to exploit security vulnerabilities in our products or IT systems. These problems may cause us to incur significant remediation costs, divert the attention of our engineering personnel from our product development efforts and cause significant customer relations problems. Adverse publicity related to security vulnerabilities or damage to a customer’s operations due to exploitation of security vulnerability in our products or IT systems may harm our business and results of operations.
+Any errors, defects or vulnerabilities in our products or IT systems could result in:
+•
+expenditures of significant financial and product development resources in efforts to analyze, correct, eliminate, or work-around errors and defects or to address and eliminate vulnerabilities;
+•
+loss of existing or potential customers or channel partners;
+•
+negative publicity and damage to our reputation;
+•
+delayed or lost revenue;
+•
+delay or failure to attain market acceptance;
+•
+an increase in warranty claims compared with our historical experience, or an increased cost of servicing warranty claims, either of which would adversely affect our gross margins; and
+•
+litigation, regulatory inquiries, or investigations that may be costly and harm our reputation.
+We are dependent on various information technology systems, and failures of or interruptions to those systems could harm our business
+Many of our business processes depend upon our IT systems, the systems and processes of third parties, and on interfaces with the systems of third parties. For example, our order entry system provides information to the systems of our contract manufacturers, which enables them to build and ship our products. If those systems fail or are interrupted, or if our ability to connect to or interact with one or more networks is interrupted, our processes may function at a diminished level or not at all. This would harm our ability to ship products, and our financial results may be harmed.
+In addition, reconfiguring our IT systems or other business processes in response to changing business needs may be time-consuming and costly. To the extent this impacted our ability to react timely to specific market or business opportunities, our financial results may be harmed.
+
+18
+Table of Contents
+
+Our failure to adequately protect personal information could have a material adverse effect on our business
+A wide variety of local, state, national, and international laws, directives and regulations apply to the collection, use, retention, protection, disclosure, transfer, and other processing of personal data. These data protection and privacy-related laws and regulations continue to evolve and may result in ever-increasing regulatory and public scrutiny and escalating levels of enforcement and sanctions and increased costs of compliance. Certain safe-harbor exemptions upon which the Company relies for data transfers have been challenged and may no longer be available to us in the future. Our failure to comply with applicable laws and regulations, or to protect such data, could result in enforcement action against us, including fines, imprisonment of company officials and public censure, claims for damages by end-customers and other affected individuals, damage to our reputation and loss of goodwill (both in relation to existing end-customers and prospective end-customers), any of which could have a material adverse effect on our operations, financial performance, and business. Changing definitions of personal data and personal information, within the European Union, the United States, and elsewhere, especially relating to classification of IP addresses, machine identification, location data, and other information, may limit or inhibit our ability to operate or expand our business, including limiting strategic partnerships that may involve the sharing of data. The evolving data protection regulatory environment may require significant management attention and financial resources to analyze and modify our IT infrastructure to meet these changing requirements all of which could reduce our operating margins and impact our operating results and financial condition.
+Our success depends on our key personnel and our ability to hire, retain and motivate qualified executives, sales and marketing, operations, product development and professional services personnel
+Our success depends, in large part, on our ability to attract, engage, retain, and integrate qualified executives and other key employees throughout all areas of our business. In order to attract and retain executives and other key employees in a competitive marketplace, we must provide a competitive compensation package, including cash- and equity-based compensation. If we do not obtain the stockholder approval needed to continue granting equity compensation in a competitive manner, our ability to attract, retain, and motivate executives and key employees could be weakened. Failure to successfully hire executives and key employees or the loss of any executives and key employees could have a significant impact on our operations. Further, changes in our management team may be disruptive to our business, and any failure to successfully integrate key new hires or promoted employees could adversely affect our business and results of operations. In addition, we recently announced the Board of Directors has formed a committee to initiate a search for a replacement for John McAdam as the Company’s CEO upon his retirement. The process of searching for and transitioning to a new chief executive could be disruptive to our business and could adversely affect our business and results of operations. The complexity of our application delivery networking products and their integration into existing networks and ongoing support, as well as the sophistication of our sales and marketing effort, requires us to retain highly trained developers, professional services, customer support and sales personnel. Competition for qualified developers, professional services, customer support and sales personnel in our industry is intense, especially in Silicon Valley and Seattle where we have substantial operations and a need for highly skilled personnel, because of the limited number of people available with the necessary technical skills and understanding of our products. Also, to the extent we hire personnel from competitors, we may be subject to allegations that they have been improperly solicited, that they have divulged proprietary or other confidential information, that they have violated non-compete obligations to their prior employers, or that their former employers own their inventions or other work product. Our ability to hire and retain these personnel may be adversely affected by volatility or reductions in the price of our common stock or our ability to get approval from shareholders to offer additional common stock to our employees, since these employees are generally granted restricted stock units. The loss of services of any of our key personnel, the inability to retain and attract qualified personnel in the future or delays in hiring qualified personnel may harm our business and results of operations.
+The average selling price of our products may decrease and our costs may increase, which may negatively impact revenues and profits
+It is possible that the average selling prices of our products will decrease in the future in response to competitive pricing pressures, increased sales discounts, new product introductions by us or our competitors, as well as the shift to more software consumption based and “as a service based” models, or other factors. Therefore, in order to maintain our profits, we must develop and introduce new products and product enhancements on a timely basis and continually reduce our product costs. Our failure to do so could cause our revenue and profits to decline, which would harm our business and results of operations. In addition, we may experience substantial period-to-period fluctuations in future operating results due to the erosion of our average selling prices.
+
+19
+Table of Contents
+
+Our business may be harmed if our contract manufacturers are not able to provide us with adequate supplies of our products or if a single source of hardware assembly is lost or impaired
+We outsource the manufacturing of our hardware platforms to third party contract manufacturers who assemble these hardware platforms to our specifications. We have experienced minor delays in shipments from contract manufacturers in the past. However, if we experience major delays in the future or other problems, such as inferior quality and insufficient quantity of product, any one or a combination of these factors may harm our business and results of operations. The inability of our contract manufacturers to provide us with adequate supplies of our products or the loss of one or more of our contract manufacturers may cause a delay in our ability to fulfill orders while we obtain a replacement manufacturer and may harm our business and results of operations. In particular, we currently subcontract manufacturing of our application delivery networking products to a single contract manufacturer with whom we do not have a long-term contract. If our arrangement with this single source of hardware assembly was terminated or otherwise impaired, and we were not able to engage another contract manufacturer in a timely manner, our business, financial condition and results of operation could be adversely affected.
+If the demand for our products grows, we will need to increase our raw material and component purchases, contract manufacturing capacity and internal test and quality control functions. Any disruptions in product flow may limit our revenue, may harm our competitive position and may result in additional costs or cancellation of orders by our customers.
+Our business could suffer if there are any interruptions or delays in the supply of hardware components from our third-party sources
+We currently purchase several hardware components used in the assembly of our products from a number of single or limited sources. Lead times for these components vary significantly. The unavailability of suitable components, any interruption or delay in the supply of any of these hardware components or the inability to procure a similar component from alternate sources at acceptable prices within a reasonable time, may delay assembly and sales of our products and, hence, our revenues, and may harm our business and results of operations.
+It is difficult to predict our future operating results because we have an unpredictable sales cycle
+Our products have a lengthy sales cycle and the timing of our revenue is difficult to predict. Historically, our sales cycle has ranged from approximately two to three months and has tended to lengthen as our products become increasingly complex. Also, as our distribution strategy is focused on a channel model, utilizing value-added resellers, distributors and systems integrators, the level of variability in the length of sales cycle across transactions has increased and made it more difficult to predict the timing of many of our sales transactions. Sales of our products require us to educate potential customers in their use and benefits. Sales of our products are subject to delays from the lengthy internal budgeting, approval and competitive evaluation processes that large enterprises and governmental entities may require. For example, customers frequently begin by evaluating our products on a limited basis and devote time and resources to testing our products before they decide whether or not to purchase. Customers may also defer orders as a result of anticipated releases of new products or enhancements by our competitors or us. As a result, our products have an unpredictable sales cycle that contributes to the uncertainty of our future operating results.
+We may not be able to sustain or develop new distribution relationships, and a reduction or delay in sales to significant distribution partners could hurt our business
+We sell our products and services through multiple distribution channels in the United States and internationally, including leading industry distributors, value-added resellers, systems integrators, service providers and other indirect channel partners. We have a limited number of agreements with companies in these channels, and we may not be able to increase our number of distribution relationships or maintain our existing relationships. Recruiting and retaining qualified channel partners and training them in our technologies requires significant time and resources. These channel partners may also market, sell and support products and services that are competitive with ours and may devote more resources to the marketing, sales and support of such competitive products. Our indirect sales channel structure could subject us to lawsuits, potential liability, and reputational harm if, for example, any of our channel partners misrepresent the functionality of our products or services to customers or violate laws or our corporate policies. If we are unable to establish or maintain our indirect sales channels, our business and results of operations will be harmed. In addition, four worldwide distributors of our products accounted for 57.0% of our total net revenue for fiscal year 2016. Four worldwide distributors of our products accounted for 57.9% of our total net revenue for fiscal year 2015. A substantial reduction or delay in sales of our products to these distribution partners, if not replaced by sales to other indirect channel partners and distributors, could harm our business, operating results and financial condition.
+
+20
+Table of Contents
+
+A portion of our revenue is generated by sales to government entities, which are subject to a number of challenges and risks
+Sales to U.S. and foreign, federal, state, and local governmental agency end-customers account for a significant portion of our revenues and we may in the future increase sales to government entities. Sales to government entities are subject to a number of risks. Selling to government entities can be highly competitive, expensive, and time consuming, often requiring significant upfront time and expense without any assurance that these efforts will generate a sale. The substantial majority of our sales to date to government entities have been made indirectly through our channel partners. Government certification requirements for products like ours may change, thereby restricting our ability to sell into the federal government sector until we have attained the revised certification. Government demand and payment for our products and services may be impacted by public sector budgetary cycles and funding authorizations, with funding reductions or delays adversely affecting public sector demand for our products and services. Government entities may have statutory, contractual or other legal rights to terminate contracts with our distributors and resellers for convenience or due to a default, and any such termination may adversely impact our future operating results. Governments routinely investigate and audit government contractors’ administrative processes, and any unfavorable audit could result in the government refusing to continue buying our products and services, a reduction of revenue or fines or civil or criminal liability if the audit uncovers improper or illegal activities, which could adversely impact our operating results in a material way. Finally, for purchases by the U.S. government, the government may require certain products to be manufactured in the United States and other relatively high cost manufacturing locations, and we may not manufacture all products in locations that meet the requirements of the U.S. government, affecting our ability to sell these products to the U.S. government.
+Misuse of our products could harm our reputation
+Our products may be misused by end-customers or third parties that obtain access to our products. For example, our products could be used to censor private access to certain information on the Internet. Such use of our products for censorship could result in negative publicity and damage to our reputation. In addition, as many of our products are subject to export control regulations, diversion of our products to restricted third parties by others could result in investigations, penalties, fines, trade restrictions and negative publicity that could damage our reputation and materially impact our business, operating results, and financial condition.
+Our quarterly and annual operating results may fluctuate in future periods, which may cause our stock price to fluctuate
+Our quarterly and annual operating results have varied significantly in the past and could vary significantly in the future, which makes it difficult for us to predict our future operating results. Our operating results may fluctuate due to a variety of factors, many of which are outside of our control, including the changing and recently volatile U.S. and global economic environment, which may cause our stock price to fluctuate. In particular, we anticipate that the size of customer orders may increase as we continue to focus on larger business accounts. A delay in the recognition of revenue, even from just one account, may have a significant negative impact on our results of operations for a given period. In the past, a majority of our sales have been realized near the end of a quarter. Accordingly, a delay in an anticipated sale past the end of a particular quarter may negatively impact our results of operations for that quarter, or in some cases, that fiscal year. Additionally, we have exposure to the credit risks of some of our customers and sub-tenants. Although we have programs in place that are designed to monitor and mitigate the associated risk, there can be no assurance that such programs will be effective in reducing our credit risks adequately. We monitor individual payment capability in granting credit arrangements, seek to limit the total credit to amounts we believe our customers can pay and maintain reserves we believe are adequate to cover exposure for potential losses. If there is a deterioration of a sub-tenant’s or a major customer’s creditworthiness or actual defaults are higher than expected, future losses, if incurred, could harm our business and have a material adverse effect on our operating results. Further, our operating results may be below the expectations of securities analysts and investors in future quarters or years. Our failure to meet these expectations will likely harm the market price of our common stock. Such a decline could occur, and has occurred in the past, even when we have met our publicly stated revenue and/or earnings guidance.
+
+21
+Table of Contents
+
+Reliance on shipments at the end of the quarter could cause our revenue for the applicable period to fall below expected levels
+As a result of customer buying patterns and the efforts of our sales force and channel partners to meet or exceed their sales objectives, we have historically received a substantial portion of sales orders and generated a substantial portion of revenue during the last few weeks of each fiscal quarter. In addition, any significant interruption in our information technology systems, which manage critical functions such as order processing, revenue recognition, financial forecasts, inventory and supply chain management, and trade compliance reviews, could result in delayed order fulfillment and decreased revenue for that fiscal quarter. If expected revenue at the end of any fiscal quarter is delayed for any reason, including the failure of anticipated purchase orders to materialize, our third party contract manufacturers’ inability to manufacture and ship products prior to fiscal quarter-end to fulfill purchase orders received near the end of the fiscal quarter, our failure to manage inventory to meet demand, our inability to release new products on schedule, any failure of our systems related to order review and processing, or any delays in shipments based on trade compliance requirements, our revenue for that quarter could fall below our expectations, resulting in a decline in the trading price of our common stock.
+Changes in financial accounting standards may cause adverse unexpected revenue fluctuations and affect our reported results of operations
+A change in accounting policies can have a significant effect on our reported results and may even affect our reporting of transactions completed before the change is effective. New pronouncements and varying interpretations of existing pronouncements have occurred with frequency and may occur in the future. Changes to existing rules, or changes to the interpretations of existing rules, could lead to changes in our accounting practices, and such changes could adversely affect our reported financial results or the way we conduct our business.
+We may have exposure to greater than anticipated tax liabilities
+Our provision for income taxes is subject to volatility and could be adversely affected by nondeductible stock-based compensation, changes in the research and development tax credit laws, earnings being lower than anticipated in jurisdictions where we have lower statutory rates and being higher than anticipated in jurisdictions where we have higher statutory rates, transfer pricing adjustments, not meeting the terms and conditions of tax holidays or incentives, changes in the valuation of our deferred tax assets and liabilities, changes in actual results versus our estimates, or changes in tax laws, regulations, accounting principles or interpretations thereof, including changes to the tax laws applicable to corporate multinationals. The U.S., the European Union and its member states, and a number of other countries are actively pursuing changes in this regard. In addition, like other companies, we may be subject to examination of our income tax returns by the U.S. Internal Revenue Service and other tax authorities. While we regularly assess the likelihood of adverse outcomes from such examinations and the adequacy of our provision for income taxes, there can be no assurance that such provision is sufficient and that a determination by a tax authority will not have an adverse effect on our results of operations.
+We are subject to governmental export and import controls that could subject us to liability or impair our ability to compete in international markets
+Our products are subject to U.S. export controls and may be exported outside the U.S. only with the required level of export license or through an export license exception because we incorporate encryption technology into our products. In addition, various countries regulate the import of certain encryption technology and have enacted laws that could limit our ability to distribute our products or our customers’ ability to implement our products in those countries. Changes in our products or changes in export and import regulations may create delays in the introduction of our products in international markets, prevent our customers with international operations from deploying our products throughout their global systems or, in some cases, prevent the export or import of our products to certain countries altogether. Any change in export or import regulations or related legislation, shift in approach to the enforcement or scope of existing regulations or change in the countries, persons or technologies targeted by such regulations, could result in decreased use of our products by, or in our decreased ability to export or sell our products to, existing or potential customers with international operations. Any decreased use of our products or limitation on our ability to export or sell our products would likely adversely affect our business, operating results and financial condition.
+We may not be able to adequately protect our intellectual property, and our products may infringe on the intellectual property rights of third parties
+We rely on a combination of patent, copyright, trademark and trade secret laws, and restrictions on disclosure of confidential and proprietary information to protect our intellectual property rights. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy or otherwise obtain and use our products or technology. Monitoring unauthorized use of our products is difficult, and we cannot be certain that the steps we have taken will prevent
+
+22
+Table of Contents
+
+misappropriation of our technology, particularly in foreign countries where the laws may not protect our proprietary rights as fully as in the United States.
+Our industry is characterized by the existence of a large number of patents and frequent claims and related litigation regarding patent and other intellectual property rights. In the ordinary course of our business, we are involved in disputes and licensing discussions with others regarding their claimed proprietary rights and cannot provide assurance that we will always successfully defend ourselves against such claims and such matters are subject to many uncertainties and outcomes are not predictable with assurance. We expect that infringement claims may increase as the number of products and competitors in our market increases and overlaps occur. Also, as we have gained greater visibility, market exposure and competitive success, we face a higher risk of being the subject of intellectual property infringement claims. If we are found to infringe the proprietary rights of others, or if we otherwise settle such claims, we could be compelled to pay damages or royalties and either obtain a license to those intellectual property rights or alter our products so that they no longer infringe upon such proprietary rights. Any license could be very expensive to obtain or may not be available at all or may require us to make royalty payments which could adversely affect gross margins in future periods. The actual liability in any such matters may be materially different from our estimate, if any, which could result in the need to adjust the liability and record additional expenses. Similarly, changing our products or processes to avoid infringing upon the rights of others may be costly or impractical. In addition, we have initiated, and may in the future initiate, claims or litigation against third parties for infringement of our proprietary rights, or to determine the scope and validity of our proprietary rights or those of our competitors. Any of these claims, whether claims that we are infringing the proprietary rights of others, or vice versa, with or without merit, may be time-consuming, result in costly litigation and diversion of technical and management personnel or require us to cease using infringing technology, develop non-infringing technology or enter into royalty or licensing agreements. Further, our license agreements typically require us to indemnify our customers, distributors and resellers for infringement actions related to our technology, which could cause us to become involved in infringement claims made against our customers, distributors or resellers. Any of the above-described circumstances relating to intellectual property rights disputes could result in our business and results of operations being harmed.
+We incorporate open source software into our products. Although we monitor our use of open source closely, the terms of many open source licenses have not been interpreted by U.S. courts, and there is a risk that such licenses could be construed in a manner that could impose unanticipated conditions or restrictions on our ability to commercialize our products. We could also be subject to similar conditions or restrictions should there be any changes in the licensing terms of the open source software incorporated into our products. In either event, we could be required to seek licenses from third parties in order to continue offering our products, to re-engineer our products or to discontinue the sale of our products in the event re-engineering cannot be accomplished on a timely or successful basis, any of which could adversely affect our business, operating results and financial condition.
+Many of our products include intellectual property licensed from third parties. In the future, it may be necessary to renew licenses for third party intellectual property or obtain new licenses for other technology. These third party licenses may not be available to us on acceptable terms, if at all. The inability to obtain certain licenses, or litigation regarding the interpretation or enforcement of license rights and related intellectual property issues, could have a material adverse effect on our business, operating results and financial condition. Furthermore, we license some third party intellectual property on a non-exclusive basis and this may limit our ability to protect our intellectual property rights in our products.
+Our operating results are exposed to risks associated with international commerce
+As our international sales increase, our operating results become more exposed to international operating risks. Additionally, our international sales and operations are subject to a number of risks, including the following:
+•
+greater difficulty in enforcing contracts and accounts receivable collection and longer collection periods;
+•
+the uncertainty of protection for intellectual property rights in some countries;
+•
+greater risk of unexpected changes in regulatory practices, tariffs, and tax laws and treaties;
+•
+risks associated with trade restrictions and foreign legal requirements, including the importation, certification, and localization of our products required in foreign countries;
+•
+greater risk of a failure of foreign employees, partners, distributors, and resellers to comply with both U.S. and foreign laws, including antitrust regulations, the U.S. Foreign Corrupt Practices Act, and any trade regulations ensuring fair trade practices;
+•
+heightened risk of unfair or corrupt business practices in certain geographies and of improper or fraudulent sales arrangements that may impact financial results and result in restatements of, or irregularities in, financial statements;
+
+23
+Table of Contents
+
+•
+increased expenses incurred in establishing and maintaining office space and equipment for our international operations;
+•
+greater difficulty in recruiting local experienced personnel, and the costs and expenses associated with such activities;
+•
+management communication and integration problems resulting from cultural and geographic dispersion;
+•
+fluctuations in exchange rates between the U.S. dollar and foreign currencies in markets where we do business;
+•
+economic uncertainty around the world, including continued economic uncertainty as a result of sovereign debt issues in Europe; and
+•
+general economic and political conditions in these foreign markets.
+In addition, the June 2016 announcement of the results of the United Kingdom European Union membership referendum (commonly referred to as Brexit) advising for the exit of the United Kingdom from the European Union has created economic, financial, and regulatory uncertainty, which may cause our customers to closely monitor their costs and reduce their spending on our products and services.
+We must hire and train experienced personnel to staff and manage our foreign operations. To the extent that we experience difficulties in recruiting, training, managing, and retaining an international staff, and specifically staff related to sales management and sales personnel, we may experience difficulties in sales productivity in foreign markets. We also enter into strategic distributor and reseller relationships with companies in certain international markets where we do not have a local presence. If we are not able to maintain successful strategic distributor relationships internationally or recruit additional companies to enter into strategic distributor relationships, our future success in these international markets could be limited. Business practices in the international markets that we serve may differ from those in the United States and may require us in the future to include terms other than our standard terms in customer contracts. We intend to continue expanding into international markets. Sales outside of the Americas represented 43.6% and 42.7% of our net revenues for the fiscal years ended September 30, 2016 and 2015, respectively.
+These factors and other factors could harm our ability to gain future international revenues and, consequently, materially impact our business, operating results, and financial condition. The expansion of our existing international operations and entry into additional international markets will require significant management attention and financial resources. Our failure to successfully manage our international operations and the associated risks effectively could limit the future growth of our business.
+Changes in governmental regulations could negatively affect our revenues
+Many of our products are subject to various regulations promulgated by the United States and various foreign governments including, but not limited to, environmental regulations and regulations implementing export license requirements and restrictions on the import or export of some technologies, especially encryption technology. Changes in governmental regulation and our inability or failure to obtain required approvals, permits or registrations could harm our international and domestic sales and adversely affect our revenues, business and operations.
+New regulations related to conflict minerals may force us to incur additional expenses and could limit the supply and increase the costs of certain metals and minerals used in the manufacturing of our products
+In August 2012, the SEC adopted new requirements under the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (or the Dodd-Frank Act) for companies that use certain minerals and derivative metals (referred to as conflict minerals, regardless of their country of origin) in their products, whether or not these products are manufactured by third parties. The Dodd-Frank Act requires companies to perform due diligence and disclose whether or not such minerals originate from the Democratic Republic of Congo or adjoining countries. We filed a report on Form SD with the SEC regarding such matters on May 31, 2016. These new requirements could adversely affect the sourcing, availability and pricing of minerals or metals used in the manufacture of our products and the numerous components that go into our products all of which could adversely affect our business, financial condition, and operating results. In addition, we will incur additional costs to comply with the disclosure requirements, including costs related to determining the source of any relevant minerals and metals used in our products. We have a complex supply chain and many components are sourced through our contract manufacturer and we may not be able to sufficiently verify the origins for these minerals and metals used in our products through the due diligence procedures that we implement. As a result, we may face reputational challenges with our customers and other stakeholders and possible regulatory risk.
+
+24
+Table of Contents
+
+We face litigation risks
+We are a party to lawsuits in the normal course of our business. Litigation in general, and intellectual property and securities litigation in particular, can be expensive, lengthy and disruptive to normal business operations. Moreover, the results of complex legal proceedings are difficult to predict. Responding to lawsuits has been, and will likely continue to be, expensive and time-consuming for us. An unfavorable resolution of these lawsuits could adversely affect our business, results of operations or financial condition.
+Acquisitions present many risks and we may not realize the financial and strategic goals that are contemplated at the time of the transaction
+With respect to our past acquisitions, as well as any other future acquisitions we may undertake, we may find that the acquired businesses, products or technologies do not further our business strategy as expected, that we paid more than what the assets are later worth or that economic conditions change, all of which may generate future impairment charges. Our acquisitions may be viewed negatively by customers, financial markets or investors. There may be difficulty integrating the operations and personnel of the acquired business, and we may have difficulty retaining the key personnel of the acquired business. We may have difficulty in integrating the acquired technologies or products with our existing product lines. Our ongoing business and management’s attention may be disrupted or diverted by transition or integration issues and the complexity of managing geographically and culturally diverse locations. We may have difficulty maintaining uniform standards, controls, procedures and policies across locations. We may experience significant problems or liabilities associated with product quality, technology and other matters.
+Our inability to successfully operate and integrate newly-acquired businesses appropriately, effectively and in a timely manner, or to retain key personnel of any acquired business, could have a material adverse effect on our ability to take advantage of further growth in demand for integrated traffic management and security solutions and other advances in technology, as well as on our revenues, gross margins and expenses.
+Anti-takeover provisions could make it more difficult for a third party to acquire us
+Our Board of Directors has the authority to issue up to 10,000,000 shares of preferred stock and to determine the price, rights, preferences, privileges and restrictions, including voting rights, of those shares without any further vote or action by the shareholders. The rights of the holders of common stock may be subject to, and may be adversely affected by, the rights of the holders of any preferred stock that may be issued in the future. The issuance of preferred stock may have the effect of delaying, deferring or preventing a change of control of our company without further action by our shareholders and may adversely affect the voting and other rights of the holders of common stock. Further, certain provisions of our bylaws, including a provision limiting the ability of shareholders to raise matters at a meeting of shareholders without giving advance notice, may have the effect of delaying or preventing changes in control or management of our company, which could have an adverse effect on the market price of our common stock. Similarly, state anti-takeover laws in the State of Washington related to corporate takeovers may prevent or delay a change of control of our company.
+Our stock price could be volatile, particularly during times of economic uncertainty and volatility in domestic and international stock markets
+Our stock price has been volatile and has fluctuated significantly in the past. The trading price of our stock is likely to continue to be volatile and subject to fluctuations in the future. Some of the factors that could significantly affect the market price of our stock include:
+•
+Actual or anticipated variations in operating and financial results;
+•
+Analyst reports or recommendations;
+•
+Rumors, announcements or press articles regarding our competitors’ operations, management, organization, financial condition or financial statements; and
+•
+Other events or factors, many of which are beyond our control.
+The stock market in general and the market for technology companies in particular, have experienced extreme price and volume fluctuations. These fluctuations have often been unrelated or disproportionate to operating performance. The fluctuations may continue in the future and this could significantly impact the value of our stock and your investment.
+
+25
+Table of Contents
+
+We face risks associated with having operations and employees located in Israel
+We have offices and employees located in Israel. As a result, political, economic, and military conditions in Israel directly affect our operations. The future of peace efforts between Israel and its Arab neighbors remains uncertain. There has been a significant increase in hostilities and political unrest in Israel in the past year. The effects of these hostilities and violence on the Israeli economy and our operations in Israel are unclear, and we cannot predict the effect on us of further increases in these hostilities or future armed conflict, political instability or violence in the region. In addition, many of our employees in Israel are obligated to perform annual reserve duty in the Israeli military and are subject to being called for active duty under emergency circumstances. We cannot predict the full impact of these conditions on us in the future, particularly if emergency circumstances or an escalation in the political situation occurs. If many of our employees in Israel are called for active duty for a significant period of time, our operations and our business could be disrupted and may not be able to function at full capacity. Current or future tensions and conflicts in the Middle East could adversely affect our business, operating results, financial condition and cash flows.
+Our business is subject to the risks of earthquakes, fire, power outages, floods, and other catastrophic events, and to interruption by man-made problems such as terrorism
+A significant natural disaster, such as an earthquake, a fire, a flood, or a significant power outage could have a material adverse impact on our business, operating results, and financial condition. We have an administrative and product development office and a third party contract manufacturer located in the San Francisco Bay Area, a region known for seismic activity. In addition, natural disasters could affect our supply chain, manufacturing vendors, or logistics providers’ ability to provide materials and perform services such as manufacturing products or assisting with shipments on a timely basis. In the event our or our service providers’ information technology systems or manufacturing or logistics abilities are hindered by any of the events discussed above, shipments could be delayed, resulting in missed financial targets, such as revenue and shipment targets, for a particular quarter. In addition, cyber-attacks, acts of terrorism, or other geo-political unrest could cause disruptions in our business or the business of our supply chain, manufacturers, logistics providers, partners, or end-customers or the economy as a whole. Any disruption in the business of our supply chain, manufacturers, logistics providers, partners or end-customers that impacts sales at the end of a fiscal quarter could have a significant adverse impact on our quarterly results. All of the aforementioned risks may be further increased if the disaster recovery plans for us and our suppliers prove to be inadequate. To the extent that any of the above should result in delays or cancellations of customer orders, or the delay in the manufacture, deployment or shipment of our products, our business, financial condition and operating results would be adversely affected.
+In addition to other risks listed in this “Risk Factors” section, factors that may affect our operating results include, but are not limited to:
+•
+fluctuations in demand for our products and services due to changing market conditions, pricing conditions, technology evolution, seasonality, or other changes in the global economic environment;
+•
+changes or fluctuations in sales and implementation cycles for our products and services;
+•
+changes in the mix of our products and services, including increases in subscription based offerings;
+•
+changes in the growth rate of the application delivery market;
+•
+reduced visibility into our customers’ spending and implementation plans;
+•
+reductions in customers’ budgets for data center and other IT purchases or delays in these purchases;
+•
+changes in end-user customer attach rates and renewal rates for our services;
+•
+fluctuations in our gross margins, including the factors described herein, which may contribute to such fluctuations;
+•
+our ability to control costs, including operating expenses, the costs of hardware and software components, and other manufacturing costs;
+•
+our ability to develop, introduce and gain market acceptance of new products, technologies and services, and our success in new and evolving markets;
+•
+any significant changes in the competitive environment, including the entry of new competitors or the substantial discounting of products or services;
+•
+the timing and execution of product transitions or new product introductions, and related inventory costs;
+•
+variations in sales channels, product costs, or mix of products sold;
+
+26
+Table of Contents
+
+•
+our ability to establish and manage our distribution channels, and the effectiveness of any changes we make to our distribution model;
+•
+the ability of our contract manufacturers and suppliers to provide component parts, hardware platforms and other products in a timely manner;
+•
+benefits anticipated from our investments in sales, marketing, product development, manufacturing or other activities;
+•
+impacts on our overall tax rate caused by any reorganization in our corporate structure;
+•
+changes in tax laws or regulations, or other accounting rules; and
+•
+general economic conditions, both domestically and in our foreign markets.
+
+Item 1B.
+Unresolved Staff Comments
+Not applicable.
+
+Item 2.
+Properties
+We lease our principal administrative, sales, marketing, research and development facilities, which are located in Seattle, Washington and consist of approximately 320,000 square feet. In April 2010, we amended and restated the lease agreement for three of the buildings that serve as our corporate headquarters. The lease commenced in April, July and August of 2010 for various sections of the first building; and August 2010 for the second and third buildings. The lease for these three buildings will expire in 2022 with an option for renewal. In January 2016, we entered into an agreement to lease approximately 20,000 square feet of additional space in a building near our corporate headquarters. This lease commenced in July of 2016 and will expire in 2022 with an option for renewal. In October 2006, we entered into an agreement to lease a building adjacent to the buildings that serve as our corporate headquarters. This lease will expire in 2018. We are currently subleasing all floors of this building to two subtenants.
+We believe that our existing properties are in good condition and suitable for the conduct of our business. We also lease office space for our product development personnel in Spokane, Washington and Bellevue, Washington, San Jose, California, Louisville, Colorado, Lowell, Massachusetts, Israel, and Poland and for our sales and support personnel in California, Florida, Georgia, Illinois, Kansas, Missouri, New York, Tennessee, Washington D.C., Argentina, Australia, Belgium, Brazil, Canada, China, Denmark, Finland, France, Germany, Hong Kong, India, Indonesia, Italy, Japan, Malaysia, Mexico, Netherlands, New Zealand, the Philippines, Poland, Saudi Arabia, Singapore, South Africa, South Korea, Spain, Sweden, Taiwan, Thailand, Turkey, the United Arab Emirates, the United Kingdom and Vietnam. We believe that our future growth can be accommodated by our current facilities or by leasing additional space if necessary.
