@@ -1,0 +1,1 @@
+Script pre_class.py is used to identify the prepositions in each sentence and also the nouns associated to it by picking up the noun before and after it if it exists.

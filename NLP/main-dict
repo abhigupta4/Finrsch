@@ -1,0 +1,524 @@
+[('The', 'DT'), ('moon', 'NN'), ('rose', 'VBD'), ('before', 'IN'), ('sunset', 'NN')]
+
+Preposition is: before
+Noun before: moon
+Noun after: sunset
+
+
+[('Laughing', 'VBG'), (',', ','), ('she', 'PRP'), ('threw', 'VBD'), ('up', 'RP'), ('her', 'PRP$'), ('hands', 'NNS'), ('and', 'CC'), ('ran', 'VBD'), ('toward', 'IN'), ('the', 'DT'), ('park', 'NN')]
+
+Preposition is: toward
+Noun before: hands
+Noun after: park
+
+
+[('The', 'DT'), ('employees', 'NNS'), ('refused', 'VBD'), ('to', 'TO'), ('work', 'VB'), ('on', 'IN'), ('account', 'NN'), ('of', 'IN'), ('their', 'PRP$'), ('low', 'JJ'), ('pay', 'NN')]
+
+Preposition is: on
+Noun before: employees
+Noun after: account
+
+Preposition is: of
+Noun before: account
+Noun after: pay
+
+
+[('The', 'DT'), ('couple', 'NN'), ('held', 'VBD'), ('hands', 'NNS'), ('and', 'CC'), ('skated', 'VBD'), ('around', 'IN'), ('the', 'DT'), ('rink', 'NN')]
+
+Preposition is: around
+Noun before: hands
+Noun after: rink
+
+
+[('The', 'DT'), ('arch', 'NN'), ('above', 'IN'), ('the', 'DT'), ('hallway', 'NN'), ('reminded', 'VBD'), ('Natalie', 'NNP'), ('of', 'IN'), ('a', 'DT'), ('castle', 'NN'), ('she', 'PRP'), ("'d", 'MD'), ('visited', 'VB')]
+
+Preposition is: above
+Noun before: arch
+Noun after: hallway
+
+Preposition is: of
+Noun before: Natalie
+Noun after: castle
+
+
+[('The', 'DT'), ('bird', 'NN'), ('flew', 'NN'), ('over', 'IN'), ('the', 'DT'), ('tree', 'NN')]
+
+Preposition is: over
+Noun before: flew
+Noun after: tree
+
+
+[('Katrina', 'NNP'), ('made', 'VBD'), ('a', 'DT'), ('promise', 'NN'), ('to', 'TO'), ('help', 'VB'), ('out', 'RP'), ('after', 'IN'), ('work', 'NN'), ('today', 'NN')]
+
+Preposition is: after
+Noun before: promise
+Noun after: work
+
+
+[('The', 'DT'), ('library', 'NN'), ('is', 'VBZ'), ('by', 'IN'), ('the', 'DT'), ('train', 'NN'), ('station', 'NN')]
+
+Preposition is: by
+Noun before: library
+Noun after: train
+
+
+[('When', 'WRB'), ('you', 'PRP'), ('use', 'VBP'), ('a', 'DT'), ('fireplace', 'NN'), (',', ','), ('smoke', 'NN'), ('goes', 'VBZ'), ('up', 'RP'), ('the', 'DT'), ('chimneyd', 'NN')]
+
+Preposition not found
+
+[('Ideally', 'RB'), (',', ','), ('the', 'DT'), ('party', 'NN'), ('would', 'MD'), ('start', 'VB'), ('no', 'DT'), ('later', 'JJ'), ('than', 'IN'), ('a', 'DT'), ('quarter', 'NN'), ('past', 'NN'), ('eight', 'CD')]
+
+Preposition is: than
+Noun before: party
+Noun after: quarter
+
+
+[('I', 'PRP'), ('walked', 'VBD'), ('across', 'IN'), ('the', 'DT'), ('flimsy', 'NN'), ('bridge', 'NN')]
+
+Preposition is: across
+Noun after: flimsy
+
+
+[('All', 'DT'), ('children', 'NNS'), ('fear', 'VBP'), ('the', 'DT'), ('monsters', 'NNS'), ('below', 'IN'), ('their', 'PRP$'), ('bed', 'VBN')]
+
+Preposition is: below
+Noun before: monsters
+
+
+[('That', 'DT'), ('large', 'JJ'), ('worm', 'NN'), ('went', 'NN'), ('under', 'IN'), ('the', 'DT'), ('dirt', 'NN')]
+
+Preposition is: under
+Noun before: went
+Noun after: dirt
+
+
+[('The', 'DT'), ('burglar', 'JJ'), ('entered', 'VBN'), ('the', 'DT'), ('house', 'NN'), ('through', 'IN'), ('the', 'DT'), ('basement', 'NN'), ('window', 'NN')]
+
+Preposition is: through
+Noun before: house
+Noun after: basement
+
+
+[('Through', 'IN'), ('her', 'PRP$'), ('bravery', 'NN'), (',', ','), ('we', 'PRP'), ('were', 'VBD'), ('able', 'JJ'), ('to', 'TO'), ('escape', 'NN'), ('unharmed', 'VBN')]
+
+Preposition is: Through
+Noun after: bravery
+
+
+[('Let', 'NNP'), ("'s", 'POS'), ('meet', 'NN'), ('at', 'IN'), ('noon', 'NN')]
+
+Preposition is: at
+Noun before: meet
+Noun after: noon
+
+
+[('Chris', 'NNP'), ('arrived', 'VBD'), ('at', 'IN'), ('one', 'CD'), ("o'clock", 'JJ'), ('.', '.')]
+
+Preposition is: at
+Noun before: Chris
+
+
+[('Ben', 'NNP'), ('is', 'VBZ'), ('planning', 'VBG'), ('on', 'IN'), ('staying', 'VBG'), ('the', 'DT'), ('night', 'NN'), ('at', 'IN'), ('a', 'DT'), ('hotel', 'NN')]
+
+Preposition is: on
+Noun before: Ben
+Noun after: night
+
+Preposition is: at
+Noun before: night
+Noun after: hotel
+
+
+[('Beth', 'NNP'), ('starts', 'VBZ'), ('school', 'NN'), ('in', 'IN'), ('August', 'NNP')]
+
+Preposition is: in
+Noun before: school
+Noun after: August
+
+
+[('In', 'IN'), ('2008', 'CD'), (',', ','), ('the', 'DT'), ('U.S.', 'NNP'), ('held', 'NN'), ('a', 'DT'), ('presidential', 'JJ'), ('election', 'NN')]
+
+Preposition is: In
+Noun after: U.S.
+
+
+[('I', 'PRP'), ('would', 'MD'), ('rather', 'RB'), ('work', 'VB'), ('on', 'IN'), ('the', 'DT'), ('project', 'NN'), ('in', 'IN'), ('the', 'DT'), ('afternoon', 'NN')]
+
+Preposition is: on
+Noun after: project
+
+Preposition is: in
+Noun before: project
+Noun after: afternoon
+
+
+[('The', 'DT'), ('rice', 'NN'), ('is', 'VBZ'), ('in', 'IN'), ('the', 'DT'), ('cabinet', 'NN')]
+
+Preposition is: in
+Noun before: rice
+Noun after: cabinet
+
+
+[('To', 'TO'), ('make', 'VB'), ('a', 'DT'), ('sandwich', 'NN'), (',', ','), ('simply', 'RB'), ('put', 'VBD'), ('something', 'NN'), ('between', 'IN'), ('two', 'CD'), ('slices', 'NNS'), ('of', 'IN'), ('bread', 'NN')]
+
+Preposition is: between
+Noun before: something
+Noun after: slices
+
+Preposition is: of
+Noun before: slices
+Noun after: bread
+
+
+[('We', 'PRP'), ("'re", 'VBP'), ('not', 'RB'), ('supposed', 'VBN'), ('to', 'TO'), ('study', 'NN'), ('during', 'IN'), ('class', 'NN')]
+
+Preposition is: during
+Noun before: study
+Noun after: class
+
+
+[('The', 'DT'), ('childhood', 'NN'), ('friends', 'NNS'), ('rode', 'VBP'), ('their', 'PRP$'), ('bicycles', 'NNS'), ('along', 'IN'), ('the', 'DT'), ('road', 'NN')]
+
+Preposition is: along
+Noun before: bicycles
+Noun after: road
+
+
+[('Her', 'PRP$'), ('heart', 'NN'), ('is', 'VBZ'), ('filled', 'VBN'), ('with', 'IN'), ('emotion', 'NN')]
+
+Preposition is: with
+Noun before: heart
+Noun after: emotion
+
+
+[('She', 'PRP'), ('opened', 'VBD'), ('the', 'DT'), ('locked', 'VBN'), ('door', 'NN'), ('with', 'IN'), ('an', 'DT'), ('old', 'JJ'), ('key', 'JJ')]
+
+Preposition is: with
+Noun before: door
+
+
+[('Lisa', 'NNP'), ('wanted', 'VBD'), ('to', 'TO'), ('go', 'VB'), ('to', 'TO'), ('the', 'DT'), ('concert', 'NN'), ('with', 'IN'), ('Victor', 'NNP')]
+
+Preposition is: with
+Noun before: concert
+Noun after: Victor
+
+
+[('You', 'PRP'), ('must', 'MD'), ('wake', 'VB'), ('up', 'RP'), ('by', 'IN'), ('six', 'CD'), ("o'clock", 'JJ'), ('tomorrow', 'NN'), ('morning', 'NN')]
+
+Preposition is: by
+Noun after: tomorrow
+
+
+[('The', 'DT'), ('library', 'NN'), ('is', 'VBZ'), ('by', 'IN'), ('the', 'DT'), ('train', 'NN'), ('station', 'NN')]
+
+Preposition is: by
+Noun before: library
+Noun after: train
+
+
+[('The', 'DT'), ('house', 'NN'), ('was', 'VBD'), ('built', 'VBN'), ('by', 'IN'), ('the', 'DT'), ('three', 'CD'), ('siblings', 'NNS')]
+
+Preposition is: by
+Noun before: house
+Noun after: siblings
+
+
+[('Aunt', 'NNP'), ('Patricia', 'NNP'), ('returned', 'VBD'), ('home', 'NN'), ('by', 'IN'), ('ferry', 'NN')]
+
+Preposition is: by
+Noun before: home
+Noun after: ferry
+
+
+[('He', 'PRP'), ('jumped', 'VBD'), ('down', 'RP'), ('and', 'CC'), ('hurt', 'VBN'), ('his', 'PRP$'), ('knee', 'NN')]
+
+Preposition not found
+
+[('The', 'DT'), ('library', 'NN'), ('is', 'VBZ'), ('by', 'IN'), ('the', 'DT'), ('train', 'NN'), ('station', 'NN')]
+
+Preposition is: by
+Noun before: library
+Noun after: train
+
+
+[('Let', 'NNP'), ("'s", 'POS'), ('put', 'NN'), ('the', 'DT'), ('dresser', 'NN'), ('in', 'IN'), ('front', 'NN'), ('of', 'IN'), ('the', 'DT'), ('window', 'NN')]
+
+Preposition is: in
+Noun before: dresser
+Noun after: front
+
+Preposition is: of
+Noun before: front
+Noun after: window
+
+
+[('On', 'IN'), ('Tuesday', 'NNP'), (',', ','), ('Dad', 'NNP'), ('went', 'VBD'), ('to', 'TO'), ('the', 'DT'), ('grocery', 'NN'), ('store', 'NN')]
+
+Preposition is: On
+Noun after: Tuesday
+
+
+[('Valentine', 'NNP'), ("'s", 'POS'), ('Day', 'NNP'), ('is', 'VBZ'), ('on', 'IN'), ('February', 'NNP'), ('14', 'CD')]
+
+Preposition is: on
+Noun before: Day
+Noun after: February
+
+
+[('Leave', 'NNP'), ('the', 'DT'), ('towel', 'NN'), ('on', 'IN'), ('the', 'DT'), ('counter', 'NN')]
+
+Preposition is: on
+Noun before: towel
+Noun after: counter
+
+
+[('May', 'NNP'), ('I', 'PRP'), ('finish', 'VBP'), ('my', 'PRP$'), ('homework', 'NN'), ('on', 'IN'), ('your', 'PRP$'), ('computer', 'NN')]
+
+Preposition is: on
+Noun before: homework
+Noun after: computer
+
+
+[('She', 'PRP'), ('told', 'VBD'), ('stories', 'NNS'), ('about', 'IN'), ('the', 'DT'), ('time', 'NN'), ('she', 'PRP'), ('walked', 'VBD'), ('to', 'TO'), ('Spain', 'NNP'), ('from', 'IN'), ('France', 'NNP')]
+
+Preposition is: about
+Noun before: stories
+Noun after: time
+
+Preposition is: from
+Noun before: Spain
+Noun after: France
+
+
+[('He', 'PRP'), ('knows', 'VBZ'), ('from', 'IN'), ('experience', 'NN'), ('how', 'WRB'), ('to', 'TO'), ('deal', 'VB'), ('with', 'IN'), ('them', 'PRP')]
+
+Preposition is: from
+Noun after: experience
+
+Preposition is: with
+Noun before: experience
+
+
+[('I', 'PRP'), ('met', 'VBD'), ('the', 'DT'), ('most', 'JJS'), ('delightful', 'JJ'), ('couple', 'NN'), ('from', 'IN'), ('Italy', 'NNP')]
+
+Preposition is: from
+Noun before: couple
+Noun after: Italy
+
+
+[('I', 'PRP'), ("'m", 'VBP'), ('from', 'IN'), ('New', 'NNP'), ('York', 'NNP'), ('originally', 'RB'), (',', ','), ('but', 'CC'), ('I', 'PRP'), ("'ve", 'VBP'), ('lived', 'VBN'), ('in', 'IN'), ('Dallas', 'NNP'), ('for', 'IN'), ('many', 'JJ'), ('years', 'NNS')]
+
+Preposition is: from
+Noun after: New
+
+Preposition is: in
+Noun before: York
+Noun after: Dallas
+
+Preposition is: for
+Noun before: Dallas
+Noun after: years
+
+
+[('The', 'DT'), ('new', 'JJ'), ('computer', 'NN'), ('from', 'IN'), ('the', 'DT'), ('tech', 'NN'), ('giant', 'NN'), ('should', 'MD'), ('be', 'VB'), ('revolutionary', 'JJ')]
+
+Preposition is: from
+Noun before: computer
+Noun after: tech
+
+
+[('He', 'PRP'), ('lived', 'VBD'), ('abroad', 'RB'), ('for', 'IN'), ('many', 'JJ'), ('year', 'NN')]
+
+Preposition is: for
+Noun after: year
+
+
+[('Everything', 'NN'), ('I', 'PRP'), ('did', 'VBD'), ('was', 'VBD'), ('for', 'IN'), ('yo', 'NN')]
+
+Preposition is: for
+Noun before: Everything
+Noun after: yo
+
+
+[('Get', 'NN'), ('away', 'RB'), ('from', 'IN'), ('the', 'DT'), ('fire', 'NN'), ('before', 'IN'), ('you', 'PRP'), ('get', 'VBP'), ('burned', 'VBN')]
+
+Preposition is: from
+Noun before: Get
+Noun after: fire
+
+Preposition is: before
+Noun before: fire
+
+
+[('Parents', 'NNS'), ('are', 'VBP'), ('always', 'RB'), ('yelling', 'VBG'), ('at', 'IN'), ('their', 'PRP$'), ('kids', 'NNS'), ('to', 'TO'), ('get', 'VB'), ('off', 'RP'), ('the', 'DT'), ('furniture', 'NN')]
+
+Preposition is: at
+Noun before: Parents
+Noun after: kids
+
+
+[('She', 'PRP'), ("'s", 'VBZ'), ('been', 'VBN'), ('waiting', 'VBG'), ('to', 'TO'), ('hear', 'VB'), ('back', 'RB'), ('from', 'IN'), ('the', 'DT'), ('office', 'NN'), ('since', 'IN'), ('yesterday', 'NN')]
+
+Preposition is: from
+Noun after: office
+
+Preposition is: since
+Noun before: office
+Noun after: yesterday
+
+
+[('Because', 'IN'), ('of', 'IN'), ('the', 'DT'), ('delay', 'NN'), (',', ','), ('I', 'PRP'), ('was', 'VBD'), ('late', 'JJ'), ('to', 'TO'), ('the', 'DT'), ('parade', 'NN')]
+
+Preposition is: Because
+Noun after: delay
+
+Preposition is: of
+Noun after: delay
+
+
+[('Daniel', 'NNP'), ('ca', 'MD'), ("n't", 'RB'), ('sneak', 'VB'), ('out', 'RP'), ('of', 'IN'), ('the', 'DT'), ('house', 'NN'), ('until', 'IN'), ('his', 'PRP$'), ('parents', 'NNS'), ('go', 'VBP'), ('to', 'TO'), ('bed', 'VBN')]
+
+Preposition is: of
+Noun before: Daniel
+Noun after: house
+
+Preposition is: until
+Noun before: house
+Noun after: parents
+
+
+[('Many', 'JJ'), ('people', 'NNS'), ('consider', 'VBP'), ('it', 'PRP'), ('rude', 'VBP'), ('to', 'TO'), ('sit', 'VB'), ('beside', 'JJ'), ('a', 'DT'), ('stranger', 'NN'), ('in', 'IN'), ('a', 'DT'), ('movie', 'NN'), ('theater', 'NN')]
+
+Preposition is: in
+Noun before: stranger
+Noun after: movie
+
+
+[('My', 'PRP$'), ('watch', 'NN'), ('says', 'VBZ'), ('it', 'PRP'), ("'s", 'VBZ'), ('10', 'CD'), ('minutes', 'NNS'), ('to', 'TO'), ('three', 'CD'), ('right', 'RB'), ('now', 'RB')]
+
+Preposition not found
+
+[('My', 'PRP$'), ('brother', 'NN'), ('went', 'VBD'), ('to', 'TO'), ('Europe', 'NNP'), ('with', 'IN'), ('his', 'PRP$'), ('friend', 'NN')]
+
+Preposition is: with
+Noun before: Europe
+Noun after: friend
+
+
+[('A', 'DT'), ('well-written', 'JJ'), ('essay', 'NN'), ('is', 'VBZ'), ('impressive', 'JJ'), ('to', 'TO'), ('teacher', 'NN')]
+
+Preposition not found
+
+[('I', 'PRP'), ('stood', 'VBD'), ('behind', 'IN'), ('my', 'PRP$'), ('sister', 'NN'), ('while', 'IN'), ('we', 'PRP'), ('waited', 'VBD'), ('in', 'IN'), ('line', 'NN')]
+
+Preposition is: behind
+Noun after: sister
+
+Preposition is: while
+Noun before: sister
+Noun after: line
+
+Preposition is: in
+Noun before: sister
+Noun after: line
+
+
+[('All', 'DT'), ('children', 'NNS'), ('fear', 'VBP'), ('the', 'DT'), ('monsters', 'NNS'), ('below', 'IN'), ('their', 'PRP$'), ('bed', 'VBN')]
+
+Preposition is: below
+Noun before: monsters
+
+
+[('The', 'DT'), ('arch', 'NN'), ('above', 'IN'), ('the', 'DT'), ('hallway', 'NN'), ('reminded', 'VBD'), ('Natalie', 'NNP'), ('of', 'IN'), ('a', 'DT'), ('castle', 'NN'), ('she', 'PRP'), ("'d", 'MD'), ('visited', 'VB')]
+
+Preposition is: above
+Noun before: arch
+Noun after: hallway
+
+Preposition is: of
+Noun before: Natalie
+Noun after: castle
+
+
+[('He', 'PRP'), ('shot', 'VBD'), ('his', 'PRP$'), ('arrow', 'NN'), ('above', 'IN'), ('the', 'DT'), ('target', 'NN')]
+
+Preposition is: above
+Noun before: arrow
+Noun after: target
+
+
+[('The', 'DT'), ('Statue', 'NNP'), ('of', 'IN'), ('Liberty', 'NNP'), ('is', 'VBZ'), ('located', 'VBN'), ('in', 'IN'), ('New', 'NNP'), ('York', 'NNP'), ('Harbor', 'NNP')]
+
+Preposition is: of
+Noun before: Statue
+Noun after: Liberty
+
+Preposition is: in
+Noun before: Liberty
+Noun after: New
+
+
+[('The', 'DT'), ('new', 'JJ'), ('computer', 'NN'), ('from', 'IN'), ('the', 'DT'), ('tech', 'NN'), ('giant', 'NN'), ('should', 'MD'), ('be', 'VB'), ('revolutionary', 'JJ')]
+
+Preposition is: from
+Noun before: computer
+Noun after: tech
+
+
+[('Many', 'JJ'), ('people', 'NNS'), ('consider', 'VBP'), ('it', 'PRP'), ('rude', 'VBP'), ('to', 'TO'), ('sit', 'VB'), ('beside', 'JJ'), ('a', 'DT'), ('stranger', 'NN'), ('in', 'IN'), ('a', 'DT'), ('movie', 'NN'), ('theater', 'NN')]
+
+Preposition is: in
+Noun before: stranger
+Noun after: movie
+
+
+[('Get', 'NN'), ('out', 'IN'), ('of', 'IN'), ('that', 'DT'), ('cave', 'NN'), ('before', 'IN'), ('the', 'DT'), ('bear', 'JJ'), ('comes', 'NNS'), ('back', 'RB')]
+
+Preposition is: out
+Noun before: Get
+Noun after: cave
+
+Preposition is: of
+Noun before: Get
+Noun after: cave
+
+Preposition is: before
+Noun before: cave
+Noun after: comes
+
+
+[('That', 'DT'), ('large', 'JJ'), ('worm', 'NN'), ('went', 'NN'), ('under', 'IN'), ('the', 'DT'), ('dirt', 'NN')]
+
+Preposition is: under
+Noun before: went
+Noun after: dirt
+
+
+[('Laughing', 'VBG'), (',', ','), ('she', 'PRP'), ('threw', 'VBD'), ('up', 'RP'), ('her', 'PRP$'), ('hands', 'NNS'), ('and', 'CC'), ('ran', 'VBD'), ('toward', 'IN'), ('the', 'DT'), ('park', 'NN')]
+
+Preposition is: toward
+Noun before: hands
+Noun after: park
+
+
+[('Be', 'VB'), ('careful', 'JJ'), ('climbing', 'NN'), ('onto', 'IN'), ('that', 'DT'), ('ledge', 'NN')]
+
+Preposition is: onto
+Noun before: climbing
+Noun after: ledge
+
+
+[('If', 'IN'), ('you', 'PRP'), ('jump', 'VBP'), ('into', 'IN'), ('the', 'DT'), ('water', 'NN'), ('like', 'IN'), ('this', 'DT'), (',', ','), ('you', 'PRP'), ('can', 'MD'), ('make', 'VB'), ('a', 'DT'), ('big', 'JJ'), ('splash', 'NN')]
+
+Preposition is: If
+Noun after: water
+
+Preposition is: into
+Noun after: water
+
+Preposition is: like
+Noun before: water
+Noun after: splash
+
+
