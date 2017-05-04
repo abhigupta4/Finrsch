@@ -11,19 +11,21 @@ req = ['MMM', 'ABT', 'ABBV', 'ACN', 'ATVI', 'AYI', 'ADBE', 'AAP', 'AES', 'AET', 
 def download():
 	t1 = time.time()
 	seccrawler = SecCrawler()
-	for i in range(502):
-		comple = open("../completed.txt","a")
+	for i in range(31,502):
+		
 		a = req[i]
 		if a in di:
 			b = di[a]
 			c = '20170502'
-			seccrawler.filing_10Q(a,b,c,'16')
-			seccrawler.filing_10K(a,b,c,'6')
+			try:
+				seccrawler.filing_10Q(a,b,c,'16')
+				seccrawler.filing_10K(a,b,c,'6')
+			except:
+				continue
+
+			comple = open("../completed.txt","a")
 			comple.write(str(i) + ' ' + a + '\n')
-
-		comple.close()
-
-	# comple.close()
+			comple.close()
 
 	t2 = time.time()
 	print ("Total Time taken: "),
