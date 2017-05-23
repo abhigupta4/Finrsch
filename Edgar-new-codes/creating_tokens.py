@@ -89,7 +89,7 @@ def inside_index(link1):
 				tokens = tokenizer.tokenize(raw)   
 				#This is the tokens variable
 				
-				# Call your function here
+				add_to_db(name,docu,quarter,html,raw,str(tokens),filing,financial)
 				break
 		
 tokenizer = RegexpTokenizer(r'\w+')
@@ -102,4 +102,4 @@ links = document.find_all('a')
 for link in links:
 	if 'company' in link.get("href") and '.idx' in link.get("href"):
 		inside_index(link.get("href"))
-		break
+		
