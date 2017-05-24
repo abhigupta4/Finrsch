@@ -92,7 +92,8 @@ def inside_index(link1, pref):
 				
 				tokens = tokenizer.tokenize(raw)   
 				#This is the tokens variable
-				# Call your function here
+				add_to_db(name,docu,quarter,html,raw,str(tokens),filing,financial)
+
 				break
 		
 tokenizer = RegexpTokenizer(r'\w+')
