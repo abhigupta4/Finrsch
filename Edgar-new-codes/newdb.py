@@ -1,6 +1,6 @@
 import pymysql as PyMySQL
 
-db = PyMySQL.connect("localhost","root","root","Fin", charset="utf8" )
+db = PyMySQL.connect("localhost","arafin_test","&gR^Fh-?)Tn(","arafin_edgar", charset="utf8" )
 cursor = db.cursor()
 
 def add_to_db(tablename,url,q,t1,t2,t3,date,exclink):
