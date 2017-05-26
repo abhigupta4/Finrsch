@@ -6,7 +6,7 @@ from urllib import request
 from nltk.probability import FreqDist
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
-
+from newdb import add_to_db
 
 def get_file(cur):
 	base = 'https://www.sec.gov'
