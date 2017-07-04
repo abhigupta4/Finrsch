@@ -71,8 +71,12 @@ def inside_index(link1, pref):
 		temp = line.split(" ")
 		for i in range(len(temp)):
 			if temp[i] == '10-Q' or temp[i] == '10-K' and temp[i-1] == '' and temp[i+1] == '':
-				quarter = '2' #Take quarter from here
-				
+				if temp[i] == '10-Q':
+					type1 = '10-Q'
+				else:
+					type1 = '10-K'
+				# This type1 variable gives the type of the file
+
 				new, name, filing = find_details(temp) 
 				#Take name and filing data from here
 				if name not in SP:
@@ -92,8 +96,9 @@ def inside_index(link1, pref):
 				
 				tokens = tokenizer.tokenize(raw)   
 				#This is the tokens variable
-				add_to_db(name,docu,quarter,html,raw,str(tokens),filing,financial)
 
+				add_to_db(name,docu,q,html,raw,tokens,filing,financial,type1,year)
+				#This is the new database function that should be called
 				break
 		
 tokenizer = RegexpTokenizer(r'\w+')
@@ -101,6 +106,7 @@ tokenizer = RegexpTokenizer(r'\w+')
 main_link = 'https://www.sec.gov/Archives/edgar/daily-index/'
 
 for year in range(2011,2018):
+	#This year variable gives the year
 	for q in range(1,5):
 		cur_link = main_link + str(year) + '/QTR' + str(q) + '/'
 		# print(cur_link)

@@ -79,7 +79,6 @@ def inside_index(link1):
 				
 				docu = get_file(new_li) 
 				#This will be url variable
-				
 				html = request.urlopen(docu).read().decode('utf8')  
 				# This is unstripped text
 				
