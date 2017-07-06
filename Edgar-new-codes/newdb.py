@@ -4,7 +4,6 @@ db = PyMySQL.connect("localhost","arafin_test","&gR^Fh-?)Tn(","arafin_edgar", ch
 cursor = db.cursor()
 
 def add_to_db(tablename,url,q,t1,t2,t3,date,exclink,tp,yr):
-
     cursor.execute("""CREATE TABLE IF NOT EXISTS `%s`(
     id int auto_increment not null primary key,
     Link VARCHAR(255) default null,
@@ -18,7 +17,7 @@ def add_to_db(tablename,url,q,t1,t2,t3,date,exclink,tp,yr):
     Year varchar(255)
     )""" % tablename)
     db.commit()
-
+    print("adding")
     cursor.execute("""insert into `%s` (Link,Quarter,U_Text,S_Text,T_Text,F_date,Financials,F_Type,Year) values ("%s","%s","%s","%s","%s","%s","%s","%s","%s")""" %
-                   (tablename,url,q,t1,t2,t3,date,exclink,tp,yr))
+                   (tablename,url,q,db.escape_string(t1),db.escape_string(t2),db.escape_string(t3),date,exclink,tp,yr))
     db.commit()
